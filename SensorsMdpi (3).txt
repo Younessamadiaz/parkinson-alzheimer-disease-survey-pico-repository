@@ -1,0 +1,806 @@
+
+
+Cancela, J.; Pastorino, M.; Tzallas, A.; Tsipouras, M.; Rigas, G.; Arredondo, M.; Fotiadis, D. Wearability Assessment of a Wearable System for Parkinson’s Disease Remote Monitoring Based on a Body Area Network of Sensors. Sensors 2014, 14(9), 17235-17255; https://doi.org/10.3390/s140917235.
+https://www.mdpi.com/1424-8220/14/9/17235
+
+
+
+Skalova, S.; Svadlakova, T.; Qureshi, W.; Dev, K.; Mokry, J. Induced Pluripotent Stem Cells and Their Use in Cardiac and Neural Regenerative Medicine. Int. J. Mol. Sci. 2015, 16(2), 4043-4067; https://doi.org/10.3390/ijms16024043.
+https://www.mdpi.com/1422-0067/16/2/4043
+
+
+
+Ciuti, G.; Ricotti, L.; Menciassi, A.; Dario, P. MEMS Sensor Technologies for Human Centred Applications in Healthcare, Physical Activities, Safety and Environmental Sensing: A Review on Research Activities in Italy. Sensors 2015, 15(3), 6441-6468; https://doi.org/10.3390/s150306441.
+https://www.mdpi.com/1424-8220/15/3/6441
+
+
+
+Oung, Q.; Muthusamy, H.; Lee, H.; Basah, S.; Yaacob, S.; Sarillee, M.; Lee, C. Technologies for Assessment of Motor Disorders in Parkinson’s Disease: A Review. Sensors 2015, 15(9), 21710-21745; https://doi.org/10.3390/s150921710.
+https://www.mdpi.com/1424-8220/15/9/21710
+
+
+
+Scholz, S.; Bras, J. Genetics Underlying Atypical Parkinsonism and Related Neurodegenerative Disorders. Int. J. Mol. Sci. 2015, 16(10), 24629-24655; https://doi.org/10.3390/ijms161024629.
+https://www.mdpi.com/1422-0067/16/10/24629
+
+
+
+Hofmann-Apitius, M.; Ball, G.; Gebel, S.; Bagewadi, S.; De Bono, B.; Schneider, R.; Page, M.; Kodamullil, A.; Younesi, E.; Ebeling, C.; Tegnér, J.; Canard, L. Bioinformatics Mining and Modeling Methods for the Identification of Disease Mechanisms in Neurodegenerative Disorders. Int. J. Mol. Sci. 2015, 16(12), 29179-29206; https://doi.org/10.3390/ijms161226148.
+https://www.mdpi.com/1422-0067/16/12/26148
+
+
+
+Ozkan, H. A Comparison of Classification Methods for Telediagnosis of Parkinson’s Disease. Entropy 2016, 18(4), 115; https://doi.org/10.3390/e18040115.
+https://www.mdpi.com/1099-4300/18/4/115
+
+
+
+Parrales Bravo, F.; Del Barrio García, A.; Gallego de la Sacristana, M.; López Manzanares, L.; Vivancos, J.; Ayala Rodrigo, J. Support System to Improve Reading Activity in Parkinson’s Disease and Essential Tremor Patients. Sensors 2017, 17(5), 1006; https://doi.org/10.3390/s17051006.
+https://www.mdpi.com/1424-8220/17/5/1006
+
+
+
+Kreowski, H. Transhumanism and Nanotechnology—Will Old Myths Come True?. Proceedings 2017, 1(3), 243; https://doi.org/10.3390/IS4SI-2017-03965.
+https://www.mdpi.com/2504-3900/1/3/243
+
+
+
+Jeon, H.; Lee, W.; Park, H.; Lee, H.; Kim, S.; Kim, H.; Jeon, B.; Park, K. Automatic Classification of Tremor Severity in Parkinson’s Disease Using a Wearable Device. Sensors 2017, 17(9), 2067; https://doi.org/10.3390/s17092067.
+https://www.mdpi.com/1424-8220/17/9/2067
+
+
+
+Kim, H.; Ham, S.; Jo, M.; Lee, G.; Lee, Y.; Shin, J.; Lee, Y. CRISPR-Cas9 Mediated Telomere Removal Leads to Mitochondrial Stress and Protein Aggregation. Int. J. Mol. Sci. 2017, 18(10), 2093; https://doi.org/10.3390/ijms18102093.
+https://www.mdpi.com/1422-0067/18/10/2093
+
+
+
+Memedi, M.; Tshering, G.; Fogelberg, M.; Jusufi, I.; Kolkowska, E.; Klein, G. An Interface for IoT: Feeding Back Health-Related Data to Parkinson’s Disease Patients. J. Sens. Actuator Netw. 2018, 7(1), 14; https://doi.org/10.3390/jsan7010014.
+https://www.mdpi.com/2224-2708/7/1/14
+
+
+
+Robinson-Agramonte, M.; Pedre, L.; Serrano-Barrera, O. Neuroimmunology Research. A Report from the Cuban Network of Neuroimmunology. Behav. Sci. 2018, 8(5), 47; https://doi.org/10.3390/bs8050047.
+https://www.mdpi.com/2076-328X/8/5/47
+
+
+
+Liu, J.; Yang, L.; Dong, Y.; Zhang, B.; Ma, X. Echinacoside, an Inestimable Natural Product in Treatment of Neurological and other Disorders. Molecules 2018, 23(5), 1213; https://doi.org/10.3390/molecules23051213.
+https://www.mdpi.com/1420-3049/23/5/1213
+
+
+
+Cox, N.; Louie, J.; Sederholm, B. Inappropriate Medication Use in Hospitalized Patients Diagnosed with Parkinson’s Disease. Pharmacy 2018, 6(3), 100; https://doi.org/10.3390/pharmacy6030100.
+https://www.mdpi.com/2226-4787/6/3/100
+
+
+
+Ashouri Vajari, D.; Vomero, M.; Erhardt, J.; Sadr, A.; Ordonez, J.; Coenen, V.; Stieglitz, T. Integrity Assessment of a Hybrid DBS Probe that Enables Neurotransmitter Detection Simultaneously to Electrical Stimulation and Recording. Micromachines 2018, 9(10), 510; https://doi.org/10.3390/mi9100510.
+https://www.mdpi.com/2072-666X/9/10/510
+
+
+
+Zhang, M.; Artan, N.; Gu, H.; Dong, Z.; Burina Ganatra, L.; Shermon, S.; Rabin, E. Gait Study of Parkinson’s Disease Subjects Using Haptic Cues with A Motorized Walker. Sensors 2018, 18(10), 3549; https://doi.org/10.3390/s18103549.
+https://www.mdpi.com/1424-8220/18/10/3549
+
+
+
+Mishima, T.; Fujioka, S.; Fukae, J.; Yuasa-Kawada, J.; Tsuboi, Y. Modeling Parkinson’s Disease and Atypical Parkinsonian Syndromes Using Induced Pluripotent Stem Cells. Int. J. Mol. Sci. 2018, 19(12), 3870; https://doi.org/10.3390/ijms19123870.
+https://www.mdpi.com/1422-0067/19/12/3870
+
+
+
+Xicoy, H.; Wieringa, B.; Martens, G. The Role of Lipids in Parkinson’s Disease. Cells 2019, 8(1), 27; https://doi.org/10.3390/cells8010027.
+https://www.mdpi.com/2073-4409/8/1/27
+
+
+
+Zella, M.; Metzdorf, J.; Ostendorf, F.; Maass, F.; Muhlack, S.; Gold, R.; Haghikia, A.; Tönges, L. Novel Immunotherapeutic Approaches to Target Alpha-Synuclein and Related Neuroinflammation in Parkinson’s Disease. Cells 2019, 8(2), 105; https://doi.org/10.3390/cells8020105.
+https://www.mdpi.com/2073-4409/8/2/105
+
+
+
+Sweeney, D.; Quinlan, L.; Browne, P.; Richardson, M.; Meskell, P.; ÓLaighin, G. A Technological Review of Wearable Cueing Devices Addressing Freezing of Gait in Parkinson’s Disease. Sensors 2019, 19(6), 1277; https://doi.org/10.3390/s19061277.
+https://www.mdpi.com/1424-8220/19/6/1277
+
+
+
+Cabrera DeBuc, D.; Gaca-Wysocka, M.; Grzybowski, A.; Kanclerz, P. Identification of Retinal Biomarkers in Alzheimer’s Disease Using Optical Coherence Tomography: Recent Insights, Challenges, and Opportunities. J. Clin. Med. 2019, 8(7), 996; https://doi.org/10.3390/jcm8070996.
+https://www.mdpi.com/2077-0383/8/7/996
+
+
+
+Chen, K.; Baluya, D.; Tosun, M.; Li, F.; Maletic-Savatic, M. Imaging Mass Spectrometry: A New Tool to Assess Molecular Underpinnings of Neurodegeneration. Metabolites 2019, 9(7), 135; https://doi.org/10.3390/metabo9070135.
+https://www.mdpi.com/2218-1989/9/7/135
+
+
+
+Fernández-Dueñas, V.; Gómez-Soler, M.; Valle-León, M.; Watanabe, M.; Ferrer, I.; Ciruela, F. Revealing Adenosine A2A-Dopamine D2 Receptor Heteromers in Parkinson’s Disease Post-Mortem Brain through a New AlphaScreen-Based Assay. Int. J. Mol. Sci. 2019, 20(14), 3600; https://doi.org/10.3390/ijms20143600.
+https://www.mdpi.com/1422-0067/20/14/3600
+
+
+
+Hasegawa, N.; Shah, V.; Carlson-Kuhta, P.; Nutt, J.; Horak, F.; Mancini, M. How to Select Balance Measures Sensitive to Parkinson’s Disease from Body-Worn Inertial Sensors—Separating the Trees from the Forest. Sensors 2019, 19(15), 3320; https://doi.org/10.3390/s19153320.
+https://www.mdpi.com/1424-8220/19/15/3320
+
+
+
+Kin, K.; Yasuhara, T.; Kameda, M.; Date, I. Animal Models for Parkinson’s Disease Research: Trends in the 2000s. Int. J. Mol. Sci. 2019, 20(21), 5402; https://doi.org/10.3390/ijms20215402.
+https://www.mdpi.com/1422-0067/20/21/5402
+
+
+
+Parodi, A.; Choi, J. A Pulse Generation Circuit for Studying Waveform Effects on Neurostimulation. Electronics 2019, 8(11), 1344; https://doi.org/10.3390/electronics8111344.
+https://www.mdpi.com/2079-9292/8/11/1344
+
+
+
+Botros, A.; Schütz, N.; Camenzind, M.; Urwyler, P.; Bolliger, D.; Vanbellingen, T.; Kistler, R.; Bohlhalter, S.; Müri, R.; Mosimann, U.; Nef, T. Long-Term Home-Monitoring Sensor Technology in Patients with Parkinson’s Disease—Acceptance and Adherence. Sensors 2019, 19(23), 5169; https://doi.org/10.3390/s19235169.
+https://www.mdpi.com/1424-8220/19/23/5169
+
+
+
+Ricci, M.; Di Lazzaro, G.; Pisani, A.; Scalise, S.; Alwardat, M.; Salimei, C.; Giannini, F.; Saggio, G. Wearable Electronics Assess the Effectiveness of Transcranial Direct Current Stimulation on Balance and Gait in Parkinson’s Disease Patients. Sensors 2019, 19(24), 5465; https://doi.org/10.3390/s19245465.
+https://www.mdpi.com/1424-8220/19/24/5465
+
+
+
+Muthukrishnan, N.; Abbas, J.; Shill, H.; Krishnamurthi, N. Cueing Paradigms to Improve Gait and Posture in Parkinson’s Disease: A Narrative Review. Sensors 2019, 19(24), 5468; https://doi.org/10.3390/s19245468.
+https://www.mdpi.com/1424-8220/19/24/5468
+
+
+
+Tamura, H.; Jozaki, M.; Tanabe, M.; Shirafuta, Y.; Mihara, Y.; Shinagawa, M.; Tamura, I.; Maekawa, R.; Sato, S.; Taketani, T.; Takasaki, A.; Reiter, R.; Sugino, N. Importance of Melatonin in Assisted Reproductive Technology and Ovarian Aging. Int. J. Mol. Sci. 2020, 21(3), 1135; https://doi.org/10.3390/ijms21031135.
+https://www.mdpi.com/1422-0067/21/3/1135
+
+
+
+Titze-de-Almeida, S.; Soto-Sánchez, C.; Fernandez, E.; Koprich, J.; Brotchie, J.; Titze-de-Almeida, R. The Promise and Challenges of Developing miRNA-Based Therapeutics for Parkinson’s Disease. Cells 2020, 9(4), 841; https://doi.org/10.3390/cells9040841.
+https://www.mdpi.com/2073-4409/9/4/841
+
+
+
+Sánchez-Herrera-Baeza, P.; Cano-de-la-Cuerda, R.; Oña-Simbaña, E.; Palacios-Ceña, D.; Pérez-Corrales, J.; Cuenca-Zaldivar, J.; Gueita-Rodriguez, J.; Balaguer-Bernaldo de Quirós, C.; Jardón-Huete, A.; Cuesta-Gomez, A. The Impact of a Novel Immersive Virtual Reality Technology Associated with Serious Games in Parkinson’s Disease Patients on Upper Limb Rehabilitation: A Mixed Methods Intervention Study. Sensors 2020, 20(8), 2168; https://doi.org/10.3390/s20082168.
+https://www.mdpi.com/1424-8220/20/8/2168
+
+
+
+Cano-de-la-Cuerda, R.; Vela-Desojo, L.; Moreno-Verdú, M.; Ferreira-Sánchez, M.; Macías-Macías, Y.; Miangolarra-Page, J. Trunk Range of Motion Is Related to Axial Rigidity, Functional Mobility and Quality of Life in Parkinson’s Disease: An Exploratory Study. Sensors 2020, 20(9), 2482; https://doi.org/10.3390/s20092482.
+https://www.mdpi.com/1424-8220/20/9/2482
+
+
+
+Coates, L.; Shi, J.; Rochester, L.; Del Din, S.; Pantall, A. Entropy of Real-World Gait in Parkinson’s Disease Determined from Wearable Sensors as a Digital Marker of Altered Ambulatory Behavior. Sensors 2020, 20(9), 2631; https://doi.org/10.3390/s20092631.
+https://www.mdpi.com/1424-8220/20/9/2631
+
+
+
+Pavan, E.; Ormazabal, M.; Peruzzo, P.; Vaena, E.; Rozenfeld, P.; Dardis, A. CRISPR/Cas9 Editing for Gaucher Disease Modelling. Int. J. Mol. Sci. 2020, 21(9), 3268; https://doi.org/10.3390/ijms21093268.
+https://www.mdpi.com/1422-0067/21/9/3268
+
+
+
+Channa, A.; Popescu, N.; Ciobanu, V. Wearable Solutions for Patients with Parkinson’s Disease and Neurocognitive Disorder: A Systematic Review. Sensors 2020, 20(9), 2713; https://doi.org/10.3390/s20092713.
+https://www.mdpi.com/1424-8220/20/9/2713
+
+
+
+Oña, E.; Jardón, A.; Cuesta-Gómez, A.; Sánchez-Herrera-Baeza, P.; Cano-de-la-Cuerda, R.; Balaguer, C. Validity of a Fully-Immersive VR-Based Version of the Box and Blocks Test for Upper Limb Function Assessment in Parkinson’s Disease. Sensors 2020, 20(10), 2773; https://doi.org/10.3390/s20102773.
+https://www.mdpi.com/1424-8220/20/10/2773
+
+
+
+Stavropoulos, T.; Papastergiou, A.; Mpaltadoros, L.; Nikolopoulos, S.; Kompatsiaris, I. IoT Wearable Sensors and Devices in Elderly Care: A Literature Review. Sensors 2020, 20(10), 2826; https://doi.org/10.3390/s20102826.
+https://www.mdpi.com/1424-8220/20/10/2826
+
+
+
+Zampogna, A.; Mileti, I.; Palermo, E.; Celletti, C.; Paoloni, M.; Manoni, A.; Mazzetta, I.; Dalla Costa, G.; Pérez-López, C.; Camerota, F.; Leocani, L.; Cabestany, J.; Irrera, F.; Suppa, A. Fifteen Years of Wireless Sensors for Balance Assessment in Neurological Disorders. Sensors 2020, 20(11), 3247; https://doi.org/10.3390/s20113247.
+https://www.mdpi.com/1424-8220/20/11/3247
+
+
+
+Aich, S.; Youn, J.; Chakraborty, S.; Pradhan, P.; Park, J.; Park, S.; Park, J. A Supervised Machine Learning Approach to Detect the On/Off State in Parkinson’s Disease Using Wearable Based Gait Signals. Diagnostics 2020, 10(6), 421; https://doi.org/10.3390/diagnostics10060421.
+https://www.mdpi.com/2075-4418/10/6/421
+
+
+
+di Biase, L.; Di Santo, A.; Caminiti, M.; De Liso, A.; Shah, S.; Ricci, L.; Di Lazzaro, V. Gait Analysis in Parkinson’s Disease: An Overview of the Most Accurate Markers for Diagnosis and Symptoms Monitoring. Sensors 2020, 20(12), 3529; https://doi.org/10.3390/s20123529.
+https://www.mdpi.com/1424-8220/20/12/3529
+
+
+
+Song, C.; Que, S.; Heimer, L.; Que, L. On-Chip Detection of the Biomarkers for Neurodegenerative Diseases: Technologies and Prospects. Micromachines 2020, 11(7), 629; https://doi.org/10.3390/mi11070629.
+https://www.mdpi.com/2072-666X/11/7/629
+
+
+
+Karaman Mayack, B.; Sippl, W.; Ntie-Kang, F. Natural Products as Modulators of Sirtuins. Molecules 2020, 25(14), 3287; https://doi.org/10.3390/molecules25143287.
+https://www.mdpi.com/1420-3049/25/14/3287
+
+
+
+Lee, J.; Sim, H.; Yoo, H.; Lee, M.; Baek, A.; Jeon, Y.; Seo, K.; Son, M.; Yoon, J.; Kim, J. Neuroprotective Effects of Cryptotanshinone in a Direct Reprogramming Model of Parkinson’s Disease. Molecules 2020, 25(16), 3602; https://doi.org/10.3390/molecules25163602.
+https://www.mdpi.com/1420-3049/25/16/3602
+
+
+
+Ekundayo, T.; Okoh, A. Systematic Assessment of Mycobacterium avium Subspecies Paratuberculosis Infections from 1911–2019: A Growth Analysis of Association with Human Autoimmune Diseases. Microorganisms 2020, 8(8), 1212; https://doi.org/10.3390/microorganisms8081212.
+https://www.mdpi.com/2076-2607/8/8/1212
+
+
+
+Bonilauri, A.; Sangiuliano Intra, F.; Pugnetti, L.; Baselli, G.; Baglio, F. A Systematic Review of Cerebral Functional Near-Infrared Spectroscopy in Chronic Neurological Diseases—Actual Applications and Future Perspectives. Diagnostics 2020, 10(8), 581; https://doi.org/10.3390/diagnostics10080581.
+https://www.mdpi.com/2075-4418/10/8/581
+
+
+
+Tejchman, A.; Znój, A.; Chlebanowska, P.; Frączek-Szczypta, A.; Majka, M. Carbon Fibers as a New Type of Scaffold for Midbrain Organoid Development. Int. J. Mol. Sci. 2020, 21(17), 5959; https://doi.org/10.3390/ijms21175959.
+https://www.mdpi.com/1422-0067/21/17/5959
+
+
+
+Sim, T.; Tarini, D.; Dheen, S.; Bay, B.; Srinivasan, D. Nanoparticle-Based Technology Approaches to the Management of Neurological Disorders. Int. J. Mol. Sci. 2020, 21(17), 6070; https://doi.org/10.3390/ijms21176070.
+https://www.mdpi.com/1422-0067/21/17/6070
+
+
+
+Loewenbrück, K.; Stein, D.; Amelung, V.; Bitterlich, R.; Brumme, M.; Falkenburger, B.; Fehre, A.; Feige, T.; Frank, A.; Gißke, C.; Helmert, C.; Kerkemeyer, L.; Knapp, A.; Lang, C.; Leuner, A.; Lummer, C.; Minkman, M.; Müller, G.; van Munster, M.; Schlieter, H.; Themann, P.; Zonneveld, N.; Wolz, M. Parkinson Network Eastern Saxony (PANOS): Reaching Consensus for a Regional Intersectoral Integrated Care Concept for Patients with Parkinson’s Disease in the Region of Eastern Saxony, Germany. J. Clin. Med. 2020, 9(9), 2906; https://doi.org/10.3390/jcm9092906.
+https://www.mdpi.com/2077-0383/9/9/2906
+
+
+
+Barbuti, P.; Antony, P.; Santos, B.; Massart, F.; Cruciani, G.; Dording, C.; Arias, J.; Schwamborn, J.; Krüger, R. Using High-Content Screening to Generate Single-Cell Gene-Corrected Patient-Derived iPS Clones Reveals Excess Alpha-Synuclein with Familial Parkinson’s Disease Point Mutation A30P. Cells 2020, 9(9), 2065; https://doi.org/10.3390/cells9092065.
+https://www.mdpi.com/2073-4409/9/9/2065
+
+
+
+Zampogna, A.; Manoni, A.; Asci, F.; Liguori, C.; Irrera, F.; Suppa, A. Shedding Light on Nocturnal Movements in Parkinson’s Disease: Evidence from Wearable Technologies. Sensors 2020, 20(18), 5171; https://doi.org/10.3390/s20185171.
+https://www.mdpi.com/1424-8220/20/18/5171
+
+
+
+Otte, K.; Ellermeyer, T.; Vater, T.; Voigt, M.; Kroneberg, D.; Rasche, L.; Krüger, T.; Röhling, H.; Kayser, B.; Mansow-Model, S.; Klostermann, F.; Brandt, A.; Paul, F.; Lipp, A.; Schmitz-Hübsch, T. Instrumental Assessment of Stepping in Place Captures Clinically Relevant Motor Symptoms of Parkinson’s Disease. Sensors 2020, 20(19), 5465; https://doi.org/10.3390/s20195465.
+https://www.mdpi.com/1424-8220/20/19/5465
+
+
+
+Kouroupi, G.; Antoniou, N.; Prodromidou, K.; Taoufik, E.; Matsas, R. Patient-Derived Induced Pluripotent Stem Cell-Based Models in Parkinson’s Disease for Drug Identification. Int. J. Mol. Sci. 2020, 21(19), 7113; https://doi.org/10.3390/ijms21197113.
+https://www.mdpi.com/1422-0067/21/19/7113
+
+
+
+Abbaspour, S.; Fotouhi, F.; Sedaghatbaf, A.; Fotouhi, H.; Vahabi, M.; Linden, M. A Comparative Analysis of Hybrid Deep Learning Models for Human Activity Recognition. Sensors 2020, 20(19), 5707; https://doi.org/10.3390/s20195707.
+https://www.mdpi.com/1424-8220/20/19/5707
+
+
+
+Gentile, F.; Doneddu, P.; Riva, N.; Nobile-Orazio, E.; Quattrini, A. Diet, Microbiota and Brain Health: Unraveling the Network Intersecting Metabolism and Neurodegeneration. Int. J. Mol. Sci. 2020, 21(20), 7471; https://doi.org/10.3390/ijms21207471.
+https://www.mdpi.com/1422-0067/21/20/7471
+
+
+
+Shah, V.; McNames, J.; Harker, G.; Mancini, M.; Carlson-Kuhta, P.; Nutt, J.; El-Gohary, M.; Curtze, C.; Horak, F. Effect of Bout Length on Gait Measures in People with and without Parkinson’s Disease during Daily Life. Sensors 2020, 20(20), 5769; https://doi.org/10.3390/s20205769.
+https://www.mdpi.com/1424-8220/20/20/5769
+
+
+
+Locatelli, P.; Alimonti, D.; Traversi, G.; Re, V. Classification of Essential Tremor and Parkinson’s Tremor Based on a Low-Power Wearable Device. Electronics 2020, 9(10), 1695; https://doi.org/10.3390/electronics9101695.
+https://www.mdpi.com/2079-9292/9/10/1695
+
+
+
+Viceconti, M.; Hernandez Penna, S.; Dartee, W.; Mazzà, C.; Caulfield, B.; Becker, C.; Maetzler, W.; Garcia-Aymerich, J.; Davico, G.; Rochester, L. Toward a Regulatory Qualification of Real-World Mobility Performance Biomarkers in Parkinson’s Patients Using Digital Mobility Outcomes. Sensors 2020, 20(20), 5920; https://doi.org/10.3390/s20205920.
+https://www.mdpi.com/1424-8220/20/20/5920
+
+
+
+Yang, D.; Xu, W. Clustering on Human Microbiome Sequencing Data: A Distance-Based Unsupervised Learning Model. Microorganisms 2020, 8(10), 1612; https://doi.org/10.3390/microorganisms8101612.
+https://www.mdpi.com/2076-2607/8/10/1612
+
+
+
+Bacanoiu, M.; Mititelu, R.; Danoiu, M.; Olaru, G.; Buga, A. Functional Recovery in Parkinson’s Disease: Current State and Future Perspective. J. Clin. Med. 2020, 9(11), 3413; https://doi.org/10.3390/jcm9113413.
+https://www.mdpi.com/2077-0383/9/11/3413
+
+
+
+Watts, J.; Khojandi, A.; Shylo, O.; Ramdhani, R. Machine Learning’s Application in Deep Brain Stimulation for Parkinson’s Disease: A Review. Brain Sci. 2020, 10(11), 809; https://doi.org/10.3390/brainsci10110809.
+https://www.mdpi.com/2076-3425/10/11/809
+
+
+
+Li, B.; Yao, Z.; Wang, J.; Wang, S.; Yang, X.; Sun, Y. Improved Deep Learning Technique to Detect Freezing of Gait in Parkinson’s Disease Based on Wearable Sensors. Electronics 2020, 9(11), 1919; https://doi.org/10.3390/electronics9111919.
+https://www.mdpi.com/2079-9292/9/11/1919
+
+
+
+Adamowicz, L.; Karahanoglu, F.; Cicalo, C.; Zhang, H.; Demanuele, C.; Santamaria, M.; Cai, X.; Patel, S. Assessment of Sit-to-Stand Transfers during Daily Life Using an Accelerometer on the Lower Back. Sensors 2020, 20(22), 6618; https://doi.org/10.3390/s20226618.
+https://www.mdpi.com/1424-8220/20/22/6618
+
+
+
+Corrà, M.; Warmerdam, E.; Vila-Chã, N.; Maetzler, W.; Maia, L. Wearable Health Technology to Quantify the Functional Impact of Peripheral Neuropathy on Mobility in Parkinson’s Disease: A Systematic Review. Sensors 2020, 20(22), 6627; https://doi.org/10.3390/s20226627.
+https://www.mdpi.com/1424-8220/20/22/6627
+
+
+
+Karunaratne, T.; Okereke, C.; Seamon, M.; Purohit, S.; Wakade, C.; Sharma, A. Niacin and Butyrate: Nutraceuticals Targeting Dysbiosis and Intestinal Permeability in Parkinson’s Disease. Nutrients 2021, 13(1), 28; https://doi.org/10.3390/nu13010028.
+https://www.mdpi.com/2072-6643/13/1/28
+
+
+
+Borzì, L.; Mazzetta, I.; Zampogna, A.; Suppa, A.; Olmo, G.; Irrera, F. Prediction of Freezing of Gait in Parkinson’s Disease Using Wearables and Machine Learning. Sensors 2021, 21(2), 614; https://doi.org/10.3390/s21020614.
+https://www.mdpi.com/1424-8220/21/2/614
+
+
+
+Channa, A.; Ifrim, R.; Popescu, D.; Popescu, N. A-WEAR Bracelet for Detection of Hand Tremor and Bradykinesia in Parkinson’s Patients. Sensors 2021, 21(3), 981; https://doi.org/10.3390/s21030981.
+https://www.mdpi.com/1424-8220/21/3/981
+
+
+
+De Marchi, F.; Contaldi, E.; Magistrelli, L.; Cantello, R.; Comi, C.; Mazzini, L. Telehealth in Neurodegenerative Diseases: Opportunities and Challenges for Patients and Physicians. Brain Sci. 2021, 11(2), 237; https://doi.org/10.3390/brainsci11020237.
+https://www.mdpi.com/2076-3425/11/2/237
+
+
+
+Fregly, B. A Conceptual Blueprint for Making Neuromusculoskeletal Models Clinically Useful. Appl. Sci. 2021, 11(5), 2037; https://doi.org/10.3390/app11052037.
+https://www.mdpi.com/2076-3417/11/5/2037
+
+
+
+Zhu, X.; Lee, B.; Tuite, P.; Coles, L.; Sathe, A.; Chen, C.; Cloyd, J.; Low, W.; Steer, C.; Chen, W. Quantitative Assessment of Occipital Metabolic and Energetic Changes in Parkinson’s Patients, Using In Vivo 31P MRS-Based Metabolic Imaging at 7T. Metabolites 2021, 11(3), 145; https://doi.org/10.3390/metabo11030145.
+https://www.mdpi.com/2218-1989/11/3/145
+
+
+
+Costamagna, G.; Comi, G.; Corti, S. Advancing Drug Discovery for Neurological Disorders Using iPSC-Derived Neural Organoids. Int. J. Mol. Sci. 2021, 22(5), 2659; https://doi.org/10.3390/ijms22052659.
+https://www.mdpi.com/1422-0067/22/5/2659
+
+
+
+Williamson, J.; Telfer, B.; Mullany, R.; Friedl, K. Detecting Parkinson’s Disease from Wrist-Worn Accelerometry in the U.K. Biobank. Sensors 2021, 21(6), 2047; https://doi.org/10.3390/s21062047.
+https://www.mdpi.com/1424-8220/21/6/2047
+
+
+
+Avazzadeh, S.; Baena, J.; Keighron, C.; Feller-Sanchez, Y.; Quinlan, L. Modelling Parkinson’s Disease: iPSCs towards Better Understanding of Human Pathology. Brain Sci. 2021, 11(3), 373; https://doi.org/10.3390/brainsci11030373.
+https://www.mdpi.com/2076-3425/11/3/373
+
+
+
+Welzel, J.; Wendtland, D.; Warmerdam, E.; Romijnders, R.; Elshehabi, M.; Geritz, J.; Berg, D.; Hansen, C.; Maetzler, W. Step Length Is a Promising Progression Marker in Parkinson’s Disease. Sensors 2021, 21(7), 2292; https://doi.org/10.3390/s21072292.
+https://www.mdpi.com/1424-8220/21/7/2292
+
+
+
+Lavorgna, L.; Brigo, F.; Esposito, S.; Abbadessa, G.; Sparaco, M.; Lanzillo, R.; Moccia, M.; Inglese, M.; Bonfanti, L.; Trojsi, F.; Spina, E.; Russo, A.; De Micco, P.; Clerico, M.; Tedeschi, G.; Bonavita, S. Public Engagement and Neurology: An Update. Brain Sci. 2021, 11(4), 429; https://doi.org/10.3390/brainsci11040429.
+https://www.mdpi.com/2076-3425/11/4/429
+
+
+
+Ma, S.; Lim, S. Single-Cell RNA Sequencing in Parkinson’s Disease. Biomedicines 2021, 9(4), 368; https://doi.org/10.3390/biomedicines9040368.
+https://www.mdpi.com/2227-9059/9/4/368
+
+
+
+Albert, K.; Niskanen, J.; Kälvälä, S.; Lehtonen, Š. Utilising Induced Pluripotent Stem Cells in Neurodegenerative Disease Research: Focus on Glia. Int. J. Mol. Sci. 2021, 22(9), 4334; https://doi.org/10.3390/ijms22094334.
+https://www.mdpi.com/1422-0067/22/9/4334
+
+
+
+Sobańska, Z.; Roszak, J.; Kowalczyk, K.; Stępnik, M. Applications and Biological Activity of Nanoparticles of Manganese and Manganese Oxides in In Vitro and In Vivo Models. Nanomaterials 2021, 11(5), 1084; https://doi.org/10.3390/nano11051084.
+https://www.mdpi.com/2079-4991/11/5/1084
+
+
+
+Lambert, L.; Grotegut, S.; Celeridad, M.; Gosalia, P.; Backer, L.; Bobkov, A.; Salaniwal, S.; Chung, T.; Zeng, F.; Pass, I.; Lombroso, P.; Cosford, N.; Tautz, L. Development of a Robust High-Throughput Screening Platform for Inhibitors of the Striatal-Enriched Tyrosine Phosphatase (STEP). Int. J. Mol. Sci. 2021, 22(9), 4417; https://doi.org/10.3390/ijms22094417.
+https://www.mdpi.com/1422-0067/22/9/4417
+
+
+
+Bonaventura, G.; Iemmolo, R.; Attaguile, G.; La Cognata, V.; Pistone, B.; Raudino, G.; D’Agata, V.; Cantarella, G.; Barcellona, M.; Cavallaro, S. iPSCs: A Preclinical Drug Research Tool for Neurological Disorders. Int. J. Mol. Sci. 2021, 22(9), 4596; https://doi.org/10.3390/ijms22094596.
+https://www.mdpi.com/1422-0067/22/9/4596
+
+
+
+Basavarajappa, B.; Subbanna, S. Histone Methylation Regulation in Neurodegenerative Disorders. Int. J. Mol. Sci. 2021, 22(9), 4654; https://doi.org/10.3390/ijms22094654.
+https://www.mdpi.com/1422-0067/22/9/4654
+
+
+
+Badanjak, K.; Fixemer, S.; Smajić, S.; Skupin, A.; Grünewald, A. The Contribution of Microglia to Neuroinflammation in Parkinson’s Disease. Int. J. Mol. Sci. 2021, 22(9), 4676; https://doi.org/10.3390/ijms22094676.
+https://www.mdpi.com/1422-0067/22/9/4676
+
+
+
+Varghese, J.; Alen, C.; Fujarski, M.; Schlake, G.; Sucker, J.; Warnecke, T.; Thomas, C. Sensor Validation and Diagnostic Potential of Smartwatches in Movement Disorders. Sensors 2021, 21(9), 3139; https://doi.org/10.3390/s21093139.
+https://www.mdpi.com/1424-8220/21/9/3139
+
+
+
+La Cognata, V.; Morello, G.; Cavallaro, S. Omics Data and Their Integrative Analysis to Support Stratified Medicine in Neurodegenerative Diseases. Int. J. Mol. Sci. 2021, 22(9), 4820; https://doi.org/10.3390/ijms22094820.
+https://www.mdpi.com/1422-0067/22/9/4820
+
+
+
+Watts, J.; Khojandi, A.; Vasudevan, R.; Nahab, F.; Ramdhani, R. Improving Medication Regimen Recommendation for Parkinson’s Disease Using Sensor Technology. Sensors 2021, 21(10), 3553; https://doi.org/10.3390/s21103553.
+https://www.mdpi.com/1424-8220/21/10/3553
+
+
+
+Thomas Broome, S.; Fisher, T.; Faiz, A.; Keay, K.; Musumeci, G.; Al-Badri, G.; Castorina, A. Assessing the Anti-Inflammatory Activity of the Anxiolytic Drug Buspirone Using CRISPR-Cas9 Gene Editing in LPS-Stimulated BV-2 Microglial Cells. Cells 2021, 10(6), 1312; https://doi.org/10.3390/cells10061312.
+https://www.mdpi.com/2073-4409/10/6/1312
+
+
+
+Barrachina-Fernández, M.; Maitín, A.; Sánchez-Ávila, C.; Romero, J. Wearable Technology to Detect Motor Fluctuations in Parkinson’s Disease Patients: Current State and Challenges. Sensors 2021, 21(12), 4188; https://doi.org/10.3390/s21124188.
+https://www.mdpi.com/1424-8220/21/12/4188
+
+
+
+Milano, F.; Cerro, G.; Santoni, F.; De Angelis, A.; Miele, G.; Rodio, A.; Moschitta, A.; Ferrigno, L.; Carbone, P. Parkinson’s Disease Patient Monitoring: A Real-Time Tracking and Tremor Detection System Based on Magnetic Measurements. Sensors 2021, 21(12), 4196; https://doi.org/10.3390/s21124196.
+https://www.mdpi.com/1424-8220/21/12/4196
+
+
+
+Hyun, S.; Shin, D. Chemical-Mediated Targeted Protein Degradation in Neurodegenerative Diseases. Life 2021, 11(7), 607; https://doi.org/10.3390/life11070607.
+https://www.mdpi.com/2075-1729/11/7/607
+
+
+
+Kamm, C.; Bohlhalter, S.; Pflugshaupt, T.; Vanbellingen, T.; Nyffeler, T. Patient-Tailored Multimodal Neurorehabilitation: The Lucerne Model. Clin. Transl. Neurosci. 2019, 3(2), 16; https://doi.org/10.1177/2514183x19875075.
+https://www.mdpi.com/2514-183X/3/2/16
+
+
+
+Wu, Y.; Sonninen, T.; Peltonen, S.; Koistinaho, J.; Lehtonen, Š. Blood–Brain Barrier and Neurodegenerative Diseases—Modeling with iPSC-Derived Brain Cells. Int. J. Mol. Sci. 2021, 22(14), 7710; https://doi.org/10.3390/ijms22147710.
+https://www.mdpi.com/1422-0067/22/14/7710
+
+
+
+Bouça-Machado, R.; Pona-Ferreira, F.; Leitão, M.; Clemente, A.; Vila-Viçosa, D.; Kauppila, L.; Costa, R.; Matias, R.; Ferreira, J. Feasibility of a Mobile-Based System for Unsupervised Monitoring in Parkinson’s Disease. Sensors 2021, 21(15), 4972; https://doi.org/10.3390/s21154972.
+https://www.mdpi.com/1424-8220/21/15/4972
+
+
+
+Trudler, D.; Ghatak, S.; Lipton, S. Emerging hiPSC Models for Drug Discovery in Neurodegenerative Diseases. Int. J. Mol. Sci. 2021, 22(15), 8196; https://doi.org/10.3390/ijms22158196.
+https://www.mdpi.com/1422-0067/22/15/8196
+
+
+
+Santos García, D.; Blázquez-Estrada, M.; Calopa, M.; Escamilla-Sevilla, F.; Freire, E.; García Ruiz, P.; Grandas, F.; Kulisevsky, J.; López-Manzanares, L.; Martínez Castrillo, J.; Mir, P.; Pagonabarraga, J.; Pérez-Errazquin, F.; Salom, J.; Tijero, B.; Valldeoriola, F.; Yáñez, R.; Avilés, A.; Luquín, M. Present and Future of Parkinson’s Disease in Spain: PARKINSON-2030 Delphi Project. Brain Sci. 2021, 11(8), 1027; https://doi.org/10.3390/brainsci11081027.
+https://www.mdpi.com/2076-3425/11/8/1027
+
+
+
+Zhang, Z.; Li, G.; Xu, Y.; Tang, X. Application of Artificial Intelligence in the MRI Classification Task of Human Brain Neurological and Psychiatric Diseases: A Scoping Review. Diagnostics 2021, 11(8), 1402; https://doi.org/10.3390/diagnostics11081402.
+https://www.mdpi.com/2075-4418/11/8/1402
+
+
+
+Bonaventura, G.; Munafò, A.; Bellanca, C.; La Cognata, V.; Iemmolo, R.; Attaguile, G.; Di Mauro, R.; Di Benedetto, G.; Cantarella, G.; Barcellona, M.; Cavallaro, S.; Bernardini, R. Stem Cells: Innovative Therapeutic Options for Neurodegenerative Diseases?. Cells 2021, 10(8), 1992; https://doi.org/10.3390/cells10081992.
+https://www.mdpi.com/2073-4409/10/8/1992
+
+
+
+Ozawa, H.; Miyazawa, T.; Miyazawa, T. Effects of Dietary Food Components on Cognitive Functions in Older Adults. Nutrients 2021, 13(8), 2804; https://doi.org/10.3390/nu13082804.
+https://www.mdpi.com/2072-6643/13/8/2804
+
+
+
+Warmerdam, E.; Romijnders, R.; Geritz, J.; Elshehabi, M.; Maetzler, C.; Otto, J.; Reimer, M.; Stuerner, K.; Baron, R.; Paschen, S.; Beyer, T.; Dopcke, D.; Eiken, T.; Ortmann, H.; Peters, F.; Recke, F.; Riesen, M.; Rohwedder, G.; Schaade, A.; Schumacher, M.; Sondermann, A.; Maetzler, W.; Hansen, C. Proposed Mobility Assessments with Simultaneous Full-Body Inertial Measurement Units and Optical Motion Capture in Healthy Adults and Neurological Patients for Future Validation Studies: Study Protocol. Sensors 2021, 21(17), 5833; https://doi.org/10.3390/s21175833.
+https://www.mdpi.com/1424-8220/21/17/5833
+
+
+
+Salmina, A.; Kapkaeva, M.; Vetchinova, A.; Illarioshkin, S. Novel Approaches Used to Examine and Control Neurogenesis in Parkinson′s Disease. Int. J. Mol. Sci. 2021, 22(17), 9608; https://doi.org/10.3390/ijms22179608.
+https://www.mdpi.com/1422-0067/22/17/9608
+
+
+
+Levin, O.; Iakovleva, O.; Coloman, I.; Kuzmina, A. Could New Generations of Sensors Reshape the Management of Parkinson’s Disease?. Clin. Transl. Neurosci. 2021, 5(2), 18; https://doi.org/10.3390/ctn5020018.
+https://www.mdpi.com/2514-183X/5/2/18
+
+
+
+Abyadeh, M.; Gupta, V.; Paulo, J.; Gupta, V.; Chitranshi, N.; Godinez, A.; Saks, D.; Hasan, M.; Amirkhani, A.; McKay, M.; Salekdeh, G.; Haynes, P.; Graham, S.; Mirzaei, M. A Proteomic View of Cellular and Molecular Effects of Cannabis. Biomolecules 2021, 11(10), 1411; https://doi.org/10.3390/biom11101411.
+https://www.mdpi.com/2218-273X/11/10/1411
+
+
+
+Sjögren, M.; Huttunen, H.; Svenningsson, P.; Widner, H. Genetically Targeted Clinical Trials in Parkinson’s Disease: Learning from the Successes Made in Oncology. Genes 2021, 12(10), 1529; https://doi.org/10.3390/genes12101529.
+https://www.mdpi.com/2073-4425/12/10/1529
+
+
+
+Chandra, J.; Muthupalaniappan, S.; Shang, Z.; Deng, R.; Lin, R.; Tolkova, I.; Butts, D.; Sul, D.; Marzouk, S.; Bose, S.; Chen, A.; Bhaskar, A.; Mantena, S.; Press, D. Screening of Parkinson’s Disease Using Geometric Features Extracted from Spiral Drawings. Brain Sci. 2021, 11(10), 1297; https://doi.org/10.3390/brainsci11101297.
+https://www.mdpi.com/2076-3425/11/10/1297
+
+
+
+Wang, J.; Cao, H. Zebrafish and Medaka: Important Animal Models for Human Neurodegenerative Diseases. Int. J. Mol. Sci. 2021, 22(19), 10766; https://doi.org/10.3390/ijms221910766.
+https://www.mdpi.com/1422-0067/22/19/10766
+
+
+
+Jakob, V.; Küderle, A.; Kluge, F.; Klucken, J.; Eskofier, B.; Winkler, J.; Winterholler, M.; Gassner, H. Validation of a Sensor-Based Gait Analysis System with a Gold-Standard Motion Capture System in Patients with Parkinson’s Disease. Sensors 2021, 21(22), 7680; https://doi.org/10.3390/s21227680.
+https://www.mdpi.com/1424-8220/21/22/7680
+
+
+
+Salchow-Hömmen, C.; Schauer, T.; Müller, P.; Kühn, A.; Hofstoetter, U.; Wenger, N. Algorithms for Automated Calibration of Transcutaneous Spinal Cord Stimulation to Facilitate Clinical Applications. J. Clin. Med. 2021, 10(22), 5464; https://doi.org/10.3390/jcm10225464.
+https://www.mdpi.com/2077-0383/10/22/5464
+
+
+
+Chua, L.; Chung, Y.; Bellard, D.; Swan, L.; Gobreial, N.; Romano, A.; Glatt, R.; Bonaguidi, M.; Lee, D.; Jin, Y.; Liu, C.; Fisher, B. Gamified Dual-Task Training for Individuals with Parkinson Disease: An Exploratory Study on Feasibility, Safety, and Efficacy. Int. J. Environ. Res. Public Health 2021, 18(23), 12384; https://doi.org/10.3390/ijerph182312384.
+https://www.mdpi.com/1660-4601/18/23/12384
+
+
+
+Möller, J.; Zutter, D.; Riener, R. Technology-Based Neurorehabilitation in Parkinson’s Disease—A Narrative Review. Clin. Transl. Neurosci. 2021, 5(3), 23; https://doi.org/10.3390/ctn5030023.
+https://www.mdpi.com/2514-183X/5/3/23
+
+
+
+Ó Breasail, M.; Biswas, B.; Smith, M.; Mazhar, M.; Tenison, E.; Cullen, A.; Lithander, F.; Roudaut, A.; Henderson, E. Wearable GPS and Accelerometer Technologies for Monitoring Mobility and Physical Activity in Neurodegenerative Disorders: A Systematic Review. Sensors 2021, 21(24), 8261; https://doi.org/10.3390/s21248261.
+https://www.mdpi.com/1424-8220/21/24/8261
+
+
+
+Trapani, A.; Cometa, S.; De Giglio, E.; Corbo, F.; Cassano, R.; Di Gioia, M.; Trombino, S.; Hossain, M.; Di Gioia, S.; Trapani, G.; Conese, M. Novel Nanoparticles Based on N,O-Carboxymethyl Chitosan-Dopamine Amide Conjugate for Nose-to-Brain Delivery. Pharmaceutics 2022, 14(1), 147; https://doi.org/10.3390/pharmaceutics14010147.
+https://www.mdpi.com/1999-4923/14/1/147
+
+
+
+Zhu, L.; Boissy, P.; Duval, C.; Zou, G.; Jog, M.; Montero-Odasso, M.; Speechley, M. How Long Should GPS Recording Lengths Be to Capture the Community Mobility of An Older Clinical Population? A Parkinson’s Example. Sensors 2022, 22(2), 563; https://doi.org/10.3390/s22020563.
+https://www.mdpi.com/1424-8220/22/2/563
+
+
+
+Rahman, M.; Islam, M.; Islam, M.; Harun-Or-Rashid, M.; Islam, M.; Abdullah, S.; Uddin, M.; Das, S.; Rahaman, M.; Ahmed, M.; Alhumaydhi, F.; Emran, T.; Mohamed, A.; Faruque, M.; Khandaker, M.; Mostafa-Hedeab, G. Stem Cell Transplantation Therapy and Neurological Disorders: Current Status and Future Perspectives. Biology 2022, 11(1), 147; https://doi.org/10.3390/biology11010147.
+https://www.mdpi.com/2079-7737/11/1/147
+
+
+
+Yefroyev, D.; Jin, S. Induced Pluripotent Stem Cells for Treatment of Alzheimer’s and Parkinson’s Diseases. Biomedicines 2022, 10(2), 208; https://doi.org/10.3390/biomedicines10020208.
+https://www.mdpi.com/2227-9059/10/2/208
+
+
+
+Mc Ardle, R.; Del Din, S.; Morris, R.; Alcock, L.; Yarnall, A.; Burn, D.; Rochester, L.; Lawson, R.; on behalf of the ICICLE-PD Study Group Factors Influencing Habitual Physical Activity in Parkinson’s Disease: Considering the Psychosocial State and Wellbeing of People with Parkinson’s and Their Carers. Sensors 2022, 22(3), 871; https://doi.org/10.3390/s22030871.
+https://www.mdpi.com/1424-8220/22/3/871
+
+
+
+Asci, F.; Vivacqua, G.; Zampogna, A.; D’Onofrio, V.; Mazzeo, A.; Suppa, A. Wearable Electrochemical Sensors in Parkinson’s Disease. Sensors 2022, 22(3), 951; https://doi.org/10.3390/s22030951.
+https://www.mdpi.com/1424-8220/22/3/951
+
+
+
+Lai, Y.; Lien, C.; Huang, C.; Lin, W.; Chen, Y.; Yu, C.; Cheng, B.; Kung, C.; Kung, C.; Chiang, Y.; Hung, Y.; Chang, H.; Lu, C. Clinical Disease Severity Mediates the Relationship between Stride Length and Speed and the Risk of Falling in Parkinson’s Disease. J. Pers. Med. 2022, 12(2), 192; https://doi.org/10.3390/jpm12020192.
+https://www.mdpi.com/2075-4426/12/2/192
+
+
+
+Mollinari, C.; De Dominicis, C.; Lupacchini, L.; Sansone, L.; Caprini, D.; Casciola, C.; Wang, Y.; Zhao, J.; Fini, M.; Russo, M.; Garaci, E.; Merlo, D. Detection of Pathological Markers of Neurodegenerative Diseases following Microfluidic Direct Conversion of Patient Fibroblasts into Neurons. Int. J. Mol. Sci. 2022, 23(4), 2147; https://doi.org/10.3390/ijms23042147.
+https://www.mdpi.com/1422-0067/23/4/2147
+
+
+
+Borgnis, F.; Baglio, F.; Pedroli, E.; Rossetto, F.; Meloni, M.; Riva, G.; Cipresso, P. A Psychometric Tool for Evaluating Executive Functions in Parkinson’s Disease. J. Clin. Med. 2022, 11(5), 1153; https://doi.org/10.3390/jcm11051153.
+https://www.mdpi.com/2077-0383/11/5/1153
+
+
+
+Giannakopoulou, K.; Roussaki, I.; Demestichas, K. Internet of Things Technologies and Machine Learning Methods for Parkinson’s Disease Diagnosis, Monitoring and Management: A Systematic Review. Sensors 2022, 22(5), 1799; https://doi.org/10.3390/s22051799.
+https://www.mdpi.com/1424-8220/22/5/1799
+
+
+
+Maranesi, E.; Di Donna, V.; Pelliccioni, G.; Cameriere, V.; Casoni, E.; Baldoni, R.; Benadduci, M.; Rinaldi, N.; Fantechi, L.; Giammarchi, C.; Luzi, R.; Pelliccioni, P.; Di Rosa, M.; Scendoni, P.; Riccardi, G.; Bevilacqua, R. Acceptability and Preliminary Results of Technology-Assisted Balance Training in Parkinson’s Disease. Int. J. Environ. Res. Public Health 2022, 19(5), 2655; https://doi.org/10.3390/ijerph19052655.
+https://www.mdpi.com/1660-4601/19/5/2655
+
+
+
+Hill, D.; Stephenson, D.; Brayanov, J.; Claes, K.; Badawy, R.; Sardar, S.; Fisher, K.; Lee, S.; Bannon, A.; Roussos, G.; Kangarloo, T.; Terebaite, V.; Müller, M.; Bhatnagar, R.; Adams, J.; Dorsey, E.; Cosman, J. Metadata Framework to Support Deployment of Digital Health Technologies in Clinical Trials in Parkinson’s Disease. Sensors 2022, 22(6), 2136; https://doi.org/10.3390/s22062136.
+https://www.mdpi.com/1424-8220/22/6/2136
+
+
+
+Payedimarri, A.; Ratti, M.; Rescinito, R.; Vanhaecht, K.; Panella, M. Effectiveness of Platform-Based Robot-Assisted Rehabilitation for Musculoskeletal or Neurologic Injuries: A Systematic Review. Bioengineering 2022, 9(4), 129; https://doi.org/10.3390/bioengineering9040129.
+https://www.mdpi.com/2306-5354/9/4/129
+
+
+
+Zingale, E.; Bonaccorso, A.; Carbone, C.; Musumeci, T.; Pignatello, R. Drug Nanocrystals: Focus on Brain Delivery from Therapeutic to Diagnostic Applications. Pharmaceutics 2022, 14(4), 691; https://doi.org/10.3390/pharmaceutics14040691.
+https://www.mdpi.com/1999-4923/14/4/691
+
+
+
+Tan, L.; Tang, K.; Lim, L.; Ong, J.; Park, H.; Jung, S. α-Synuclein at the Presynaptic Axon Terminal as a Double-Edged Sword. Biomolecules 2022, 12(4), 507; https://doi.org/10.3390/biom12040507.
+https://www.mdpi.com/2218-273X/12/4/507
+
+
+
+Witika, B.; Poka, M.; Demana, P.; Matafwali, S.; Melamane, S.; Malungelo Khamanga, S.; Makoni, P. Lipid-Based Nanocarriers for Neurological Disorders: A Review of the State-of-the-Art and Therapeutic Success to Date. Pharmaceutics 2022, 14(4), 836; https://doi.org/10.3390/pharmaceutics14040836.
+https://www.mdpi.com/1999-4923/14/4/836
+
+
+
+Cunha, A.; Gaubert, A.; Verget, J.; Thiolat, M.; Barthélémy, P.; Latxague, L.; Dehay, B. Trehalose-Based Nucleolipids as Nanocarriers for Autophagy Modulation: An In Vitro Study. Pharmaceutics 2022, 14(4), 857; https://doi.org/10.3390/pharmaceutics14040857.
+https://www.mdpi.com/1999-4923/14/4/857
+
+
+
+Smid, A.; Elting, J.; van Dijk, J.; Otten, B.; Oterdoom, D.; Tamasi, K.; Heida, T.; van Laar, T.; Drost, G. Intraoperative Quantification of MDS-UPDRS Tremor Measurements Using 3D Accelerometry: A Pilot Study. J. Clin. Med. 2022, 11(9), 2275; https://doi.org/10.3390/jcm11092275.
+https://www.mdpi.com/2077-0383/11/9/2275
+
+
+
+Chen, C.; Sidransky, E.; Chen, Y. Lyso-IP: Uncovering Pathogenic Mechanisms of Lysosomal Dysfunction. Biomolecules 2022, 12(5), 616; https://doi.org/10.3390/biom12050616.
+https://www.mdpi.com/2218-273X/12/5/616
+
+
+
+Pantaleo, E.; Monaco, A.; Amoroso, N.; Lombardi, A.; Bellantuono, L.; Urso, D.; Lo Giudice, C.; Picardi, E.; Tafuri, B.; Nigro, S.; Pesole, G.; Tangaro, S.; Logroscino, G.; Bellotti, R. A Machine Learning Approach to Parkinson’s Disease Blood Transcriptomics. Genes 2022, 13(5), 727; https://doi.org/10.3390/genes13050727.
+https://www.mdpi.com/2073-4425/13/5/727
+
+
+
+Campo-Prieto, P.; Cancela-Carral, J.; Rodríguez-Fuentes, G. Wearable Immersive Virtual Reality Device for Promoting Physical Activity in Parkinson’s Disease Patients. Sensors 2022, 22(9), 3302; https://doi.org/10.3390/s22093302.
+https://www.mdpi.com/1424-8220/22/9/3302
+
+
+
+Grinevich, V.; Zakirov, A.; Berseneva, U.; Gerasimova, E.; Gainetdinov, R.; Budygin, E. Applying a Fast-Scan Cyclic Voltammetry to Explore Dopamine Dynamics in Animal Models of Neuropsychiatric Disorders. Cells 2022, 11(9), 1533; https://doi.org/10.3390/cells11091533.
+https://www.mdpi.com/2073-4409/11/9/1533
+
+
+
+Bayarsaikhan, G.; Bayarsaikhan, D.; Lee, J.; Lee, B. Targeting Scavenger Receptors in Inflammatory Disorders and Oxidative Stress. Antioxidants 2022, 11(5), 936; https://doi.org/10.3390/antiox11050936.
+https://www.mdpi.com/2076-3921/11/5/936
+
+
+
+Kobus, M.; Żądzińska, E.; Sitek, A.; Pełka, J.; Rożniecki, J.; Antoszewski, B. Risk of Migraine in Europeans with Low Melanin Levels—A Population Based Case-Control Study. Brain Sci. 2022, 12(5), 620; https://doi.org/10.3390/brainsci12050620.
+https://www.mdpi.com/2076-3425/12/5/620
+
+
+
+Vila-Viçosa, D.; Leitão, M.; Bouça-Machado, R.; Pona-Ferreira, F.; Alberto, S.; Ferreira, J.; Matias, R. Smartphone-Based Body Location-Independent Functional Mobility Analysis in Patients with Parkinson’s Disease: A Step towards Precise Medicine. J. Pers. Med. 2022, 12(5), 826; https://doi.org/10.3390/jpm12050826.
+https://www.mdpi.com/2075-4426/12/5/826
+
+
+
+Grosman-Dziewiszek, P.; Wiatrak, B.; Dziewiszek, W.; Jawień, P.; Mydlikowski, R.; Bolejko, R.; Szandruk-Bender, M.; Karuga-Kuźniewska, E.; Szeląg, A. Influence of 40 Hz and 100 Hz Vibration on SH-SY5Y Cells Growth and Differentiation—A Preliminary Study. Molecules 2022, 27(10), 3337; https://doi.org/10.3390/molecules27103337.
+https://www.mdpi.com/1420-3049/27/10/3337
+
+
+
+Zagorski, K.; Chailyan, G.; Hovakimyan, A.; Antonyan, T.; Kiani Shabestari, S.; Petrushina, I.; Davtyan, H.; Cribbs, D.; Blurton-Jones, M.; Masliah, E.; Agadjanyan, M.; Ghochikyan, A. Immunogenicity of MultiTEP-Platform-Based Recombinant Protein Vaccine, PV-1950R, Targeting Three B-Cell Antigenic Determinants of Pathological α-Synuclein. Int. J. Mol. Sci. 2022, 23(11), 6080; https://doi.org/10.3390/ijms23116080.
+https://www.mdpi.com/1422-0067/23/11/6080
+
+
+
+Ruggiero, F.; Lombi, L.; Molisso, M.; Fiore, G.; Zirone, E.; Ferrucci, R.; Pirola, E.; Locatelli, M.; Barbieri, S.; Mameli, F. The Impact of Telemedicine on Parkinson’s Care during the COVID-19 Pandemic: An Italian Online Survey. Healthcare 2022, 10(6), 1065; https://doi.org/10.3390/healthcare10061065.
+https://www.mdpi.com/2227-9032/10/6/1065
+
+
+
+Rahman, M.; Bilal, M.; Shah, J.; Kaushik, A.; Teissedre, P.; Kujawska, M. CRISPR-Cas9-Based Technology and Its Relevance to Gene Editing in Parkinson’s Disease. Pharmaceutics 2022, 14(6), 1252; https://doi.org/10.3390/pharmaceutics14061252.
+https://www.mdpi.com/1999-4923/14/6/1252
+
+
+
+Marquez Chavez, J.; Tang, W. A Vision-Based System for Stage Classification of Parkinsonian Gait Using Machine Learning and Synthetic Data. Sensors 2022, 22(12), 4463; https://doi.org/10.3390/s22124463.
+https://www.mdpi.com/1424-8220/22/12/4463
+
+
+
+Correno, M.; Hansen, C.; Carlin, T.; Vuillerme, N. Objective Measurement of Walking Activity Using Wearable Technologies in People with Parkinson Disease: A Systematic Review. Sensors 2022, 22(12), 4551; https://doi.org/10.3390/s22124551.
+https://www.mdpi.com/1424-8220/22/12/4551
+
+
+
+Khwaounjoo, P.; Singh, G.; Grenfell, S.; Özsoy, B.; MacAskill, M.; Anderson, T.; Çakmak, Y. Non-Contact Hand Movement Analysis for Optimal Configuration of Smart Sensors to Capture Parkinson’s Disease Hand Tremor. Sensors 2022, 22(12), 4613; https://doi.org/10.3390/s22124613.
+https://www.mdpi.com/1424-8220/22/12/4613
+
+
+
+Gauthier-Beaupré, A.; Poitras, E.; Grosjean, S.; Mestre, T.; on behalf of the iCARE-PD Consortium Co-Designing an Integrated Care Network with People Living with Parkinson’s Disease: A Heterogeneous Social Network of People, Resources and Technologies. J. Pers. Med. 2022, 12(6), 1001; https://doi.org/10.3390/jpm12061001.
+https://www.mdpi.com/2075-4426/12/6/1001
+
+
+
+Schmitz-Luhn, B.; Chandler, J.; on behalf of the iCARE-PD Consortium Ethical and Legal Aspects of Technology-Assisted Care in Neurodegenerative Disease. J. Pers. Med. 2022, 12(6), 1011; https://doi.org/10.3390/jpm12061011.
+https://www.mdpi.com/2075-4426/12/6/1011
+
+
+
+Byberi, A.; K. Amineh, R.; Ravan, M. Wearable Inductive Sensing of the Arm Joint: Comparison of Three Sensing Configurations. Magnetism 2022, 2(3), 195-210; https://doi.org/10.3390/magnetism2030015.
+https://www.mdpi.com/2673-8724/2/3/15
+
+
+
+Li, A.; Rastegar, C.; Mao, X. α-Synuclein Conformational Plasticity: Physiologic States, Pathologic Strains, and Biotechnological Applications. Biomolecules 2022, 12(7), 994; https://doi.org/10.3390/biom12070994.
+https://www.mdpi.com/2218-273X/12/7/994
+
+
+
+Montemurro, N.; Aliaga, N.; Graff, P.; Escribano, A.; Lizana, J. New Targets and New Technologies in the Treatment of Parkinson’s Disease: A Narrative Review. Int. J. Environ. Res. Public Health 2022, 19(14), 8799; https://doi.org/10.3390/ijerph19148799.
+https://www.mdpi.com/1660-4601/19/14/8799
+
+
+
+Deb, R.; An, S.; Bhat, G.; Shill, H.; Ogras, U. A Systematic Survey of Research Trends in Technology Usage for Parkinson’s Disease. Sensors 2022, 22(15), 5491; https://doi.org/10.3390/s22155491.
+https://www.mdpi.com/1424-8220/22/15/5491
+
+
+
+Spanakis, M.; Xylouri, I.; Patelarou, E.; Patelarou, A. A Literature Review of High-Tech Physiotherapy Interventions in the Elderly with Neurological Disorders. Int. J. Environ. Res. Public Health 2022, 19(15), 9233; https://doi.org/10.3390/ijerph19159233.
+https://www.mdpi.com/1660-4601/19/15/9233
+
+
+
+Samotus, O.; Mahdi, Y.; Jog, M. Real-World Longitudinal Experience of Botulinum Toxin Therapy for Parkinson and Essential Tremor. Toxins 2022, 14(8), 557; https://doi.org/10.3390/toxins14080557.
+https://www.mdpi.com/2072-6651/14/8/557
+
+
+
+Tesoro, C.; Lelario, F.; Ciriello, R.; Bianco, G.; Di Capua, A.; Acquavia, M. An Overview of Methods for L-Dopa Extraction and Analytical Determination in Plant Matrices. Separations 2022, 9(8), 224; https://doi.org/10.3390/separations9080224.
+https://www.mdpi.com/2297-8739/9/8/224
+
+
+
+Raghunathan, R.; Turajane, K.; Wong, L. Biomarkers in Neurodegenerative Diseases: Proteomics Spotlight on ALS and Parkinson’s Disease. Int. J. Mol. Sci. 2022, 23(16), 9299; https://doi.org/10.3390/ijms23169299.
+https://www.mdpi.com/1422-0067/23/16/9299
+
+
+
+Roberts, B.; Theunissen, F.; Mastaglia, F.; Akkari, P.; Flynn, L. Synucleinopathy in Amyotrophic Lateral Sclerosis: A Potential Avenue for Antisense Therapeutics?. Int. J. Mol. Sci. 2022, 23(16), 9364; https://doi.org/10.3390/ijms23169364.
+https://www.mdpi.com/1422-0067/23/16/9364
+
+
+
+Schmidhuber, S.; Scheiblhofer, S.; Weiss, R.; Cserepes, M.; Tóvári, J.; Gadermaier, G.; Bezard, E.; De Giorgi, F.; Ichas, F.; Strunk, D.; Mandler, M. A Novel C-Type Lectin Receptor-Targeted α-Synuclein-Based Parkinson Vaccine Induces Potent Immune Responses and Therapeutic Efficacy in Mice. Vaccines 2022, 10(9), 1432; https://doi.org/10.3390/vaccines10091432.
+https://www.mdpi.com/2076-393X/10/9/1432
+
+
+
+Muñoz, D.; Barria, P.; Cifuentes, C.; Aguilar, R.; Baleta, K.; Azorín, J.; Múnera, M. EEG Evaluation in a Neuropsychological Intervention Program Based on Virtual Reality in Adults with Parkinson’s Disease. Biosensors 2022, 12(9), 751; https://doi.org/10.3390/bios12090751.
+https://www.mdpi.com/2079-6374/12/9/751
+
+
+
+Schirinzi, T.; Salvatori, I.; Zenuni, H.; Grillo, P.; Valle, C.; Martella, G.; Mercuri, N.; Ferri, A. Pattern of Mitochondrial Respiration in Peripheral Blood Cells of Patients with Parkinson’s Disease. Int. J. Mol. Sci. 2022, 23(18), 10863; https://doi.org/10.3390/ijms231810863.
+https://www.mdpi.com/1422-0067/23/18/10863
+
+
+
+Hao, Z.; Ma, J.; Sun, W. The Technology-Oriented Pathway for Auxiliary Diagnosis in the Digital Health Age: A Self-Adaptive Disease Prediction Model. Int. J. Environ. Res. Public Health 2022, 19(19), 12509; https://doi.org/10.3390/ijerph191912509.
+https://www.mdpi.com/1660-4601/19/19/12509
+
+
+
+Alouani, A.; Elfouly, T. Traumatic Brain Injury (TBI) Detection: Past, Present, and Future. Biomedicines 2022, 10(10), 2472; https://doi.org/10.3390/biomedicines10102472.
+https://www.mdpi.com/2227-9059/10/10/2472
+
+
+
+Meigal, A.; Gerasimova-Meigal, L.; Reginya, S.; Soloviev, A.; Moschevikin, A. Gait Characteristics Analyzed with Smartphone IMU Sensors in Subjects with Parkinsonism under the Conditions of “Dry” Immersion. Sensors 2022, 22(20), 7915; https://doi.org/10.3390/s22207915.
+https://www.mdpi.com/1424-8220/22/20/7915
+
+
+
+Güney, G.; Jansen, T.; Dill, S.; Schulz, J.; Dafotakis, M.; Hoog Antink, C.; Braczynski, A. Video-Based Hand Movement Analysis of Parkinson Patients before and after Medication Using High-Frame-Rate Videos and MediaPipe. Sensors 2022, 22(20), 7992; https://doi.org/10.3390/s22207992.
+https://www.mdpi.com/1424-8220/22/20/7992
+
+
+
+Amprimo, G.; Masi, G.; Priano, L.; Azzaro, C.; Galli, F.; Pettiti, G.; Mauro, A.; Ferraris, C. Assessment Tasks and Virtual Exergames for Remote Monitoring of Parkinson’s Disease: An Integrated Approach Based on Azure Kinect. Sensors 2022, 22(21), 8173; https://doi.org/10.3390/s22218173.
+https://www.mdpi.com/1424-8220/22/21/8173
+
+
