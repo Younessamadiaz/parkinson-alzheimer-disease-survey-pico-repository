@@ -1,0 +1,1423 @@
+Pandit Vivek Kumar Pandey, Sitanshu Sekhar Sahu,
+Parkinson’s Disease Detection Using Hybrid Siamese Neural Network and Support Vector Machine in Multilingual Voice Signal,
+Journal of Voice,
+2025,
+,
+ISSN 0892-1997,
+https://doi.org/10.1016/j.jvoice.2025.06.036.
+(https://www.sciencedirect.com/science/article/pii/S0892199725002619)
+Abstract: SUMMARY
+Parkinson’s disease (PD) is a neurodegenerative disorder that affects speech in earlier stage as a motor functions due to dopamine depletion in the substantia nigra. Voice signals serve as key markers for early PD detection. Most of the studies of the voice change in PD are focused in particular language. However, limited studies address the issue in multilingual scenarios. Detection of PD in multilingual environments poses several challenges due to language-specific acoustic variations and unavailability of large dataset. To overcome these challenges, this study proposes a hybrid Siamese Neural Network (SNN) with support vector machine (SVM) for effective detection across multiple languages. The proposed study captures the patterns of PD and healthy in varied acoustic conditions of different languages by contrastive learning. The sustained vowel phonation /a/, /e/, /i/, /o/, and /u/ in Italian and the vowel /a/ in US-English and Spanish are used in the study. Experimental results demonstrate that the hybrid SNN-SVM achieved the highest accuracy of 93% in the vowel /o/ in the Italian dataset. In cross-language scenarios when model trained in Spanish and tested in US-English an accuracy of 82.7% is achieved. The hybrid approach enhances PD detection accuracy despite language variations, providing a potential solution for real-time scenario.
+Keywords: Parkinson's disease; Speech signal; Siamese neural network; Euclidian distance; Support vector machine
+
+Y. Bykov, T. Bender,
+BOS-technologies of rehabilitation in patients with Parkinsonism,
+Journal of the Neurological Sciences,
+Volume 405, Supplement,
+2019,
+Page 97,
+ISSN 0022-510X,
+https://doi.org/10.1016/j.jns.2019.10.398.
+(https://www.sciencedirect.com/science/article/pii/S0022510X19308652)
+
+Marjolein Muller, Mark F.C. van Leeuwen, Carel F. Hoffmann, Niels A. van der Gaag, Rodi Zutt, Saskia van der Gaag, Alfred C. Schouten, M. Fiorella Contarino,
+From subthalamic local field potentials to the selection of chronic deep brain stimulation contacts in Parkinson's disease - A systematic review,
+Brain Stimulation,
+Volume 18, Issue 5,
+2025,
+Pages 1499-1510,
+ISSN 1935-861X,
+https://doi.org/10.1016/j.brs.2025.08.004.
+(https://www.sciencedirect.com/science/article/pii/S1935861X25002980)
+Abstract: Background
+Programming deep brain stimulation (DBS) of the subthalamic nucleus for optimal symptom control in Parkinson's Disease (PD) requires time and trained personnel. Novel implantable neurostimulators allow local field potentials (LFP) recording, which could be used to identify the optimal (chronic) stimulation contact. However, literature is inconclusive on which LFP features and prediction techniques are most effective.
+Objective
+To evaluate the performance of different LFP-based physiomarkers for predicting the optimal (chronic) stimulation contacts.
+Methods
+A literature search was conducted across nine databases, resulting in 418 individual papers. Two independent reviewers screened the articles based on title, abstract, and full text. The quality of included studies was assessed using a modified Joanna Briggs Institute Critical Appraisal Checklist for Case Series. Results were categorised in four classes based on the predictive performance with respect to the a priori chance.
+Results
+Twenty-five studies were included. Single-feature beta-band predictions demonstrated positive performance scores in 94 % of the outcomes. Predictions based on single non-beta-frequency features yielded positive scores in only 25 % of the outcomes, with positive results mainly for high frequency oscillations. Multi-feature predictions (e.g. machine learning) achieved accuracy scores within the two highest performance classes more often than single beta-based predictions (100 % versus 39 %).
+Conclusion
+Predicting the optimal stimulation contact based on LFP recordings is feasible and can improve DBS programming efficiency in PD. Single beta-band predictions show more promising results than non-beta-frequency features alone, but are outperformed by multi-feature predictions. Future research should further explore multi-feature predictions for optimal contact identification.
+Keywords: Deep brain stimulation; Parkinson's disease; Local field potentials; Clinical contact choice; Subthalamic nucleus
+
+K. Bird, Q.Z. Yang, A. Zeabi, S. Bissonnette,
+Race, language, and technology status: How to close the gap in Parkinson's Disease research participation,
+Parkinsonism & Related Disorders,
+Volume 79, Supplement 1,
+2020,
+Page e80,
+ISSN 1353-8020,
+https://doi.org/10.1016/j.parkreldis.2020.06.292.
+(https://www.sciencedirect.com/science/article/pii/S1353802020304697)
+
+Maria Chiara Malaguti, Lorenzo Gios, Giuseppe Jurman,
+The third wheel or the game changer? How AI could team up with neurologists in Parkinson's care,
+Parkinsonism & Related Disorders,
+Volume 134,
+2025,
+107797,
+ISSN 1353-8020,
+https://doi.org/10.1016/j.parkreldis.2025.107797.
+(https://www.sciencedirect.com/science/article/pii/S1353802025005383)
+Abstract: Introduction
+Parkinson's disease (PD) is a progressive neurodegenerative disorder marked by diverse motor and non-motor symptoms. AI appears to be the elephant in the neurologist's room, albeit offering transformative potential in early diagnosis, personalized care, and treatment optimization, addressing the complexities of PD management.
+Methods
+A PubMed review analyzed AI's role in PD care, focusing on multimodal data, clinician-in-the-loop models, and validation strategies to enhance clinical applicability while addressing ethical concerns.
+Results
+Thirty-nine studies met inclusion criteria. While progress is evident, challenges include limited independent validation, small sample sizes, and inconsistent clinician involvement. Key trends show growing interest in multimodal data and predictive modelling, though gaps in transparency persist.
+Conclusions
+AI holds promise for improving PD management, yet robust validation, interdisciplinary collaboration, and clearer clinician roles are essential for advancing patient-centered care and fostering trust in AI-driven innovations.
+Keywords: Parkinson's disease; Artificial intelligence; Early diagnosis; Personalized care; Clinician-in-the-loop; Multimodal data; Independent validation; Ethical transparency
+
+Júlio César Claudino dos Santos, Howard Lopes Ribeiro Junior, Jackson Frederico Pires, Gabriela Braga Cabrera Mano, Fabricyo de Faria Esposito Dias, João Vitor Caetano Goes, Camilla Teixeira Pinheiro Gusmão, André Rodrigues da Cunha Barreto-Vianna, Ettore José Filippi Carlo, Tayenne Nélly de Lucena Viana, Camila de Almeida Lins, Jonas Nogueira Ferreira Maciel Gusmão, Renata Ferreira de Carvalho Leitão,
+Common genetic variants associated with risk of Parkinson’s disease in non-European populations: A PROSPERO registered systematic review based on genome-wide association studies,
+LabMed Discovery,
+Volume 1, Issue 2,
+2024,
+100024,
+ISSN 3050-4740,
+https://doi.org/10.1016/j.lmd.2024.100024.
+(https://www.sciencedirect.com/science/article/pii/S3050474024000247)
+Abstract: Parkinson’s disease (PD) is a complex genetic neurodegenerative disorder. Epidemiology genetic discoveries have increased our understanding of the molecular contributors to Parkinson’s pathophysiology, especially when associated with the advent of genome-wide association studies (GWAS) technologies in the discovery of the risk linked to common germline genetic variants. The biggest limitation of those studies on genetic susceptibility to PD is the lack of information describing the impact of individuals’ ancestry on risk associations, especially in non-European populations. Current genetic data are mainly based on individuals of European origin, particularly those included in the UK biobank project. The effects of these ethical discrepancies can directly impact the discovery of risk variants associated with PD susceptibility and clinical management of PD patients in admixture populations, for example. Thus, we performed a PROSPERO-registered systematic review to elucidate the current state of the art about the role of common genetic variants based on GWAS studies in advancing precision medicine for PD susceptibility and pathobiology in multiethnic and non-European populations. Also, we discuss whether there are similarities or discrepancies of these data in relation to genomic data obtained in studies with PD patients of European origin.
+Keywords: Genome-wide association studies; Common variants; Risk; Parkinson’s disease
+
+Ehsan Hemmati, Mohammad-Reza Nazem-Zadeh, Alireza Fallahi, Zahra Vahabi, Mohammad Taghi Joghataei, Laila Alibiglou,
+Altered effective connectivity in cortico-striatal pathways during sentence processing and oral motors in Parkinson’s disease,
+Cortex,
+Volume 191,
+2025,
+Pages 41-54,
+ISSN 0010-9452,
+https://doi.org/10.1016/j.cortex.2025.06.019.
+(https://www.sciencedirect.com/science/article/pii/S0010945225001819)
+Abstract: Previous studies have demonstrated that sentence processing can be impaired in individuals with Parkinson’s disease (PD). However, it remains unclear whether the neural mechanisms underlying language impairments in PD are like the motor symptoms and related to dysfunction observed in cortico-striatal pathways. On the other hand, traumatic brain injury (TBI) is recognized as a significant non-genetic risk factor for developing PD later in life. This study investigated the functional changes in cortico-striatal pathways that impact sentence comprehension and oral motor functions in individuals with PD. It compared PD patients with a history of TBI to those without. Twenty-four PD patients (12 with and 12 without TBI) along with 12 age- and sex-matched controls, underwent functional MRI (fMRI) and dynamic causal modeling. These assessments aimed to evaluate brain activity and effective connectivity during sentence comprehension and oral motor tasks. Significant disruptions were observed in both activated brain regions and effective connectivity within cortico-striatal pathways in PD patients (p < .05). Those with TBI exhibited altered brain activity during canonical sentence comprehension when compared to those without TBI. The PD group without TBI displayed greater bidirectional connectivity between cortico-cortical and cortico-subcortical areas during oral motor tasks (p < .05). These findings suggest that reduced effective connectivity in motor and language networks may contribute to language and motor impairments in individuals with PD. Utilizing fMRI to evaluate activated brain regions and effective connectivity within motor and language networks may help identify TBI patients who are at a higher risk of developing PD in the future.
+Keywords: Parkinson’s disease; Sentence processing; Canonical and non-canonical sentence; Traumatic brain injury; fMRI; Dynamic causal modeling
+
+Yixuan Yin, Dongning Su, Joyce S.T. Lam, Tao Feng,
+Advances in clinical neurorestorative treatments of Parkinson's disease,
+Journal of Neurorestoratology,
+Volume 13, Issue 3,
+2025,
+100204,
+ISSN 2324-2426,
+https://doi.org/10.1016/j.jnrt.2025.100204.
+(https://www.sciencedirect.com/science/article/pii/S2324242625000269)
+Abstract: Increasing dopamine levels using oral levodopa administration has been the gold standard for treating Parkinson's disease (PD), but motor complications that occur with the progression of PD seriously affect patient quality of life. Neurorestorative treatments have provided new possibilities for PD therapies. This review summarizes the recent clinical progress in several aspects of neurorestorative strategies: cell therapy, bioengineering and tissue engineering therapy, pharmacological therapy, neurostimulation/neuromodulation, and brain–computer interfaces. However, progress has mainly been related to exploratory experimental results, and more evidence is needed to further verify the safety and efficacy of these neurorestorative treatments in PD.
+Keywords: Parkinson's disease; Neurorestoratology; Clinical progress
+
+Zihan Wang, Yumei Liu, Chengqian Li, Kunpeng Qin, Xiaofei Yu, Anmu Xie,
+Music-based intervention as a new therapeutic treatment for executive dysfunction in Parkinson’s disease,
+Neuroscience,
+Volume 580,
+2025,
+Pages 306-314,
+ISSN 0306-4522,
+https://doi.org/10.1016/j.neuroscience.2025.06.057.
+(https://www.sciencedirect.com/science/article/pii/S0306452225007456)
+Abstract: Executive dysfunction is a prominent feature of cognitive impairment in Parkinson’s disease (PD), affecting approximately 42% of patients. Due to the lack of effective treatment options for the executive dysfunction, it may lead to more severe gait disorder, dementia and be difficult to recuperate. Current studies indicate that music-based intervention (MBI) is an innovative and vital treatment for executive dysfunction. This review aims to describe the ideas-MBI for treating executive dysfunction in PD. We summarize the existing protocols and clinical trials of MBI for treating executive dysfunction in PD patients and analyze its potential and shortcomings. At the same time, we try to present its mechanisms, future directions, and existing limitations. In this review, we found that the executive dysfunction is benefit from MBI via acing at auditory-executive brain network and emotion-executive pathway, in which the basal ganglia and frontal lobe play significant roles. While MBI show potential for improving executive dysfunction in PD, further investigation is needed. This should include randomized controlled trials with larger samples and different types of interventions to determine the most effective approach. In addition, electroencephalography and neuroimaging are also needed to explore the underlying neurophysiological mechanisms.
+Keywords: Parkinson’s disease; Executive dysfunction; Music-based interventions
+
+C. Rust, L.L. van den Heuvel, S. Bardien, J. Carr, E. Pretorius, S. Seedat, S.M.J. Hemmings,
+Association between the relative abundance of butyrate-producing and mucin-degrading taxa and Parkinson’s disease,
+Neuroscience,
+Volume 576,
+2025,
+Pages 149-154,
+ISSN 0306-4522,
+https://doi.org/10.1016/j.neuroscience.2025.04.050.
+(https://www.sciencedirect.com/science/article/pii/S0306452225003495)
+Abstract: Parkinson’s disease (PD) is a neurodegenerative disorder characterised by motor and non-motor symptoms. Recent evidence suggests a role for gut microbiome composition and diversity in PD aetiology. This study aimed to explore the association between the gut microbiome and PD in a South African population. Gut microbial sequencing data (cases: n = 16; controls: n = 42) was generated using a 16S rRNA gene (V4) primer pair. Alpha- and beta-diversity were calculated using QIIME2, and differential abundance of taxa was evaluated using Analysis of Compositions of Microbiomes with Bias Correction (ANCOM-BC). Beta-diversity was found to differ significantly between cases and controls, with depletion in the relative abundance of Faecalibacterium, Roseburia, Dorea, and Veillonella, and enrichment of the relative abundance of Akkermansia and Victivallis. Our study found a reduction in butyrate-producing bacteria (e.g. Faecalibacterium and Roseburia) and an increase in mucin-degrading bacteria (Akkermansia) in PD cases compared to controls. These alterations might be associated with heightened gut permeability and inflammation. Longitudinal studies should address the question of whether these microbiome differences are a risk factor for, or are consequent to, the development of PD.
+Keywords: Parkinson’s disease; Gut microbiome; Gut-brain-axis; Alpha-diversity; Beta-diversity; Butyrate-producing bacteria
+
+Kaidong Wang, Ge Shi, Yonghang Li, Qi Liu, Qianrong Zhang, Chenyang Wu, Yuxuan Jiao, Yuan Ma, Ai Qi, Min Huang,
+Construction of a toxicity pathway from activation of the TLR4/NF-κB/NLRP3 axis to Parkinson's disease-like non-motor symptoms in mice,
+Environmental Toxicology and Pharmacology,
+Volume 116,
+2025,
+104706,
+ISSN 1382-6689,
+https://doi.org/10.1016/j.etap.2025.104706.
+(https://www.sciencedirect.com/science/article/pii/S138266892500081X)
+Abstract: Bipyridyl herbicides, like paraquat, are among the most widely used herbicides worldwide. Although the lungs are the main target organ for acute exposure to paraquat, chronic exposure to paraquat is thought to induce neurotoxicity and is one of the environmental risk factors for neurodegenerative diseases. In the last two decades, as paraquat has been banned in some regions, diquat has gradually become its replacement. However, systematic studies of environmental factor-induced neurodegenerative diseases are incomplete, and information on threats and risk assessment is still insufficient. The aim of this study was to investigate the association between bipyridine herbicides and sporadic Parkinson's disease. Among them, we refer to the concept of Adverse Outcome Pathway (AOP), integrate, analyse and propose the toxicity pathway similar to AOP. It provides ideas for us to conduct traditional toxicological studies. As a result, the present study reveals that bipyridine herbicide exposure causes neuronal pyrocytosis in locus coeruleus through activation of the TLR4/NF-κB/NLRP3 axis, resulting in the development of Parkinson's disease-like non-motor symptoms in mice.
+Keywords: Bipyridyl herbicides; Toxicity pathways; Neurotoxicity; Pyrocytosis; Locus coeruleus injury
+
+Yun Su, Huimin Zheng, Xin Cui, Shuyu Zhang, Shuo Zhang, Zhengwei Hu, Xiaoyan Hao, Mengjie Li, Guangyu Guo, Zongping Xia, Changhe Shi, Chengyuan Mao, Yuming Xu,
+Single-cell sequencing insights into the transcriptional landscape of Parkinson's disease,
+Ageing Research Reviews,
+Volume 102,
+2024,
+102553,
+ISSN 1568-1637,
+https://doi.org/10.1016/j.arr.2024.102553.
+(https://www.sciencedirect.com/science/article/pii/S1568163724003714)
+Abstract: Parkinson’s disease (PD) is the second most prevalent neurodegenerative disorder, with an unknown etiology and no specific treatment. Emerging single-cell and single-nucleus RNA sequencing (sc/snRNA-seq) technologies have become instrumental in unravelling cellular heterogeneity and characterizing molecular signatures at single-cell resolution. Single-cell T cell receptor sequencing (scTCR-seq) and single-cell B cell receptor sequencing (scBCR-seq) technologies provide unprecedented opportunities to explore the immune repertoire diversity. These state-of-the-art technologies have been increasingly applied in PD research in the last five years, offering novel insights into the cellular susceptibilities and complex molecular mechanisms underlying PD pathogenesis. Herein we review recent advances in the applications of sc/snRNA-seq, scTCR-seq and scBCR-seq technologies in various PD models. Moreover, we focus on degenerative neurons, activated neuroglial cells, as well as pro-inflammatory immune cells, exploring their unique transcriptional landscapes in PD, as revealed by single-cell sequencing technologies. Finally, we highlight important challenges and the future directions of single-cell experiments in PD research.
+Keywords: Single-cell RNA sequencing; Single-nucleus RNA sequencing; Single-cell T cell receptor sequencing; Single-cell B cell receptor sequencing; Parkinson’s disease
+
+David Shin, Timothy Tang, Joel Carson, Rekha Isaac, Chandler Dinh, Daniel Im, Andrew Fay, Asael Isaac, Stephen Cho, Zachary Brandt, Kai Nguyen, Isabel Shaffrey, Vahe Yacoubian, Taha M. Taka, Samantha Spellicy, Miguel Angel Lopez-Gonzalez, Olumide Danisa,
+Subthalamic nucleus or globus pallidus internus deep brain stimulation for the treatment of parkinson’s disease: An artificial intelligence approach,
+Journal of Clinical Neuroscience,
+Volume 138,
+2025,
+111393,
+ISSN 0967-5868,
+https://doi.org/10.1016/j.jocn.2025.111393.
+(https://www.sciencedirect.com/science/article/pii/S0967586825003662)
+Abstract: Background
+Generative artificial intelligence (AI) in deep brain stimulation (DBS) is currently unvalidated in its content. This study sought to analyze AI responses to questions and recommendations from the 2018 Congress of Neurological Surgeons (CNS) guidelines on subthalamic nucleus and globus pallidus internus DBS for the treatment of patients with Parkinson’s Disease.
+Methods
+Seven questions were generated from CNS guidelines and asked to ChatGPT 4o, Perplexity, Copilot, and Gemini. Answers were “concordant” if they highlighted all points provided by the CNS guidelines; otherwise, answers were considered “non-concordant” and sub-categorized as either “insufficient” or “overconclusive.” AI responses were evaluated for readability via the Flesch-Kincaid Grade Level, Gunning Fog Index, Simple Measure of Gobbledygook (SMOG) Index, and Flesch Reading Ease tests.
+Results
+ChatGPT 4o showcased 42.9% concordance, with non-concordant responses classified as 14.3% insufficient and 42.8% over-conclusive. Perplexity displayed a 28.6% concordance rate, with 14.3% insufficient and 57.1% over-conclusive responses. Copilot showed 28.6% concordance, with 28.6% insufficient and 42.8% over-conclusive responses. Gemini demonstrated 28.6% concordance, with 28.6% insufficient and 42.8% over-conclusive responses. The Flesch-Kincaid Grade Level scores ranged from 14.44 (Gemini) to 18.94 (Copilot), Gunning Fog Index scores varied between 17.9 (Gemini) and 22.06 (Copilot), SMOG Index scores ranged from 16.54 (Gemini) to 19.67 (Copilot), and all Flesch Reading Ease scores were low, with Gemini showing the highest score of 30.91.
+Conclusion
+ChatGPT 4o displayed the most concordance, Perplexity displayed the highest over-conclusive rate, and Copilot and Gemini showcased the most insufficient answers. All responses showcased complex readability. Despite the possible benefits of future developments and innovation in AI capabilities, AI requires further improvement before independent clinical usage in DBS.
+Keywords: Artificial intelligence; Chatgpt; Deep brain stimulation; Neurosurgery; Parkinson’s disease
+
+Aiqin Zhu, Fenglin Wang, Jie Meng, Xiaotao Li, Hongxiu Liang, Yuhua Liang, Lele Song,
+Characterization of methylation profile in biofluid cell-free DNA and identification of differentially methylated genes for phenotypic representations in Parkinson's disease,
+Clinical Neurology and Neurosurgery,
+Volume 256,
+2025,
+109014,
+ISSN 0303-8467,
+https://doi.org/10.1016/j.clineuro.2025.109014.
+(https://www.sciencedirect.com/science/article/pii/S0303846725002975)
+Abstract: Background
+The potential biomarkers for Parkinson’s Disease (PD) in blood circulating cell-free DNA (cfDNA) have been infrequently explored. This study aims to identify specific methylation markers in blood cfDNA that could aid in the diagnosis of PD.
+Methods
+A total of twenty patients with PD and nine healthy participants were recruited for this study. Cerebrospinal fluid (CSF) and/or blood samples were collected from the patients. Whole-genome bisulfite sequencing (WGBS) was conducted to analyze cfDNA methylation patterns in both CSF and blood samples. Data analysis and figure plotting were performed using R software.
+Results
+We identified 1322 differentially methylated genes (DMGs) in CSF and 118 DMGs in blood cfDNA between patients with PD and healthy participants, with 16 DMGs being common across both sample types. Significant correlations were observed within the CSF regarding methylation signatures related to sex,age,occupational nature,dietary habits(meat-only, vegetarian or mixed),tea consumption,family history of disease, hypertension,diabetes,postural instability and gait disorder,hyposmia,as well as glossolalia. Conversely, significant correlations found in blood included associations between methylation signatures and factors such as duration of residence at high altitudes, cigarette use, diabetes prevalence, dysphagia occurrence, family history of PD, scores on the Unified Parkinson’s Disease Rating Scale (MDS-UPDRS), and results from the Hamilton Anxiety Scale (HAMA). Furthermore, potential diagnostic markers comprising common DMGs present in both CSF and blood cfDNA alongside phenotypic factors were identified. The CSF markers consisted of five methylated genes—APMAP,C19orf25,TMA16,NIT2,and NDST2—and three phenotypic factors including duration of residence at high altitude locations, hyperhidrosis, and family history of PD. In contrast, the blood cfDNA markers encompassed eight differentially methylated genes—QPCT,TMA16,APMAP,NIT2,DCP2,ATP,TNFAIP1,and ZNF700—and two phenotypic factors which included tea consumption and hyposmia.
+Conclusions
+For the first time, specific methylation signatures related to PD have been identified in blood samples. Furthermore, correlations were observed between methylation signatures in CSF and cfDNA from blood with various patient phenotype factors. Diagnostic markers for PD based on CSF and blood cfDNA methylation patterns, along with phenotypic characteristics, have been established.
+Keywords: Parkinson’s disease; Methylation; Blood; Cerebrospinal fluid; Cell-free DNA; WGBS; Next-generation sequencing (NGS)
+
+Helen L. Dainton-Howard, Christopher G. Goetz,
+James Parkinson and Other Historical Aspects of Parkinson’s Disease,
+Neurologic Clinics,
+Volume 43, Issue 2,
+2025,
+Pages 167-184,
+ISSN 0733-8619,
+ISBN 9780443131714,
+https://doi.org/10.1016/j.ncl.2024.12.002.
+(https://www.sciencedirect.com/science/article/pii/S0733861924000975)
+Keywords: Parkinson’s disease; History; Levodopa; Deep brain stimulation
+
+Jun Xia, Pin He, Xiaodong Cai, Doudou Zhang, Ni Xie,
+Magnetic resonance and computed tomography image fusion technology in patients with Parkinson's disease after deep brain stimulation,
+Journal of the Neurological Sciences,
+Volume 381,
+2017,
+Pages 250-255,
+ISSN 0022-510X,
+https://doi.org/10.1016/j.jns.2017.08.3267.
+(https://www.sciencedirect.com/science/article/pii/S0022510X17337644)
+Abstract: Electrode position after deep brain stimulation (DBS) for Parkinson's disease (PD) needs to be confirmed, but there are concerns about the risk of postoperative magnetic resonance imaging (MRI) after DBS. These issues could be avoided by fusion images obtained from preoperative MRI and postoperative computed tomography (CT). This study aimed to investigate image fusion technology for displaying the position of the electrodes compared with postoperative MRI. This was a retrospective study of 32 patients with PD treated with bilateral subthalamic nucleus (STN) DBS between April 2015 and March 2016. The postoperative (same day) CT and preoperative MRI were fused using the Elekta Leksell 10.1 planning workstation (Elekta Instruments, Stockholm, Sweden). The position of the electrodes was compared between the fusion images and postoperative 1–2-week MRI. The position of the electrodes was highly correlated between the fusion and postoperative MRI (all r between 0.865 and 0.996; all P<0.001). The differences of the left electrode position in the lateral and vertical planes was significantly different between the two methods (0.30 and 0.24mm, respectively, both P<0.05), but there were no significant differences for the other electrode and planes (all P>0.05). The position of the electrodes was highly correlated between the fusion and postoperative MRI. The CT-MRI fusion images could be used to avoid the potential risks of MRI after DBS in patients with PD.
+Keywords: Image fusion; Computed tomography; Magnetic resonance imaging; Deep brain stimulation
+
+Abdulaziz Salihu Aliero, Neha Malhotra,
+Comparative study of deep learning models for Parkinson’s disease detection,
+BenchCouncil Transactions on Benchmarks, Standards and Evaluations,
+Volume 5, Issue 2,
+2025,
+100219,
+ISSN 2772-4859,
+https://doi.org/10.1016/j.tbench.2025.100219.
+(https://www.sciencedirect.com/science/article/pii/S2772485925000328)
+Abstract: Parkinson’s disease (PD) is a progressive neurodegenerative disorder that affects movement and cognition, impacting millions of people worldwide. The diagnosis of PD primarily relies on clinical tests, which can often result in delayed identification of the disease. Recent advancements in data-driven methods using deep learning have demonstrated potential for improving early diagnosis by utilizing clinical and vocal inputs. This study conducted a comparative analysis of five deep learning models: Multilayer Perceptron (MLP), Recurrent Neural Networks (RNN), Gated Recurrent Units (GRU), Autoencoder, and Generative Adversarial Network (GAN), specifically for the detection of PD using vocal biomarkers. Among these models, the MLP achieved the highest predictive accuracy at 97.4 %. The RNN, GRU, and Autoencoder models attained a similar accuracy rate of 87.2 %. In contrast, the GAN model yielded an accuracy of only 76.9 %. The UCI vocal dataset from Kaggle was utilized in this research, along with extensive data preprocessing techniques to address missing values. Performance evaluation was conducted using multiple metrics. The results indicate that deep learning models can effectively diagnose PD using voice data, suggesting their potential to enhance diagnostic accuracy and support clinical decision-making. Furthermore, these models are feasible for large-scale integration into clinical workflows.
+Keywords: Deep learning; Multilayer perceptron; Early; Detection; Parkinson’s; Disease
+
+Dipesh Chakraborty, Pradyot Kumar Roy, Ria Das, Chittabrata Mal,
+Personalized management of Parkinson’s disease,
+Progress in Brain Research,
+Elsevier,
+2025,
+,
+ISSN 0079-6123,
+https://doi.org/10.1016/bs.pbr.2025.08.007.
+(https://www.sciencedirect.com/science/article/pii/S0079612325001244)
+Abstract: Parkinson’s disease is a progressive neurodegenerative disorder characterized by dopaminergic neuron loss, α-synuclein aggregation, and oxidative stress-induced mitochondrial dysfunction. These contribute to motor symptoms like bradykinesia, tremor, rigidity, and postural instability, alongside non-motor issues such as cognitive decline and autonomic dysfunction. With rising global prevalence, especially in aging populations, understanding PD’s complex pathophysiology is essential for advancing effective therapeutic strategies. This chapter offers a comprehensive overview of Parkinson’s disease, covering its demographic trends, molecular mechanisms, symptoms, and current pharmacological treatments, including their mechanisms, classifications, benefits, and side effects. The central focus is on the emerging shift from standard symptomatic care to personalized, precision-based treatment strategies. These include gene-targeted therapies like RNA interference and CRISPR-Cas9, mitochondrial-based approaches, and stem cell innovations such as induced pluripotent stem cells (iPSCs). Pharmacogenetic profiling and biomarker-based interventions further support individualized therapeutic plans by predicting drug responses and tracking disease progression. This chapter explores patient-centric models like personalized neurorehabilitation, DBS, and cognitive-behavioral therapy, alongside advanced technologies such as AI, VR, AR, and wearable devices that enhance treatment, symptom monitoring, and real-time feedback through mobile applications. Lifestyle adaptations, including precision nutrition and customized exercise regimens, are highlighted as key components of comprehensive care. This chapter highlights a personalized, multi-dimensional approach to Parkinson’s disease management, integrating molecular, technological, and lifestyle strategies to both ease symptoms and modify disease progression.
+Keywords: Parkinson’s disease; Personalized therapy; Deep brain stimulation; Wearable technology; Neurorehabilitation
+
+Maryam Sousani, Raul Fernandez Rojas, Elisabeth Preston, Maryam Ghahramani,
+Early-stage Parkinson’s disease detection using multimodal brain–body biomarkers from fNIRS and IMU data,
+Computers in Biology and Medicine,
+Volume 197, Part B,
+2025,
+111096,
+ISSN 0010-4825,
+https://doi.org/10.1016/j.compbiomed.2025.111096.
+(https://www.sciencedirect.com/science/article/pii/S0010482525014489)
+Abstract: Parkinson’s Disease (PD) is a progressive neurodegenerative disorder that impairs both motor and cognitive functions. Accurate detection of PD remains a major challenge, particularly at early stages when clinical symptoms are subtle. This study presents the first multimodal machine learning framework integrating functional near-infrared spectroscopy (fNIRS) and inertial measurement unit (IMU) data for early-stage PD detection during dual-task mobility assessments. Data were collected from 62 participants, including 28 people with PD and 34 age-matched controls, who performed the clinically recommended Timed Up and Go (TUG), Cognitive Dual-Task TUG (CDTUG), and Motor Dual-Task TUG (MDTUG) tests. This complex multimodal experimental design simultaneously captured brain activation and body motion under motor and cognitive dual-task conditions. Four machine learning models combined with two feature selection techniques were applied to unimodal and multimodal datasets. The multimodal approach achieved superior classification accuracy (96%) compared to fNIRS-only (87%) and IMU-only (95%) models. Key brain–body biomarkers were identified, including dorsolateral prefrontal and frontopolar cortex activations during dual tasks, alongside motor features such as turn, sit-to-stand, and stand-to-sit durations. These findings highlight the promise of combining brain and motion measures and complex functional mobility tests for early-stage PD detection and advance the development of non-invasive, AI-driven biomarker discovery frameworks.
+Keywords: Parkinson’s disease; IMU; Machine learning; fNIRS; Motion assessment; Brain activity; Biomarker identification
+
+Harsh Kumar Meshram, Sanjay Kumar Gupta, Akash Gupta, Kushagra Nagori,  Ajazuddin,
+Next-generation CRISPR gene editing tools in the precision treatment of Alzheimer’s and Parkinson’s disease,
+Ageing Research Reviews,
+Volume 111,
+2025,
+102851,
+ISSN 1568-1637,
+https://doi.org/10.1016/j.arr.2025.102851.
+(https://www.sciencedirect.com/science/article/pii/S1568163725001977)
+Abstract: Emerging gene-editing technologies, such as the CRISPR system, represent a potential pathway for precision medicine targeting the genetic and molecular causes of diseases. Second-generation CRISPR technologies, including base editing, prime editing, and engineered Cas variants, have improved fidelity and offer alternative strategies for precise gene correction, transcriptional repression or activation, and modulation of pathological pathways in neurodegeneration. These tools can correct single-nucleotide mutations, reduce pathological protein accumulation, and modulate neuroinflammatory responses, all integral to the pathogenesis of Alzheimer’s disease (AD) and Parkinson’s disease (PD), both chronic, progressive neurodegenerative disorders. Unfortunately, currently available treatments are limited and primarily palliative. Preclinical studies have shown promising results, with improvements in cognitive and motor deficits in animal models. However, significant challenges must be addressed to ensure safe and effective delivery to the CNS, minimize off-target effects, and address ethical concerns. Current clinical investigations aim to translate these findings into available therapeutic options. This review also identifies the biological mechanisms, therapeutic use cases, and current limitations of next-generation CRISPR systems as tools in the context of AD and PD, providing both therapeutic and research capabilities through their unique strengths. Ultimately, the future of transactional neurogenomics will determine the clinical possibilities of CRISPR-based strategies for advancing neurodegenerative disease management beyond palliative and symptomatic treatment, toward a feasible mechanistic form of disease modification.
+Keywords: Alzheimer’s disease; Parkinson’s disease; CRISPR; Gene-editing; Cas9; Polymeric nanoparticle; Brain targeting; Neuroprotection
+
+Madhurjya Rabha, Krishnav Deka, Deepratim Saikia, Junali Jasmine Jena, Sudhansu Shekhar Patra, Mahendra Kumar Gourisaria,
+Predicting Parkinson’s Disease: An Explainable AI approach with Feature Analysis,
+Procedia Computer Science,
+Volume 259,
+2025,
+Pages 1773-1782,
+ISSN 1877-0509,
+https://doi.org/10.1016/j.procs.2025.04.132.
+(https://www.sciencedirect.com/science/article/pii/S1877050925012347)
+Abstract: Parkinson’s disease (PD) is a degenerative neurological condition that significantly lowers a person’s standard of living. Symptom management and better patient outcomes depend on early diagnosis and intervention. To forecast Parkinson’s disease, this study looks into the use of various ML models, such as Decision Trees, XGBoost, AdaBoost etc. To improve model interpretability, the study highlights the significance of Explainable Artificial Intelligence (XAI) approaches. The essential elements that had a substantial impact on the models’ predictions were found by using feature importance analysis. In addition to illuminating the disease’s fundamental causes, this study offers medical professionals’ practical insights to direct clinical judgment. The integration of machine learning with XAI techniques addresses the critical need for transparency in AI applications within healthcare, ensuring that practitioners can trust and understand the tools they use. Among the classifiers evaluated, the AdaBoost classifier demonstrated exceptional performance, achieving the highest accuracy of 98.34%. This result highlights the strong performance of the AdaBoost algorithm in accurately predicting Parkinson’s disease, demonstrating its suitability and effectiveness for this application. These algorithms are computationally less expensive than the deep learning algorithms and hence could be efficiently used for real-time systems. Also in this paper the contribution of features have been mapped to the accuracy, which shows the explainability of features. The work aims to set the stage for future developments in neurodegenerative disease predictive modeling through thorough analysis and validation.
+Keywords: ML Models; Parkinson’s Disease; Feature Extraction; Explainable AI; Image Processing
+
+Qinghua Li, Kailiang Wang, Jiping Li, Penghu Wei, Yongzhi Shan, Jianyu Li, Junming Zhu, Zhe Zheng, Chaoshi Niu, Chi Xiong, Weiguo Li, Qianqian Wu, Qihua Xiao, Guiyun Cui, Xiongfei Wang, Yuguang Guan, Guoming Luan, Baohui Liu, Huimin Dong, Siquan Liang, Haitao Li, Wenwen Xu, Guoguang Zhao, Yuqing Zhang,
+Adaptive vs Conventional Deep Brain Stimulation of the Subthalamic Nucleus for Treatment of Parkinson’s Disease: A Multicenter Retrospective Study,
+Neuromodulation: Technology at the Neural Interface,
+2025,
+,
+ISSN 1094-7159,
+https://doi.org/10.1016/j.neurom.2025.04.011.
+(https://www.sciencedirect.com/science/article/pii/S1094715925001862)
+Abstract: Objectives
+Conventional deep brain stimulation (cDBS) is an established treatment for Parkinson’s disease (PD), whereas adaptive DBS (aDBS) represents a promising approach with potential advantages in minimizing stimulation-induced side effects and enhancing quality of life. This study evaluated the safety and efficacy of a newly developed aDBS closed-loop neurostimulation (CNS) device for one year across multiple centers, with the primary objective of comparing the outcomes of aDBS and cDBS.
+Materials and Methods
+This retrospective study included 62 patients with PD who underwent bilateral subthalamic nucleus (STN) DBS. Outcomes were assessed using the Movement Disorder Society Unified Parkinson's Disease Rating Scale (MDS-UPDRS), Parkinson’s Disease Questionnaire-39 (PDQ-39), and Schwab and England Activities Scale, whereas the levodopa-equivalent daily dose (LEDD) and adverse events were monitored. This two-phase trial randomized participants into Stim-on or Stim-off groups for 90-day postoperative comparison followed by nonrandomized evaluation of aDBS vs cDBS at 360 days after surgery.
+Results
+At 90 days postoperatively, the Stim-on group exhibited superior outcomes to those in the Stim-off group except for LEDD and speech in the medication-on state. At the 360-day postoperative assessment, the aDBS group showed significantly greater improvements than did the cDBS group in MDS-UPDRS II (57.29% vs 33.02%, p = 0.022), MDS-UPDRS IV (59.83% vs 36.69%, p = 0.026), PDQ-39 (56.91% vs 27.37%, p = 0.031), and LEDD reduction (53.35% vs 29.16%, p = 0.002). CNS aDBS recorded clear STN-beta signals, which could be adopted as a biomarker.
+Conclusions
+Both aDBS and cDBS significantly alleviate motor symptoms and enhance quality of life in patients with PD. Although comparable in motor symptom control, aDBS indicated advantages over cDBS across LEDD reduction, MDS-UPDRS II, MDS-UPDRS IV, and PDQ-39 over the long term. Further studies with extended follow-up and larger sample sizes are required to validate these results.
+Keywords: Adaptive deep brain stimulation; beta oscillation; local field potential; Parkinson’s disease; subthalamic nucleus
+
+Masoud Negahdary, Indherjith Sakthinathan, Ensiyeh Mirsadoughi, Frances S. Ligler, Gerard L. Coté, Robert J. Forster, Samuel Mabbott,
+Advances in biosensors for diagnosis of Alzheimer's and Parkinson's diseases,
+Biosensors and Bioelectronics,
+Volume 284,
+2025,
+117535,
+ISSN 0956-5663,
+https://doi.org/10.1016/j.bios.2025.117535.
+(https://www.sciencedirect.com/science/article/pii/S0956566325004099)
+Abstract: Early diagnosis by detecting ultralow concentrations of disease biomarkers is critical for timely treatment of the two most common neurodegenerative diseases, Alzheimer's and Parkinson's diseases. Innovative biosensors technologies can provide accurate, faster, and cheaper diagnostic pathways. In this review, the most recent electrochemical and optical sensing and biosensing platforms for diagnosing these diseases are critically selected and reviewed. Diagnostic targets (generally biomarkers) related to each disease and novel technologies, such as nanomaterials and biomolecular techniques to optimize the detection process and enhance signals, are discussed. In particular, multiplex detection and detection of multiple analytes by a (bio) sensing platform, to improve clinical sensitivity and selectivity are considered. This review is intended to open new approaches in the field and advance future research by identifying those strategies that optimize real-world performance and minimize present shortcomings.
+Keywords: Sensors; Biosensors; Alzheimer's disease; Parkinson's disease; Electrochemical detection; Optical detection; Advanced materials; Dementia diagnosis
+
+JuHee Lee, Kiyeon Kim, Ercole Vellone, Sooyoung Park,
+Caregiver Self-Efficacy in Contributing to patient Self-Care (CSE-CSC) scale: Psychometric testing in a population of caregivers of Parkinson's disease in the Republic of Korea,
+Applied Nursing Research,
+Volume 84,
+2025,
+151981,
+ISSN 0897-1897,
+https://doi.org/10.1016/j.apnr.2025.151981.
+(https://www.sciencedirect.com/science/article/pii/S0897189725000837)
+Abstract: Aim
+This study aimed to evaluate the psychometric properties of the Korean version of the Caregiver Self-Efficacy in Contributing to patient Self-Care (CSE-CSC) scale among caregivers of people with Parkinson's disease (PwP).
+Background
+Caregivers' contributions to patients' self-care can improve PwP health outcomes, and caregiver self-efficacy is associated with caregiver contributions. The CSE-CSC scale was developed to measure caregiver self-efficacy in multiple chronic conditions. The scale was translated into Korean, but its psychometric properties have not been validated.
+Methods
+This is a secondary analysis using two existing cross-sectional datasets from caregivers of PwP in Korea. Exploratory and confirmatory factor analyses were conducted to examine the construct validity of the Korean version of the CSE-CSC scale. Reliability was assessed using Cronbach's alpha and the global reliability index for multidimensional scale.
+Results
+The scale tested in the population of PwP caregivers showed satisfactory validity and reliability with a three-factor model. The factors were labeled as ‘self-efficacy in self-care maintenance,’ ‘self-efficacy in self-care monitoring,’ and ‘self-efficacy in self-care management’. Fit indices were χ2 = 111.432 (df = 31, p < .001), CFI = 0.951, TLI = 0.929, SRMR = 0.037, and RMSEA = 0.109. The Cronbach's alpha coefficient of the overall scale was 0.938, and the global reliability index for the multidimensional scale was 0.953.
+Conclusions
+The scale was demonstrated to be a valid and reliable instrument for measuring caregiver self-efficacy in caregivers of PwP. Its availability as a culturally appropriate caregiver self-efficacy measure is expected to have an impact on both research and clinical settings by facilitating the development of tailored interventions and evidence-based policy-making.
+Keywords: Caregiver; Parkinson's disease; Psychometric testing; Self-efficacy
+
+Zeeshan Hyderi, Shirin Farhana M, Tej Pal Singh, Arumugam Veera Ravi,
+Therapeutic Targeting of Autosomal Parkinson’s Disease by Modulation of Leucine-Rich Repeat Kinase 2 (LRRK2) Protein,
+Brain Research,
+Volume 1860,
+2025,
+149674,
+ISSN 0006-8993,
+https://doi.org/10.1016/j.brainres.2025.149674.
+(https://www.sciencedirect.com/science/article/pii/S0006899325002331)
+Abstract: Leucine-Rich Repeat Kinase 2 (LRRK2) is gaining attention as a key therapeutic target for autosomal dominant Parkinson’s disease (PD). The primary genetic aetiology of familial PD, accounting for around 5–6 % of familial cases and 2 % of sporadic cases, is mutations in the LRRK2 gene. The most prevalent mutation, G2019S, increases kinase activity, which phosphorylates important serine residues that control LRRK2 function, such as Ser910 and Ser935, leading to the development of PD. The development of LRRK2 inhibitors has emerged as a key area of study for PD therapy. In preclinical research, these inhibitors have demonstrated promise in reducing PD-related damage by altering the cellular localisation of LRRK2 and reduced phosphorylation. In addition to kinase action, LRRK2 is involved in autophagy and mitochondrial function. This participation implies that PD markers including mitochondrial dysfunction and defective autophagy may be addressed by LRRK2-targeted treatments. Moreover, selective LRRK2 inhibitors show promise in the treatment of PD, and more research into the molecular role of LRRK2 in PD is essential to developing efficient therapies that will improve patient outcomes and reduce the course of the illness. This review discusses the role of LRRK2 in pathogenesis of PD and current treatment approaches, particularly LRRK2 kinase inhibitors, and their potential to slow disease progression, along with recent advancements in clinical trials and future outlooks for improving outcomes in PD.
+Keywords: Leucine-Rich Repeat Kinase 2 (LRRK2); Parkinson’s Disease; Phosphorylation; Mutation; LRRK2 inhibitors; Cellular localisation; Therapeutics
+
+Kaimin Xiao, Jianglong Li, Luyu Zhou, Xianghong Liu, Zufeng Xiao, Rongxin He, Heling Chu, Yuping Tang, Ping Liu, Xuejing Lu,
+Retinopathy in Parkinson’s disease: A potential biomarker for early diagnosis and clinical assessment,
+Neuroscience,
+Volume 565,
+2025,
+Pages 202-210,
+ISSN 0306-4522,
+https://doi.org/10.1016/j.neuroscience.2024.11.073.
+(https://www.sciencedirect.com/science/article/pii/S0306452224006924)
+Abstract: Parkinson’s disease (PD) is a prevalent neurodegenerative disorder caused by degeneration of dopaminergic neurons, originating from the substantia nigra pars compacta, and characterized by motor symptoms such as bradykinesia, muscle rigidity, resting tremor, and postural instability, as well as non-motor symptoms such as anxiety, depression, reduced sense of smell, cognitive impairment, and visual dysfunction. Emerging evidence highlights the retina as a promising site for non-invasive exploration of PD pathology, due to its shared embryonic origin with the central nervous system. In recent years, with the development of ophthalmic technology, the acquisition of retinal-related function and structure has gradually become mature. PD-related retinal changes have become a research hotspot for non-motor symptoms of PD. This review provides a comprehensive synthesis of retinal dysfunctions in PD, focusing on structural and functional changes as potential biomarkers for early diagnosis and clinical assessment. By integrating findings from advanced imaging and electrophysiological studies, this review introduces novel perspectives on the correlation between retinal changes and PD pathophysiology, offering innovative approaches for early detection, disease progression monitoring, and therapeutic stratification.
+Keywords: Parkinson’s Disease; Retinopathy; Biomarker; Early diagnosis; Clinical assessment; Review
+
+Sara Abidar, Mohamed Nhiri, Lucian Hritcu,
+Phytochemicals against the 6-hydroxydopamine-induced Parkinson’s disease in rodents: A systematic review,
+Next Research,
+Volume 2, Issue 3,
+2025,
+100473,
+ISSN 3050-4759,
+https://doi.org/10.1016/j.nexres.2025.100473.
+(https://www.sciencedirect.com/science/article/pii/S3050475925003434)
+Abstract: Parkinson’s disease (PD) is a progressive neurodegenerative disorder that must be managed judiciously. Multiple phytochemicals have been tested for their neuroprotective or disease-modifying effects in vivo. The present systematic review intends to present an overview of the use of phytochemicals as potent neuroprotective and/or disease-modifying agents against PD induced in rodents by 6-hydroxydopamine. Google Scholar, PubMed, and Scopus were systematically searched following the PRISMA 2020 guidelines. The risk of bias was determined using a scale adapted from the Collaborative Approach for Meta-Analysis and Review of Animal Data from Experimental Studies (CAMARADES). A total number of 39 phytochemicals were identified from 36 studies, demonstrating antioxidant activity, reduction of neuroinflammation and lipid peroxidation as well as improvements in motor balance, behavior, and cognitive function. Furthermore, they increased neuronal survivability while reducing dopaminergic neuron loss. Of the total phytochemicals that have been found, only curcumin has already been investigated in clinical trials of PD. Phytochemicals are still being used nowadays to treat and prevent PD in vitro, in vivo, and in cellular models. Applying the research to patients is still challenging. Therefore, additional research should focus on bioavailability, blood-brain barrier issues, and determining the optimal doses that might be suitable for clinical use.
+Keywords: Parkinson’s disease; Neuroprotection; Phytochemicals; 6-hydroxydopamine; Rodents
+
+Yong Peng, Dai-yi Jiang, Shun-yu Yao, Xiuli Zhang, Sugimoto Kazuo, Jia Liu, Miao-qiao Du, Lan-xin Lin, Quan Chen, Hong Jin,
+Gene-modified animal models of Parkinson's disease,
+Experimental Neurology,
+Volume 390,
+2025,
+115287,
+ISSN 0014-4886,
+https://doi.org/10.1016/j.expneurol.2025.115287.
+(https://www.sciencedirect.com/science/article/pii/S0014488625001517)
+Abstract: Parkinson's disease (PD) is a neurodegenerative disorder that commonly occurs in older individuals and clinically manifests as resting tremors, bradykinesia, muscle stiffness, and impaired postural balance. From a genetic perspective, animal models using gene-editing technologies offer distinct advantages in replicating the pathophysiological traits of PD, while also functionally exploring potential treatment targets. In this review, we highlight the available gene- modified animal models related to various mechanisms of PD, including abnormal expression of alpha-synuclein protein, dysfunction of the autophagy-lysosome system, abnormalities in the ubiquitin-proteasome system, and mitochondrial dysfunction. We further discuss their respective strengths, limitations, and prospects, aiming to provide the most up to date information for the application of PD animal models and the advancement of anti-PD drugs.
+Keywords: Parkinson's disease; Gene editing; Α-Synuclein; Autophagy-lysosome pathway; Ubiquitin-proteasome system; Mitochondrial dysfunction
+
+Jiayue Wang, Nan Cheng, Zhen Yao, Jinghan Liu, Xiaoru Kan, Zhenliang Hui, Jun Chen,
+Early-onset Parkinson's disease, regional and national burden, and its attributable risk factors in 204 countries and regions from 1990 to 2021: Results from the global burden of disease study 2021,
+Parkinsonism & Related Disorders,
+Volume 134,
+2025,
+107778,
+ISSN 1353-8020,
+https://doi.org/10.1016/j.parkreldis.2025.107778.
+(https://www.sciencedirect.com/science/article/pii/S135380202500519X)
+Abstract: Background
+Early-Onset Parkinson's Disease (EOPD), defined as diagnosis before age 40, accounts for 5–10 % of Parkinson's cases and is characterized by slower progression and severe motor and non-motor complications. Its global burden has risen significantly, particularly among younger populations, but comprehensive analyses of trends, disparities, and determinants remain scarce.
+Methods
+EOPD burden was examined in 204 countries from 1990 to 2021 using Global Burden of Disease (GBD) 2021 data. Age-standardized rates (ASR) for incidence, mortality, and disability-adjusted life years (DALYs) were computed. Estimated annual percentage change (EAPC) was used to analyze temporal trends. Associations with the Socio-Demographic Index (SDI) were investigated, and projections were made for future trends up to 2035 using time-series models.
+Results
+Global ASRs for incidence, mortality, and DALYs in 2021 were 0.333, 0.006, and 0.461 per 100,000 population, respectively. Incidence and DALYs increased from 1990 to 2021, while mortality fluctuated. Higher burdens were reported in high-SDI regions due to improved detection and longer survival, whereas low-SDI regions faced underdiagnosis and limited healthcare access. Projections suggest a continued rise in EOPD burden, particularly in the 35–39 age group, by 2035.
+Conclusion
+The increasing worldwide burden of EOPD, along with significant regional and socioeconomic inequalities, underscores the pressing necessity for prompt diagnosis, equitable healthcare access, and specific interventions to address this escalating public health issue.
+Keywords: Early-onset Parkinson's disease; Global burden of disease; Socio-demographic index; Epidemiological trends
+
+Wei Huang, Dong Wang, Po Hu, Yaping Zhu, Yafei Zhou, Yinyin Chen, Zhiwen Yu, Tao Zhang, Na Hu, Xiaohe Tian, Zhongping Zhang,
+Dual-response fluorescent probe for real-time super-resolution imaging of mitochondrial nucleoprotein dynamics in Parkinson's disease,
+Sensors and Actuators B: Chemical,
+Volume 436,
+2025,
+137703,
+ISSN 0925-4005,
+https://doi.org/10.1016/j.snb.2025.137703.
+(https://www.sciencedirect.com/science/article/pii/S0925400525004782)
+Abstract: Monitoring the dynamics of mitochondrial nucleoprotein complexes in real-time and at super-resolution is crucial for elucidating their role in Parkinson’s disease, a challenge compounded by the inadequacy of existing fluorescent probes and the complexity of distinguishing mitochondrial proteins and nucleic acids simultaneously. This study introduces a quinolinium derivative probe, selectively enriched in mitochondria and capable of distinct dual fluorescence activation in response to nucleic acids and proteins. This dual-mode function allows for the concurrent visualization of mitochondrial nucleic acids, proteins, and their dynamics. Our super-resolution imaging demonstrates that proteins, primarily localized at mitochondrial cristae, interact with nucleic acids to form and maintain nucleoproteins in a dynamic equilibrium. This equilibrium regulates essential mitochondrial processes such as physiological stress. Notably, we found that Parkinson’s disease progression is marked by the disruption of these nucleoproteins. This research not only paves the way for advanced probe design for detailed mitochondrial imaging but also lays the groundwork for exploring mitochondrial dynamics as therapeutic targets in Parkinson’s disease.
+Keywords: Dual-response fluorescent probe; Mitochondrial nucleoprotein; Parkinson's disease; Super-resolution imaging; Mitochondrial stress
+
+Bo Yang, Hui Liu, Shifan Zhang, Biao Liu, Qiaoqiao Sun, Wen Li, Rong Zheng, Qingzhuo Cui, Yulin Gu, Xiaoke Li, Jie Zhang, Yidong Liu, Fan Zhang,
+Pharmacological and electrophysiological characterization of the novel Kv7 channel inhibitor racecadotril in Parkinson's disease,
+Neuropharmacology,
+Volume 278,
+2025,
+110565,
+ISSN 0028-3908,
+https://doi.org/10.1016/j.neuropharm.2025.110565.
+(https://www.sciencedirect.com/science/article/pii/S0028390825002710)
+Abstract: Inhibition of KCNQ-encoded voltage-gated potassium Kv7/M channel function represents an attractive therapeutic strategy for Parkinson's disease (PD). Racecadotril (acetorphan), an inhibitor of the enzyme neutral endopeptidase, has been clinically used to treat acute diarrhea. In this study, we investigated the effects of racecadotril through recording the Kv7.1-Kv7.5 channel currents expressed in CHO cell lines. Our results demonstrate that racecadotril inhibited Kv7.2/Kv7.3 currents in a concentration-dependent manner, with an IC50 value of 7.1 ± 0.83 μM. Racecadotril significantly right-shifted the voltage-dependent activation curve of the Kv7.2/Kv7.3 channels. Additionally, it potently inhibited Kv7.1, Kv7.2, Kv7.4, and Kv7.5 channels, while exerting weak inhibitory effects on the Kv7.3 channel. Notably, we found that thiorphan, the in vivo metabolite of racecadotril, also significantly inhibits Kv7.2, Kv7.4, and Kv7.5 channel currents; however, it does not inhibit the Kv7.2 (W236L), Kv7.4 (W242A) or Kv7.5 (W270A) mutants. Moreover, intraperitoneal administration of racecadotril in 8-week-old male C57BL/6 mice inhibited MPTP-induced motor dysfunction in this PD model, an effect that was blocked by the Kv7 channel opener retigabine (RTG). Taken together, our findings indicate that racecadotril is a potent inhibitor of Kv7.1, Kv7.2, Kv7.4 and Kv7.5 channels, which effectively ameliorates symptoms of PD in rodents.
+Keywords: Racecadotril; Thiorphan; Kv7/M channel; Parkinson's disease
+
+Mitsunori Tsuda, Kenta Tsuda, Shingo Asano, Yasushi Kato, Masao Miyazaki,
+Differential diagnosis of multiple system atrophy with predominant parkinsonism and Parkinson's disease using neural networks (part II),
+Journal of the Neurological Sciences,
+Volume 470,
+2025,
+123411,
+ISSN 0022-510X,
+https://doi.org/10.1016/j.jns.2025.123411.
+(https://www.sciencedirect.com/science/article/pii/S0022510X25000280)
+Abstract: Neural networks (NNs) possess the capability to learn complex data relationships, recognize inherent patterns by emulating human brain functions, and generate predictions based on novel data. We conducted deep learning utilizing an NN to differentiate between Parkinson's disease (PD) and the parkinsonian variant (MSA-P) of multiple system atrophy (MSA). The distinction between PD and MSA-P in the early stages presents significant challenges. Considering the recently reported heterogeneity and random distribution of lesions in MSA, we performed an analysis employing an NN with voxel-based morphometry data from the entire brain as input variables. The NN's accuracy in distinguishing MSA-P from PD demonstrates sufficient practicality for clinical application.
+Keywords: Deep learning; Neural network; Multiple system atrophy; Parkinson's disease; Magnetic resonance imaging; Voxel-based morphometry
+
+Esra Yüzgeç Özdemir, Fatih Özyurt,
+Elasticnet-Based Vision Transformers for early detection of Parkinson’s disease,
+Biomedical Signal Processing and Control,
+Volume 101,
+2025,
+107198,
+ISSN 1746-8094,
+https://doi.org/10.1016/j.bspc.2024.107198.
+(https://www.sciencedirect.com/science/article/pii/S1746809424012564)
+Abstract: Parkinson’s disease is a progressive neurodegenerative disease that is very difficult to diagnose early. The use of Traditional Convolutional Neural Network-based approaches is becoming increasingly common in health problems such as Parkinson’s disease, where early diagnosis is vital. In this study, Vision Transformer and Convolutional Neural Network models were used in a comparative and innovative approach for the early diagnosis of Parkinson’s disease with 427 faster and 99.9% accuracy rate. Images obtained from the hand drawings of Parkinson’s patients were trained with the current convolutional neural network models EfficientNet and SqueezeNet variations. In addition, feature extraction is performed with Vision Transformer models, and classification is performed through machine learning techniques. In the proposed model, the features extracted from the Vision Transformer models are filtered using the ElasticNet feature selection algorithm, and model training is performed using machine learning classifiers. The results obtained show that Vision Transformer models can diagnose Parkinson’s disease over handwriting data with higher speed, accuracy, and precision compared to traditional deep learning methods. The most successful result in model training with the proposed method was obtained with an accuracy rate of 99.9% from the models trained with the features taken from the Vit_B_16 architecture from Vision Transformer models. When the model training is analyzed, it is concluded that the proposed method has higher speed, accuracy, and precision compared to traditional deep learning models.
+Keywords: Parkinson’s Disease; Vision Transformers; Convolutional Neural Network
+
+Catarina Ramos Pereira, Jorge Machado, Begoña Criado, Rubim Santos, Ana Mafalda Reis, Bruno Ramos, Maria João Santos, Henry Johannes Greten,
+Analysis of patellar reflex in Parkinson disease patients after an acupuncture treatment protocol – Case series study,
+Clinical Parkinsonism & Related Disorders,
+Volume 12,
+2025,
+100324,
+ISSN 2590-1125,
+https://doi.org/10.1016/j.prdoa.2025.100324.
+(https://www.sciencedirect.com/science/article/pii/S2590112525000283)
+Abstract: Introduction
+The investigation of rigidity physiology in Parkinson’s Disease involves the examination of reflexes. Parkinsonian patients often demonstrate reduced sensitivity in polysynaptic reflexes within the leg extensor muscles, which is correlated with their postural instability. The compensatory mechanisms for impaired proprioceptive reflex function may involve alterations in intrinsic muscle stiffness. The interplay between gait and reflexes is intricately linked to the nervous system’s functioning and motor control. Certain reflexes, such as patellar reflex, play a pivotal role in maintaining walking and posture. Ensuring the integrity of these reflexes is essential for facilitating smooth and efficient walking.
+Aim
+To analyze the behavior of patellar reflex in four Parkinson’s Disease patients undergoing an acupuncture treatment protocol.
+Methods
+This study adopts a case series design. Reflex outcomes based on amplitude and velocity were assessed at six different time moments throughout a month-long treatment protocol using the MP 36, Biopac Systems.
+Results
+Over the long term, a tendency for an improvement in range of movement and velocity of the patellar reflex, was observed. Nevertheless, in specific cases, a reduction in the amplitude during acute effects was also found.
+Conclusion
+Our findings suggest that the acupuncture protocol used may lead to a cumulative improvement in efficacy of patellar reflex in patients with Parkinson’s disease. However, further in-depth research, including a statistical evaluation with a larger participant pool, is necessary to validate and confirm these promising preliminary results.
+Keywords: Acupuncture; Traditional Chinese Medicine; Heidelberg Model; Parkinson Disease; Patellar Reflex; Biopac System; Amplitude
+
+Haohao Fan, Yuanyuan Li, Juan Huang, Jinyu Jiang, Fei Feng, Nanqu Huang, Yong Luo,
+DJ-1 in Parkinson's disease: Its important role at endoplasmic reticulum–mitochondria contact sites,
+Behavioural Brain Research,
+Volume 495,
+2025,
+115775,
+ISSN 0166-4328,
+https://doi.org/10.1016/j.bbr.2025.115775.
+(https://www.sciencedirect.com/science/article/pii/S0166432825003626)
+Abstract: Parkinson's disease (PD) is the second most common neurodegenerative disorder, affecting millions of people globally and causing significant impairments in motor and cognitive functions. The key pathological hallmarks of PD include the aggregation of α-synuclein (α-Syn), degeneration of dopaminergic neurons, and formation of Lewy bodies (LBs), leading to a range of clinical symptoms, such as rigidity, bradykinesia, and cognitive deficits. Although the exact causes of PD are not fully understood, factors such as oxidative stress, mitochondrial dysfunction, and endoplasmic reticulum (ER) stress are implicated in its pathogenesis. The protein DJ-1 (PARK7), a highly conserved antioxidant, has been identified as a significant factor in PD, particularly because of its role in maintaining cellular homeostasis and regulating cellular responses to stress. The interaction of DJ-1 with endoplasmic reticulum–mitochondria contact sites (MERCs) is crucial for calcium regulation, autophagy, and the management of ER stress, all of which are related to PD progression. This review focuses on the function of DJ-1 within mitochondria-associated endoplasmic reticulum membranes (MAMs or ER-MAMs), aiming to provide insights into PD mechanisms and potential therapeutic targets.
+Keywords: Parkinson's disease; DJ-1; Endoplasmic reticulum; Mitochondria; Mitochondria-associated endoplasmic reticulum membranes; Mitochondria-associated membranes
+
+Qiyue Zhao, Xinyao Zhang, Jing Zhang, Ying Zhang, Lu Jia, Sijia Guo, Mengqing Zhang, Haoran Wang, Yuling Wang, Yue Guan, Yi Zhang, Suibing Miao, Jin-Xia Zhu, Huijie Ma,
+Reduction of D2 receptors on microglia leads to ZBP1-mediated PANoptosis of mPFC in Parkinson's disease depression mice,
+International Immunopharmacology,
+Volume 158,
+2025,
+114809,
+ISSN 1567-5769,
+https://doi.org/10.1016/j.intimp.2025.114809.
+(https://www.sciencedirect.com/science/article/pii/S1567576925007994)
+Abstract: Parkinson's disease depression (PDD) is a common non-motor symptom of Parkinson's disease (PD), characterized by complex neurobiological mechanisms that remain poorly understood. This study identifies ZBP1-mediated PANoptosis as a critical mechanism linking neuroinflammation, neuronal loss, and depressive behaviors in PDD. Using a 6-hydroxydopamine (6-OHDA)-induced PDD mouse model, we observed significant reductions in dopaminergic projections from the substantia nigra (SN) to the medial prefrontal cortex (mPFC), accompanied by neuronal loss and depressive-like behaviors. Microglial activation, driven by DRD2 downregulation, was found to impair mPFC neuronal function, as evidenced by altered local field potentials and reduced gamma, beta, and theta oscillations. Furthermore, ZBP1 expression was significantly upregulated in the mPFC of PDD mice, where it colocalized with CaMKII-positive neurons and facilitated the formation of PANoptosomes, a multimeric complex driving pyroptosis, apoptosis, and necroptosis. Knockdown of ZBP1 in the mPFC effectively suppressed PANoptosome formation, reduced neuronal injury, restored local field potentials, and alleviated depressive-like behaviors. These findings highlight ZBP1-mediated PANoptosis as a key pathological mechanism in PDD and suggest that targeting ZBP1 may represent a promising therapeutic strategy for mitigating neuronal loss and depressive symptoms in PDD.
+Keywords: Parkinson's disease depression (PDD); Medial prefrontal cortex (mPFC); Z-DNA binding protein 1 (ZBP1); PANoptosis; Microglia; Dopamine D2 receptor (DRD2)
+
+Gooya Tayyebi, Farnaz Asadiof, Bahar Hashempour, Mohsen Lotfi, Mostafa Taheri, Mahdi Naeim,
+Efficacy of virtual reality-based cognitive behavioral group therapy in enhancing emotional well-being and quality of life in Parkinson’s disease: A randomized controlled trial,
+Clinical Parkinsonism & Related Disorders,
+Volume 12,
+2025,
+100316,
+ISSN 2590-1125,
+https://doi.org/10.1016/j.prdoa.2025.100316.
+(https://www.sciencedirect.com/science/article/pii/S2590112525000209)
+Abstract: Objective
+This study evaluates the effectiveness of virtual reality-based cognitive behavioral group therapy (VR-CBGT) in improving emotional well-being and quality of life in individuals with Parkinson’s disease.
+Methods
+A randomized controlled trial was conducted in 2023 at Roozbeh Hospital, Tehran, with 90 Parkinson’s patients. Participants were randomly assigned to an intervention group receiving 12 VR-CBGT sessions over three months with a control group receiving standard medical care without psychological intervention. Emotional well-being was assessed using the Hospital Anxiety and Depression Scale (HADS), and quality of life was measured with the Parkinson’s Disease Questionnaire-39 (PDQ-39) before and after the intervention. Data were analyzed using Multivariate Analysis of Covariance (MANCOVA) in SPSS-25.
+Results
+The intervention group demonstrated a significant improvement in emotional well-being (HADS-total score reduction of 7.2 points, P < 0.001) and quality of life (PDQ-39 total score improvement of 12.5 %, P = 0.002) compared to the control group. VR-CBGT explained 18 % of the variance in emotional well-being and 26 % in quality of life.
+Conclusion
+These findings highlight VR-CBGT as an effective complementary intervention for enhancing psychological health and overall quality of life in Parkinson’s patients. The immersive nature of VR fosters engagement and facilitates cognitive and emotional processing, supporting its integration into multidisciplinary treatment approaches.
+Keywords: Virtual reality; Cognitive behavioral therapy; Parkinson’s disease; Emotional well-being; Quality of life; HADS; PDQ-39
+
+Wen Zhou, Qingqing Xia, Duan Liu, Jun ying Li, Liang Gong,
+The HALP score differs among sporadic and familial Parkinson's disease,
+Parkinsonism & Related Disorders,
+Volume 133,
+2025,
+107305,
+ISSN 1353-8020,
+https://doi.org/10.1016/j.parkreldis.2025.107305.
+(https://www.sciencedirect.com/science/article/pii/S135380202500046X)
+Abstract: Background
+Parkinson's disease (PD) is the second most common neurodegenerative disorder affecting quality of life. The onset of PD is thought to result from a multifaceted convergence of aging, genetic predisposition, and environmental exposure. The hemoglobin, albumin, lymphocyte, and platelet (HALP) score, a specific measure of inflammation and nutrition, has been identified in the literature. No study has determined whether there are differences in inflammation and nutrition between sporadic and familial forms of PD.
+Methods
+A cross-sectional study was conducted involving 1036 participants from Parkinson's Progression Markers Initiative (PPMI), including sporadic PD (sPD) and familial PD (fPD). Data on demographics (age, sex, race, years of education, BMI, age of onset), clinical characteristics (Hoehn and Yahr Scale, Movement Disorder Society-Unified Parkinson's Disease Rating Scale(MDS-UPDRS) Part III Score, MDS-UPDRS Total Score, Montreal Cognitive Assessment, Epworth Sleepiness Scale Score, Geriatric Depression Scale Score, Rapid Eye Movement(REM) Sleep Behavior Disorder Questionnaire Score, caudate nucleus uptake value on dopamine transporter scan, putamen uptake value on dopamine transporter scan, striatum uptake value on dopamine transporter scan), and laboratory parameters (hemoglobin, lymphocytes, monocytes, neutrophils, platelets, blood glucose, uric acid, total protein, urea nitrogen, and albumin) were collected from all participants. Logistic regression and smooth curve fitting analyses were used to support the research objective.
+Results
+A total of 1036 patients aged between 29.26 and 85.88 years were included in the analysis. A high HALP level was associated with an increased risk of fPD (per 10 units: OR = 1.18, 95 % CI = 1.07–1.29, P = 0.001), after adjustment for potential confounders. In multivariable logistic regression analyses, the risk of fPD occurring in Q3 was 1.8 times that in the Q1 group (OR = 1.8, 95 % CI = 1.16–2.78, P = 0.009). In addition, the results of the subgroup and sensitivity analysis were robust.
+Conclusion
+This study highlights that HALP levels are associated with an increased risk of fPD, independent of confounders.
+Keywords: Hemoglobin; Albumin; Lymphocyte and platelet score (HALP); Familial Parkinson's disease (fPD); Sporadic Parkinson's disease (sPD); Parkinson's progression markers initiative (PPMI; )
+
+Gadi Maayan Eshed, Roy N. Alcalay,
+Precision Medicine in Parkinson’s Disease,
+Neurologic Clinics,
+Volume 43, Issue 2,
+2025,
+Pages 365-381,
+ISSN 0733-8619,
+ISBN 9780443131714,
+https://doi.org/10.1016/j.ncl.2024.12.011.
+(https://www.sciencedirect.com/science/article/pii/S0733861924001063)
+Keywords: Parkinson’s disease; LRRK2; GBA1; Glucocerebrosidase; Disease-modifying interventions
+
+Patrick Sung, Miriam Rafferty, Laura Doyle, Elizabeth Kliver, Kelcey Bines, Jennifer Traines, Alison Scarpa, Christina Marciniak, Sneha Solanki, Allison Todd,
+Technology-based Forced Paced Cycling in Parkinson’s Disease: Is it Feasible and Effective?,
+Archives of Physical Medicine and Rehabilitation,
+Volume 100, Issue 10,
+2019,
+Page e126,
+ISSN 0003-9993,
+https://doi.org/10.1016/j.apmr.2019.08.377.
+(https://www.sciencedirect.com/science/article/pii/S0003999319308858)
+
+Govind Singh Mann, Binay K. Panjiyar, MD Parbej Allam, Fnu Asifa, Ahsan Ullah, Shivangi Jha,
+Comparing the impact of low frequency vs high frequency deep brain stimulation in Patient’s with Parkinson’s disease: A systematic review,
+Brain Disorders,
+Volume 19,
+2025,
+100239,
+ISSN 2666-4593,
+https://doi.org/10.1016/j.dscb.2025.100239.
+(https://www.sciencedirect.com/science/article/pii/S2666459325000599)
+Abstract: Aim
+Deep brain stimulation (DBS) involves implanting electrodes in specific brain areas. High-frequency Stimulation (HFS) and low-frequency Stimulation (LFS) target motor and non-motor symptoms differently. DBS is crucial in Parkinson's disease (PD) treatment for managing medication-resistant symptoms and improving quality of life. This review aims to evaluate the differential impact of high-frequency and low-frequency DBS on motor symptoms in PD patients. This systematic review adheres to PRISMA guidelines and focuses on clinical studies involving human subjects.
+Methods
+Systematic search in electronic databases (PubMed, Google Scholar, Science Direct, Cochrane Collaboration Database of Randomized Trials) was performed to identify randomized controlled trials (RCTs) up to 13th July 2024.
+Results
+Among 126 pooled patients from 8 RCTs, it was found that LFS significantly improved gait stability, swallowing, and verbal fluency with minimal adverse effects. Conversely, HFS was effective in reducing rigidity and tremor but was associated with potential side effects such as gait and speech impairment.
+Conclusion
+This review underscores the frequency dependent effects of Subthalamic Nucleus DBS (STN-DBS) in PD. High-frequency stimulation (>100 Hz) remains effective for controlling tremor and rigidity but is often associated with adverse effects. In contrast, low-frequency stimulation (≤100 Hz) shows a lower risk of these adverse effects, though it may be less effective for core motor symptoms. An optimal therapeutic window between 80 and 130 Hz may balance efficacy and tolerability. These findings support the need for individualized DBS programming and future research on adaptive stimulation technologies to optimize patient-specific outcomes.
+Keywords: Neurostimulation; Parkinson disease; Neurodegenerative; DBS
+
+Roongroj Bhidayasiri, Claudia Trenkwalder,
+Parkinson's Disease, Diagnosis,
+Editor(s): John D. England,
+Encyclopedia of the Neurological Sciences (Third Edition),
+Academic Press,
+2025,
+Pages 386-397,
+ISBN 9780323957052,
+https://doi.org/10.1016/B978-0-323-95702-1.00196-2.
+(https://www.sciencedirect.com/science/article/pii/B9780323957021001962)
+Abstract: In the realm of Parkinson's disease (PD) diagnosis, the journey from symptom manifestation to accurate identification is a complex interplay between patient presentation and physician expertise. Over the past three decades, diagnostic frameworks for PD have evolved, aiming to enhance precision and efficacy in identifying the disease. From the established Queen Square Brain Bank (QSBB) criteria to the more recent International Parkinson and Movement Disorder Society Clinical Diagnostic Criteria for PD (MDS-PD), the diagnostic landscape has seen significant advancements. Ancillary diagnostic tools like neuroimaging, genetic testing, olfactory function tests, and laboratory biomarkers offer supplementary insights, and enriching clinical assessments. Recent breakthroughs in α-synuclein assay technology have introduced novel capabilities for in vivo misfolded protein detection within neuronal substrates, shedding light on early disease pathology and diagnostic accuracy. As diagnostic methodologies advance, enhancing precision and promptness in PD identification, the proposed biological definition, staging, and classification of PD heralds a new era of refined diagnostic insights. This comprehensive review delves into historical diagnostic trajectories, modern diagnostic benchmarks, and the expanding role of ancillary tests, shaping a roadmap towards enhanced diagnostic acumen in PD management. The synergy between traditional clinical expertise and cutting-edge technological advancements not only sharpens diagnostic precision but also paves the way for tailored and precise treatment approaches within the complex domain of PD.
+Keywords: Parkinson's disease; Parkinsonism; Diagnostic criteria; Queen Square Brain Bank criteria; International Parkinson and Movement Disorder Society Clinical Diagnostic Criteria; Prodromal diagnosis; Alpha-synuclein; Biological definition
+
+Hongkai Yao, Chenming Liu, Lingjing Jin, Yunping Song,
+Microglia-drive IRF8 upregulates complement pathway in Parkinson's disease,
+Biochimica et Biophysica Acta (BBA) - Molecular Basis of Disease,
+Volume 1871, Issue 7,
+2025,
+167928,
+ISSN 0925-4439,
+https://doi.org/10.1016/j.bbadis.2025.167928.
+(https://www.sciencedirect.com/science/article/pii/S0925443925002765)
+Abstract: Parkinson's disease (PD) is a widespread degenerative disorder of the central nervous system. The gradual degeneration of dopaminergic neurons in the substantia nigra region is one of the primary pathological features of PD. Glial cells in SN are also linked to the pathological PD alterations. To discern the role of neurons and glial cells as well as their corresponding genetic modifications in PD, we utilized diverse bioinformatics techniques and performed biological experiments on cell and animal models. Several transcriptome datasets of the substantia nigra region were collected from the Gene Expression Omnibus dataset. Cibersort was used to deconvolute the data into proportions of brain cell types. WGCNA was used to analyze the association between modules and traits. Machine learning was used to select the hub genes from WGCNA results. Based on the results of transcriptome analysis, microglia were the most related cell type. Through machine learning, IRF8 was identified as the hub gene associated with PD and microglia. Furthermore, an increased ratio of IRF8+ microglia was observed in PD mice, along with an elevated expression of IRF8 in primary microglia cultures treated with α-synuclein preformed fibril (PFFs). To explore the function of IRF8 in microglia under disease condition, we conducted siRNA of IRF8 and found it was highly associated with complement pathway, which may cause the activation of microglia. In conclusion, our research indicated IRF8 may be involved in the functional regulation of microglia in PD.
+Keywords: Parkinson's disease; Microglia; IRF8; Complement pathway
+
+Massimo Marano, Gerd Tinkhauser, Gaia Anzini, Gaetano Leogrande, Riccardo Ricciuti, Michele Paniccia, Alberto Belli, Paola Pierleoni, Vincenzo Di Lazzaro, Sara Raggiunto,
+Subthalamic beta power and gait in Parkinson's disease during unsupervised remote monitoring,
+Parkinsonism & Related Disorders,
+2025,
+107903,
+ISSN 1353-8020,
+https://doi.org/10.1016/j.parkreldis.2025.107903.
+(https://www.sciencedirect.com/science/article/pii/S1353802025006443)
+Abstract: Background
+Brain-sense enabled deep brain stimulation (DBS) in Parkinson's disease (PD) allows understanding the neurophysiological role of basal ganglia in gait dysfunction. Subthalamic nucleus (STN) local field potentials (LFPs) indicate pathological PD gait changes, but previous evidence is based on data obtained in controlled settings. This study aims to examine the relationship between STN oscillations and sensor-derived gait parameters in PD, in an unsupervised, real-life environment.
+Methods
+Patients with PD and STN-DBS (Medtronic Percept™-PC) were enrolled. Collected data included motor assessment, medications and stimulation parameters, lead locations, and continuous LFPs recordings of pre-selected frequency of interest in the beta range. Participants were all equipped with a single inertial measurement unit, placed at their lower back to record 10-h continuous data on step/stride variability and regularity, and duration.
+Results
+A total of 10 patients and 256 walking episodes (mean duration of 88.9s, cumulative walking duration of 37.05min, mean number of steps taken for episode of 70) were collected and analyzed. STN beta power showed a significant correlation with normalized gait parameters. Right STN beta was related to step (r = 0.23, p < 0.01) and stride (r = 0.22, p < 0.001) time variability. Similar but non-significant trends were observed between gait parameters and left STN beta power (r = 0.11, p = 0.06 and r = 0.11, p = 0.06).
+Conclusions
+This pilot study confirms that beta dynamics are indicative of pathological gait in both controlled and uncontrolled environments. Studies with larger sample sizes and prospective design will be helpful to validate and expand our pilot work toward diagnostic tools and translations into clinical practice.
+Keywords: Parkinson's disease; Gait; Wearables; Local field potentials; Beta activity
+
+Youngil Lee, Beomsoo Ju, Yohan Cheon, Namita Mishra, Emma Fletcher, Panagiotis Koutakis, Gulnaz T. Javan, Young C. Jang,
+Molecular mechanisms of exercise-induced neuroprotection against Parkinson's disease,
+Sports Medicine and Health Science,
+2025,
+,
+ISSN 2666-3376,
+https://doi.org/10.1016/j.smhs.2025.05.004.
+(https://www.sciencedirect.com/science/article/pii/S2666337625000666)
+Abstract: Parkinson's disease (PD) is the second most common neurodegenerative disease that affects movement and cognitive function, resulting from the loss of the neurotransmitter dopamine due to the death of dopaminergic neurons. It affects nearly one million people in the United States and 8.5 million worldwide. While there are some pharmacological and surgical options available, they only provide symptomatic relief, as there is currently no cure for PD. In contrast, exercise training, a non-pharmacological intervention, has emerged as a powerful strategy to enhance the psychological, cognitive, and physiological (motor) impairments associated with PD. Given that the beneficial effects of exercise differ based on the intensity and type of training, gaining a thorough understanding of the molecular mechanisms underlying exercise-induced protection is crucial for developing innovative therapies that improve the quality of life for PD patients around the globe. This review discusses PD pathogenesis and pathophysiology and provides recent clinical evidence of neuroprotective benefits from various exercise modalities and intensity. Furthermore, the molecular mechanisms of exercise in PD pathogenesis (e.g., modulations on neurotrophic factors, oxidative stress, mitochondria dysfunction, endoplasmic reticulum stress, and autophagy) will be emphasized.
+Keywords: Parkinson's disease; Exercise; Mitochondria; Autophagy; Oxidative stress
+
+Chenye Shen, Zhaolin Liu, Fangzheng Chen, Xinjie Zhu, Guangchun Fan, Penggang Ning, Qing Li, Xiaoshuang Zhang, Hongtian Dong, Yan Liu, Mei Yu, Jian Fei, Fang Huang,
+Interleukin-33 promotes dopaminergic neuron survival and inhibits glial activation in Parkinson’s disease models,
+Brain, Behavior, and Immunity,
+Volume 129,
+2025,
+Pages 787-800,
+ISSN 0889-1591,
+https://doi.org/10.1016/j.bbi.2025.07.010.
+(https://www.sciencedirect.com/science/article/pii/S088915912500279X)
+Abstract: Interleukin-33 (IL33) plays a critical role in modulating immune and inflammatory responses across various diseases, yet its influence on Parkinson’s disease (PD) remains elusive. In this study, we provide substantial evidence that global depletion of Il33 exacerbates PD pathology and motor deficits in vivo. Moreover, Il33 deficiency diminishes the communication between astrocytes and microglia, leading to a more profound injury to primary neurons in vitro. Notably, the application of recombinant IL33 (rIL33) following MPTP treatment or α-synucleinA53T overexpression partially inhibits the reduction in TH expression, glial activation, and the motor dysfunctions in vivo. Collectively, our findings demonstrate the opposed effects of Il33 deletion and rIL33 administration on neuroinflammation in PD, emphasizing the therapeutic potential of IL33 in regulating neuroinflammation and neuronal viability in the central nervous system (CNS).
+Keywords: IL33; Parkinson’s disease; Neuroinflammation; Neuronal death
+
+Pin-Han Peng, Yung-Yee Chang, Yu Lee, Ying-Fa Chen, Pao-Yen Lin, Chi-Fa Hung, Tsu-Kung Lin, Mian-Yoon Chong, Liang-Jen Wang,
+Psychological well-being of individuals with Parkinson’s disease and their caregivers: A one-year follow-up study of patient-caregiver dyads,
+Journal of the Formosan Medical Association,
+2025,
+,
+ISSN 0929-6646,
+https://doi.org/10.1016/j.jfma.2025.06.007.
+(https://www.sciencedirect.com/science/article/pii/S0929664625002803)
+Abstract: Background
+Parkinson’s disease (PD) is one of the most common progressive neurodegenerative disorders, and its caregivers often experience a significant burden. This prospective study aimed to assess the dyadic dynamics of depression and anxiety severity in patients with PD and their caregivers, as well as changes in severity over a one-year follow-up period.
+Methods
+We recruited 181 patients with PD and their respective caregivers from a medical center. Psychological well-being was assessed using the Hamilton Depression Rating Scale (HAM-D) and the Hamilton Anxiety Rating Scale (HAM-A). We examined trends in depression and anxiety within PD patient-caregiver dyads and identified associated factors over the one-year follow-up.
+Results
+A total of 101 patients with PD and 101 caregivers completed the study. Patients had significantly higher HAM-D and HAM-A scores than their caregivers. Additionally, both patients and caregivers exhibited a significant increase in HAM-D scores at the one-year follow-up compared to baseline. Female gender and a history of suicide among caregivers of patients with PD were associated with greater severity of caregiver anxiety. Additionally, the use of anxiolytics and hypnotics by caregivers was associated with increased severity of both depression and anxiety. Furthermore, patients' HAM-D scores were significantly correlated with caregivers' depression severity.
+Conclusions
+Over the course of one year, depression severity worsened in both patients with PD and their caregivers. The severity of patients' depression was closely linked to that of their caregivers, highlighting the importance of addressing and managing dyadic interactions to prevent mutual worsening of depression and anxiety.
+Keywords: Parkinson's disease; Depression; Anxiety; Caregivers; Longitudinal study
+
+Mandy Miller Koop, Sarah J. Ozinga, Anson B. Rosenfeldt, Jay L. Alberts,
+Quantifying turning behavior and gait in Parkinson’s disease using mobile technology,
+IBRO Reports,
+Volume 5,
+2018,
+Pages 10-16,
+ISSN 2451-8301,
+https://doi.org/10.1016/j.ibror.2018.06.002.
+(https://www.sciencedirect.com/science/article/pii/S2451830118300013)
+Abstract: Gait and balance impairments associated with Parkinson’s disease (PD) are often refractory to traditional treatments. Objective, quantitative analysis of gait patterns is crucial in successful management of these symptoms. This project aimed to 1) determine if biomechanical metrics from a mobile device inertial measurement unit were sensitive enough to characterize the effects of anti-parkinsonian medication during the Timed Up and Go (TUG) Test, and 2) develop the Cleveland Clinic Mobility and Balance application (CC-MB) to provide clinicians with objective report following completion of the TUG. The CC-MB captured 3-dimensional acceleration and rotational data from people with PD (pwPD) to characterize center of mass movement while performing the TUG. Trials were segmented into four components: Sit-to-Walk, Gait, Turning, and Stand-to-Sit. Thirty pwPD were tested On and Off (12h) anti-PD medication. Significant improvements (p<0.05) between On versus Off conditions included: reduction in MDS-UPDRS III motor scores (10.7%), faster trial times (9.3%), more dynamic walking as evident by increased normalized jerk scores (vertical: 17.3%, medial-lateral: 12.3%), shorter turn durations (10.4%), and faster turn velocities (8%). Measures in Sit-to-Walk and Stand-to-Sit did not show significant changes. Trial time and turn velocity showed excellent test-retest reliability (ICC range: 0.83-0.96) across both medication states. A mobile device platform provided quantitative measures of gait and turning during the TUG that detected significant improvements from anti-parkinsonian medications. This platform is a low-cost, easy-to-use tool that can provide objective reports immediately following the clinical assessments, making it ideal for use in and outside the clinical setting.
+Keywords: Parkinson’s disease; Timed Up and Go; Consumer electronics device
+
+Delbar Daneshjou, Seyed Masood Nabavi, Parisa Shams, Pooya Faranoush, Mehri Salari, Marzieh Ebrahimi,
+The double-edged sword role of natural Killer cells in Parkinson's disease,
+Cellular Immunology,
+Volumes 409–410,
+2025,
+104928,
+ISSN 0008-8749,
+https://doi.org/10.1016/j.cellimm.2025.104928.
+(https://www.sciencedirect.com/science/article/pii/S0008874925000139)
+Abstract: Neurological disorders are the leading cause of disability worldwide, with Parkinson's disease (PD) emerging as a rapidly growing neurological condition on a global scale. Although treatments exist to alleviate symptoms and maintain patients' quality of life, PD remains incurable. According to some recent studies, natural killer (NK) cells may play a role in clearing alpha-synuclein aggregates, which are the main component of Lewy bodies that cause neuronal degeneration in Parkinson's disease. NK cells may also have an adverse impact on this condition by modulating inflammation and antigen-presenting cell function. Modifying NK cells derived from diverse sources, such as umbilical cord blood, presents a promising avenue for immunotherapy in PD patients, particularly during the early stages of the condition. Consequently, further research is essential to elucidate the mechanisms by which NK cells operate in Parkinson's patients and to assess their viability as potential biomarkers or therapeutic targets.
+Keywords: NK cells; Parkinson's disease; Inflammation; Alpha-synuclein; Immunology
+
+Mega Obukohwo Oyovwi, Kehinde Henrietta Babawale, Ejayeta Jeroh, Benneth Ben-Azu,
+Exploring the role of neuromodulation in neurodegenerative disorders: Insights from Alzheimer's and Parkinson's diseases,
+Brain Disorders,
+Volume 17,
+2025,
+100187,
+ISSN 2666-4593,
+https://doi.org/10.1016/j.dscb.2025.100187.
+(https://www.sciencedirect.com/science/article/pii/S2666459325000071)
+Abstract: Background
+Recent studies suggest neuromodulation as a potential therapeutic strategy for neurodegenerative disorders like Alzheimer's disease (AD) and Parkinson's disease (PD), despite their complex pathophysiology and limited treatments' efficacy, requiring further investigation.
+Objective
+This study aims to explore the impact of neuromodulation techniques on the symptoms and progression of AD and PD, focusing on their underlying mechanisms and therapeutic benefits.
+Method
+A comprehensive review of recent literature was conducted, encompassing published articles, results of clinical trials, animal studies, and meta-analyses regarding various neuromodulation techniques, including transcranial magnetic stimulation (TMS), deep brain stimulation (DBS), and transcranial direct current stimulation (tDCS). Data on cognitive function, motor control, and quality of life were extracted and analyzed.
+Results
+Neuromodulation techniques demonstrated promising outcomes in both AD and PD. TMS showed significant improvement in cognitive functions in AD patients, while DBS resulted in substantial relief of motor symptoms and improved quality of life in PD patients. Additionally, mechanisms such as enhanced neuroplasticity, modulation of neurotransmitter systems, and the potential for neuroprotective effects were identified as key contributors to these benefits.
+Conclusion
+Neuromodulation offers potential therapeutic solutions for managing symptoms and slowing neurodegenerative disorders like AD and PD, but further research is needed to understand long-term effects and optimal protocols.
+Keywords: Neuromodulation; Alzheimer's disease; Parkinson's disease; Transcranial magnetic Stimulation; Deep brain stimulation; Neurodegenerative disorders
+
+Qiyuan Sun, Mingmin Wu, Runxia Xie, Lingfeng Lai, Qiujie Chen, Jitian Guan,
+Exploring the Application Potential of α‑Synuclein Molecular Probes in Early Diagnosis of Parkinson’s Disease: Focus on Imaging Methods,
+ACS Chemical Neuroscience,
+2025,
+,
+ISSN 1948-7193,
+https://doi.org/10.1021/acschemneuro.5c00008.
+(https://www.sciencedirect.com/science/article/pii/S194871932500146X)
+Abstract: This review aims to explore the potential application of α-synuclein (α-syn) molecular probes in the early diagnosis of Parkinson’s disease (PD), particularly through systematic evaluation using medical imaging methods. In recent years, The abnormal aggregation of α-syn within the central nervous system is now recognized as a central driver of PD pathophysiology, solidifying its role as a critical diagnostic and prognostic biomarker. Early diagnosis of PD is critical for enabling precision therapeutic interventions and mitigating neurodegenerative progression, thereby enhancing long-term functional outcomes and the quality of life. However, challenges remain in clinical practice, particularly concerning the late timing of diagnosis and the lack of specific biomarkers. By analyzing the existing literature, we will assess the effectiveness of different imaging techniques combined with α-syn probes and discuss their advantages and limitations in clinical applications. These imaging methods can provide visualization of early pathological changes, helping to improve the recognition rate of PD. Finally, we emphasize the importance of future research to explore new molecular probes and imaging technologies that can improve early diagnosis rates and treatment outcomes for PD.
+
+Keywords: Parkinson’s disease; α-synuclein; medical imaging; molecular probes; biomarker
+
+Chiara Bertasini, Marco Rossini, Jacopo Grisotto, Dwaine Emerich, Matteo Brunelli, Serena Pedron, Cristina Parrado, Lars U. Wahlberg, Johan Lundkvist, Giovanna Paolone,
+Gene therapy device-based delivery of progranulin, prosaposin, and GDNF as a combined precision and neurorestorative therapy in the rat 6-OHDA model of parkinsonism,
+Experimental Neurology,
+Volume 395,
+2026,
+115474,
+ISSN 0014-4886,
+https://doi.org/10.1016/j.expneurol.2025.115474.
+(https://www.sciencedirect.com/science/article/pii/S0014488625003395)
+Abstract: Parkinson's disease (PD) is a complex, multifactorial neurodegenerative disorder, characterized by a progressive degeneration of dopaminergic neurons, leading to significant motor impairments frequently associated with cognitive dysfunction and comorbidities in the elderly. Current treatments of PD are primarily symptomatic, highlighting the urgent need for disease-modifying therapies. An increasing body of evidence supports the pivotal role of lysosomal dysfunction in PD pathogenesis, providing new targets for therapeutic approaches. Particularly, recent studies suggest that among the genes implicated in PD are GRN and PSAP, encoding for progranulin (PGRN) and prosaposin (PSAP), respectively. We proved that conditioned media from a Gene Therapy Device-based delivery system (GTD)-PGRN, -PSAP, and -PGRN+PSAP were internalized by primary cortical neurons, leading to enhanced glucocerebrosidase (GCase) activity. Furthermore, we developed a GTD-delivered therapy to target lysosomal dysfunction and support the dopaminergic system, combining the lysosomal factors PGRN and PSAP with the neurorestorative glial cell line-derived neurotrophic factor (GDNF). Interestingly, each factor provided neuroprotection to dopaminergic neurons and preserved motor function in a 6-hydroxydopamine (6-OHDA)-induced neurotoxicity model. Furthermore, eight-month treatments with GTD-PSAP and PSAP+GDNF resulted in significant neurorecovery effects on dopaminergic neurons and motor deficits following 6-OHDA injection.
+Keywords: Parkinson's disease; Progranulin; Prosaposin; Glial cell line-derived neurotrophic factor; Cell therapy
+
+Abdallah Abbas, Haneen Sabet, Youssef Hawas, Obai Yousef, Omar Kassar, Maickel AbdelMeseh, Abdallah Ahmad Khatatbeh, Basant Lashin, Hoda Awad, Leslie J. Cloud, Ahmed Negida, Ahmed M. Raslan,
+Impact of Subthalamic Nucleus Deep Brain Stimulation on Gastrointestinal Symptoms and Gastric Emptying in Parkinson’s Disease: A Systematic Review and Meta-Analysis,
+Neuromodulation: Technology at the Neural Interface,
+2025,
+,
+ISSN 1094-7159,
+https://doi.org/10.1016/j.neurom.2025.07.005.
+(https://www.sciencedirect.com/science/article/pii/S1094715925002740)
+Abstract: Objective
+This systematic review and meta-analysis evaluates the efficacy of bilateral subthalamic nucleus (STN) deep brain stimulation (DBS) in improving gastric motility in patients with Parkinson’s disease (PD).
+Materials and Methods
+A systematic search was conducted in Scopus, Web of Science, PubMed, and Cochrane CENTRAL until December 15, 2024. Observational studies and clinical trials evaluating DBS effects on gastric motility and gastric emptying in patients with PD were included. Primary outcomes were changes in the gastrointestinal (GI) domain of the Non-Motor Symptoms Scale (NMSS) and 13CO2 excretion time (Tmax). Meta-analysis was performed using Review Manager 5.4, using a random-effects model when necessary.
+Results
+Eight studies (N = 379) were included. Meta-analysis showed a significant reduction in NMSS-GI domain scores after DBS (MD: −1.29, 95% CI: [−2.16, −0.42], p = 0.004). Subgroup analysis revealed sustained improvements at six months (MD: -1.46, 95% CI: [-2.34, -0.57], p = 0.001) and 12 months (mean difference [MD]: −1.12, 95% CI: [−2.23, −0.01], p = 0.05). For gastric emptying (Tmax 13CO2), no significant difference was found between patients on medication before DBS (with medication [WM]) and those off medication before DBS (without medication [WOM]) (MD: 2.58, 95% CI: [−3.94, 9.10], p = 0.44). However, a significant reduction in Tmax 13CO2 was observed in DBS-ON-WOM vs DBS-OFF-WOM (MD: −11.71, 95% CI: [−17.41, −6.02], p < 0.0001) and DBS-ON-WOM vs WM before DBS (MD: −15.46, 95% CI: [−20.89, −10.03], p < 0.00001).
+Conclusions
+Meta-analysis suggests that STN-DBS significantly relieves GI symptoms and improves gastric motility in patients with PD, with sustained benefits over 12 months. Future studies should assess long-term effects and optimize stimulation parameters for autonomic dysfunction.
+Keywords: Deep brain stimulation; gastric motility; nonmotor symptoms; Parkinson’s disease; subthalamic nucleus
+
+John Nicholas Cauba, Jihoo Woo, Russell W. Wiggins, Shizue Mito,
+Comprehensive review of in vitro gut-brain axis models in Parkinson’s disease research,
+Brain Organoid and Systems Neuroscience Journal,
+Volume 3,
+2025,
+Pages 44-55,
+ISSN 2949-9216,
+https://doi.org/10.1016/j.bosn.2025.03.002.
+(https://www.sciencedirect.com/science/article/pii/S2949921625000067)
+Abstract: This systematic review critically evaluates in vitro gut-brain axis models based on their effectiveness in advancing treatment strategies for Parkinson’s disease (PD). Models such as microfluidic devices, combined organ-on-a-chips (OOCs), and gut-brain organoids are analyzed for their ability to replicate key PD mechanisms, including intestinal barrier dysfunction, microbial dysbiosis, and α-synuclein aggregation. While these models are prospective tools in isolating facets of PD pathology such as microbiota modulation, neurotoxin transport, and neuroinflammation mitigation, challenges remain in their physiological relevance, scalability, and translational potential. This review discusses the designs and limitations of the latest in vitro models and identifies areas that may enhance their utility in developing effective treatments for PD.
+Keywords: in vitro gut-brain axis model; Parkinson’s disease; Gut-brain axis
+
+Jianglong Kong, Runxuan Chu, Sihan Ma, Yi Wang,
+Treatment and early diagnosis of Parkinson's disease: Opportunities of nanotechnology,
+Coordination Chemistry Reviews,
+Volume 544,
+2025,
+216959,
+ISSN 0010-8545,
+https://doi.org/10.1016/j.ccr.2025.216959.
+(https://www.sciencedirect.com/science/article/pii/S0010854525005296)
+Abstract: Parkinson's disease (PD) is a neurodegenerative disease with a high incidence in the elderly. As the global population ages, the prevalence of Parkinson's disease is rising each year. However, current clinical treatments cannot cure PD, but only alleviate the symptoms. Early diagnosis of PD can enable the detection and treatment of the lesions in time to effectively control the progress of the disease. Thus, there is an urgent need of the development of new methods for the early diagnosis and treatments of PD. In this review, we focus on the novel nanotechnology-based therapeutic approaches and biomarker-based early diagnosis for PD. In addition, the early diagnosis methods using the exosomes in various body fluid samples of PD patients were also summarized. Challenges and prospects of nanotechnology in the treatment and early diagnosis of PD are also discussed.
+Keywords: Parkinson's disease; Nanotechnology; Treatment; Early diagnosis
+
+Yanping Shu, Wei Hong, Jiaoying Liu, Xianlin Zhu,
+Exploring the Association of dietary index for gut microbiota with Parkinson's disease and depression: Insights from NHANES,
+Journal of Affective Disorders,
+Volume 386,
+2025,
+119461,
+ISSN 0165-0327,
+https://doi.org/10.1016/j.jad.2025.119461.
+(https://www.sciencedirect.com/science/article/pii/S0165032725009036)
+Abstract: Background
+Depression and Parkinson's disease (PD) are important public health issues strongly associated with diet and gut microbiota. The aim of this study was to investigate the association of the dietary index for gut microbiota (DI-GM) with Parkinson's disease and depression.
+Methods
+This cross-sectional study used data from the National Health and Nutrition Examination Survey (NHANES) database (2007–2020), with a total of 26,473 participants aged 18–80 years, weighted to represent 256 million US adults. Dietary recall data were used to calculate the DI-GM. Weighted logistic regression was used to analyze the relationship between the DI-GM and depression and PD, and to explore the potential mediating role of the DI-GM in depression and PD. Subgroup analyses and restricted cubic spline (RCS) analyses were also performed.
+Results
+The weighted prevalence of PD combined with depression was approximately 22.99 %. We found a possible inverted U-shaped relationship between DI-GM and depression. Higher DI-GM scores were associated with a lower risk of PD (OR = 0.84, 95 % CI (0.75,0.94)). Mediation modelling indicated no significant role for DI-GM in the relationship between depression and PD. The RCS showed a non-linear association between DI-GM and PD.
+Conclusions
+A dose-dependent nonlinear association was identified between the DI-GM and PD. Preliminary evidence suggests a potential inverted U-shaped DI-GM-depression relationship requiring validation. This suggests that focusing on DI-GM may be helpful in studying PD and depression.
+Keywords: Parkinson's disease; Depression; NHANES; DI-GM; Gut microbiota
+
+Peng Li-Hua, Lamarana Jallow, Yurong Tan, Ousman Bajinka,
+Precision medicine and music therapy for Parkinson’s Disease,
+Clinical Parkinsonism & Related Disorders,
+Volume 13,
+2025,
+100382,
+ISSN 2590-1125,
+https://doi.org/10.1016/j.prdoa.2025.100382.
+(https://www.sciencedirect.com/science/article/pii/S2590112525000866)
+Abstract: Background: Parkinson’s disease (PD) is a complex neurodegenerative disorder requiring multidimensional treatment approaches. Recent breakthroughs in precision medicine and growing evidence for music therapy efficacy present new opportunities for comprehensive PD management that addresses both biological mechanisms and quality of life outcomes Objectives: This mini review evaluates the current state of precision medicine and music therapy interventions for PD, with three primary aims: (1) to synthesize evidence for genetic-based treatments and music-based interventions, (2) to identify potential synergies between these approaches, and (3) to highlight critical implementation challenges in clinical practice. Finding: Our analysis revealed that precision medicine approaches, including GBA1-targeted venglustat and LRRK2 kinase inhibitors, show significant promise in clinical trials when guided by genetic profiling. Concurrently, music therapy demonstrates robust clinical benefits, with RAS producing 15–20% improvements in gait parameters and group singing programs enhancing both speech function and psychosocial wellbeing. Emerging technologies, particularly wearable sensors and adaptive AI platforms, are enhancing the precision and personalization of both treatment modalities. However, we identified persistent challenges including the need for standardized biomarkers in precision medicine and more rigorous clinical validation for music therapy protocols. Conclusions: The strategic integration of precision medicine and music therapy offers a novel, patient-centered framework for PD management that simultaneously targets pathological mechanisms and functional outcomes. Future implementation should focus on overcoming accessibility barriers, conducting large-scale longitudinal studies, and developing integrated treatment protocols that combine genetic insights with personalized neuromodulation approaches.
+Keywords: Parkinson’s disease; Precision medicine; Music therapy; Genetic subtyping; Rhythmic auditory stimulation; Neurorehabilitation
+
+Sungtaek Oh, Jaehun Jung, Jinhyeok Kim, Yura Jang, Catherine C. Bakker, Alexander Y. Pantelyat, Zhen Zhang, Ted M. Dawson, Chan Hyun Na, Liana S. Rosenthal,
+Discovery and validation of biomarkers for Parkinson’s disease from human cerebrospinal fluid using mass spectrometry-based proteomics analysis,
+eBioMedicine,
+Volume 118,
+2025,
+105844,
+ISSN 2352-3964,
+https://doi.org/10.1016/j.ebiom.2025.105844.
+(https://www.sciencedirect.com/science/article/pii/S2352396425002889)
+Abstract: Summary
+Background
+Proteomic biomarkers for Parkinson’s disease (PD) are critical for identifying new targets for disease-modifying therapies and expanding our understanding of disease pathophysiology.
+Methods
+Deep proteome analysis of a cerebrospinal fluid (CSF) cohort (40 PD, 40 controls) coupled with previous data from the substantia nigra (SN) proteome was used to discover low abundance biomarkers involved in PD pathogenesis. We validated our findings using parallel reaction monitoring mass spectrometry with an independent cohort of CSF samples (80 PD, 80 controls). We further evaluated our biomarkers with a separate cohort of 80 individuals with Dementia with Lewy Bodies (DLB). We then correlated our candidate biomarkers with motor and cognitive performance.
+Findings
+We identified 3683 unique proteins, 1425 of them quantified across all 80 discovery samples and 505 that separated PD from controls. Using a stepwise criterion and integrating with 1140 differentially expressed proteins in SN, we identified 34 candidate biomarker proteins. The validation study resulted in 8 proteins (VSTM2A, VGF, SCG2, PI16, OMD, FAM3C, EPHA4, and CCK) with expression patterns and effect sizes like the discovery set. When controlling for age and gender, CCK and OMD maintained their significance and two additional proteins trended toward significance (VGF and PI16, p = 0.057). PI16 and OMD were upregulated in PD, while the others were downregulated. Our investigation is the first to our knowledge to identify PI16 as a possible biomarker and to identify CCK in the CSF of individuals with PD. Combining 4 of the proteins had modest ability to separate PD from controls. CCK and VGF significantly predicted MoCA total scores amongst the DLB group.
+Interpretation
+These candidate biomarkers add to our understanding of PD pathophysiology and the relationship between PD and DLB. They provide further research directions toward disease-modifying therapies.
+Funding
+National Institute of Neurological Disorders and Stroke.
+Keywords: Parkinson’s disease; Biomarkers; Proteomics; Cerebrospinal fluids; Mass spectrometry
+
+Fatemeh Rafizadeh, Masoud Saadat Fakhr, Elham Esmaeili, Zahra Amini, Koosha Amiri, Delyar Mardmomen, Hadi Aqajani, Rozita Hajibagher Naeeni,
+The impact of the quarantine period due to the pandemic on the severity of Parkinson's disease and the quality of life of Parkinson's patients,
+Clinics,
+Volume 80,
+2025,
+100605,
+ISSN 1807-5932,
+https://doi.org/10.1016/j.clinsp.2025.100605.
+(https://www.sciencedirect.com/science/article/pii/S1807593225000316)
+Abstract: Objective
+The COVID-19 pandemic has a significant impact on the physical and mental health of people around the world. Parkinson's patients need to visit hospitals regularly to evaluate and adjust the dosage of drugs. Studies have shown that anxiety, exacerbated by existing conditions ‒ including the challenges posed by the COVID-19 pandemic ‒ can aggravate the symptoms of Parkinson's disease. This study aims to assess the impact of the quarantine period on the severity of movement symptoms, quality of life, non-motor symptoms, and the relationship with sex, education level, and age in patients with Parkinson's disease.
+Methods
+This descriptive cross-sectional study includes 200 patients with Parkinson's disease who were treated in Bu Ali Hospital from April 2019 to the end of 2021. Primary data was collected using the patients' files, which included information on age, gender, education level, medications and dosage, duration of Parkinson's disease, the severity of the disease was evaluated based on the Hohen and Yehr (H&Y) criteria, and Quality of Life (QOL) and the impact of the quarantine period on their illness and quality of life has been collected through the Parkinson's Disease Questionnaire (PDQ-39) questionnaire. The collected data were analyzed using SPSS software, descriptive statistics, t-test, and analysis of variance.
+Results
+The quarantine period has a significant effect on the severity of Parkinson's disease and quality of life. The mean severity of the disease increased from 2.85 before quarantine to 3.30 during quarantine (p < 0.05), indicating an increase in motor symptoms. Similarly, quality of life scores in all dimensions decreased from 62.8 before quarantine to 48.2 during quarantine (p < 0.05), indicating a decrease in quality of life. Pearson's correlation test was used to investigate the relationship between age and the change in patients’ quality of life and the change in disease severity (p < 0.05).
+Conclusion
+The quarantine period due to the COVID-19 epidemic has had a significant impact on the severity of Parkinson's disease and the quality of life of patients. The findings of this study indicate the need to develop strategies to provide better health care, social support, and physical activity for patients with Parkinson's disease during quarantine and the pandemic.
+Keywords: Lockdown; Parkinson's disease; Disease severity; Quality of life; Movement Symptoms
+
+Jhanvi Thakur, Angel Godad,
+Deciphering the role of neuropeptides as biomarkers for early diagnosis of Parkinson's disease,
+Life Sciences,
+Volume 363,
+2025,
+123376,
+ISSN 0024-3205,
+https://doi.org/10.1016/j.lfs.2025.123376.
+(https://www.sciencedirect.com/science/article/pii/S0024320525000098)
+Abstract: Parkinson's disease (PD) is a neurological condition and is characterized by both motor and non-motor symptoms. Early diagnosis is essential for effective therapy and management; nevertheless, present diagnostic methods are frequently insufficient and primarily rely on clinical symptoms that appear later in the disease. Neuropeptides, such as alpha-synuclein (α-syn), Substance P (SP), neurotensin (Nts), Neuropeptide Y (NPY), and somatostatin (SST), exhibit significant potential as biomarkers for the early identification of Parkinson's disease (PD). The pathophysiology of Parkinson's disease is closely associated with the dysregulation of these neuropeptides, which are essential in many neurophysiological processes. Advancements in detection technologies, including the Enzyme-Linked Immunosorbent Assay (ELISA), have rendered it possible to precisely and sensitively quantify neuropeptides in a variety of bodily fluids, including blood, saliva, tears, urine, and cerebrospinal fluid (CSF). Studies show that PD patients have different amounts of neuropeptides in their biological fluids. These differences are correlated with the severity of the disease and help to distinguish PD patients apart from individuals with other neurodegenerative conditions. Despite being less investigated, Nts and SST are also involved in neuroprotection and dopaminergic transmission, they too hold significant characteristics as diagnostic biomarkers. This article highlights the possible use of neuropeptides as PD diagnostic biomarkers. Integrating neuropeptide biomarkers into normal diagnostic processes can substantially enhance early diagnosis. This enables early therapeutic interventions and improves outcomes for individuals with PD.
+Keywords: Parkinson's disease; Neuropeptides; Alpha-synuclein; Substance p; Neurotensin; Neuropeptide y; Somatostatin; Biomarkers
+
+Júlio César Claudino dos Santos, Pedro Everson Alexandre de Aquino, Conceição da Silva Martins Rebouças, Camilla Costa Sallem, Marissa Prudente Pinheiro Guizardi, Felipe Micelli Noleto, Davila de Sousa Zampieri, Nágila Maria Pontes Silva Ricardo, Débora Hellen Almeida de Brito, Edilberto Rocha Silveira, Renata Ferreira de Carvalho Leitão, Gerly Anne de Castro Brito, Glauce Socorro de Barros Viana,
+Neuroprotective effects of a cannabidiol nanoemulsion in a rotenone-induced rat model of Parkinson's disease: Insights into the gut-brain axis,
+European Journal of Pharmacology,
+Volume 1002,
+2025,
+177748,
+ISSN 0014-2999,
+https://doi.org/10.1016/j.ejphar.2025.177748.
+(https://www.sciencedirect.com/science/article/pii/S0014299925005023)
+Abstract: Parkinson's disease (PD) is a neurodegenerative disease characterized by motor and non-motor symptoms, often associated with the accumulation of α-synuclein, neuroinflammation and oxidative stress in the central and peripheral systems. Considering that patients with Parkinson's disease often have gastrointestinal symptoms, this study aimed to investigate whether a rotenone-induced rat model of PD can induce intestinal changes and the neuroprotective effects of a cannabidiol (CBDne) nanoemulsion formulation, focusing on the striatum and intestine. Wistar rats were divided into six groups: control, rotenone (2.75 mg/kg), CBDne (1.25 mg/kg) and rotenone, CBDne (2.5 mg/kg) and rotenone, CBDne (5.0 mg/kg) and rotenone and CBDne alone (1.25 mg/kg). Behavioral assessments, including open field, Y maze and novel object recognition tests, were performed to evaluate motor and cognitive functions. Biochemical, histological and immunohistochemical analyses were performed to assess markers of neuroinflammation, oxidative stress (iNOS, nNOS, nitrite levels, lipid peroxidation, glutathione content, GFAP, IBA1) and α-synuclein aggregation in the striatum and duodenum. The results showed that rotenone treatment significantly increased α-synuclein accumulation in both the striatum and duodenum, along with elevated levels of GFAP and IBA1, indicating elevated glial activation. In addition, rotenone significantly increased oxidative stress markers, including nitrite levels and lipid peroxidation in the prefrontal cortex, hippocampus and striatum. CBDne normalized these markers, returning them to control levels. In addition, rotenone caused a 38–47 % reduction in glutathione (GSH) content, with the most significant decrease in the striatum. CBDne effectively restored GSH levels to those of the control group. Behavioral improvements were observed in the CBDne-treated groups, along with attenuation of rotenone-induced weight loss. These findings suggest that CBDne exerts broad neuroprotective, anti-inflammatory and antioxidant effects, targeting central and peripheral α-synucleinopathies and oxidative damage. Its ability to modulate inflammation, oxidative stress and protein aggregation highlights its therapeutic potential for controlling the motor and non-motor symptoms of PD.
+Keywords: Cannabidiol (CBD); Parkinson's disease (PD); Rotenone; Cognitive deficits. inflammation; Brain-gut axis; Neuroprotection; Oxidative stress
+
+Alexandra Thompson,
+Rethinking Parkinson's,
+New Scientist,
+Volume 266, Issue 3540,
+2025,
+Pages 30-33,
+ISSN 0262-4079,
+https://doi.org/10.1016/S0262-4079(25)00670-0.
+(https://www.sciencedirect.com/science/article/pii/S0262407925006700)
+Abstract: We have fresh hope of treating the world's fastest-growing neurological condition – thanks to the surprising discovery that the disease might exist in two types, says Alexandra Thompson
+
+Xinsheng Li, Xiaoran Wang, Ting Zhou, Jiaojiao Yu, Heng Xiang, Cai Zhang, Shao-Kai Sun, Ruxia Liu,
+Minimally invasive upconversion optogenetics for Parkinson's disease treatment,
+Biomaterials,
+Volume 324,
+2026,
+123509,
+ISSN 0142-9612,
+https://doi.org/10.1016/j.biomaterials.2025.123509.
+(https://www.sciencedirect.com/science/article/pii/S0142961225004284)
+Abstract: The treatment of Parkinson's disease (PD) is greatly limited by the side effects of levodopa, the current gold standard medication, which can cause severe motor complications. Optogenetic stimulation holds promise for PD therapy, but it has been plagued by invasive fiber insertion. Herein, we propose the minimally invasive treatment of PD using upconversion optogenetics for the first time. Channelrhodopsin-2 (ChR2) is expressed in the globus pallidus externus (GPe) brain region of PD mice, followed by in situ injection of upconversion nanoparticles (UCNPs). When near-infrared (NIR) light is delivered through a fiber fixed on the skull, UCNPs can convert NIR light into blue light, thereby effectively activating the GPe. Open field and rotarod tests demonstrate significant improvement in motor abilities and coordination in PD mice. Compared to conventional optogenetics, upconversion optogenetics not only achieves equivalent therapeutic effects but also avoids damage and inflammation caused by fiber insertion. Furthermore, this method can be extended to modulate neural activity in deep brain regions, including substantia nigra pars compacta and paraventricular nucleus of the thalamus, with neural activation effects lasting for up to one week. Our study presents a minimally invasive optogenetic strategy for PD treatment, with potential therapeutic applications in various neurological disorders.
+Keywords: Upconversion; Optogenetics; Parkinson's disease; Minimally invasiveness
+
+Madhav Kumar, Lizbeth Sayavedra, Dave J. Baker, Yogesh S. Shouche, Arjan Narbad,
+Genome sequence of Eubacterium callanderi AM6, isolated from a Parkinson’s disease patient,
+Microbiology Resource Announcements,
+Volume 14, Issue 4,
+2025,
+,
+ISSN 2576-098X,
+https://doi.org/10.1128/mra.00039-25.
+(https://www.sciencedirect.com/science/article/pii/S2576098X25001240)
+Abstract: ABSTRACT
+
+Here, we report the genome sequence of Eubacterium callanderi AM6, isolated from a fecal sample obtained from a Parkinson’s disease patient. The bacterial genome was sequenced using Illumina technology on a NextSeq 500 platform. The assembled genome of Eubacterium callanderi comprises 4,318,463 base pairs with a G + C content of 47.5%.
+Keywords: Eubacterium callanderi; genome; Parkinson's disease; gut microbiome
+
+Rehab A. Ismail, Mohamed Abobakr, Mostafa Mohamed, Ahmed Hussieny, Mohamed Alaa, Mostafa tarek, Shereen Saeid Elshaer,
+Unlocking molecular secrets: The role of miRNAs in Parkinson's disease dynamics,
+Neuropharmacology,
+Volume 278,
+2025,
+110542,
+ISSN 0028-3908,
+https://doi.org/10.1016/j.neuropharm.2025.110542.
+(https://www.sciencedirect.com/science/article/pii/S0028390825002485)
+Abstract: Parkinson's disease (PD) is a devastating neurological age-related ailment that causes dysfunction in the motor system, leading to symptoms such as involuntary shaking at rest, muscle stiffness with jerky movements, difficulty with walking, sluggish movement, and issues in sustaining posture. A state of insufficient dopamine in the striatum can be linked to a significant decrease in dopaminergic neurons within the substantia nigra pars compacta. Likewise, the formation of Lewy bodies is a distinctive pathogenic feature of PD. Although contemporary therapeutic strategies for PD focus on preserving dopaminergic neurons or restoring dopamine levels in the brain, it is crucial to recognize that achieving total remission of the illness is still inaccessible. MicroRNAs (miRNAs) are a group of tiny RNAs that do not code for proteins. They play a substantial role in controlling gene expression after the process of transcription. miRNAs have a pivotal role in the underlying pathological mechanisms of various neurodegenerative diseases, including PD. The objective of this research initiative is to create a molecular network in order to identify miRNAs that have significant impacts on the evolution of PD, with the intention of utilising them for instant diagnosis as well as prompt prognosis.
+Keywords: Parkinson's disease; PD; miRNAs; Biomarkers; Neurodegeneration; Neuroinflammation
+
+R.O. Panicker, D. Yashasvi, J. James, S. Ittappa,
+Automatic detection of Parkinson’s disease using machine learning and deep learning: A recent literature review,
+Ethics, Medicine and Public Health,
+Volume 33,
+2025,
+101079,
+ISSN 2352-5525,
+https://doi.org/10.1016/j.jemep.2025.101079.
+(https://www.sciencedirect.com/science/article/pii/S2352552525000386)
+Abstract: Background
+Parkinson’s disease (PD) is a progressive condition of the brain and central nervous system that causes a gradual deterioration in body movement. Major symptoms of PD are stiffness in the legs, arms, and torso; tremor, slow movement, balance problems, depression, etc. PD can be diagnosed based on the above-mentioned common symptoms. Yet, diagnostic imaging techniques that are noninvasive, such as Positron Emission Tomography (PET) can help the doctors to detect PD. Every year, an estimated 60,000 new cases of PD are diagnosed. Numerous machine learning (ML) and deep learning (DL) approaches have been suggested in the literature for the automated detection of PD. The accurate diagnosis of PD poses a challenge due to the absence of a standardized and objective approach. The integration of ML algorithms into medical diagnostics has enhanced the precision of disease predictions, making the diagnosis more effective.
+Methodology
+This paper presents a systematic review of automatic PD detection used machine ML and DL, from papers published between 2010 and 2024. Through the extensive and careful search procedure, 67 papers were selected from a total of 262. We retrieved these articles from various academic databases such as Google Scholar, IEEE Xplore and Scopus ensuring detailed mention of relevant literature.
+Result
+Through this review, we can understand how ML techniques can be a partner to make the automatic detection of PD faster and efficient. We also addressed the different public database sources of PD such as UCI Parkinson’s Dataset, Parkinson’s Drawing Dataset etc. so that the researchers in this field can easily use these datasets. Furthermore, we identified some benefits, limitations and gaps, which should be addressed in the future.
+Conclusion
+In conclusion, the field of automatic detection of PD has witnessed remarkable advancements through the integration of machine learning, sensor technologies and various techniques. The reviewed literature highlights the efficacy of various classification algorithms such as Support Vector Machines (SVM), Random Forests (RF), etc., with them consistently demonstrating superior accuracy in distinguishing individuals with PD.
+Keywords: Automatic methods; Deep learning; Machine learning; Parkinson’s disease
+
+Wenjing Zhang, Ting Zhang, Jiayu Ding, Jingwen Cao, Zheyan He, Yanling Liu, Yong Juan Zhao, Chungen Qian, Chenzhong Li, Jiasi Wang, Bo Peng, Cheng Jiang,
+The PRIDE system: A photo-responsive platform for high-efficiency isolation of extracellular vesicles for Parkinson's disease diagnostics,
+Chemical Engineering Journal,
+Volume 521,
+2025,
+167006,
+ISSN 1385-8947,
+https://doi.org/10.1016/j.cej.2025.167006.
+(https://www.sciencedirect.com/science/article/pii/S1385894725078453)
+Abstract: Parkinson's disease (PD) is a progressive neurodegenerative disorder still lacking reliable molecular diagnostic tools. The identification and validation of highly relevant biomarkers are crucial for disease stratification in PD. Neuron extracellular vesicles (EVs), carrying unique molecular fingerprints from neuronal cells, show potential as novel biomarkers. Appropriate platforms that enable the effective harvest of intact EVs are of vital importance. However, current isolation and release methods of EVs often compromise efficiency or structure for downstream applications. Herein, we present a photo-responsive isolation for destruction-free extracellular vesicles (PRIDE) system, a versatile platform based on magnetic beads designed for efficient and gentle EV capture and release. PRIDE utilizes a trifunctional molecule (ZT) that enables solid-surface functionalization via an alkyne handle, bioorthogonal antibody conjugation via a tetrazine moiety, and a photocleavable linker. This system achieves 82.7 % capture efficiency and 86.1 % release with rapid EV release within 80 s while maintaining EV bioactivity and structure. Using anti-ATP1A3 antibody, PRIDE selectively isolates neuron-specific EVs from clinical serum samples, enabling detection of α-synuclein within the EV cargo. Analysis of ATP1A3+ EVs from serum samples yielded an area under the curve (AUC) of 0.92 (PD vs healthy controls), highlighting ATP1A3+ EVs can serve as promising PD biomarker. Remarkably, the modular design of PRIDE allows adaptation to diverse bio-targets study through alternative affinity agents, providing a powerful platform for disease diagnostics and therapeutic innovation.
+Keywords: Light-controlled release; Non-destructive isolation; Click chemistry; Extracellular vesicles; Parkinson's disease
+
+Dandan Kou, Keyang Xu, Jiahui Yin, Ning Wang, Ruru Zhang, Jianfeng Zeng, Mingyuan Gao,
+Intranasal delivery of rotigotine to the brain for treating Parkinson’s disease,
+Fundamental Research,
+2025,
+,
+ISSN 2667-3258,
+https://doi.org/10.1016/j.fmre.2025.02.004.
+(https://www.sciencedirect.com/science/article/pii/S2667325825000871)
+Abstract: ABSTRACT
+The development of sustainable and non-invasive method for delivering drugs to the brain is crucial for the effective treatment of Parkinson’s disease (PD). In this study, nanoparticles were formulated by using poly (ethylene glycol)-block-poly (propylene glycol)-block-poly (ethylene glycol) (PEG-b-PPG-b-PEG) to facilitate an efficient intranasal delivery of rotigotine directly into the brain. It was found that the intranasal route enabled more effective accumulation of rotigotine in the brain than conventional intravenous administration, demonstrating its feasibility as an innovative delivery approach for PD treatment. Furthermore, the behavioral test, brain histology and immunochemistry analyses demonstrated a significant improvement in the symptoms of PD-like neurodegeneration in mice treated with intranasally delivered rotigotine-loaded nanoparticles. These outcomes affirm an outstanding therapeutic efficacy of the nano-formulation for intranasal delivery, highlighting its potential for the effective treatment of neurodegenerative disorders, particularly PD.
+Keywords: Intranasal administration; Rotigotine; Nanodrug; Parkinson’s disease
+
+Zorian Radomyslsky, Sara Kivity, Rut Cohen, Mor Saban,
+ADHD and Parkinson's disease: unraveling the link and implications for early intervention,
+Journal of Affective Disorders,
+Volume 386,
+2025,
+119462,
+ISSN 0165-0327,
+https://doi.org/10.1016/j.jad.2025.119462.
+(https://www.sciencedirect.com/science/article/pii/S0165032725009048)
+Abstract: Background
+Attention deficit/hyperactivity disorder (ADHD) and Parkinson's disease (PD) are neurodevelopmental and neurodegenerative conditions respectively, involving alterations in dopamine signaling pathways. Emerging evidence suggests ADHD may be a potential risk factor for earlier PD onset. However, rigorous investigation of this association is still lacking.
+Aim
+To examine the association between ADHD history and subsequent development of PD using a large retrospective cohort study.
+Methods
+Patients aged ≥50 years were identified from clinician databases between 2010 and 2022 (N = 13,098) and categorized based on ADHD diagnosis. This retrospective cohort study employed Cox proportional hazards models to estimate hazard ratios (HR) for PD according to ADHD history, adjusting for demographic and clinical covariates. Kaplan-Meier survival analysis compared PD-free survival between ADHD and non-ADHD groups, while subgroup analyses explored the effects of ADHD medication use.
+Results
+Individuals with a prior ADHD diagnosis had aa 33 % higher risk of PD (HR = 1.33, 95 % CI 1.12–1.58). Individuals with ADHD exhibited an earlier average age of PD onset. Kaplan-Meier curves demonstrated significantly poorer long-term PD-free survival among individuals with ADHD compared to those without. Subgroup analyses indicated that ADHD medication use did not significantly modify PD risk, as survival trends remained consistent across medicated and non-medicated groups.
+Conclusion
+This study provides compelling evidence that ADHD influences PD risk and age of onset. Having ADHD history appears to independently impact long-term PD outcomes. The results highlight a need for tailored monitoring approaches for individuals with ADHD who may face an accelerated PD trajectory. Further research should investigate mechanisms and preventive strategies for high-risk neurodevelopmental populations.
+
+Weiling Cheng, Xiao Liang, Wei Zeng, Jiali Guo, Zhibiao Yin, Jiankun Dai, Daojun Hong, Fuqing Zhou, Fangjun Li, Xin Fang,
+Machine learning approach effectively discriminates between Parkinson’s disease and progressive supranuclear palsy: Multi-level indices of rs-fMRI,
+Brain Research Bulletin,
+Volume 229,
+2025,
+111476,
+ISSN 0361-9230,
+https://doi.org/10.1016/j.brainresbull.2025.111476.
+(https://www.sciencedirect.com/science/article/pii/S0361923025002886)
+Abstract: Aim
+Parkinson’s disease (PD) and progressive supranuclear palsy (PSP) present similar clinical symptoms, but their treatment options and clinical prognosis differ significantly. Therefore, we aimed to discriminate between PD and PSP based on multi-level indices of resting-state functional magnetic resonance imaging (rs-fMRI) via the machine learning approach.
+Materials and methods
+A total of 58 PD and 52 PSP patients were prospectively enrolled in this study. Participants were randomly allocated to a training set and a validation set in a 7:3 ratio. Various rs-fMRI indices were extracted, followed by a comprehensive feature screening for each index. We constructed fifteen distinct combinations of indices and selected four machine learning algorithms for model development. Subsequently, different validation templates were employed to assess the classification results and investigate the relationship between the most significant features and clinical assessment scales.
+Results
+The classification performance of logistic regression (LR) and support vector machine (SVM) models, based on multiple index combinations, was significantly superior to that of other machine learning models and combinations when utilizing automatic anatomical labeling (AAL) templates. This has been verified across different templates.
+Conclusions
+The utilization of multiple rs-fMRI indices significantly enhances the performance of machine learning models and can effectively achieve the automatic identification of PD and PSP at the individual level.
+Keywords: Parkinson’s disease; Progressive supranuclear palsy; Rs-fMRI
+
+Durlav Chowdhury, Ashmita Das, Mrityunjay Mishra,  Jayashree, Arijit Das, Surendra H. Bodakhe,
+Olfactory Dysfunction: An early indicator of parkinson's disease,
+Brain Disorders,
+Volume 17,
+2025,
+100209,
+ISSN 2666-4593,
+https://doi.org/10.1016/j.dscb.2025.100209.
+(https://www.sciencedirect.com/science/article/pii/S2666459325000290)
+Abstract: Parkinson's disease (PD) is the foremost movement condition globally. It is marked by a decline in olfactory function and a reduction in neurotrophic factors, especially α-synuclein, associated with synaptic activity and degeneration. This review seeks to clarify the cerebral pathways implicated in the initiation and advancement of PD. Anosmia has been identified as a risk factor for the subsequent development of PD. Thus, olfactory impairment is suggested as an initial sign or biomarker of PD. Furthermore, it investigates the correlation between the stomach and the brain, the influence of olfactory perception, and other factors that could hinder the advancement of PD, such as smoking, coffee intake, and particular therapies. We proposed that if anosmia is diagnosed in a patient, it may indicate PD, allowing us to initiate preventive medication for Parkinsonism.
+Keywords: Parkinson's Disease; Olfactory Bulb; CNS; Neuroanatomy; Neurodegenerative Disorders; α-Synuclein
+
+Yingyan Li, Yuhan Gu, Jun Li, Fanglin Liu, Huan Chen, Hongwei Hou, Qingyuan Hu,
+Shared pathogenic mechanisms of Parkinson's disease and ulcerative colitis: α7 nicotinic acetylcholine receptor as a potential therapeutic target,
+International Journal of Biological Macromolecules,
+Volume 319, Part 4,
+2025,
+145701,
+ISSN 0141-8130,
+https://doi.org/10.1016/j.ijbiomac.2025.145701.
+(https://www.sciencedirect.com/science/article/pii/S0141813025062567)
+Abstract: Recent studies suggest a potential comorbidity between Parkinson's disease (PD) and Ulcerative Colitis (UC), with epidemiological evidence indicating that smoking reduces the risk of both conditions. However, the underlying mechanisms remain unclear. In this study, we aimed to identify key genes involved in the shared pathological mechanisms of PD and UC and to validate their functional relevance. We also explored the therapeutic potential of nicotinic acetylcholine receptors (nAChRs) in both diseases. Using gene expression profiles, we identified UC was characterized by broader cytokine secretion, while PD exhibited specific loss of neuronal interneurons. We identified four genes - FZD9, FGR, SLC7A5, and BATF3 - as key diagnostic markers for both diseases. Notably, we observed dysregulation of α7nAChR which was associated with alterations in Wnt signaling and depletion of neuronal interneurons. CHRNA7 expression and Wnt signaling pathways correlated with the four key genes in both PD and UC datasets. In murine models, nicotine alleviated motor deficits in PD and reduced colitis severity in UC, restoring the WNT2-FZD9-β-catenin signaling pathway. Our findings highlight a shared pathological mechanism between PD and UC and suggest that α7nAChR may serve as a potential therapeutic target through modulation of Wnt signaling and inflammatory responses in both diseases.
+Keywords: Parkinson's disease; Ulcerative colitis; nAChR
+
+Yu Fan, Zhen Hu, Jing-jin Wan, Yi-ren Yang, Si-jia Huang, Fang-zheng Chen, Min Zhong, Xin-yi Zhou, Jun Liu, Yuan-yuan Li,
+Cataracts as a potential non-motor marker for Parkinson's disease: An observational study based on UK biobank data,
+NeuroMarkers,
+Volume 2, Issue 4,
+2025,
+100112,
+ISSN 2950-5887,
+https://doi.org/10.1016/j.neumar.2025.100112.
+(https://www.sciencedirect.com/science/article/pii/S2950588725000771)
+Abstract: Although Parkinson’s disease (PD) is primarily classified as a movement disorder, it is frequently accompanied by a spectrum of non-motor symptoms, some of which can precede the onset of motor symptoms by over a decade. Early recognition of these non-motor symptoms provides an opportunity for earlier diagnosis and intervention. Recent research has explored the potential association between cataracts and PD, though findings have been inconsistent. Therefore, the aim of this study was to analyze and validate whether cataracts could serve as a potential non-motor marker for PD. This study utilized data from the UK Biobank, a large prospective cohort study of over 500,000 participants, to investigate the relationship between cataracts and PD using Cox proportional hazards models. A nested case-control analysis of the data from matched case-controllers was performed based on newly diagnosed cataracts during the follow-up period. The primary analyses included 293,261 participants aged 55–70 years. In the univariate Cox regression analysis, cataracts were associated with an increased risk of PD (hazard ratio [HR] = 1.57, 95 % confidence interval [CI]: 1.332–1.850, P = 6e-08). This association remained statistically significant across all three multivariate models, which were adjusted for different sets of covariates. Subgroup analyses demonstrated that cataracts were linked to a higher risk of PD across nearly all subgroups. Furthermore, sensitivity analyses excluding participants diagnosed with PD within 1 or 5 years of baseline yielded consistent results. In the case-control study, 53,626 participants with cataracts diagnosed during the follow-up period were 1:1 matched with healthy controls according to sex and age. This analysis similarly found that cataracts were associated with increased PD risk (odds ratio [OR] = 1.389, 95 % CI: 1.240–1.555, P = 1e-08). However, the Mendelian randomization analysis did not support a causal relationship between cataracts and PD (OR = 1.098, 95 % CI: 0.856–1.407, P = 0.462), indicating that although an association exists between cataracts and PD, it may not reflect a direct causal pathway. In summary, this study identified a significant association between cataracts and an increased risk of developing PD, suggesting that cataracts might serve as a potential non-motor marker of PD. Further research is warranted to elucidate the underlying mechanisms linking cataracts to PD.
+Keywords: Case-control study; Cataract; Cohort study; Mendelian randomization (MR) analysis; Non-motor markers; Parkinson’s disease
+
+Shulin Liu, Yuxuan Hu, Jiabin Liu, Yang Luo, Taole Li, Zhenhua Liu, Qian Xu, Qiying Sun, Xinxiang Yan, Jinchen Li, Beisha Tang, Zhihui Tan, Jifeng Guo,
+Investigating sex-specific associations of Parkinson's disease with sex hormones and sex hormones-related phenotypes using Mendelian randomization,
+Parkinsonism & Related Disorders,
+Volume 135,
+2025,
+107831,
+ISSN 1353-8020,
+https://doi.org/10.1016/j.parkreldis.2025.107831.
+(https://www.sciencedirect.com/science/article/pii/S1353802025005723)
+Abstract: Background
+It has been reported that the incidence of Parkinson's disease (PD) in men is 1.5 times that of women, which is easily associated with the protective effect of estrogens on the dopaminergic system. However, the exact direction and magnitude of the effect of sex hormones on PD risk have not been clarified. This study aimed to evaluate the sex-specific association between PD and sex hormones and their related phenotypes using Mendelian randomization (MR).
+Method
+We utilized summary statistics from seven sex-specific genome-wide association studies (GWAS), including the UK Biobank, FinnGen, the INTERVAL Study, and the International Parkinson's Disease Genomics Consortium. Using univariable MR (UVMR) and multivariable MR (MVMR), we investigated causal relationships between genetically predicted sex hormone levels and PD, as well as sex hormone-related traits.
+Result
+We found a negative genetic correlation between PD and total testosterone levels (rg = −0.019, p = 0.046) and bioavailable testosterone levels (rg = −0.028, p = 0.019) among the entire population. UVMR results suggested that genetically predicted elevated bioavailable and total testosterone levels were associated with a reduced risk of PD in the entire population. When evaluating reverse causation, we found that genetically predicted female PD was associated with lower levels of sex hormone-binding globulin. Using MVMR, we further identified a suggestive association between genetically predicted total testosterone levels and a lower risk of PD.
+Conclusion
+Based on our findings, we believe that there may be a potential association between genetically determined testosterone levels and the risk of PD.
+Keywords: Parkinson's disease; Sex hormones; Mendelian randomization; Genetics; Causal relationship
+
+Ahsas Goyal, Anshika Kumari, Aanchal Verma, Vandana Chaudhary, Prince Pathak, Harlokesh Narayan Yadav,
+Nature's neuroprotector: Honokiol and its promise for Alzheimer's and Parkinson's,
+Brain Disorders,
+Volume 17,
+2025,
+100208,
+ISSN 2666-4593,
+https://doi.org/10.1016/j.dscb.2025.100208.
+(https://www.sciencedirect.com/science/article/pii/S2666459325000289)
+Abstract: Objectives
+Two of the most common neurodegenerative diseases are Alzheimer's disease and Parkinson's disease. The available treatments for the conditions are few and frequently insufficient to stop their progression. Because of possible neuroprotective, anti-oxidant, anti-apoptotic, neuromodulating, anti-inflammatory, and many more qualities, honokiol, a polyphenolic chemical that is derived from magnolia plants, has become a prospective option.
+Methods
+To investigate the potential benefits of Honokiol for neurodegenerative disease treatment and prevention, we searched the PubMed, Google Scholar, and ResearchGate databases till 2024 using MeSH (Medical Subject Heading) terms such as “Honokiol”, “Alzheimer's disease”, “Parkinson's disease”, “Neuroprotective effect”, “Anti-oxidant”, “Anti-inflammatory”, “Anti-apoptotic”, and further related keywords combined with the words “Structure”, “Physicochemical properties”, “Pharmacokinetic”, “Toxicology”.
+Results
+This article reviews the pharmacological effects of honokiol in Alzheimer's and Parkinson's diseases based on in vivo and in vitro research. In preclinical models of Alzheimer's disease, honokiol showed promise in lowering the production of amyloid-beta (Aβ) plaques, phosphorylating tau, and enhancing cognitive performance. Also, honokiol demonstrated promise in preventing the degradation of dopaminergic neurons in Parkinson's disease and improving motor function.
+Conclusion
+Honokiol demonstrated promise in minimizing the degradation of dopaminergic neurons in Parkinson's disease as well as improving motor function. This suggests the possible therapeutic and neuroprotective advantages of honokiol. Given its capacity to regulate important pathological processes such as protein aggregation, neuroinflammation, and oxidative stress, the drug seems to be a promising option for additional clinical investigation.
+Keywords: Alzheimer's disease; Honokiol; Magnolia officinalis; Neurodegeneration; Parkinson's disease
+
+Tahir Emre Yalcin, Qonita Kurnia Anjani, Yaocun Li, Eneko Larrañeta, Alejandro J. Paredes, Ryan F. Donnelly,
+Rasagiline mesylate-based microneedle patches: A patient-friendly treatment regimen for Parkinson’s disease,
+International Journal of Pharmaceutics,
+Volume 683,
+2025,
+126019,
+ISSN 0378-5173,
+https://doi.org/10.1016/j.ijpharm.2025.126019.
+(https://www.sciencedirect.com/science/article/pii/S0378517325008567)
+Abstract: Parkinson’s disease is a progressive neurodegenerative disorder, with rasagiline mesylate (RM), a potent MAO-B inhibitor, used to manage symptoms. However, oral RM administration often leads to gastrointestinal side effects, reducing patient compliance. This study explores dissolving microneedles (DMNs) and hydrogel-forming microneedles (HMNs) for transdermal RM delivery. DMNs exhibited uniform drug distribution, while HMNs showed even polymer dispersion and sharp needle tips. The formulated DMNs and HMNs demonstrated less than 15 % height reduction against 32 N pressure for 30 s, and insertion studies using an artificial Parafilm® M indicated sufficient needle mechanical properties to reach the dermal microcirculation. The selected DMNs drug content was 1.41 ± 0.11 mg with ∼ 70 % of RM retained in the baseplate due to drug migration during manufacturing. In situ dissolution studies showed that, this formulation fully dissolved within 60 min when applied to full-thickness neonatal porcine skin. Stability assessments confirmed that the active compound remained stable with no significant degradation after 4 weeks of storage for DMNs and reservoirs. In vitro permeation studies demonstrated that optimum DMNs formulation delivered approximately 928.2 ± 198.8 μg of the active compound over 24 h, corresponding to about 65 % of its content. HMNs delivered 6.44 mg and 18.32 mg of RM at 6 h and 24 h, corresponding to ∼ 20 % and ∼ 60 % delivery, respectively. These findings highlight the potential of microneedles as a viable transdermal RM delivery system, offering an alternative to oral administration, while maintaining controlled drug release and stability.
+Keywords: Parkinson’s disease treatment; Rasagiline mesylate; Dissolving microneedles; Hydrogel-forming microneedles; In vitro; Transdermal drug delivery
+
+Seongeun Jeong, Sang-Heon Park, Seungmin Lee, Hana Cho, Kyeong-yeol Lee, Byeong Kwon Ju, Yi Jae Lee, Soo Hyun Lee,
+Electrochemical biosensor based on gold nanoparticles/laser induced graphene for diagnosis of Parkinson’s disease by detecting phosphorylated α-synuclein in human blood,
+Chemical Engineering Journal,
+Volume 509,
+2025,
+161329,
+ISSN 1385-8947,
+https://doi.org/10.1016/j.cej.2025.161329.
+(https://www.sciencedirect.com/science/article/pii/S1385894725021503)
+Abstract: Parkinson’s disease (PD) can be diagnosed by measuring α-synuclein (α-Syn), a protein expressed in Parkinson’s disease patients, through antigen–antibody reaction. In this study, we fabricated a sensor based on laser-induced graphene (LIG) electroplated with gold nanoparticles and detected α-Syn using electrochemical impedance spectroscopy (EIS), an electrochemical measurement method. Specifically, phosphorylated α-Syn was detected using an antibody that specifically binds to phosphorylated α-Syn. Detection was performed for α-Syn concentrations ranging from 0.01 to 100 ng/mL. The measurement results indicated a limit of detection of 0.237 pg/mL and a linear correlation coefficient (R2) of 0.980. Finally, the fabricated sensor was applied to blood samples from actual patients. The change in charge transfer resistance (Rct) was measured using EIS in the blood of patients diagnosed with PD and normal controls (NC). the Rct value change was confirmed to be 6.892 % greater in the Parkinson’s disease patient samples. The phosphorylated α-Syn measurement was performed on blood samples from 4 PD patients and 4 NC patients, respectively. As a result, the average Rct change value of EIS in NC was 1.488 %, and the average Rct change value of EIS in PD patients was 8.38 %. It was confirmed that the concentration of phosphorylated α-Syn in the patient’s blood was much higher.
+Keywords: Electrochemical sensor; Laser induced graphene; Gold nano particles; Parkinson’s disease; Phosphorylated α-Synuclein
+
+Manon Auffret,
+Apomorphine: past, present and future in Parkinson's disease and beyond,
+Parkinsonism & Related Disorders,
+2025,
+107872,
+ISSN 1353-8020,
+https://doi.org/10.1016/j.parkreldis.2025.107872.
+(https://www.sciencedirect.com/science/article/pii/S1353802025006133)
+Abstract: The year 2025 marks the 180th anniversary of the first documented synthesis of apomorphine, and the first U.S. Food and Drug Administration (FDA) approval of a subcutaneous apomorphine infusion device for advanced Parkinson's disease (SPN-830). This narrative review therefore aims to examine apomorphine clinical journey, celebrating its turbulent yet founding past, analyzing its current challenges in the treatment of Parkinson's disease (PD) and envisioning its promising future, both in neurological disorders and beyond. Enduring misconceptions and the lack of class 1 evidence for supporting the use of continuous subcutaneous apomorphine infusion (CSAI) in PD have long been thought to have prevented its generalized use. The TOLEDO study, which robustly demonstrated a clinically meaningful reduction in off time (as expected based on decades of clinical experience) has now removed this barrier. Challenges to be addressed moving forward include (1) redefining the place of apomorphine in the PD treatment paradigm (from early use to terminal care), (2) reducing access disparities (availability, cost), (3) improving delivery systems and apomorphine formulations, and (4) expanding clinical use both in and outside of neurological disorders, with already tangible results for atypical Parkinsonian syndromes and disorders of consciousness, and promising perspectives in Alzheimer's disease.
+
+Xian Wu, Yue Wen, YuYu Yuan, Tianyao Bai, Nanfei Yang, Lingling Xu, Yujie Ma, Peng Su, Wenjing Luo, Wenjun Li,
+The AKT-USP15 axis modulates autophagy in MPP+-induced Parkinson's disease model of SN4741 cells,
+Cellular Signalling,
+Volume 134,
+2025,
+111879,
+ISSN 0898-6568,
+https://doi.org/10.1016/j.cellsig.2025.111879.
+(https://www.sciencedirect.com/science/article/pii/S0898656825002943)
+Abstract: In Parkinson's disease (PD), maintaining the balance between protein synthesis and degradation is critical for cellular homeostasis. Ubiquitination, which marks proteins for degradation, and its reverse process deubiquitination, are essential regulators for protein turnover. Recent research implicate that deubiquitinating enzymes involve in PD pathogenesis. Specially, Ubiquitin Specific Protease 15 (USP15) has been shown to antagonize Parkin, an E3 ubiquitin ligase that facilitates mitophagy – the selective clearance of damaged mitochondria. However, the regulatory mechanisms governing the activity of USP15 in PD remain unclear. Our study revealed a novel regulatory mechanism: USP15 served as a phosphorylation substrate for protein kinase B (AKT). AKT-mediated phosphorylation triggered translocation of USP15 from the nucleus to the cytoplasm, subsequently restoring autophagy levels. These data identified that AKT mediated phosphorylation of USP15 regulated autophagy in MPP+-induced PD models. Collectivelly, our research elucidates the complex interplay among AKT, USP15, and autophagy in PD. These mechanistic insights advance our understanding of potential therapeutic targets to enhance autophagic flux and ameliorate cellular dysfunction in Parkinson's disease.
+Keywords: Parkinson's disease; USP15; AKT; Autophagy; Phosphorylation
+
+Ainara Jauregi-Zinkunegi, Lucia Ronconi, Davide Bruno, Elisa Di Rosa,
+Depressive symptoms interact with CSF levels of p-tau in predicting cognitive performance in the early stages of Parkinson's disease,
+Journal of Psychiatric Research,
+Volume 188,
+2025,
+Pages 87-93,
+ISSN 0022-3956,
+https://doi.org/10.1016/j.jpsychires.2025.05.038.
+(https://www.sciencedirect.com/science/article/pii/S0022395625003383)
+Abstract: Amyloid-β deposition and tau pathology are suggested to play a role in the emergence of depressive symptoms and cognitive decline in Parkinson's disease (PD). Additionally, studies have reported an association between presence of the APOE4 allele and poorer cognition in PD. The present study aims to investigate whether amyloid-β, tau pathology and APOE4 carrier status interact with depressive symptoms in predicting global cognition in PD. We analysed data from 348 persons with PD (PwPD) and 160 healthy controls (HCs). Linear mixed effects regression analyses were conducted to examine if CSF levels of Aβ42 and p-tau, and APOE4 carrier status did interact with depressive symptoms, as assessed by the Geriatric Depression Scale (GDS), in predicting cognition performance, as measured by Montreal Cognitive Assessment Test (MoCA) scores, over three years. Results of a first linear regression model conducted considering both PwPD and HC indicated that MoCA scores were significantly predicted by GDS, as well as by the interaction between GDS and p-tau, Group and p-tau, and between Group, p-tau and GDS. Results of the models conducted in the two groups separately indicated that, while in HC MoCA scores were predicted by age and time only, a significant interaction between GDS and CSF levels of p-tau emerged as a predictor of MoCA scores in PwPD. Specifically, post hoc analysis revealed a negative association between CSF levels of p-tau and cognitive performance that was significant only in PwPD with the highest GDS scores. Taken together, results of this study confirm that, in early stages of PD, depressive symptoms interact with CSF levels of p-tau in predicting cognitive performance. Findings highlight the importance of assessing and treating depression in PwPD as early as possible, as it might reduce the likelihood of future cognitive decline.
+
+Melina Maria Afonso, Damodar Reddy Edla, R. Ravinder Reddy, Y. Ramadevi,
+A hybrid quorum sensing model for neurodynamic feature optimization in EEG-based Parkinson’s disease detection,
+Computers in Biology and Medicine,
+Volume 197, Part B,
+2025,
+111012,
+ISSN 0010-4825,
+https://doi.org/10.1016/j.compbiomed.2025.111012.
+(https://www.sciencedirect.com/science/article/pii/S0010482525013642)
+Abstract: Parkinson’s disease (PD) detection using electroencephalography (EEG) and deep learning(DL) has garnered significant attention due to the disease’s complex nature and lack of definitive biomarkers. While imaging and invasive methods are expensive and unsafe, EEG allows for safe, low-cost, non-invasive, and portable data collection, and DL helps improve its ability to find subtle brain activity patterns. The extraction of novel features using DL yields high-dimensional data, which leads to added computational demands. This research proposes a method for feature selection that includes a novel multi-stage hybrid quorum sensing optimization (HQSO) algorithm. In the first stage, a coarse set of relevant features is selected. Quorum sensing is adopted as a performance-driven decision-making framework, where solutions adapt their behavior based on population-level fitness. A multilayer perceptron (MLP) is used to evaluate the fitness. In the second stage, a hybrid ranking mechanism statistically refines this set by prioritizing the most discriminative features, which are further reduced by a correlation-based pruning method to reduce feature redundancy. The proposed multi-stage hybrid feature selection method, integrating metaheuristic-based exploration with statistical refinement and correlation pruning, significantly improves PD detection performance. On the San Diego dataset, it achieves 98.09% accuracy, outperforming recent models like Rizvi et al. (97.90%) and matching top-tier models such as Khare et al. (100%). On the University of New Mexico dataset, it attains 94.96% accuracy, closely competing with the best-reported 99.9% by Shirisha et al. The reduction of features by almost 60% highlights its practicality for real-time, resource-constrained applications like wearable EEG-based monitoring systems.
+Keywords: Artificial intelligence; EEG; Neuro-degenerative ailments; Quorum sensing optimizer; S-transform
+
+Xian-Mu Luo, Jun Luo, Ling-Yong Zeng, Chun-Ling Chi,
+Gut microbiota as a potential mechanism besides ketone bodies in Ameliorating Parkinson’s disease symptoms with the ketogenic diet,
+Medical Hypotheses,
+Volume 198,
+2025,
+111609,
+ISSN 0306-9877,
+https://doi.org/10.1016/j.mehy.2025.111609.
+(https://www.sciencedirect.com/science/article/pii/S0306987725000489)
+Abstract: Current research indicates that the ketogenic diet effectively alleviates symptoms in Parkinson’s disease (PD) patients, presenting a promising novel therapy. The prevailing view attributes the ketogenic diet’s efficacy in PD improvement to ketone bodies. Studies in epilepsy have demonstrated that the ketogenic diet improves epilepsy by modulating gut microbiota. Inspired by this, we hypothesize that the gut microbiota mediates the ketogenic diet’s alleviation of PD symptoms. On one hand, evidence from epilepsy and Alzheimer’s research supports the ketogenic diet’s influence on gut microbiota. On the other hand, PD studies indicate that gut microbiota can influence PD progression. Potential mechanisms may involve the production of neuroprotective metabolites, the modulation of the brain-gut microbiota axis, and the reduction of pathological protein aggregation. This hypothesis can be tested through animal models or clinical experiments. If validated, it could strongly support the widespread application of ketogenic diet therapy in PD and signify gut microbiota as a target for PD treatment, fostering simple and effective therapeutic approaches.
+Keywords: Ketogenic diet; Parkinson’s disease; Gut microbiota; Ketone bodies
+
+Wenqian Zhao, Xueao Li, Jing Wang, Chunyan Zhang, Yuchuan Zhuang, Yanbo Dong, Andrey Tulupov, Jing Li, Fengshou Zhang, Jianfeng Bao,
+Whole-brain computational modeling reveals disruption of microscale brain dynamics in Parkinson’s disease,
+Computer Methods and Programs in Biomedicine,
+Volume 272,
+2025,
+109076,
+ISSN 0169-2607,
+https://doi.org/10.1016/j.cmpb.2025.109076.
+(https://www.sciencedirect.com/science/article/pii/S0169260725004936)
+Abstract: Background and Objective
+Parkinson’s disease (PD) alters the brain’s neurodynamic properties, contributing to both motor and non-motor symptoms. Although advances in neuroimaging techniques—such as resting-state functional MRI (rsfMRI), diffusion tensor imaging (DTI), and structural MRI (sMRI)—have enhanced our understanding of brain structure and function, they remain limited in detecting subtle, region-specific dynamic alterations associated with functional deficits. This study aims to apply the relaxed mean field dynamic modeling (rMFM) to identify microscale dynamic abnormalities in PD and to link these changes with network topology and clinical characteristics.
+Methods
+We employed the rMFM, a biophysically informed computational framework that integrates structural and functional imaging data with microstructural features to simulate local dynamics of brain regions. Unlike traditional models, rMFM allows the optimization of regional recurrent connection strength w and subcortical input I, thereby capturing inter-regional heterogeneity more effectively. Separate rMFM models were constructed for the PD and healthy control (HC) groups. Group differences in model parameters were assessed, followed by graph-theoretical analysis to examine alterations in brain network topology. Correlation analyses were also performed to investigate the relationships between model parameters, network metrics, and clinical variables.
+Results
+Significant alterations in w and I were observed in regions such as the middle temporal gyrus and banks of the superior temporal sulcus (bankssts) in the PD group, suggesting localized dynamic disruptions related to language, memory, and cognitive impairments. Corresponding alterations in brain network topology accompanied these parameter changes. At the same time, the results of graph theory analysis suggest that in early PD, functional disorders may appear before obvious structural changes.
+Conclusions
+This study introduces rMFM as an innovative approach for modeling local brain dynamics by integrating multimodal MRI data with microscale neural features. The findings highlight distinctive microscale dynamic abnormalities in PD and their linkage to large-scale network changes. This approach enhances our understanding of PD pathophysiology and provids a basis for identifying potential disease-specific biomarkers.
+Keywords: Whole-brain computational modeling; Relaxed mean field dynamic modeling; Parkinson’s disease; MRI; Graph theoretical analysis; Resting-state functional MRI; Fiber tractography
+
+Anzah Bashir, Yashwant Singh, Sheerin Zadoo, Khalid Hafiz Mir,
+Parkinson’s Disease Detection: A Machine Learning Based Model,
+Procedia Computer Science,
+Volume 259,
+2025,
+Pages 1783-1792,
+ISSN 1877-0509,
+https://doi.org/10.1016/j.procs.2025.04.133.
+(https://www.sciencedirect.com/science/article/pii/S1877050925012359)
+Abstract: Parkinson’s disease (PD) is a significant area of research, and detecting it early can improve patients’ quality of life. Speech analysis has shown promising results in detecting PD, and this study employs machine learning to identify the disease. The goal is to diagnose PD by analysing voice signals, which are non-invasive and have potential for detecting the disease. Various classification algorithms like XGBoost, multi-layer perceptron (MLP), KNN, and Random Forest are tested on a voice dataset (UCI Machine Learning Repository), and evaluation metrics are used to get the best classifier. XGBoost outperforms other classifiers with an accuracy of 95% using RFE feature selection technique. However, the small dataset size of 195 instances limits the model’s generalization ability. With a larger dataset, the model could perform even better. Overall, this proposed model is reliable in detecting Parkinson’s disease, as indicated by its high precision, F1-score, recall, and accuracy rates.
+Keywords: Parkinson’s disease (PD); Machine learning; speech signals; classification; feature selection; XGBoost; random forest; MLP
+
+Hemraj Singh, Shobha Kumari, Rajeev Taliyan,
+Epigenetic mechanisms linking environmental exposure to Parkinson’s disease: A comprehensive review,
+Neuroscience,
+Volume 585,
+2025,
+Pages 367-380,
+ISSN 0306-4522,
+https://doi.org/10.1016/j.neuroscience.2025.08.060.
+(https://www.sciencedirect.com/science/article/pii/S030645222500908X)
+Abstract: Parkinson’s disease (PD) is a progressive neurodegenerative disorder characterized by motor dysfunction and non-motor symptoms affecting cognition, mood and autonomic function. Both genetic susceptibility and environmental exposures such as pesticides (e.g., paraquat, rotenone), heavy metals (e.g., manganese, lead), tobacco smoke, and caffeine have been implicated in PD pathogenesis. Recent studies highlight the role of epigenetic mechanisms including DNA methylation (e.g., SNCA, PARK2), histone modifications (e.g., H3K9me3, H3K27ac), and microRNAs (e.g., miR-133b, miR-7), in mediating the effects of environmental toxins on neuronal function and survival. These alterations can disrupt transcriptional programs, impair mitochondrial function and promote oxidative stress, neuroinflammation and dopaminergic neuronal loss. Aging further compounds epigenetic dysregulation by reducing chromatin plasticity and enhancing glial reactivity. This review synthesizes current insights into how specific environmental exposures modulate the epigenetic landscape in PD and explores their downstream effects on key pathological processes. We also discuss emerging therapeutic strategies targeting epigenetic modifiers such as DNA methyltransferase inhibitors, histone deacetylase inhibitors, and miRNA-based interventions. A clearer understanding of the gene environment epigenome interface may help identify early biomarkers and develop precision medicine approaches for PD.
+Keywords: Parkinson’s disease; Epigenetics; Neurodegeneration; Neuroinflammation; DNA methylation; Histone modification; miRNA
+
+Audrey Hoyt, Casey Dorney, Peggy Auinger, Kathryn Murphy, Michelle Porto, Katrina Schmier, Renee Wilson, James C Beck, Stephanie Benvengo, Kevin Biglan, E Ray Dorsey, Alberto J Espay, Eric A Macklin, Mariana HG Monje, Dan Novak, David Oakes, Larsson Omberg, Michael A Schwarzschild, Solveig K Sieberts, Tanya Simuni, Caroline M Tanner, Daniel Weintraub, Ruth B Schneider,
+Improving Prediction of Falls and Cognitive Impairment in Parkinson Disease: Protocol for a Decentralized Observational Study,
+JMIR Research Protocols,
+Volume 14,
+2025,
+,
+ISSN 1929-0748,
+https://doi.org/10.2196/71955.
+(https://www.sciencedirect.com/science/article/pii/S1929074825005384)
+Abstract: Background
+Falls and cognitive impairment are major sources of disability in Parkinson disease (PD). The ability to accurately identify individuals with PD at high risk for falls and cognitive impairment would provide an opportunity for intervention and potentially improve long-term outcomes. In a previous study, Assessing Telehealth Outcomes in Multiyear Extensions of Parkinson Disease Trials (AT-HOME PD), we remotely characterized participants with early PD who had participated in 1 of 2 PD clinical trials over 2 years of follow-up. These participants with advancing disease provide a unique opportunity to examine whether the capture of objective in-home measures via digital tools and bothersome symptoms via direct participant report improves the prediction of disease milestones.
+Objective
+Assessing Telehealth Outcomes in Multiyear Extensions of Parkinson Disease Trials–2 (AT-HOME PD2) aims to examine whether digital tools and remote participant reporting can improve the prediction of falls and cognitive impairment, quantify changes in physical activity over time, and explore the relationship between physical activity and clinical progression over time.
+Methods
+This is a decentralized observational study of up to 200 individuals with PD, with clinical and digital phenotyping for up to 3 years of follow-up. Participants are those who took part in the STEADY-PD III (NCT02168842), Study of Urate Elevation in Parkinson’s Disease, Phase 3 (SURE-PD3; NCT02642393), AT-HOME PD (NCT03538262), or PD GENEration (NCT04057794) studies. All participants complete 2 video visits per year, wear 2 wrist-worn sensors (Fitbit Charge 5 and ActiGraph CentrePoint Insight Watch) for 1 week each month, complete smartphone-based motor tasks (using the mPower 2.0 app) for 10 days each quarter, and complete online surveys (within the companion Fox Insight study) each quarter. Falls are assessed via a weekly automated telephone call. A cognitive diagnosis is determined by a consensus committee that considers scores on a global cognitive measure, detailed neuropsychological tests, a cognitive-related disability measure, and clinical information. Prediction models will be constructed, and prediction accuracy will be compared across the models.
+Results
+Recruitment for the study was initiated in September 2023. Enrollment is ongoing, with 142 participants enrolled as of January 2025. Within the cohort, the average age is 69.2 (SD 8.7) years; 85 (59.9%) participants are male, 137 (96.5%) are White, and 2 (1.4%) are Hispanic or Latino; and the average disease duration is 8.9 (SD 1.3) years.
+Conclusions
+AT-HOME PD2 is remotely clinically and digitally phenotyping participants with midstage PD to predict falls and cognitive impairment and to provide insights into long-term progression.
+International Registered Report Identifier (IRRID)
+DERR1-10.2196/71955
+Keywords: Parkinson disease; falls; decentralized; digital health technologies
+
+Xiaoqing Gong, Shuoyan Tan, Yuwei Yang, Yang Yu, Xiaojun Yao, Huanxiang Liu,
+Development of LRRK2 inhibitors through computational strategies: a promising avenue for Parkinson’s disease,
+Drug Discovery Today,
+Volume 30, Issue 9,
+2025,
+104446,
+ISSN 1359-6446,
+https://doi.org/10.1016/j.drudis.2025.104446.
+(https://www.sciencedirect.com/science/article/pii/S135964462500159X)
+Abstract: Parkinson’s disease (PD) is a prevalent neurodegenerative disorder that remains incurable. Leucine-rich repeat kinase 2 (LRRK2) has a pivotal role in PD pathogenesis, making it a promising therapeutic target. Thus, there is an urgent need to develop structurally diverse, highly selective, blood–brain barrier (BBB)-permeable LRRK2 inhibitors. Computer-aided and artificial intelligence (AI)-driven drug design methods have shown significant advantages in the discovery of LRRK2 inhibitors. Building upon a systematic review of structural characteristics, biological functions, and molecular mechanisms of LRRK2, in this review, we summarize recent advances in LRRK2 inhibitor development, highlighting the pivotal role of computational approaches in accelerating inhibitor discovery.
+Keywords: Parkinson’s disease; LRRK2 inhibitors; computer-aided drug design; AI-driven drug design
+
+Jia Wei Hor, Shen-Yang Lim, Tzi Shin Toh, Chun Wie Chong, Cindy Shuan Ju Teh, Sze Looi Song, Ai Huey Tan,
+Fecal tyrosine decarboxylase and motor response complications in Parkinson's disease,
+Parkinsonism & Related Disorders,
+Volume 138,
+2025,
+107947,
+ISSN 1353-8020,
+https://doi.org/10.1016/j.parkreldis.2025.107947.
+(https://www.sciencedirect.com/science/article/pii/S1353802025006881)
+Abstract: Introduction
+Gut microbe-derived tyrosine decarboxylase (TDC) was recently discovered to metabolize levodopa, potentially reducing its bioavailability and aggravating motor dysfunction in Parkinson's disease (PD) through fluctuating dopaminergic stimulation. We aimed to investigate the clinical significance of fecal tdc (TDC gene) abundance in PD patients, focusing on its association with motor response complications (MRC).
+Methods
+Fecal samples were collected from 178 PD patients (mean age = 67.7 ± 8.7years; median Hoehn and Yahr stage = 2.0[1.0]; median disease duration = 7.0[8.0]years) who underwent evaluations of motor severity (MDS-UPDRS), cognitive function (MoCA), and constipation severity (PAC-SYM). Fecal tdc abundance was quantified via real-time polymerase chain reaction.
+Results
+Fecal tdc abundance showed high interindividual variability, with a trend for higher levels in patients with MRC (n = 85) compared to those without (n = 93) (median [IQR], 1.6 × 108 [21.3 × 108] vs. 0.6 × 108 [7.0 × 108], p = 0.109; mean difference 10.1 × 108 [95 % CI: −8.7 × 108, 28.9 × 108], p = 0.293). Patients with dyskinesia and motor fluctuations had 2.9-fold and 2.3-fold higher fecal tdc abundances, respectively, compared to those without, although differences were not significant. In the overall cohort, fecal tdc abundance correlated mildly with levodopa equivalent daily dose (LEDD, rs = 0.16, p = 0.035). A similar mild correlation with LEDD was observed in the subgroup of patients with motor fluctuations (rs = 0.22, p = 0.045).
+Conclusions
+Elevated fecal tdc abundance may be associated with higher levodopa requirements in PD. However, no statistically significant association was found with MRC. Further investigations are warranted to explore its utility as a disease biomarker and/or therapeutic target in PD.
+Keywords: Parkinson's disease; Motor response complications; Levodopa metabolism; Tyrosine decarboxylase; Gut microbiome
+
+Xi Yin, Miao Wang, Fenqiang Zhao, Fengzhu Li, Yuxing Tang, Xiaoyu Wang, Caohui Duan, Song Wang, Yongqin Xiong, Jiarui Yao, Tong Chen, Zhenfu Wang, Yifan Li, Xin Lou, Zhongbao Gao,
+Choroid plexus area and choroid plexus /lateral ventricle area index are potential imaging markers for freezing of gait in Parkinson's disease,
+Neurobiology of Disease,
+Volume 212,
+2025,
+106984,
+ISSN 0969-9961,
+https://doi.org/10.1016/j.nbd.2025.106984.
+(https://www.sciencedirect.com/science/article/pii/S0969996125002001)
+Abstract: Background
+The choroid plexus (CP), an important structure involved in cerebrospinal fluid (CSF) circulation, plays a key role in clearing harmful metabolites from the brain. However, the relationship between CP and the development of Parkinson's disease (PD) remains unclear, especially in those with freezing of gait (FOG). We aim to investigate the association between the CP area and CP/lateral ventricle area (CP/Ven) index with clinical symptoms of PD and the development of FOG.
+Methods
+Seventy-three patients with PD (17 with FOG and 56 without FOG) and 49 healthy controls (HCs) underwent 7 T magnetic resonance imaging and neurological assessments. The CP area and CP/Ven index were calculated, and the differences across groups were compared. Spearman's rank correlation was used to evaluate associations between these indices and clinical scales. Binary logistic regression was used to explore the impact of the CP area and CP/Ven index on FOG occurrence in PD.
+Results
+Patients with FOG (PD-FOG) exhibited significantly higher CP area and CP/Ven index than those without FOG (PD-nFOG). Both the CP area and CP/Ven index were positively correlated with the PD motor scale scores, especially postural instability/gait disturbance. Receiver operating characteristic curve analysis showed that the CP area and CP/Ven index effectively distinguished PD-FOG from PD-nFOG, with area under curve of 0.887 and 0.854, respectively. Logistic regression analysis confirmed that both indices independently increased the risk of FOG in PD.
+Conclusion
+Elevated CP area and CP/Ven index are novel, noninvasive neuroimaging markers of FOG in PD.
+Keywords: Parkinson's disease; Freezing of gait; Choroid plexus area; Choroid plexus/lateral ventricle area index; 7 T magnetic resonance imaging
+
+Aoxue Zhu, Huiling Xie, Juan Wei, Mei Wang, Tianrong Huang, Huina Mao,
+Relationship between stigma and negative emotions among patients with Parkinson’s disease: The mediating role of health literacy and family function,
+Geriatric Nursing,
+Volume 63,
+2025,
+Pages 567-573,
+ISSN 0197-4572,
+https://doi.org/10.1016/j.gerinurse.2025.04.004.
+(https://www.sciencedirect.com/science/article/pii/S0197457225001648)
+Abstract: Background
+Parkinson’s disease is a neurodegenerative disorder causing physical and psychological challenges. Stigma exacerbates negative emotions, resulting in anxiety and depression, as well as undermining self-perception and social participation. Health literacy aids in disease management, and family function plays a crucial supportive role. However, the interplay between these variables remains underexplored.
+Objective
+To examine the chain mediating effects of health literacy and family function between stigma and negative emotions in patients with Parkinson’s disease.
+Methods
+This study adopted a cross-sectional design, recruiting eligible patients from a tertiary hospital in Guangzhou, China. A total of 245 participants completed questionnaires on stigma, health literacy, family function and negative emotions. Statistical analyses were performed using Spearman’s correlation and mediation effect analysis.
+Results
+Negative emotions were positively correlated with stigma (β = 0.584) and inversely associated with health literacy (β = −0.258) and family function (β = −0.144). Mediation effect analysis showed that the mediating effects of health literacy, family function, and their combined effects on the relationship between stigma and negative emotions were 0.033, 0.020, and 0.008, respectively, accounting for 8.89%, 5.39%, and 2.16% of the total effect.
+Conclusions
+Stigma in patients with Parkinson’s disease not only directly affects negative emotions but also indirectly influences them through health literacy and family function.
+Keywords: Mediation analysis; Parkinson’s disease; Negative emotions; Stigma; Health literacy; Family function
+
+Krishnapriya Santhosh, Prabhu Prasad Dev, Binu Jose A., Zorana Lynton, Pranesh Das, Ebrahim Ghaderpour,
+A modified Gray Wolf Optimization algorithm for early detection of Parkinson’s Disease,
+Biomedical Signal Processing and Control,
+Volume 109,
+2025,
+108061,
+ISSN 1746-8094,
+https://doi.org/10.1016/j.bspc.2025.108061.
+(https://www.sciencedirect.com/science/article/pii/S1746809425005725)
+Abstract: Parkinson’s disease (PD) is one of the most common neurodegenerative diseases, causing significant morbidity and mortality worldwide. PD can be diagnosed at an early stage by analyzing patient datasets, such as speech and handwriting samples. In this paper, a modified version of the classical Gray Wolf Optimization (GWO) is proposed with an application to detect early-stage PD through processing such datasets. The new model (MGWO-eP) aims to enhance the algorithm’s exploration capability (e) and overcome local optima issues by adjusting a key parameter (P) that controls the search agents’ positions. The MGWO-eP is then applied as a feature selection technique to predict PD in its early stages, using samples of speech and writing. The effectiveness of MGWO-eP is validated by benchmark optimization functions for achieving the global optimum. Then six popular machine learning classifiers are applied to three benchmark PD prediction datasets that include hand-writing and speech samples from people with and without PD, namely HandPD Spiral, HandPD Meander, and SpeechPD. The proposed model achieves best overall accuracies of 96.30% (with voting), 94.45% (with random forest), and 98.31% (with voting), outperforming GWO and particle swarm optimization algorithms as they get stuck with local optimal solutions. The results show that the proposed model is robust and can be used for early detection of PD in patients through analyzing datasets, such as their handwriting and speech to help the patients access treatments early in the disease, prolonging time spent with adequate symptom control and delaying years of disability/morbidity.
+Keywords: Classification; Feature selection; Optimization; Parkinson’s disease (PD)
+
+Yan Zhi, Kaidong Chen, Yiping You, Yi Ji, Weiguo Cheng, Wei Ji, Guofeng Shi, Xiangming Fang, Feng Wang, Kefei Chen, Li Zhang,
+Hypo-connected pattern in Parkinson's disease with pure apathy: A dynamic functional connectivity perspective,
+Neurobiology of Disease,
+Volume 213,
+2025,
+107008,
+ISSN 0969-9961,
+https://doi.org/10.1016/j.nbd.2025.107008.
+(https://www.sciencedirect.com/science/article/pii/S0969996125002244)
+Abstract: Background
+Apathy, a decline in goal-directed motivated behavior, is a common non-motor symptom in Parkinson's disease (PD). The dynamic information interaction between multiple brain functional networks, crucial for goal-directed behavior, remains unknown in patients with PD and pure apathy (PD-PA). This study thus used the dynamic functional network connectivity (dFNC) analysis to explore the dynamic brain networks changes of apathy in PD.
+Methods
+Thirty patients with PD-PA, 37 patients with PD but not pure apathy (PD-NPA), and 37 healthy controls (HCs) were studied using dFNC analysis to explore dynamic functional connectivity (FC) patterns of brain networks in PD-PA.
+Results
+Seven brain networks were finally identified and configured into four states. Patients with PD-PA showed longer mean dwell time in State 1 when compared to patients with PD-NPA. Furthermore, the mean dwell time of State 1 positively correlated with apathy severity in patients with PD-PA. Generally, State 1 is hypo-connected than other states. In State 1, intra-network FC within the default mode network (DMN) in patients with PD-PA was decreased compared to patients with PD-NPA. Specifically, the FC of the left precuneus and the left medial superior frontal gyrus (SFGmed) within the DMN was decreased.
+Conclusions
+Apathy in PD may be related with prolonged low connectivity in brain networks, particularly the disconnection between the precuneus and SFGmed within the DMN, highlighting impaired information transmission within and between networks as a key mechanism of apathy in PD.
+Keywords: Parkinson's disease; Apathy; Independent component analysis; Dynamic functional network connectivity
+
+Tun Lin Aung, Yulong Kan, Ye Win Aung, Xiaoran Shi,
+Meta-analysis of long non-coding RNA expression profile in Parkinson’s disease,
+Brain Research,
+Volume 1863,
+2025,
+149838,
+ISSN 0006-8993,
+https://doi.org/10.1016/j.brainres.2025.149838.
+(https://www.sciencedirect.com/science/article/pii/S0006899325003993)
+Abstract: Parkinson’s disease (PD) pathogenesis involves dopaminergic neuron loss, yet the role of long non-coding RNAs (lncRNAs) remains poorly characterized. In this study, we perform a comprehensive meta-analysis of PD transcriptomes, identifying the top 50 significantly dysregulated lncRNAs (25 upregulated including NEAT1 and LINC00869; 25 downregulated including CASC2 and HULC) from 718 differentially expressed lncRNAs. Through functional enrichment analyses, we demonstrate that upregulated lncRNAs predominantly regulate neuroinflammatory pathways (NEAT1-NF-κB), α-synuclein aggregation (HOTAIR), regulation of gene expression epigenetic (MEG3) and vesicle trafficking (LINC00869), while downregulated lncRNAs control apoptotic signaling (CASC2-MAPK), lysosomal function (SFTA3), and metabolic homeostasis (HULC). Additionally, the KEGG pathway analysis convergence of ATXN8OS with spinocerebellar ataxia pathways further highlighted shared mechanisms of neurodegeneration. Notably, lncRNA-protein interaction network analysis of PD-associated lncRNAs identified two distinct interactomes: (1) an upregulated module (10 hubs/50 proteins/360 edges) enriched for neuroinflammation (NEAT1-centric), and (2) a downregulated module (8 hubs/190 proteins/1,282 edges) dominated by apoptotic regulation (CASC2-centric). These findings provide a systemic proof that lncRNAs networks may serve as diagnostic biomarkers and therapeutic targets.
+Keywords: LncRNAs; Differential Expression Genes; Functional Enrichment and Pathways; Parkinson’s Disease
+
+Amanda Bentley-DeSousa, Devin Clegg, Shawn M. Ferguson,
+LRRK2, lysosome damage, and Parkinson's disease,
+Current Opinion in Cell Biology,
+Volume 93,
+2025,
+102482,
+ISSN 0955-0674,
+https://doi.org/10.1016/j.ceb.2025.102482.
+(https://www.sciencedirect.com/science/article/pii/S0955067425000201)
+Abstract: Limited understanding of regulatory mechanisms controlling LRRK2 kinase activity has hindered insights into both its normal biology and how its dysregulation contributes to Parkinson's disease. Fortunately, recent years have yielded an increased understanding of how LRRK2 kinase activity is dynamically regulated by recruitment to endolysosomal membranes. Notably, multiple small GTPases from the Rab family act as both activators and substrates of LRRK2. Additionally, it was recently discovered that LRRK2 is recruited to, and activated at, stressed or damaged lysosomes through an interaction with GABARAP via the CASM (conjugation of ATG8 to single membranes) pathway. These discoveries position LRRK2 within the rapidly growing field of lysosomal damage and repair mechanisms, offering important insights into lysosome biology and the pathogenesis of Parkinson's disease.
+
+Zhi-Hong Wen, Ya-Jen Chiu, San-Nan Yang, Bo-Lin Guo, Chien-Wei Feng, Jimmy Ming-Jung Chunag, Nan-Fu Chen, Wu-Fu Chen,
+The Neuroprotective Effects of the Crinoid Natural Compound Rhodoptilometrin in Parkinson’s Disease Experimental Models: Implications for ER Stress and Autophagy Modulation,
+ACS Chemical Neuroscience,
+Volume 16, Issue 13,
+2025,
+Pages 2376-2386,
+ISSN 1948-7193,
+https://doi.org/10.1021/acschemneuro.5c00087.
+(https://www.sciencedirect.com/science/article/pii/S1948719325001793)
+Abstract: The pathogenesis of Parkinson’s disease (PD) involves cellular processes such as endoplasmic reticulum (ER) stress, unfolded protein response, autophagy imbalance, and apoptosis, and identifying drugs that can regulate these molecular mechanisms may be a potential therapeutic strategy for PD. This study aimed to investigate the potential neuroprotective effects of the marine crinoid-derived natural compound (+)-rhodoptilometrin (RDM). We utilized an in vitro PD experimental model and conducted a biochemical analysis to investigate its potential neuroprotective effects against 6-hydroxydopamine (6-OHDA)-induced toxicity. We also examined its underlying molecular mechanisms, confirmed using the autophagy inhibitor 3-methyladenine. We utilized an in vivo PD model to evaluate motor function and verified the therapeutic effectiveness of the RDM. RDM effectively inhibited apoptosis, reduced ER stress, and enhanced the viability and autophagy of 6-OHDA-induced SH-SY5Y cells. This was evidenced by reductions in GRP78, p-eIF2α/eIF2α, XBP-1s, and C/EBP homologous protein levels alongside enhancements in LC3-related autophagy pathways. In vivo experiments using zebrafish also showed that RDM significantly attenuated the decrease in locomotor activity caused by 6-OHDA, concurrently alleviating GRP78-related ER stress and promoting antiapoptotic BCL2 expression. These findings indicate that RDM exerted neuroprotective effects by attenuating apoptosis, alleviating ER stress, and promoting autophagy pathways. RDM may be a promising antineurodegenerative drug.
+
+Keywords: rhodoptilometrin; Parkinson’s disease; 6-OHDA; ER stress; autophagy; neuroprotection
+
+Elena Eubanks, Katelyn VanderSleen, Jiya Mody, Neha Patel, Benjamin Sacks, Mahsa Darestani Farahani, Jinying Wang, Jordan Elliott, Nora Jaber, Fulya Akçimen, Sara Bandres-Ciga, Fadel Helweh, Jun Liu, Sanjana Archakam, Robert Kimelman, Bineet Sharma, Philip Socha, Ananya Guntur, Yiming Huang, Nagendran Ramalingam, Elyse Guadagno, Tim Bartels, Ulf Dettmer, M. Maral Mouradian, Amir Houshang Bahrami, Wei Dai, Jean Baum, Zheng Shi, John Hardy, Eleanna Kara,
+Increased burden of rare risk variants across gene expression networks predisposes to sporadic Parkinson’s disease,
+Cell Reports,
+Volume 44, Issue 5,
+2025,
+115636,
+ISSN 2211-1247,
+https://doi.org/10.1016/j.celrep.2025.115636.
+(https://www.sciencedirect.com/science/article/pii/S2211124725004073)
+Abstract: Summary
+Alpha-synuclein (αSyn) is an intrinsically disordered protein that accumulates in the brains of patients with Parkinson’s disease (PD). Through a high-throughput screen, we recently identified 38 genes whose knockdown modulates αSyn propagation. Here, we show that, among those, TAX1BP1 regulates how αSyn interacts with lipids, and ADAMTS19 modulates how αSyn phase separates into inclusions, adding to the growing body of evidence implicating those processes in PD. Through RNA sequencing, we identify several genes that are differentially expressed after knockdown of TAX1BP1 or ADAMTS19 and carry an increased frequency of rare risk variants in patients with PD versus healthy controls. Those differentially expressed genes cluster within modules in regions of the brain that develop high degrees of αSyn pathology. We propose a model for the genetic architecture of sporadic PD: increased burden of risk variants across genetic networks dysregulates pathways underlying αSyn homeostasis and leads to pathology and neurodegeneration.
+Keywords: alpha-synuclein; Parkinson’s disease; genomics; transcriptomics; lipids; Lewy bodies; liquid-liquid phase separation; chloroquine; lipid droplets
+
+K. Rajesh Kumar, T.R. Ganesh Babu,
+Efficient multiscale weighted features based residual ConvLSTM method to detect Parkinson’s disease using electroencephalogram data,
+Biomedical Signal Processing and Control,
+Volume 109,
+2025,
+108057,
+ISSN 1746-8094,
+https://doi.org/10.1016/j.bspc.2025.108057.
+(https://www.sciencedirect.com/science/article/pii/S1746809425005683)
+Abstract: Parkinson’s Disease (PD) is a neurological disease that affects the psychological and neural systems. Various factors, including age, medications, and disease state, can affect the Electroencephalogram (EEG) signal. It becomes difficult to establish common features to identify PD. So, this research developed a powerful PD detection model using deep learning to overcome such challenges. Initially, data is taken from different sources. Here, the wave features, temporal features, spatial features, spectral features, and deep features are extracted from the collected data, where the deep features is extracted using the Autoencoder (AE). Then, the extracted features are fed into the Multiscale Weighted Features-based Residual Convolutional Long Short Term Memory (MWF-RconvLSTM). The multiscale weighted features incorporated in the developed model can effectively solve the complexity issue while detecting the disease. Further, convolutional LSTM in the proposed model significantly enhances the model’s ability to understand complex features in the detection of PD. Here, the weights are optimized using the developed Enhanced Peafowl Optimization Algorithm (EPOA). Weight optimization using the developed EPOA can enhance the effectiveness of PD detection. Moreover, the developed model is evaluated with various models to display the effective performance in detecting PD. Finally, the developed EPOA-MWF-RconvLSTM model offers the best result in terms of accuracy is 94.97. Moreover, the conventional model like DMO-MWF-RconvLSTM, BFGO-MWF-RconvLSTM, RHA-MWF-RconvLSTM, and POA-MWF-RconvLSTM achieved the accuracy to be 80.02, 88.49, 82.01, and 90.87. This confirmed that the recommended model is more successful in the detection of PD than other existing models.
+Keywords: Parkinson’s disease; Electroencephalogram data; Enhanced peafowl optimization algorithm; Multi-scale weighted features-based residual convolutional long short term memory
+
+Yuanyuan Zuo, Xuying Ding, Zhenye Liu, Yining Xie, Guohan Liu, Chang Liu,
+Diverse pathways for the treatment of Parkinson’s disease: Integration and development of traditional and emerging therapies,
+Neuroscience,
+Volume 568,
+2025,
+Pages 388-398,
+ISSN 0306-4522,
+https://doi.org/10.1016/j.neuroscience.2025.01.045.
+(https://www.sciencedirect.com/science/article/pii/S0306452225000570)
+Abstract: Parkinson’s disease (PD) is the second most common central neurodegenerative disease in the world after Alzheimer’s disease (AD), which mainly occurs in middle-aged and elderly people, and is increasing with the aging of the population. With the increasing incidence of PD, it is particularly important to explore its pathology and provide effective interventions and treatments. The pathogenesis of PD involves a variety of factors such as genetics, environment, and age, and is not yet fully understood. The main pathogenic mechanisms include neuronal degeneration, abnormal aggregation of α-synuclein, formation of Lewy bodies and oxidative stress, etc. In recent years, gene therapy, stem cell therapy, and immunotherapy, along with traditional drugs and surgical treatments, have become widely used. Currently, all treatments for PD are symptomatic and there is no radical cure. This paper reviews existing traditional and emerging treatments for PD to provide a theoretical basis for the in-depth study of PD pathogenesis and therapeutic approaches. Meanwhile, the application of gene editing and delivery, stem cell transplantation, immunotherapy and multi-target therapy laid the foundation for the development of safer, more effective and more comprehensive treatments for PD.
+Keywords: Parkinson’s disease (PD); Pathogenic mechanisms; Gene therapy; Stem cell therapy; Immunotherapy
+
+I.-Hsun Yu, Yun-Ru Lai, Chi-Ping Ting, Chia-Yi Lien, Chih-Cheng Huang, Chien-Feng Kung, Yi-Fang Chiang, Cheng-Hsien Lu,
+Exploring spatiotemporal and kinematic gait parameters in individuals with Parkinson's disease across different motor phenotypes: A comparative study with and without dopaminergic therapy,
+Gait & Posture,
+Volume 122,
+2025,
+Pages 211-217,
+ISSN 0966-6362,
+https://doi.org/10.1016/j.gaitpost.2025.07.318.
+(https://www.sciencedirect.com/science/article/pii/S0966636225005855)
+Abstract: Background
+Distinct motor phenotypes in Parkinson's disease (PD) are well-documented, but their spatiotemporal and joint kinematic parameters remain underexplored. This study investigates these parameters and assesses fall risk across motor phenotypes using Three-Dimensional Kinect V2 detectors.
+Research question
+How are spatiotemporal and joint kinematic parameters influenced by dopaminergic therapy in individuals with PD across different motor phenotypes?
+Methods
+A total of 125 PD patients underwent clinical and biomechanical assessments before and after dopaminergic therapy, alongside 30 age- and sex-matched healthy controls for comparison. Patients were classified into three motor phenotypes: tremor dominant (TD), akinetic-rigid (AR), and postural instability and gait disturbance (PIGD).
+Results and significance
+In the off-medication state, the PIGD phenotype exhibits the most impaired spatiotemporal parameters, including straight walking (speed, stride length, and step length and time variability), turning (time, speed and length), and reduced hip range of motion (ROM) at baseline. Significant differences in straight waking (speed, stride length, step time variability), and turning (time and speed), and hip ROM were observed among the groups before and after dopaminergic therapy, adjusting for age, height, disease duration, and UPDRS scores. Over a mean follow-up period of 13.3 ± 3.4 months, 30 patients experienced falls. Among these, 5 were classified with the AR motor phenotype and 25 with the PIGD subtype. Despite the improvement of gait performance with dopaminergic therapy in the PIGD phenotype, significant differences in spatiotemporal and joint kinematic parameters remain before and after therapy across the three phenotypes. Recognizing these distinctions among motor phenotypes can inform physiotherapy approaches to customize fall prevention strategies for PD.
+Keywords: Parkinson’s disease; Fall risk; Spatiotemporal parameters; Kinematics; Motor phenotypes
+
+Chunge Xie, Rong Gan, Jieling Chen, Yanyi Li, Peikun He, Yuyuan Gao, Limin Wang, Guixian Ma, Yuhu Zhang, Kun Nie, Lijuan Wang,
+Clinical and electrophysiological characteristics of large and small fiber neuropathy in Parkinson's disease,
+Parkinsonism & Related Disorders,
+Volume 135,
+2025,
+107842,
+ISSN 1353-8020,
+https://doi.org/10.1016/j.parkreldis.2025.107842.
+(https://www.sciencedirect.com/science/article/pii/S1353802025005838)
+Abstract: Purpose
+The study aims to assess clinical data and peripheral nerve function in Parkinson's disease (PD) patients to explore the characteristics and risk factors of different peripheral neuropathies. Using Propensity Score Matching (PSM) to control confounders, it also examines the impact of oral levodopa on neuropathy incidence.
+Methods
+117 PD patients were recruited from Guangdong Provincial People's Hospital. Detailed demographic and clinical data were systematically collected, both large and small fiber nerve functions were evaluated. Based on the results of the peripheral nerve assessments, patients were categorized into different groups to analyze the risk factors associated with different types of peripheral damage. PSM was utilized to control potential confounding variables (such as age, disease duration), to examinate the impact of oral levodopa on neuropathy.
+Results
+55.56 % of the 117 PD patient exhibited peripheral neuropathy (PD-PN), including 22 (18.8 %) with large fiber damage, 29 (24.79 %) with small fiber damage, and 14 (11.97 %) exhibiting both large and small fiber damage. Higher UPDRSIII scores (OR 1.048, 95 %CI 1.015–1.082, p = 0.004) and advanced age (OR 1.068, 95 %CI 1.007–1.133, p = 0.029) were independent risk factors for peripheral neuropathy. There was no significant difference in the incidence of peripheral neuropathy between PD patients receiving oral levodopa treatment and those not receiving.
+Conclusions
+Our findings suggest that both large fiber and small fiber neuropathy are prevalent among PD patients. Higher UPDRSIII scores and advanced age are independent risk factors for different types of neuropathies. It is important to screening for peripheral neuropathy in PD patients.
+Keywords: Parkinson's disease; Peripheral neuropathy; Large fiber neuropathy; Small fiber neuropathy
