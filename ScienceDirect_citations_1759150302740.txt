@@ -1,0 +1,1256 @@
+Rene Molina, Dulce Maroni, Carolin Curtze, Abbey Becker, Erin Cameron-Smith, Katie Burcal, Rob Raike, Aviva Abosch,
+ID# 1907154 Acute feasibility of novel stimulation pattern for the treatment of Parkinson’s disease,
+Neuromodulation: Technology at the Neural Interface,
+Volume 28, Issue 7, Supplement,
+2025,
+Page S204,
+ISSN 1094-7159,
+https://doi.org/10.1016/j.neurom.2025.08.386.
+(https://www.sciencedirect.com/science/article/pii/S1094715925006622)
+
+Stephen Temitayo Bello, Md. Rajdoula Rafe, Fengwen Huang,
+New frontier for epilepsy treatment through targeting cellular senescence,
+Progress in Neuro-Psychopharmacology and Biological Psychiatry,
+Volume 142,
+2025,
+111506,
+ISSN 0278-5846,
+https://doi.org/10.1016/j.pnpbp.2025.111506.
+(https://www.sciencedirect.com/science/article/pii/S027858462500260X)
+Abstract: Epilepsy is a life-threatening brain disorder that affects about 1–2 % of the world's population. Various mechanisms facilitating epilepsy development and seizure propagation have been identified. Nevertheless, an improved understanding of the cellular mechanisms that underlie epilepsy development is necessary for designing better therapeutic strategies for epilepsy treatment. Cellular senescence, a cellular mechanism wherein cell growth is permanently halted and causes cells to exit the proliferative pool, has been associated with neurological disorders such as multiple sclerosis, Alzheimer's disease, Parkinson's disease, and epilepsy. How the various mechanisms that drive a cell towards senescence and the phenotypes that characterize senescent cells are associated with the development and progression of epilepsy might be necessary in improving our understanding of epilepsy. Therefore, this review discusses the mechanisms and pathways associated with cellular senescence and how senescence-associated secretory phenotype (SASP) promotes inflammation and tissue dysfunction. We then explained how different types of cells, including brain cells, become senescent, the inter-relationship between cellular senescence and epilepsy, and potential biomarkers common to epilepsy and cellular senescence. Finally, we reviewed the use of senolytics and senomorphics for epilepsy treatment. Further research can, therefore, be directed towards a thorough understanding of cellular senescence in epilepsy development, and this can open new frontiers for epilepsy treatment.
+Keywords: Epilepsy; Cellular senescence; Seizure; Senolytics; Senomorphics
+
+MIchael S. Okun, Kelly Foote, Theresa Zesiewicz, Yarema Bezchlibnyk, Alexander Papanastassiou, Okeanis E. Vaou, Jonathan Carlson, Jason Aldred, Vibhor Krishna, Corneliu Luca, Jonathan Jagid, Jennifer Durphy, Leo Verhagen Metman, Sepehr Sani, Stephen Ojemann, Drew Kern, David Weintraub, Derek Martinez, Ritesh Ramdhani, Abdolreza Siadati, Bharathy Sundaram, Cong Zhao, Mustafa Siddiqui, Stephen Tatter, Lilly Chen,
+ID# 1884679 Clinical Outcomes Using DBS Systems with Directionality and Multiple Independent Current Control: Real-World, USA Experience,
+Neuromodulation: Technology at the Neural Interface,
+Volume 28, Issue 7, Supplement,
+2025,
+Page S18,
+ISSN 1094-7159,
+https://doi.org/10.1016/j.neurom.2025.08.035.
+(https://www.sciencedirect.com/science/article/pii/S1094715925003113)
+
+Meg Rankin, Jennie Ponsford, Amelia Hicks, Ruby Phyland, Trevor T-J Chong, Gershon Spitz,
+Understanding multidimensional apathy in traumatic brain injury,
+Archives of Physical Medicine and Rehabilitation,
+2025,
+,
+ISSN 0003-9993,
+https://doi.org/10.1016/j.apmr.2025.09.011.
+(https://www.sciencedirect.com/science/article/pii/S0003999325009293)
+Abstract: Objective
+To investigate whether individuals with moderate-to-severe chronic TBI exhibit higher levels of apathy—particularly in behavioural, cognitive, and emotional domains—compared to neurotypical controls, and examine the association between apathy severity and injury-related factors, productivity and quality of life.
+Design
+Cross-sectional, cohort study.
+Setting
+Community.
+Participants
+Participants were sampled from a larger longitudinal study of individuals recruited from consecutive inpatient TBI admissions to a rehabilitation hospital. We analysed data from 136 participants with moderate-to-severe TBI (53% male; MAge = 51.8 years; Mtime post-injury = 13.8 years, range 0.25–35.2) and 78 neurotypical controls (48.75% male; MAge = 50.3 years).
+Interventions
+Not applicable.
+Main Outcome Measures
+Apathy Evaluation Scale, injury-related measures, Satisfaction with Life Scale, coded Productivity measure based on employment status.
+Results
+Results indicated that individuals with TBI had significantly higher overall apathy (p = 0.031) and behavioural apathy (p = 0.037) compared to neurotypical controls, but did not differ in the cognitive or emotional subtypes. Individuals with TBI were 1.98 times more likely to exhibit clinically significant apathy (OR = 1.98, 95% CI [0.98, 4.22]). Glasgow Coma Scale score, post-traumatic amnesia duration, age at the time of injury, time post-injury, and abnormal computed tomography scan were not significantly related to any apathy subtype. Higher global apathy scores were significantly associated with lower productive activities (p = 0.021), while higher global and behavioural apathy were significantly associated with lower life satisfaction (p <.001, p = 0.021, respectively).
+Conclusions
+These findings underscore the elevated prevalence of apathy following TBI, which may manifest primarily in the behavioural domain. The association between elevated apathy and lower functioning and reduced life satisfaction highlights that apathy is a key factor influencing long-term outcomes. Identifying and addressing apathy, especially its behavioural component, may therefore be critical for improving functional recovery and quality of life in this population.
+Keywords: Apathy; Traumatic Brain Injury; Head Injury; Motivation; Drive
+
+Ria Tahiliani, Kushal Thakur, Vraj Rangrej, Sadhana Hingorani,
+ID# 1904120 From Neurological to Vascular: Unveiling Carotid-Cavernous Fistula in a Patient with Lewy Body Disease,
+Neuromodulation: Technology at the Neural Interface,
+Volume 28, Issue 7, Supplement,
+2025,
+Page S68,
+ISSN 1094-7159,
+https://doi.org/10.1016/j.neurom.2025.08.128.
+(https://www.sciencedirect.com/science/article/pii/S1094715925004040)
+
+Elizabeth Fehrman, Amin Nourmohammadi, Caleb Zarns, Michelle Case, Abbey Becker, Rob Raike,
+Submission ID# 1907132 Using real-world brain sensing device data sets to derive clinical insights,
+Neuromodulation: Technology at the Neural Interface,
+Volume 28, Issue 7, Supplement,
+2025,
+Page S202,
+ISSN 1094-7159,
+https://doi.org/10.1016/j.neurom.2025.08.382.
+(https://www.sciencedirect.com/science/article/pii/S1094715925006580)
+
+Amelia D. Dahlén, Sahar Roshanbin, Nadja M. Bucher, Dag Sehlin, Stina Syvänen,
+Evaluating the impact of age and treatment on neuroinflammation-related proteins in mouse models of proteinopathies,
+Experimental Neurology,
+Volume 395,
+2026,
+115475,
+ISSN 0014-4886,
+https://doi.org/10.1016/j.expneurol.2025.115475.
+(https://www.sciencedirect.com/science/article/pii/S0014488625003401)
+Abstract: Neuroinflammation plays a key role in Alzheimer's disease (AD), but the actions of microglial mediators may vary across stages of amyloid-beta (Aβ) pathology. While drugs targeting brain immune responses are advancing to clinical trials, biomarkers to monitor their effects are lacking. This study investigated proteins expressed by activated microglia in three mouse models of Aβ pathology and α-synuclein, both during disease progression and after treatment, to evaluate their potential as in vivo biomarkers. Immunofluorescent staining was performed on cortical sections from AppNL-G-F, tg-ArcSwe, and wild-type (WT) mice. TREM2, Axl, galectin-3, Aβ, and cytokines were measured by immunoassays in brain homogenates from WT, AppNL-G-F, tg-ArcSwe, and tg-UppSwe mice across four age groups and from mice subjected to three treatment strategies targeting Aβ (beta-site amyloid precursor protein cleaving enzyme 1 (BACE1) inhibitor NB-360 and antibody RmAb158) or α-synuclein (antibody RmAb38E2). TREM2 and Axl colocalized with Iba1 and Aβ in AppNL-G-F and tg-ArcSwe mice, with age-dependent increases observed in both models but not in tg-UppSwe. The lectin galectin-3 increased with age across all genotypes, including WT. Aβ correlated with elevated TREM2, Axl, and Galectin-3. Two months of BACE1-inhibition reduced TREM2, Axl, and galectin-3 in tg-ArcSwe mice and TREM2 and Axl in AppNL-G-F mice. In summary, microglial TREM2, Axl, and galectin-3 are promising biomarkers for tracking AD-related neuroinflammation. Microglial interactions with Aβ likely influence the outcomes of Aβ-targeting therapies, and characterizing their dynamic states will inform the development of diagnostic tools and treatments relying on microglial activation to alleviate pathologies associated with neurodegenerative diseases.
+Keywords: Neuroinflammation; Alzheimer's disease; TREM2; Axl; Galectin-3; Cytokines
+
+Brandon S. Veron, Kyle Lethcoe, Robert O. Ryan,
+Immobilized nanodisks for study of ligand binding interactions,
+Biochimica et Biophysica Acta (BBA) - Biomembranes,
+Volume 1867, Issue 8,
+2025,
+184459,
+ISSN 0005-2736,
+https://doi.org/10.1016/j.bbamem.2025.184459.
+(https://www.sciencedirect.com/science/article/pii/S0005273625000537)
+Abstract: The SpyCatcher/SpyTag system represents a unique technology that allows facile conjugation of proteins via formation of a covalent isopeptide bond between the 113 residue SpyCatcher protein and a 16 residue SpyTag peptide. Herein this technology was adapted to incorporate miniature bilayer membranes, termed nanodisks (ND). Fusion proteins comprised of apolipoprotein (apo) A-I/SpyTag peptide and SpyCatcher/maltose binding protein (MBP), respectively, were expressed and purified. Upon incubation of apoA-I:SpyTag fusion protein with SpyCatcher:MBP fusion protein, a covalent adduct was formed. ApoA-I:SpyTag formulated into ND particles with cardiolipin (CL) or phosphatidylcholine retained the ability to form an adduct with SpyCatcher:MBP. This adduct was then immobilized on amylose agarose resin beads through a binding interaction with the MBP component. Upon incubation of cytochrome c with immobilized CL ND, but not with phosphatidylcholine ND, cytochrome c binding occurred. When immobilized cytochrome c CL ND were incubated with buffer containing CaCl2, cytochrome c dissociated and was recovered in the supernatant fraction obtained after pelleting the amylose agarose beads. Subsequent incubation of the amylose agarose beads with 10 mM maltose revealed that nearly all of the cytochrome c had been released from the beads. The data are consistent with the known ability of calcium to form an ionic interaction with the two negatively charged phosphates in the polar head group of CL. Given the number of ligand-membrane interactions that occur in nature, immobilized ND provide a novel means to probe them.
+Keywords: Nanodisc; SpyTag; SpyCatcher; Cardiolipin; Maltose binding protein; Cytochrome c
+
+Julianna Pijar, Clemens Neudorfer, Andrea Kühn, Andreas Horn,
+ID# 1902015 Mapping DBS Effects in Native Patient Space vs Template Space,
+Neuromodulation: Technology at the Neural Interface,
+Volume 28, Issue 7, Supplement,
+2025,
+Page S53,
+ISSN 1094-7159,
+https://doi.org/10.1016/j.neurom.2025.08.099.
+(https://www.sciencedirect.com/science/article/pii/S1094715925003757)
+
+Yi Zhe Lim, Su Juen Ngim, Jeremy Christopher Fernandiz, Alfand Marl F. Dy Closas, Tzi Shin Toh, Anis Nadhirah Khairul Anuar, Emily Siew Wen Chang, Johnny Jun Wei Cheok, Yi Wen Tay, Hans Xing Ding, Jie Ping Schee, Grace Sze Ern Chu, Lei Cheng Lit, Ai Huey Tan, Shen-Yang Lim,
+The Progressive Supranuclear Palsy Clinical Deficits Scale accurately reflects functional as well as patient- and caregiver-reported outcomes,
+Parkinsonism & Related Disorders,
+Volume 140,
+2025,
+108060,
+ISSN 1353-8020,
+https://doi.org/10.1016/j.parkreldis.2025.108060.
+(https://www.sciencedirect.com/science/article/pii/S1353802025008016)
+Abstract: Background
+Progressive supranuclear palsy (PSP) is a common atypical parkinsonian disorder, but a significant gap in clinical and research practice has been the unavailability until very recently of a brief but accurate scale to rate its clinical severity. The 7-item PSP Clinical Deficits Scale (PSP-CDS) offers an efficient method to evaluate PSP clinical severity and can be administered relatively rapidly. However, further validation of this new tool is needed.
+Methods
+Patients with PSP (n = 110; 55.5 % with Richardson syndrome [PSP-RS]) were consecutively recruited at a quaternary centre in Malaysia. We examined the correlations between the PSP-CDS and measures of patients’ functional status, using the Barthel Index (which is generic, brief, and clinician rated) and the Cortical Basal ganglia Functional Scale (CBFS; which is disease-specific, more comprehensive, and patient/caregiver reported).
+Results
+There were strong correlations between the PSP-CDS vs. the Barthel Index (rs = −0.81) and the CBFS (rs = 0.64) (both P < 0.001). In a post hoc analysis of individual items of the PSP-CDS and Barthel Index and CBFS, significant (and also mostly strong) correlations were observed, in the motor as well as non-motor domains.
+Conclusions
+The strong correlations between PSP disease severity as measured by the PSP-CDS vs. generic and disease-specific measures of functional status, rated by clinicians and patients and caregivers, provide further support for the PSP-CDS as a valid and efficient instrument. More widespread use of such tools can help to address the global gap of inadequate phenotyping of patients in routine clinical and research practice.
+Keywords: Progressive supranuclear palsy; PSP-CDS; Barthel index; Cortical basal ganglia functional scale; CBFS; Brief rating scale; Underrepresented populations
+
+Amy Solnica, Rony Schenker, Laura Rosenberg, Caryn Andrews, Barbara Medoff-Cooper, Rachel Yaffa Zisk-Rony,
+Parental perspectives on pain detection, assessment, and management in their highly dependent children with cerebral palsy: A cross-sectional study,
+Journal of Pediatric Nursing,
+Volume 85,
+2025,
+Pages 517-523,
+ISSN 0882-5963,
+https://doi.org/10.1016/j.pedn.2025.09.009.
+(https://www.sciencedirect.com/science/article/pii/S0882596325003239)
+Abstract: Parents understand their children's pain, which is vital for effective management. Nurses play a significant role in providing parents with pain education. This study aimed to examine the practices and challenges that parents of highly dependent children with cerebral palsy (CP) face when managing pain at home.
+Design
+A cross-sectional study of ninety-eight parents of children, adolescents and young people with CP completed questionnaires exploring pain intensity, home management, and their knowledge and perceptions.
+Results
+Parents reported past moderate pain and mild present pain in their children (mean = 4.17 ± 2.8; 2.01 ± 2.79 out of 10, respectively). Parents exhibited moderate knowledge and misconceptions (mean = 27.5 ± 13.5 out of 64). Most utilized numerous non-pharmacological modalities (mean = 9.64 ± 3.7) and found them to be, at most, moderately effective (mean = 6.9 ± 3.2; 0–10). Almost all provided over-the-counter (OTC) analgesics (96 %), and 25 offered prescription analgesics. A moderation model revealed that parents who received pain education were more likely to provide prescription analgesics (OR = 14, 95 % CI 2.21–276.4), but only in parents of fully verbal children (p = 0.02).
+Conclusions
+Parents often utilize a multimodal approach to managing their children's pain at home; however, their children frequently remain in pain. This may stem from parental knowledge gaps regarding pain detection and management.
+Implications for practice
+Effective nursing practice involves a collaborative partnership that integrates parents' knowledge with nurses' specialized skills and current evidence-based practices. Such a partnership can ensure that parents receive reliable information, personalized education, and support to provide their children with CP pain relief measures tailored to their needs.
+Keywords: Children adolescents and young adults; Parents; Cerebral palsy; Pain management; Home
+
+Francisco Alejandro Lagunas-Rangel,
+Neutrophil-to-lymphocyte ratio in aging: Trends and clinical implications,
+Experimental Gerontology,
+Volume 211,
+2025,
+112908,
+ISSN 0531-5565,
+https://doi.org/10.1016/j.exger.2025.112908.
+(https://www.sciencedirect.com/science/article/pii/S0531556525002372)
+Abstract: The neutrophil-to-lymphocyte ratio (NLR) has emerged as a widely accessible and cost-effective marker of systemic inflammation, derived from routine peripheral blood counts. It has demonstrated clinical relevance across a broad spectrum of conditions, including infections, cardiovascular disease, malignancies, trauma, postoperative complications, and cancer. Aging is associated with a gradual rise in NLR, driven by increasing neutrophil counts and declining lymphocyte numbers, reflecting underlying immunosenescence and systemic inflammation. Elevated NLR in older adults has been linked to greater morbidity and mortality, with higher levels correlating with increased risk, disease severity, and poorer clinical outcomes in age-related conditions. Interestingly, centenarians exhibit a slower age-related increase in NLR compared with non-centenarians, suggesting a more resilient immune system. This narrative review synthesizes current evidence on the trajectory of NLR across the human lifespan and its clinical relevance in the diagnosis, prognosis, and management of selected age-related diseases. Additionally, it explores emerging strategies to mitigate age-related NLR increases, including regular physical activity, targeted dietary interventions, and pharmacological approaches. A deeper understanding of NLR dynamics may inform preventive and therapeutic strategies to enhance health outcomes in aging populations.
+Keywords: Chronic inflammation; Risk factor; Healthy aging; Metformin; Exercise
+
+Xinxin Li, Hang Su, Jingying Li, Liang Fan, Hanxiao Tang, Hongyan Pei, Zhijuan Zhang,
+Environmentally friendly carbon quantum dots: A turn-off/turn-on probe for metal ions and norfloxacin,
+Inorganic Chemistry Communications,
+Volume 182, Part 2,
+2025,
+115550,
+ISSN 1387-7003,
+https://doi.org/10.1016/j.inoche.2025.115550.
+(https://www.sciencedirect.com/science/article/pii/S1387700325016673)
+Abstract: A straightforward and environmentally sustainable hydrothermal synthesis approach is introduced for creating carbon quantum dots (CQDs) from the Chinese herbal medicine (CHM) residue, with thorough studies on their structural and optical characteristics. A considerable quantum yield (QY) of 62.0 % and a blue-violet fluorescence were observed in the prepared CQDs. They possess excellent photoluminescence, high solubility in water, and good dispersibility, averaging 3.01 nm in size. Interestingly, the obtained CQDs can be served as a turn-off probe for Fe3+/Hg2+ as well as a turn-on probe for norfloxacin (NOR). Additionally, the limits of detection (LODs) for Fe3+, Hg2+, and NOR were measured at 0.48 μM, 1.67 μM, and 0.80 μM, respectively, which were markedly superior to those previously reported for CQDs, demonstrating their effectiveness in detecting Fe3+, Hg2+ and NOR in aqueous solutions. The fluorescence quenching of Fe3+ and Hg2+ was primarily attributed to the IFE and PET, respectively. In contrast, the fluorescence enhancement associated with NOR was predominantly due to hydrogen bonding interactions between CQDs and NOR, as well as the formation of complexes. The cytotoxicity assay revealed a cell viability rate exceeding 85 % at a concentration of 200 μg/mL, suggesting that the prepared CQDs have acceptable biocompatibility. This method proved successful in determining Fe3+, Hg2+ and NOR in tap and river water samples, suggesting good application prosperity of the CQDs-based probe.
+Keywords: Chinese herbal medicine residue; Carbon quantum dots; Green synthesis; Fe3+; Hg2+; NOR
+
+Jun Ha Chang, Ergun Y. Uc, Christopher L. Shaffer, Matthew Rizzo,
+Objective real-world mobility patterns in Parkinson's disease: Driving and walking after levodopa dosing,
+Parkinsonism & Related Disorders,
+Volume 140,
+2025,
+108055,
+ISSN 1353-8020,
+https://doi.org/10.1016/j.parkreldis.2025.108055.
+(https://www.sciencedirect.com/science/article/pii/S1353802025007965)
+Abstract: Introduction
+Levodopa is the primary treatment for motor symptoms in Parkinson's disease (PD), yet its real-world effects on activities of daily living (ADLs) across the day remain unclear. This study used continuous real-world monitoring to examine how levodopa dosing influences walking (basic ADL) and driving (instrumental ADL) in individuals with PD.
+Methods
+In a four-week observational study, 24 participants with early-stage PD underwent continuous monitoring of walking and driving using in-vehicle sensors, wrist-worn actigraphy, and medication logs. Activity was analyzed in 30-min intervals up to 4 h post-dose. Mixed-effects models assessed associations between time since last dose and activity, stratified by morning (wake to 1 p.m.) and afternoon (1 p.m. to bedtime), adjusting for age, sex, employment, motor severity, and levodopa equivalent daily dose (LEDD).
+Results
+Morning activity increased significantly post-medication, peaking at 120–150 min. Afternoon activity declined: driving likelihood decreased by 120 min, and walking declined by 180 min, reaching the lowest levels at 210–240 min. Higher motor symptom severity (MDS-UPDRS Part III) was associated with reduced walking but not driving.
+Conclusion
+Real-world mobility data reveal distinct time-of-day patterns in levodopa's effects. Morning doses yielded greater benefit, while afternoon effects diminished. Aligning medication timing with functional demands and integrating continuous monitoring may improve PD management.
+
+Sushil Giri, Phool Chandra,
+Modulation of neuropathological pathways by bioactive peptides and proteins/polypeptides: Targeting oxidative stress in neurodegenerative diseases,
+Neuropeptides,
+Volume 114,
+2025,
+102563,
+ISSN 0143-4179,
+https://doi.org/10.1016/j.npep.2025.102563.
+(https://www.sciencedirect.com/science/article/pii/S0143417925000630)
+Abstract: Neurodegenerative disorders (NDDs) pose a growing global health burden, primarily due to their progressive nature and the limited efficacy of existing treatments. Bioactive peptides and proteins/polypeptides, particularly those derived from dietary and natural sources, show promise in modulating neurobiological pathways central to neurodegeneration. This review aims to critically examine the neuroprotective roles of Bioactive peptides and proteins/polypeptides in NDDs, elucidating their mechanisms of action, potential therapeutic applications in conditions like Alzheimer's, Parkinso's disease, Huntington's disease, and others, as well as the trends in peptide-based therapeutics. Bioactive peptides and proteins/polyspeptides, such as NGF, BDNF, GDNF, Semax, and Exendin-4, have been found to modulate several critical mechanisms, including the reduction of oxidative stress (OS), inhibition of neuroinflammation, preservation of mitochondria, and enhancement of synaptic plasticity. These peptides have demonstrated efficacy in preclinical and early-phase clinical trials across a spectrum of NDDs. Delivery challenges, such as blood-brain barrier (BBB) permeability and enzymatic degradation, have been acknowledged. Ongoing innovations in peptide engineering, nanoparticle-based delivery systems, CRISPR-assisted design, and AI-driven screening are addressing these limitations. By targeting multiple pathogenic mechanisms simultaneously, peptide-based therapeutics present a rational and innovative approach to NDD management. Their multifunctional action profiles and ability to target specific molecular pathways highlight their potential as next-generation neuroprotective agents. However, future clinical validation and advanced strategies are essential for translating these promising molecules into effective treatments.
+Keywords: Neurodegenerative diseases; Peptide-based therapies; Neuroprotection; Nerve growth factor; Glia cells
+
+Govind Singh. Mann, Binay K. Panjiyar,
+ID# 1907220 Comparing the impact of Low frequency vs High frequency Deep Brain Stimulation in Parkinson’s disease,
+Neuromodulation: Technology at the Neural Interface,
+Volume 28, Issue 7, Supplement,
+2025,
+Page S210,
+ISSN 1094-7159,
+https://doi.org/10.1016/j.neurom.2025.08.399.
+(https://www.sciencedirect.com/science/article/pii/S1094715925006750)
+
+Steven J. Wilhelm, Grace E. Curry, Neel Matiwala, Jianguo Lin, Tran Quach, Mark.E. Lowe, Miklós Sahin-Tóth, Xunjun K. Xiao,
+Diverse Misfolding Mutant Digestive Enzymes Cause Chronic Pancreatitis through Common Pathways,
+Cellular and Molecular Gastroenterology and Hepatology,
+2025,
+101638,
+ISSN 2352-345X,
+https://doi.org/10.1016/j.jcmgh.2025.101638.
+(https://www.sciencedirect.com/science/article/pii/S2352345X25001791)
+Abstract: Background and Aims
+Increasing evidence suggests that protein misfolding and proteotoxicity is an important mechanism of chronic pancreatitis (CP) in patients with genetic variants. Two mouse models carrying misfolding digestive enzyme variants, CPA1 N256K and PNLIP T221M, recapitulate the human CP phenotype. We hypothesized that both models develop CP through similar disease mechanisms.
+Methods
+We conducted a comprehensive analysis of mice aged 1 to 6 months using histology, immunohistochemistry, protein immunoblotting, qPCR, transmission electron microscopy (TEM), and RNA-Seq analysis to characterize pancreatic pathological changes.
+Results
+Both homozygous models exhibited CP hallmarks, including progressive acinar cell loss, inflammation, fibrosis, and fatty replacement. CP progression was slower and less severe in Cpa1 N256K mice compared to Pnlip T221M mice, and heterozygous mice showed slower CP development than homozygotes. Both mutant proteins misfolded in the pancreas, inducing ER stress and activating the unfolded protein response. RNA-Seq analysis revealed slight differences in altered pathways at 1 month, but these differences disappeared by 3 months. Notably, apoptosis pathways were among the top up-regulated pathways, confirmed by qPCR and immunohistochemistry. Differential expression and pathway analyses indicated early activation of both intrinsic and extrinsic apoptosis pathways elicited through multiple mechanisms.
+Conclusions
+Our study demonstrates that Cpa1 N256K and Pnlip T221M mice develop CP through similar mechanisms with slight differences in progression and severity. Both models could serve as invaluable tools for developing and testing CP therapies. Targeting cell death pathways for therapy may be unfeasible given their redundancy. Instead, effective therapeutic strategies should focus on reducing the burden of misfolded digestive enzymes in the pancreas.
+Keywords: CPA1; ER stress; Pancreatic atrophy; PNLIP; Proteotoxicity
+
+Alejandra A. Covarrubias, Daniela Cerda, Claudio Coddou, Marianela Saldías, David Villaman, Rodrigo Sánchez-González, Javier González-Díaz, Rafael Melo Freire, Makarena Riquelme, Alejandra Haase, Flor Rodriguez-Prieto, Marco Mellado,
+2-Aminopyrimidine derivatives as potential fluorescent chemosensors for trivalent cations: Structural characterization, photophysical properties, and live-cell imaging,
+Journal of Molecular Structure,
+Volume 1350, Part 2,
+2026,
+144119,
+ISSN 0022-2860,
+https://doi.org/10.1016/j.molstruc.2025.144119.
+(https://www.sciencedirect.com/science/article/pii/S0022286025027656)
+Abstract: Variations in metallic cation levels have been associated with chronic non-communicable diseases such as Alzheimer’s and Parkinson’s (e.g., Al(III) and Fe(III)) and diabetes (e.g., Cr(III)). In this context, fluorescent chemosensors are valuable tools for detecting cation concentrations in complex matrices. Herein, we report the synthesis of two fluorescent pyrimidines: 4-(4-(dimethylamino)phenyl)-6-phenylpyrimidin-2-amine (PY-H) and 4-(4-(dimethylamino)phenyl)-6-(4-fluorophenyl)pyrimidin-2-amine (PY-4F). The crystal structure of PY-4F reveals a 30.06° torsion arrangement between the pyrimidine core and the -C₆H₄N(CH₃)₂ ring. Photophysical studies demonstrate selective fluorescence quenching in the presence of trivalent cations (Al(III), Cr(III), Fe(III)). Detection limits range from 0.060 to 0.570 µM, all below the thresholds established for drinking water by international agencies such as the World Health Organization and Environmental Protection Agency. To elucidate the sensing mechanism, a computational study using DFT and TD-DFT methods was conducted. Cytotoxicity assays in SH-SY5Y cells revealed low toxicity, and successful cell labeling was achieved using epifluorescence and confocal microscopy. These results suggest that PY-H and PY-4F are promising fluorescent probes for detecting Al(III), Cr(III), and Fe(III) in cellular environments and potentially in other complex systems.
+Keywords: 2-aminopyrimidine; Fluorescent Chemosensor; Metal ion detection; Trivalent cations; DFT calculations; SH-SY5Y cell imaging
+
+Fernanda C.O.L. Martins, Wanessa R. Melchert,
+Environmentally friendly SLPME of Propineb and Mancozeb from tomato and rice,
+Journal of Food Composition and Analysis,
+2025,
+108358,
+ISSN 0889-1575,
+https://doi.org/10.1016/j.jfca.2025.108358.
+(https://www.sciencedirect.com/science/article/pii/S0889157525011743)
+Abstract: In this study, a new, eco-friendly, and easy-to-use solid-liquid phase microextraction (SPLME) method was developed for propineb (PB) and mancozeb (MB), enabling the differentiation between them and their determination using Flow Injection Analysis coupled with flame atomic absorption spectroscopy (FIA-FAAS). The extraction and determination of these dithiocarbamates were optimized from food samples, with 400µL of 1.00×10-2molL-1 EDTA solution in 0.04molL-1 BR buffer at pH 9.50 as the extractor solvent, which is environmentally friendly. This proposed methodology enabled the determination of the MB and PB with detection limits below the residue maximum limit established by regulatory agencies, selectivity between them, and precision and accuracy. Additionally, PB and MB were extracted from tomato and rice samples employing the optimized SPLME conditions, which yielded good recoveries. The obtained concentrations were compared with those obtained through microextraction of total dithiocarbamates, as determined by the colorimetric method for dithiocarbamates, and analyzed using Student's t-test at a 95% confidence level, revealing no significant difference. Moreover, the greenness metrics (e.g., BAGI, AGREEprep, and ComplexMoGAPI) were utilized in the evaluation of SPLME coupled with FIA-FAAS, as demonstrated. Therefore, this method is an eco-friendly and easy operation for extracting PB and MB.
+Keywords: Green analytical chemistry; liquid-solid phase microextraction; food samples; propineb; mancozeb; flow injection flame atomic absorption spectroscopy
+
+Daniel S. Marín-Medina, Gala Lopez, Malco Rossi, Marcelo Merello,
+Diverse paths of phenotypic evolution in functional movement disorders: A longitudinal perspective,
+Parkinsonism & Related Disorders,
+2025,
+108059,
+ISSN 1353-8020,
+https://doi.org/10.1016/j.parkreldis.2025.108059.
+(https://www.sciencedirect.com/science/article/pii/S1353802025008004)
+Abstract: Introduction
+Functional Movement Disorders (FMD) exhibit a variable course over time. Understanding FMD phenotype trajectories may improve knowledge of its natural history and prognosis.
+Methods
+Retrospective study of FMD patients seen at a tertiary movement disorders clinic (2011–2024). Motor symptoms before the first consultation T(-1), FMD phenotype at first consultation T(0), and FMD phenotype at last consultation T(1), were considered. We compared the clinical and demographic characteristics of patients who modified the phenotype from T(0)→T(1) versus those who did not.
+Results
+Among 112 patients (81.2 % female, mean age at onset 46.0 ± 18.8 years), the most common FMD phenotypes were mixed, tremor, and dystonia, with a median time from onset to T(0) of 15 (8–48) months, and follow-up of 21.7 (7.9–54.8) months. Motor symptoms at T(-1) were mainly tremor and gait disorders. One-third of patients had changed the motor symptoms from T(-1)→T(0), mostly to mixed forms. From T(0)→T(1), 13.2 % of patients displayed a change in the phenotype, mainly from dystonia, tremor, and parkinsonism to mixed FMD. Family dysfunction, variability within the same phenotype, change in location, and worse patient-reported status were more frequent in patients with phenotype modification. Logistic multivariable analysis showed that functional dystonia at T(0), adjusted for within-phenotype movement variability, predicted phenotype modification.
+Conclusions
+FMD patients often showed changes in phenotype over time, tending toward more mixed forms. Certain clinical features may help predict these changes, emphasizing the importance of continued follow-up.
+Keywords: Functional movement disorder; Conversion disorder; Phenotype; Trends; Disease course
+
+Nick C Fox, Christopher Belder, Clive Ballard, Helen C Kales, Catherine Mummery, Paulo Caramelli, Olga Ciccarelli, Kristian S Frederiksen, Teresa Gomez-Isla, Zahinoor Ismail, Claire Paquet, Ronald C Petersen, Robert Perneczky, Louise Robinson, Ozge Sayin, Giovanni B Frisoni,
+Treatment for Alzheimer's disease,
+The Lancet,
+Volume 406, Issue 10510,
+2025,
+Pages 1408-1423,
+ISSN 0140-6736,
+https://doi.org/10.1016/S0140-6736(25)01329-7.
+(https://www.sciencedirect.com/science/article/pii/S0140673625013297)
+Abstract: Summary
+Over the last three decades, the evidence on how to best treat the cognitive and non-cognitive symptoms of patients with Alzheimer's disease has increased. Although these pharmacological and non-pharmacological strategies have significantly improved health outcomes for patients with Alzheimer's disease, many lack stringent evidence of efficacy. In this second paper of the Series, we provide practical and realistic advice on how to prioritise pharmacological and non-pharmacological strategies to ameliorate cognitive impairment and behavioural and psychological symptoms of dementia. In this clinical environment, dementia specialists are faced with the challenge of holistically integrating the much anticipated and, in some respects, controversial anti-β amyloid monoclonal antibodies. Here, we present the current approval scenario of monoclonal antibodies, our view on how they might further contribute to improve patients' quality of life, and how they could be seamlessly integrated with existing best care options.
+
+Jason Aldred, Kristine Wessels, Jamie Mark, Aaron Dahl, Benjamin Reese, Beth Farber-Petrey, Alison Lewis, Richard Mustakos, Rajat Shivacharan, Mahsa Malekmohammadi,
+ID# 1889890 Automated Image-Guided Programming Algorithm Supports Clinicians During DBS Programming for Parkinson's Disease Patients,
+Neuromodulation: Technology at the Neural Interface,
+Volume 28, Issue 7, Supplement,
+2025,
+Page S25,
+ISSN 1094-7159,
+https://doi.org/10.1016/j.neurom.2025.08.047.
+(https://www.sciencedirect.com/science/article/pii/S109471592500323X)
+
+Huynh Minh Triet Nguyen, Nae Yoon Lee,
+A fast on-site quarantine for the detection of amphibian infection of ranavirus,
+Analytica Chimica Acta,
+Volume 1378,
+2025,
+344691,
+ISSN 0003-2670,
+https://doi.org/10.1016/j.aca.2025.344691.
+(https://www.sciencedirect.com/science/article/pii/S0003267025010852)
+Abstract: Background
+The ranavirus outbreak has caused high mortality in mostly amphibian species, which has led to the amphibian extinction and ecological imbalance. Besides the conventional method for ranavirus detection, some isothermal methods, including loop-mediated isothermal amplification and recombinase polymerase amplification, have also been introduced. However, previous techniques face drawbacks such as lengthy analysis and indistinguishable viral names due to similar gene sequences. Therefore, fast on-site identification of ranavirus is crucial to prevent its deadly spread, and polymerase chain reaction (PCR) is typically used to detect infected species.
+Result
+This study developed a method to precisely discriminate two ranavirus strains – frog virus 3 (FV3) and tiger frog virus (TFV) – for fast on-site quarantine via single nucleotide polymorphism (SNP) discrimination using allele-specific PCR (AS-PCR). Due to high gene sequence similarity, detection was achieved by designing a common reverse primer for FV3 and TFV, making three primers sufficient for multiplex detection. The reaction took less than 40 min and showed high specificity and sensitivity, identifying FV3 at 101 bp and TFV at 223 bp with a detection limit of approximately 1 ng/μL of genetic material. Moreover, a visible readout for amphibians infected with FV3, TFV, or both was confirmed by a color change in silver nanoparticle formation under UV illumination from a DNA-promoting silver nitrate solution.
+Significance
+The research illustrates a short analysis for the specific detection of ranavirus strains among frog infections in one pot, which has rarely been described before. Hence, this approach enables rapid on-site quarantine of infected amphibians, with broad applications in amphibian trade and conservation at border gates, wildlife sanctuaries, and farms.
+Keywords: Allele-specific polymerase chain reaction (AS-PCR); Amphibian infection; Frog virus 3; Tiger frog virus (TFV); On-site quarantine; Ranavirus; Silver nanoparticle; SNP genotyping
+
+Xinming Wang, Xinzhi Zhao, Xinyi Li, Feng Li, Hang Jie, Xiaoyu Li,
+A comprehensive update on synthesis, pharmacokinetics, bioactivities, therapeutic potential, and future prospects of muscone,
+Natural Product Research,
+2025,
+,
+ISSN 1478-6419,
+https://doi.org/10.1080/14786419.2025.2559765.
+(https://www.sciencedirect.com/science/article/pii/S1478641925005029)
+Abstract: Muscone, the principal active ingredient in traditional Chinese medicine Moschus, garners significant attention for its extensive pharmacological activities and widespread applications in medicine and cosmetics. Due to the scarcity of natural Moschus and ethical concerns in its extraction, the synthesis and industrial production of muscone have been actively developed. Notably, this article elaborately expounds on muscone’s regulatory effect on biological membrane permeability and its underlying mechanism. Muscone possesses multiple biological activities, including vascular protection, neuroprotection, anti-inflammation, and anti-tumour effects, which have attracted extensive research attention. This article presents a systematic review of its generation process, influencing factors, chemical synthesis methods, pharmacokinetic characteristics, biological activities, therapeutic potential, and future application prospects. The purpose is to lay a theoretical foundation for the indepth exploration of muscone as a therapeutic agent and the development of novel drugs.
+Keywords: Muscone; synthesis; bioactivity; pharmacokinetics; research
+
+Tirath D. Patel, Rohab Sohail, Jabez David, Muhammad Farhan, Adekunle E. Omole, Nikhilesh Anand, Richard Millis, Bharathi S. Gadad,
+ID# 1907010 Adaptive Deep Brain Stimulation Targeting the Subthalamic Nucleus in Parkinson’s Disease: A Case Report,
+Neuromodulation: Technology at the Neural Interface,
+Volume 28, Issue 7, Supplement,
+2025,
+Page S188,
+ISSN 1094-7159,
+https://doi.org/10.1016/j.neurom.2025.08.356.
+(https://www.sciencedirect.com/science/article/pii/S1094715925006324)
+
+Jacopo Tessadori, Ilaria Boscolo Galazzo, Silvia F. Storti, Lorenzo Pini, Lorenza Brusini, Federica Cruciani, Diego Sona, Gloria Menegaz, Vittorio Murino,
+Linking dynamic connectivity states to cognitive decline and anatomical changes in Alzheimer’s disease,
+NeuroImage,
+Volume 320,
+2025,
+121448,
+ISSN 1053-8119,
+https://doi.org/10.1016/j.neuroimage.2025.121448.
+(https://www.sciencedirect.com/science/article/pii/S1053811925004513)
+Abstract: Alterations in brain connectivity provide early indications of neurodegenerative diseases like Alzheimer’s disease (AD). Here, we present a novel framework that integrates a Hidden Markov Model (HMM) within the architecture of a convolutional neural network (CNN) to analyze dynamic functional connectivity (dFC) in resting-state functional magnetic resonance imaging (rs-fMRI). Our unsupervised approach captures recurring connectivity states in a large cohort of subjects spanning the Alzheimer’s disease continuum, including healthy controls, individuals with mild cognitive impairment (MCI), and patients with clinically diagnosed AD. We propose a deep neural model with embedded HMM dynamics to identify stable recurring brain states from resting-state fMRI. These states exhibit distinct connectivity patterns and are differentially expressed across the Alzheimer’s disease continuum. Our analysis shows that the fraction of time each state is active varies systematically with disease severity, highlighting dynamic network alterations that track neurodegeneration. Our findings suggest that the disruption of dynamic connectivity patterns in AD may follow a two-stage trajectory, where early shifts toward integrative network states give way to reduced connectivity organization as the disease progresses. This framework offers a promising tool for early diagnosis and monitoring of AD, and may have broader applications in the study of other neurodegenerative conditions.
+Keywords: Alzheimer’s disease; Cognitive impairment; Convolutional neural networks (CNNs); Hidden Markov Model (HMM); Resting-state functional magnetic resonance imaging (rs-fMRI); Unsupervised analysis
+
+Jennifer L. Lewicki, Sara Peek, Laura E. Clor, Andrew G. Hunt,
+Gas emissions from the Sulphur Bank Mercury Mine hydrothermal system, Clear Lake volcanic field, California,
+Journal of Volcanology and Geothermal Research,
+Volume 468,
+2025,
+108453,
+ISSN 0377-0273,
+https://doi.org/10.1016/j.jvolgeores.2025.108453.
+(https://www.sciencedirect.com/science/article/pii/S0377027325001891)
+Abstract: The Sulphur Bank Mercury Mine (SBMM) hydrothermal system offers insights into active degassing processes in the Clear Lake volcanic field (CLVF), a high-threat region based on its record of Holocene eruptions and proximity to populated areas. Here we present chemical and isotopic analyses of gas samples collected between 2015 and 2023, along with the first comprehensive CO2 flux survey of the SBMM area conducted in 2023. Sampled gases are CO2- and CH4-rich (≥84 and 6 mol% in dry gas, respectively) with high mantle-derived helium contributions (3He/4He = 6.54–7.86 RC/RA). Carbon isotopic compositions of CO2 (δ13C = −10.0 to −9.5 ‰) and CH4 (δ13C = −35.8 ‰) indicate mixed sources, with significant contributions from metamorphism of organic-rich Franciscan Complex rocks hosting the hydrothermal system. Modeling of gas compositions shows that scrubbing by interaction with air-saturated groundwater strongly influences observed compositional variability. From our CO₂ flux measurements, we estimate the deeply derived CO2 emission rate from the SBMM hydrothermal area (0.2 km2) at 240 t d−1, comparable to many quiescently degassing volcanoes worldwide. We also provide a first-order estimate of CH4 emissions at approximately 0.5 t d−1. Our findings establish crucial baseline data for future volcanic monitoring efforts, enhancing detection capabilities for potential changes in this active hydrothermal system. This work contributes to the broader understanding of volatile contributions from volcanic and metamorphic sources to the global carbon budget, while highlighting the strong influence of bedrock geology on gas compositions in the CLVF.
+Keywords: Sulphur Bank Mercury Mine; Clear Lake volcanic field; Hydrothermal system; Gas geochemistry; CO2 emissions; CH4 emissions
+
+Gao-feng LIU, Xiao-Li HUANG, Wei-xing ZHONG, Yin XIE, Si-yuan XIE, Yuan-xun LIN, Yun-ao-long ZHANG, Hong-wen LIU, Qing-guang QIN, Yi-kai LI,
+Global Acupuncture RCTs(1993-2022): Evaluating Status, Guideline Impact, and Future Research Trends,
+World Journal of Acupuncture - Moxibustion,
+2025,
+,
+ISSN 1003-5257,
+https://doi.org/10.1016/j.wjam.2025.09.004.
+(https://www.sciencedirect.com/science/article/pii/S1003525725000686)
+Abstract: ABSTRACT
+Objectives
+This study aims to evaluate the current state of acupuncture randomized controlled trials (RCTs), their impact on guidelines, and future development trends, providing a reference for future research directions.
+Methods
+Search for acupuncture-related RCT articles in the Web of Science Core Collection and confirm their guideline inclusion on Google Scholar. Analyze study characteristics to predict future research directions.
+Results
+The analysis covered 1,422 articles, reflecting a substantial rise in publications from 77 articles between 1993 and 2002 to 960 between 2013 and 2022. The Western Pacific region led in publication numbers with 622 articles (43.7%), followed by Europe (466 articles; 32.8%), Americas (250 articles; 17.6%), Eastern Mediterranean (62 articles; 4.4%), and Southeast Asia (22 articles; 1.5%), with Africa showing a research void. Regrettably, only 29.6% (421 articles) were incorporated into guidelines. The low rate of inclusion of research results in guidelines and the uneven distribution of research fields are particularly prominent. From 1993 to 2002, there were 77 articles, among which 51 (66.2%) were included in the guidelines; from 2003 to 2012, there were 385 articles, with 202 (52.5%) included; from 2013 to 2022, there were 960 articles, and only 168 (17.5%) were included, showing a decreasing trend in the inclusion rate year by year. Regarding geographical distribution, 1,167 articles were from the Eastern Hemisphere, with 326 (27.9%) included; 255 were from the Western Hemisphere, and 95 (37.3%) were included. Regionally, 179 articles (42.5%) from Europe were included, 140 (33.3%) from the Western Pacific, 95 (22.6%) from the Americas, 6 (1.4%) from the Eastern Mediterranean, and 1 (0.2%) from Southeast Asia. China, the United States, and Germany were the top publishing countries, with consistent growth in countries like China, South Korea, Spain, Brazil, Turkey, and Iran. Noteworthy researchers such as Cesar Fernandez-de-las-Penas, Zhi-shun LIU, Jing-wen YANG, Cun-zhi LIU, Li-xing LAO, Stefan N Willich, and Benno Brinkhaus have collaborated on research in areas such as pain management, cognitive impairments, insomnia, digestive system diseases, and urinary system diseases. There has been a particular increase in research focus on neck pain and myofascial trigger points.
+Conclusion
+Despite the growth in acupuncture RCTs, their impact on revising medical guidelines remains disproportionate. The skewed geographic distribution underscores the urgent need for more comprehensive, regionally-targeted trials to foster globally applicable outcomes.
+摘要
+目的
+本研究旨在评估针灸随机对照试验 (RCT) 的现状,其对指南的影响以及未来发展趋势, 为后续研究方向提供参考.
+方法
+在Web of Science核心合集中检索针灸相关RCT文献, 并通过Google Scholar确认其被指南收录情况.通过分析研究特征预测未来研究方向.
+结果
+本次分析涵盖1,422篇文献, 反映出论文发表量从1993-2002年间的77篇显著增长至2013-2022年间的960篇.西太平洋地区以622篇 (43.7%) 的发表量领先, 其次为欧洲 (466篇;32.8%) ,美洲 (250篇;17.6%) ,东地中海地区 (62篇;4.4%) 和东南亚 (22篇;1.5%) , 而非洲地区呈现研究空白.遗憾的是, 仅29.6% (421篇) 的文献被纳入指南.研究成果纳入指南的比例偏低与研究领域分布不均的现象尤为突出.1993-2002年间77篇文献中有51篇 (66.2%) 被纳入指南;2003-2012年385篇中202篇 (52.5%) 被纳入指南;2013-2022年960篇中仅168篇 (17.5%) 被纳入指南, 呈现逐年递减趋势.地域分布方面, 东半球1,167篇文献中有326篇 (27.9%) 被纳入指南, 西半球255篇中95篇 (37.3%) 被纳入指南.分区域看, 欧洲179篇 (42.5%) ,西太平洋140篇 (33.3%) ,美洲95篇 (22.6%) ,东地中海6篇 (1.4%) ,东南亚1篇 (0.2%) 被纳入指南.中国,美国和德国是发文量前三的国家, 中国,韩国,西班牙,巴西,土耳其和伊朗等国持续保持增长态势.塞萨尔·费尔南德斯-德拉斯-佩尼亚斯,刘志顺,杨静雯,刘存志,劳力行,斯特凡·N·威利希和本诺·布林克豪斯等知名学者在疼痛管理,认知障碍,失眠症,消化系统疾病和泌尿系统疾病等领域开展合作研究.值得注意的是, 针对颈痛和肌筋膜触发点的研究关注度显著提升.
+结论
+尽管针灸随机对照试验数量有所增长, 但其对修订医疗指南的影响力仍不相称.这种不均衡的地理分布凸显出亟需开展更具综合性,针对特定区域的临床试验, 以推动形成全球适用的研究成果.
+Keywords: Acupuncture; Randomized controlled trial; Hotspot; Guideline; Trends
+
+Mohammadine Moumou, Souliman Amrani, Hicham Harnafi,
+Insights into polyphenols' encapsulation in cyclodextrins: An updated systematic literature review,
+Carbohydrate Polymers,
+Volume 370,
+2025,
+124441,
+ISSN 0144-8617,
+https://doi.org/10.1016/j.carbpol.2025.124441.
+(https://www.sciencedirect.com/science/article/pii/S0144861725012251)
+Abstract: Polyphenols are phytochemicals derived from fruits, leaves, flowers, roots, and other parts of various plants and other natural resources. These secondary metabolites, with some currently could be chemically synthesized, are associated with a plethora of bioactivities, including anti-inflammatory, antimicrobial, antioxidant, hypolipidemic, and anti-diabetic activities. Recently, polyphenols have attracted a huge amount of attention in the food industry, as they are natural preservatives with some used as colorants and flavoring agents. However, the poor solubility and rapid degradation when exposed to environmental conditions, astringency and bitter taste, as well as the limited bioavailability of polyphenols hindered their applications in food products and pharmaceuticals. This work main objective is to provide an up-to-date overview of polyphenols' encapsulation in cyclodextrins (CDs) as reliable tools to overcome the aforementioned challenges. An overview of CD types, inclusion properties and the main techniques used to prepare and characterize inclusion complexes (ICs) will be provided. Interestingly, we systematically reviewed the current knowledge about CDs' encapsulation of phenolic acids, flavonoids, stilbenes, tannins, and other phenolic molecules. The use of CDs as encapsulation agents for chemically characterized phenolic-rich extracts will also be discussed. This review also covers bioavailability, various applications, limitations, and future perspectives on CD/polyphenol ICs.
+Keywords: Cyclodextrins, Flavonoids; Stilbenes; Polyphenol-rich extracts; Bioavailability, Applications
+
+Kelsey S. Heavener, Kirstin A. Tamucci, Annie J. Lee, Khushbu Kabra, Zena K. Chatila, Maedot Yidenk, David A. Bennett, Badri N. Vardarajan, Elizabeth M. Bradshaw,
+P2RX7 modulates the function of human microglia-like cells and mediates the association of IL18 with Alzheimer's disease traits,
+Neurobiology of Disease,
+Volume 216,
+2025,
+107106,
+ISSN 0969-9961,
+https://doi.org/10.1016/j.nbd.2025.107106.
+(https://www.sciencedirect.com/science/article/pii/S0969996125003237)
+Abstract: The immune system plays a dynamic role in neurodegenerative diseases, and purinergic receptors allow immune cells to recognize neuronal signaling, cell injury, or stress. Purinergic Receptor 7 (P2RX7) can modulate inflammatory cascades, and its expression is upregulated in Alzheimer's disease (AD) brain tissue. P2RX7 expression is enriched in microglia, and elevated levels are found in microglia surrounding amyloid-beta (Aβ) plaques in the brain. Despite evidence linking P2RX7 to AD, the mechanisms by which it shapes microglial responses and contributes to AD remain poorly defined. Here, we utilize a human monocyte-derived microglia-like cell model (MDMi) to interrogate P2RX7 activation and downstream consequences on microglial function. Specifically, we measured IL1β and IL18 production and Aβ1–42 uptake following ATP-induced P2RX7 activation. Our results show that ATP-stimulation of MDMi triggers upregulation of IL1β and IL18 expression, which is blocked with the A740003 P2RX7 antagonist. Elevated extracellular ATP also impaired Aβ1–42 uptake, an effect reversed by P2RX7 inhibition with A740003. In addition, pretreatment of MDMi with IL-1Ra limited ATP-driven IL1β and IL18 gene expression upregulation, indicating that ATP immunomodulation of P2RX7 is IL-1R dependent. Critically, analysis of postmortem human brain revealed that P2RX7 expression significantly mediated the association between IL18, but not IL1β, and multiple AD traits, including amyloid load, tau tangle density, global AD pathology burden, cortical and neocortical Lewy bodies, cognitive decline, and clinical dementia. Consistent with these findings, in our MDMi model, P2RX7 gene expression correlated with IL18 but not IL1β. Together, these findings highlight P2RX7 as a critical integrator of extracellular danger signals and microglial immune function, underscoring its potential as a therapeutic target in neurodegeneration.
+Keywords: P2RX7; ATP; IL-1Ra; Amyloid-beta; Neurodegeneration; Alzheimer's disease
+
+Fuli Zheng, Shangrong Jiang, Xinpei Lin, Xiangyu Chang, Wei Wang, Jianping Tang, Yanjun Li, Sining Liao, An Zhu, Wenya Shao, Zhenkun Guo, Xu Liu, Huangyuan Li, Michael Aschner,
+Brain rewired: Redox control of brain cell crosstalk via nanotubes and vesicles,
+Free Radical Biology and Medicine,
+Volume 241,
+2025,
+Pages 258-267,
+ISSN 0891-5849,
+https://doi.org/10.1016/j.freeradbiomed.2025.09.037.
+(https://www.sciencedirect.com/science/article/pii/S0891584925009943)
+Abstract: Redox balance is critically important for maintaining normal physiological functions in the brain. Disruptions in this balance, whether through excessive reduction (reductive stress) or excessive oxidation (oxidative stress), can contribute to the onset and progression of neuropathological conditions. For decades, research has predominantly focused on the impact of redox imbalance in inducing nervous system damage at the level of single cells, subcellular organelles, and macromolecular changes. Recent evidence increasingly indicates that redox status not only affects intracellular processes but also plays a pivotal role in regulating intercellular communication. Specifically, redox imbalance has been shown to influence the formation of tunnelling nanotubes and the secretion of extracellular vesicles (EVs, such as microvesicles, exosomes), both of which are critical for the transfer of cellular signals, organelles, and biomolecules between cells. In this review, after a succinct introduction to key concepts related to redox biology, we present a comprehensive overview of intercellular communication and its interaction with redox balance in the brain, encompassing both genetic and epigenetic modifications.
+Keywords: Redox; Intercellular communication; Nervous system; Tunnelling nanotubes; Extracellular vesicles
+
+Ying Zhou, Qinyu Ge, Moxin Li, Ting Qi, Zhihui Li, Yuqi Sheng, Min Pan, Quanjun Liu, Xiangwei Zhao, Zuhong Lu,
+Full-length spatial transcriptome strategy based on robust and low-cost target tissue capture,
+Biosensors and Bioelectronics,
+Volume 291,
+2026,
+118018,
+ISSN 0956-5663,
+https://doi.org/10.1016/j.bios.2025.118018.
+(https://www.sciencedirect.com/science/article/pii/S0956566325008942)
+Abstract: Smart-seq2, a widely used method for constructing full-length mRNA transcriptome libraries, can be combined with target tissue capture techniques such as Laser Capture Microdissection (LCM) to achieve robust spatial transcriptomic profiling. However, both Smart-seq2 and LCM are limited by high costs and complex operation, hindering their broader adoption. Here, we report a full-length spatial transcriptome strategy based on a robust and cost-effective tissue capture technique, termed MSN-seq. MSN-seq integrates microneedle-based sampling with a modified Smart-seq2 protocol. This method captures multi-cellular tissue spots and not only optimises Smart-seq2 for enhanced performance but also leverages reusable steel needles to further reduce costs and improve transcriptomic capture efficiency. In addition to simplifying experimental procedures, MSN-seq increases accessibility by enabling spatial transcriptomic analysis without requiring specialised skills or expensive instrumentation. We applied MSN-seq to brain and retinal tissues from models of Parkinson's disease and retinal degeneration, demonstrating its effectiveness in capturing spatial transcriptomic data. Furthermore, application of MSN-seq to frozen sections from U251 glioblastoma model mice revealed early invasive mechanisms and spatially restricted enrichment of immune cell subsets. Overall, MSN-seq provides a low-cost, easy-to-use, and highly efficient strategy for acquiring spatial transcriptome data.
+Keywords: Smart-seq2; MSN-seq; Glioblastoma; Spatial transcriptomics
+
+Thi Thuy Tien Vo, Ming-Horng Tsai, Chueh-Yi Cheng, Yung-Li Wang, Wei-Ju Lee, I-Ta Lee,
+The oral microbiome–redox–inflammation axis in neurodegeneration: mechanistic insights and therapeutic perspectives,
+Biochemical Pharmacology,
+Volume 242, Part 3,
+2025,
+117362,
+ISSN 0006-2952,
+https://doi.org/10.1016/j.bcp.2025.117362.
+(https://www.sciencedirect.com/science/article/pii/S0006295225006276)
+Abstract: The oral microbiome is a highly diverse and metabolically active ecosystem that plays a pivotal role in maintaining oral and systemic homeostasis. Disruption of this balance, referred to as oral dysbiosis, has been increasingly implicated in the pathogenesis of neurodegenerative diseases (NDs) such as Alzheimer’s disease (AD), Parkinson’s disease (PD), and amyotrophic lateral sclerosis (ALS). Although the precise molecular mechanisms remain incompletely defined, accumulating evidence indicates that oxidative stress and redox signaling act as central mediators linking microbial imbalance to neuroinflammatory responses and progressive neuronal dysfunction. In this review, we critically synthesize interdisciplinary findings on the oral microbiome–brain axis, emphasizing redox-sensitive pathways that mediate communication between oral pathogens and the central nervous system. We discuss how reactive oxygen species (ROS), generated by microbial metabolites and pathogen-associated molecular patterns, activate various signaling cascades, thereby exacerbating neuroinflammation and glial activation. We further evaluate evidence that oral dysbiosis contributes to blood–brain barrier (BBB) disruption, peripheral immune priming, and chronic neuroimmune dysregulation. By integrating mechanistic, cellular, and clinical perspectives, we identify oxidative stress and redox signaling as critical biological bridges between oral dysbiosis and neurodegeneration. This framework highlights not only the translational potential of targeting redox pathways and the oral microbiome for preventive and therapeutic strategies but also the need for future research to clarify causal relationships and validate clinical applications.
+Keywords: Oral dysbiosis; Oral microbiome; Oxidative stress; Redox signaling; Neuroinflammation
+
+MD. Zahin Muntaqim, Tangin Amir Smrity, Hasan Muhammad Kafi, Abu Saleh Musa Miah, Fahmid Al Farid, Hezerul Abdul Karim, Anichur Rahman,
+Federated learning meets few-shot learning: A voting ensemble based combined approach to cauliflower leaf disease classification across Non-IID data distributions,
+Array,
+Volume 28,
+2025,
+100516,
+ISSN 2590-0056,
+https://doi.org/10.1016/j.array.2025.100516.
+(https://www.sciencedirect.com/science/article/pii/S2590005625001432)
+Abstract: In recent years, the classification of cauliflower (Brassica oleracea var. botrytis) leaf diseases has gained significant attention within agricultural research, particularly for optimizing yield and enhancing disease management. Traditional machine learning methods often rely on large, well-distributed datasets, which are difficult to obtain due to diverse data characteristics across regions and farms. To address this challenge, we proposed a novel framework that integrates Federated Learning (FL) with Few-Shot Learning (FSL) for robust cauliflower leaf disease detection, even in environments with non-identical data distributions. Our hybrid method generalizes at the task level without needing large unlabeled datasets, unlike traditional FL methods that rely heavily on data augmentation or semi-supervised techniques to make up for a lack of data. Few-Shot Learning makes it easier for each client to adapt to new disease classes with only a few samples. This makes the hybrid framework more flexible and efficient in situations where the data is not independent and identically distributed (IID). In our study, we utilized five clients, each having their own support and query sets in an n-way k-shot configuration, where each client trains on a small set of labeled data and evaluates the model on unseen data. Federated Learning facilitates collaborative, decentralized training among these clients, while Few-Shot Learning, implemented through the Reptile meta-learning algorithm, allows each client to efficiently adapt to new classes with limited samples. Moreover, we enhance prediction accuracy through ensemble voting, where predictions from multiple pre-trained deep learning models (VGG16, ResNet50V2, Xception, DenseNet169, and MobileNetV2) are combined. The ensemble voting aggregates the individual model predictions, and the most common class prediction across all models is selected, improving the overall classification performance. This ensemble mechanism is implemented after each federated round, where the model weights are aggregated and updated based on local client training, followed by a final ensemble decision for disease classification. Additionally, we have performed an ablation study on our framework to evaluate the contribution of each component (FL, FSL, and voting ensemble). Experimental results show that the ensemble model achieves an test accuracy of 95% for 2-shot, 97% for 3-shot and 4-shot, and 100% for 5-shot configurations, demonstrating the effectiveness of the framework. The results demonstrate that our Fed-FSL hybrid framework, combined with ensemble voting, provides accurate disease classification even in heterogeneous environments, offering a scalable and adaptable solution for precision agriculture and smart farming systems.
+Keywords: Federated learning; Few-shot learning; Cauliflower leaf disease classification; Reptile; Deep learning; Non-IID data; Agricultural technology; META learning
+
+Anyi Zhang, Steven Bergmans, Annelies Van Dyck, An Beckers, Lieve Moons, Luca Masin,
+Successful axonal regeneration is associated with intraneuronal metabolic reprogramming,
+iScience,
+2025,
+113631,
+ISSN 2589-0042,
+https://doi.org/10.1016/j.isci.2025.113631.
+(https://www.sciencedirect.com/science/article/pii/S2589004225018929)
+Abstract: SUMMARY
+Unlike mammals, zebrafish can regrow axons after injury and restore circuit function in the central nervous system (CNS). Mitochondria have been identified as key players in this process, but how different metabolic pathways work together to sustain regeneration remains unclear. Using RNA sequencing of adult zebrafish retinal ganglion cells after optic nerve crush injury, we found that oxidative phosphorylation is downregulated during axonal regrowth. Simultaneously, the thioredoxin antioxidant system was upregulated, likely to limit oxidative damage. Additionally, we observed an integrated upregulation of glycolysis and the pentose phosphate pathway during the initial regrowth phases, possibly to provide energy and supplying NADPH for biosynthesis and antioxidant responses. Notably, several of these metabolic reprogramming signatures are also observed in the pro-regenerative mammalian model with Pten and Socs3 co-deletion. Inhibiting glycolysis and thioredoxin in zebrafish impairs axonal regrowth, suggesting that targeting these pathways could enhance CNS regeneration in mammals.
+Keywords: Zebrafish; axonal regeneration; neuronal metabolism; glycolysis; thioredoxin
+
+Amy C. Cole, Angela M. Stover, Lisa Vizer, Fei Yu, Andy J. King, Lukasz Mazur, Daniel R. Richardson,
+Identifying and prioritizing treatment values and tailored question prompts for older adults with advanced cancer: A concept mapping study,
+Journal of Geriatric Oncology,
+Volume 16, Issue 8,
+2025,
+102717,
+ISSN 1879-4068,
+https://doi.org/10.1016/j.jgo.2025.102717.
+(https://www.sciencedirect.com/science/article/pii/S1879406825005338)
+Keywords: Older adults; Concept mapping; Advanced cancer; Values-elicitation; Values-clarification; Shared decision-making; Participatory engagement
+
+Jicheng Wang, Xuan Wang, Nianwei Wang, Yikun Ren, Lin Dong, Huarong Xu, Huiming Hua, Dahong Li,
+A thiol-activated near-infrared fluorescent H2S donor for visualizing H2S release and its applications,
+Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy,
+Volume 347,
+2026,
+126976,
+ISSN 1386-1425,
+https://doi.org/10.1016/j.saa.2025.126976.
+(https://www.sciencedirect.com/science/article/pii/S1386142525012831)
+Abstract: Absrtact
+Hydrogen sulfide (H2S), a critical endogenous signaling molecule, is involved in diverse physiological processes, and H2S donors have emerged as promising therapeutic agents. While organic donors address the uncontrolled release limitations of inorganic counterparts, most thiol-activated systems depend exclusively on cysteine (Cys), risking cellular thiol imbalance. To overcome this limitation, we developed AD-SH, a novel benzopyran salts-based NIR fluorescent H2S donor responsive to multiple biothiols. AD-SH exhibits high selectivity and sensitivity toward all intracellular biothiols (e.g., cysteine, glutathione, and homocysteine) without preferentially depleting a single Cys. Importantly, its near-infrared (NIR) fluorescence enables real-time tracking and visualization of H2S release. With excellent biocompatibility, photostability, and in vivo imaging performance in mice, AD-SH demonstrates its strong potential for live-cell imaging and dynamic H2S release tracking.
+Keywords: Thiol; Fluorescence; H2S donor; Bioimaging
+
+Raffaella Salama, Miguel A. Rodríguez-Lázaro, Camil Castelo-Branco, Iñigo Herrero-Vidaurre, Laura Ribera-Torres, Emma Muñoz-Moreno, Jorge Otero, Ramon Farré,
+Low-cost, open-source device for applying controlled olfactory stimuli during functional magnetic resonance imaging (fMRI) of the brain,
+HardwareX,
+2025,
+e00708,
+ISSN 2468-0672,
+https://doi.org/10.1016/j.ohx.2025.e00708.
+(https://www.sciencedirect.com/science/article/pii/S2468067225000860)
+Abstract: Using functional magnetic resonance imaging (fMRI) to assess brain activity in response to olfactory stimuli is of great biomedical and clinical interest. However, application of controlled sequences of olfactory stimuli within the setting of fMRI equipment is challenging since the associated limitations for non-magnetic and non-conducive materials. Here, we have developed and tested a simple, low-cost, open-source, stand-alone device to apply selectable controlled sequences of olfactory stimuli in subjects undergoing fMRI. The device consists of an Arduino-controlled unit containing a blower-based airflow generator and a multichannel air valves system, a set of long air conducting tubing, and bubbler-based odor sources. The device was first validated on the bench to characterize the range of achievable flows, ensuring that the device can be adapted to a variety of applications and fMRI settings. The effectiveness of device performance was subsequently assessed in female patients with sexual dysfunction using a fMRI protocol based on subjecting them to controlled sequences of olfactive stimuli with pheromone, phenethyl alcohol (a rose fragrance) or neutral clean air. Therefore, the device facilitates biomedical research and clinical assessment of the neural pathways modulated by the olfactory system.
+Keywords: Smell sense; Olfactometer; Olfactory pathway; Neural response; fMRI; Pheromone; Arduino control; Airflow sequence
+
+Narlawar Sagar Shrikrishna, Drishya Prakashan, Sonu Gandhi,
+Tracking monocrotophos pollution: From environmental spread to biosensor-based detection and remediation,
+Pesticide Biochemistry and Physiology,
+Volume 215,
+2025,
+106712,
+ISSN 0048-3575,
+https://doi.org/10.1016/j.pestbp.2025.106712.
+(https://www.sciencedirect.com/science/article/pii/S0048357525004250)
+Abstract: Monocrotophos, a widely used organophosphate insecticide, has long stood at the intersection of agricultural utility and environmental hazard. This review delves beyond its routine application to uncover the broader implications of monocrotophos pollution and its persistence in agroecosystems. From its physicochemical properties and usage patterns to its contamination of soil, water, and food, monocrotophos pollution continues to pose serious ecological and human health challenges. We explore classical and emerging detection methods, highlighting the promise of biosensors for rapid, on-site residue monitoring. Furthermore, the review discusses various remediation strategies, with a focus on bioremediation using microbial systems for sustainable degradation. This review underscores the urgent need for coordinated action in pollution monitoring, detection, and mitigation. Taken together, the story of monocrotophos is not just about a pesticide, but a reflection of the delicate balance between agricultural advancement and environmental responsibility.
+Keywords: Monocrotophos; Organophosphate; Bioremediation; Biodegradation; Biosensors
+
+Giovanni B Frisoni, Oskar Hansson, Emma Nichols, Valentina Garibotto, Suzanne E Schindler, Wiesje M van der Flier, Frank Jessen, Nicolas Villain, Eider M Arenaza-Urquijo, Lucia Crivelli, Juan Fortea, Lea T Grinberg, Zahinoor Ismail, Satoshi Minoshima, Rik Ossenkoppele, Henrik Zetterberg, Ronald C Petersen, Bruno Dubois,
+New landscape of the diagnosis of Alzheimer's disease,
+The Lancet,
+Volume 406, Issue 10510,
+2025,
+Pages 1389-1407,
+ISSN 0140-6736,
+https://doi.org/10.1016/S0140-6736(25)01294-2.
+(https://www.sciencedirect.com/science/article/pii/S0140673625012942)
+Abstract: Summary
+Alzheimer's disease involves a drastic departure from the cognitive, functional, and behavioural trajectory of normal ageing, and is both a dreaded and highly prevalent cause of disability to individuals, and a leading source of health and social care expenditure for society. Before the advent of biomarkers, post-mortem examination was the only method available to establish a definitive diagnosis. In this first paper of the Series, we review state-of-the-art diagnostic practices and the typical patient journey in specialist settings, where clinicians engage in a differential diagnosis to establish whether Alzheimer's pathology (cerebral deposition of β-amyloid and hyperphosphorylated tau) is a contributor to cognitive impairment. Biomarkers indicating dysregulation of β-amyloid and tau homeostasis, measured with PET and cerebrospinal fluid analysis, allow a molecular-level diagnosis—a mandatory step in defining eligibility for the recently approved anti-amyloid treatments. We anticipate that easily accessible blood biomarkers, already available in some countries, will lead to a new diagnostic revolution and bring about major changes in health-care systems worldwide.
+
+Qiao Peng, Yunfei Chen, Junmiao Zhao, Jiali Zhu, Huimin Zhuo, Yuying Zheng, Linjun Weng,  Ruiqing he, Enming Tian, Yiyi Zhang, Xianfei Chen, Yuwei Liu, Xiao Tan, Leilei Wu, Hongling Tian, Jingxin Liu, Jiawen Zhang, Wenhui Zhang, Heping Zhang, Bilong Zhang, Zezhi Shan, Haoyu Zhang, Yaohui Gao, Tong Meng, Linlin Zhao, Lin Fang, Bing Shen, Yue Feng, Lei Liu, Hui Yang, Lan Fang, Ping Wang,
+RSK1 reprograms the ubiquitin pathway to promote immune suppression,
+Cell Reports,
+Volume 44, Issue 10,
+2025,
+116323,
+ISSN 2211-1247,
+https://doi.org/10.1016/j.celrep.2025.116323.
+(https://www.sciencedirect.com/science/article/pii/S2211124725010940)
+Abstract: Summary
+Although immune checkpoint blockade (ICB) is an effective therapeutic strategy, tumor intrinsic resistance to ICB limits its benefits for a majority of cancer patients. Via multiple in vivo screens, we identified RNF19A as an immune suppressor. RNF19A suppresses ICB efficacy by ubiquitinating cGAS to inhibit the release of type I interferon. Surprisingly, UBE2L6, originally identified as a critical interferon-induced ISG15-conjugating E2 enzyme for ISGylation, functions as the major ubiquitin-conjugating E2 enzyme to enable RNF19A-driven cGAS ubiquitination. Further, RSK1 phosphorylates UBE2L6 to switch its substrate from ISG15 to ubiquitin, thus converting it from an immune response enhancer to a suppressor. In xenograft models, targeting RSK1 or blocking UBE2L6 phosphorylation improves immune response. In patient tissues, the levels of UBE2L6 and its phosphorylation correlate with poor immune infiltration, limited immune and radiation therapy response, and prognosis. Taken together, we demonstrate that RSK1-mediated UBE2L6 phosphorylation and UBE2L6-RNF19A-driven cGAS ubiquitination lead to tumor-intrinsic immune suppression.
+Keywords: immune suppression; ubiquitination; phosphorylation; CRISPR-Cas9 screen
+
+Jan Vesper, Lilly Chen, Günther Deuschl, Edward Goldberg,
+ID# 1900860 Real-World Outcomes with Directional Deep Brain Stimulation (DBS) Systems: Awake Versus Asleep Lead Placement,
+Neuromodulation: Technology at the Neural Interface,
+Volume 28, Issue 7, Supplement,
+2025,
+Page S46,
+ISSN 1094-7159,
+https://doi.org/10.1016/j.neurom.2025.08.086.
+(https://www.sciencedirect.com/science/article/pii/S1094715925003629)
+
+Arooj Sarwar, Fareeha Shakeel, Tayyeba Fatima, Rashid Amin, Syeda Nayab Batool Rizvi, Tajamal Hussain, Adeel Afzal,
+DNA nanotechnology for next-generation biosensors: Principles, strategies, and challenges,
+International Journal of Biological Macromolecules,
+Volume 329, Part 2,
+2025,
+147825,
+ISSN 0141-8130,
+https://doi.org/10.1016/j.ijbiomac.2025.147825.
+(https://www.sciencedirect.com/science/article/pii/S0141813025083825)
+Abstract: The unique structural and functional properties of nucleic acids make DNA nanotechnology a powerful platform for constructing programmable nanostructures with precise control over size, shape, and biorecognition. This review highlights how DNA-based biosensors achieve unparalleled sensitivity (e.g., attomolar detection via CRISPR systems) and multiplexing capabilities, overcoming limitations of conventional methods like PCR and ELISA. We critically evaluate design strategies, including aptamers, DNAzymes, DNA origami, and CRISPR integration, for detecting diverse analytes (nucleic acids, proteins, pathogens) in clinical, environmental, and food safety applications. While challenges such as nuclease susceptibility and scalability persist, emerging solutions like backbone modifications and microfluidic automation are discussed. By synthesizing recent advances, this review underscores DNA nanotechnology's transformative potential in next-generation diagnostics, offering a roadmap for bridging lab-scale innovations to real-world deployment.
+Keywords: DNA nanotechnology; Nucleic acids; Programmable nanostructures
+
+Edward J. Goetzl,
+Microbiomes in Health, Diseases and Therapeutics,
+The American Journal of Medicine,
+2025,
+,
+ISSN 0002-9343,
+https://doi.org/10.1016/j.amjmed.2025.09.002.
+(https://www.sciencedirect.com/science/article/pii/S0002934325006096)
+Abstract: A microbiome is the aggregate of populations of bacteria, viruses and fungi in an organ system, of which the highly dominant numbers are in the gastrointestinal tract. Some of the bacteria, termed microbiota, support viability and functions of host cells directly by generating beneficial short-chain fatty acid components of dietary fibers and other metabolites of host compounds including secondary bile acids and indole derivatives of tryptophan. Short-chain fatty acids also recruit immune protective elements exemplified by IL-22, which has beneficial effects on intestinal epithelium by their IL-22 receptors. Other bacteria have detrimental effects on host cells through lipopolysaccharides and diverse toxins. An increased ratio of detrimental to beneficial microbiomal bacteria, a state termed dysbiosis, is observed in human diseases of many systems. Therapies for dysbiosis involve largely dietary manipulation and more recently fecal microbiota transplantation. Resistant and recurrent Clostridium difficile diarrhea responds dramatically to fecal microbiota transplantation, but this approach requires additional evaluation in other diseases. The potential prognostic value of microbiome characteristics suggests future uses in precision medicine.
+Keywords: Intestinal microbiota; intestinal barrier; dietary fiber; short-chain fatty acids; Clostridium difficile
+
+David S. Jevotovsky, Tanya Juneja, Sidharth Sahni, Harman Chopra, Mustafa Broachwala, Tariq AlFarra, Nomen Azeem, Peter S. Staats, Timothy Deer,
+ID# 1906727 Closing the Loop on Chronic Pain: History and Future of Closed-Loop Spinal Cord Stimulation,
+Neuromodulation: Technology at the Neural Interface,
+Volume 28, Issue 7, Supplement,
+2025,
+Page S158,
+ISSN 1094-7159,
+https://doi.org/10.1016/j.neurom.2025.08.300.
+(https://www.sciencedirect.com/science/article/pii/S1094715925005768)
+
+Manuel Bartolomé, María J. Villaseñor, Ángel Ríos,
+Surface plasmon resonance optical sensors involving nanomaterials as reliable analytical tools: A critical view about performance and applications,
+Analytica Chimica Acta,
+2025,
+344693,
+ISSN 0003-2670,
+https://doi.org/10.1016/j.aca.2025.344693.
+(https://www.sciencedirect.com/science/article/pii/S0003267025010876)
+Abstract: Background
+In the last two decades, there has been an increasing interest in the development of a new category of chemical sensors incorporating “nanosensor” devices, which are based on nanomaterials, thus enabling the establishment of more efficient transduction and recognition processes due to their versatile and innovative properties. Among them, the role of metallic nanoparticles (MNPs) for the construction of sensors should be highlighted due to the Localized Surface Plasmon Resonance (LSPR) phenomenon exhibited on their surface. These open interesting analytical possibilities, incorporating new advantages or new alternatives with respect to the present state-of-the-art and today problem solving.
+Results
+This review aims to provide an overview of the current state of the art in terms of specific transduction mechanisms and performance improvements on substrates, as well as analytical characterisation strategies and the most relevant applications of optical sensors based on the LSPR effect of metallic nanomaterials. Specifically, it is aimed at two major categories of optical techniques, which are grounded by distinct physicochemical transduction mechanisms. The first category encompasses surface-enhanced spectroscopies (SES), which exploit the interaction between analytes and the intense electromagnetic fields generated and localized near metallic nanoparticles (NPs). The second category comprises those optical sensors based on the LSPR band extinction within the visible range, where the absorption of radiation is modulated by changes in the dielectric environment surrounding the NPs. As a conclusive evaluation, a final critical overview is afforded, with particular concern to current challenges and limitations to achieve reliable analytical determinations.
+Significance
+The review tries to highlight, from a technical and critical point of view, the state of art of those nanotechnological and instrumental strategies recently designed involving plasmon resonance optical sensors based on MNPs, which have conducted to a very different maturity and performance degree regarding sensing scopes for the different LSPR techniques. All the outlined strategies have been exemplified with selecting applications of analytical interest.
+Keywords: Localized surface plasmon resonance; Surface enhanced fluorescence; Surface enhanced Raman spectroscopy; Surface enhanced infrared absorption; Nanoparticles SPR extinction band; Plasmonic sensors
+
+Chiara Bertasini, Marco Rossini, Jacopo Grisotto, Dwaine Emerich, Matteo Brunelli, Serena Pedron, Cristina Parrado, Lars U. Wahlberg, Johan Lundkvist, Giovanna Paolone,
+Gene therapy device-based delivery of progranulin, prosaposin, and GDNF as a combined precision and neurorestorative therapy in the rat 6-OHDA model of parkinsonism,
+Experimental Neurology,
+Volume 395,
+2026,
+115474,
+ISSN 0014-4886,
+https://doi.org/10.1016/j.expneurol.2025.115474.
+(https://www.sciencedirect.com/science/article/pii/S0014488625003395)
+Abstract: Parkinson's disease (PD) is a complex, multifactorial neurodegenerative disorder, characterized by a progressive degeneration of dopaminergic neurons, leading to significant motor impairments frequently associated with cognitive dysfunction and comorbidities in the elderly. Current treatments of PD are primarily symptomatic, highlighting the urgent need for disease-modifying therapies. An increasing body of evidence supports the pivotal role of lysosomal dysfunction in PD pathogenesis, providing new targets for therapeutic approaches. Particularly, recent studies suggest that among the genes implicated in PD are GRN and PSAP, encoding for progranulin (PGRN) and prosaposin (PSAP), respectively. We proved that conditioned media from a Gene Therapy Device-based delivery system (GTD)-PGRN, -PSAP, and -PGRN+PSAP were internalized by primary cortical neurons, leading to enhanced glucocerebrosidase (GCase) activity. Furthermore, we developed a GTD-delivered therapy to target lysosomal dysfunction and support the dopaminergic system, combining the lysosomal factors PGRN and PSAP with the neurorestorative glial cell line-derived neurotrophic factor (GDNF). Interestingly, each factor provided neuroprotection to dopaminergic neurons and preserved motor function in a 6-hydroxydopamine (6-OHDA)-induced neurotoxicity model. Furthermore, eight-month treatments with GTD-PSAP and PSAP+GDNF resulted in significant neurorecovery effects on dopaminergic neurons and motor deficits following 6-OHDA injection.
+Keywords: Parkinson's disease; Progranulin; Prosaposin; Glial cell line-derived neurotrophic factor; Cell therapy
+
+Berkay Paker, Baran Yılmaz, Selim Şeker, Mehmetzeki Yıldız, Akın Akakın,
+ID# 1887385 Evaluating Fiber Dissection For Teaching Deep Brain Stimulation: STN DBS Lead In Post-Mortem Case,
+Neuromodulation: Technology at the Neural Interface,
+Volume 28, Issue 7, Supplement,
+2025,
+Page S20,
+ISSN 1094-7159,
+https://doi.org/10.1016/j.neurom.2025.08.039.
+(https://www.sciencedirect.com/science/article/pii/S1094715925003150)
+
+Rishi Das, Tathagata Sengupta, Jharna Ray,
+Green tea extract and its component EGCG enhance LTP while reducing LTD in the CA1 area of the hippocampus: a potential nootropic effect of EGCG,
+Pharmacological Research - Natural Products,
+2025,
+100381,
+ISSN 2950-1997,
+https://doi.org/10.1016/j.prenap.2025.100381.
+(https://www.sciencedirect.com/science/article/pii/S2950199725002411)
+Abstract: Green tea is an invigorating beverage endowed with health benefits. There have been reports in literature regarding the improvement of mental alertness through its intake but the effect of prolonged consumption in the cognitive domain of rat hippocampal synaptic plasticity is yet to be explored. Long Term Potentiation (LTP) and Long Term Depression (LTD) are two important forms of synaptic plasticity known to be involved in the processes of memory formation which are well manifested in the rat hippocampus due to its cytoarchitectural properties. In the present work, the effects of Green tea extract on behavioral and electrophysiological parameters pertaining to memory were evaluated. Young adult male Wistar rats received this extract continuously for 4 weeks and the effect was determined for memory retention on in-vivo platforms (Novel Object Recognition Test – NORT and Contextual Fear Conditioning – CFC) followed by LTP and LTD in the Schaffer collaterals of the hippocampal CA1 region. Separate experimental groups were used for the different experiments. We found that 1% Green tea extract could significantly strengthen memory formation evident through enhanced object recognition and amplified freezing response in NORT and CFC respectively. The same dose also affected synaptic plasticity, viz., enhanced LTP and caused a reduction in LTD as compared to the vehicle-treated animals. Following up, LCMS fingerprinting of the Green tea extract confirmed the presence of the active single molecule epigallocatechin gallate (EGCG) which we presume may play a major role towards cognitive enhancing effects of Green tea. This was followed by ex-vivo electrophysiology experiments with EGCG and positive response patterns in synaptic plasticity changes were obtained, thus substantiating the hypothesis. These findings suggested that continued consumption of a specific dose of Green tea in healthy animals could supplement cognitive functioning through the modulation of hippocampal synaptic plasticity. The novelty factor in the study stems from the fact that it was demonstrated for the first time that long-term consumption of Green tea extract in young healthy Wistar rats led to significant improvement in synaptic plasticity parameters which was corroborated with largely similar effects displayed by acute bath application of EGCG on hippocampal slices. It was demonstrated through augmentation of LTP and diminution of LTD along with behavioral parameter changes where the enhancement in synaptic transmission occurred at the CA3:CA1 synaptic region.
+Keywords: Green tea; cognition; hippocampus; in-vivo; Long Term Potentiation; EGCG
+
+Daian Chen, Zhen Guo, Yingcai Hu, Ting Deng, Jishan Li,
+An ICT-based mitochondrial binding enhanced fluorescent probe for measurement of monoamine oxidase A in living cells,
+Talanta,
+Volume 298, Part A,
+2026,
+128896,
+ISSN 0039-9140,
+https://doi.org/10.1016/j.talanta.2025.128896.
+(https://www.sciencedirect.com/science/article/pii/S0039914025013876)
+Abstract: In this study, we developed an intramolecular charge transfer (ICT)-based fluorescent probe (TPA-S-P), which features a donor-π-acceptor push-pull architecture, in which the donor triphenylamine (TPA) moiety was conjugated to the 1-methyltetrahydropyridine (P) acceptor moiety through a thiophene (S) bridge. In the presence of Monoamine Oxidase A (MAO-A), the P acceptor moiety was oxidized to a positively charged methylpyridinium moiety (Ps), which was capable of binding to the negatively charged mitochondrial membrane, resulting in significantly enhanced fluorescent emission signals. Compared with other potential interfering substances, TPA-S-P showed excellent selectivity for MAO-A. We verified the excellent imaging performance of TPA-S-P through the in vitro imaging experiment of SH-SY5Y cell model. TPA-S-P is expected to become a powerful tool to monitor MAO-A activity for the future study of MAO-A related diseases.
+Keywords: Monoamine oxidase A (MAO-A); Mitochondrial binding enhanced fluorescent probe; Intramolecular charge transfer (ICT); Fluorescence imaging assay; Living cells
+
+Jieun Park, Dong In Moon, Bulle Shah, Narinder Singh, Doo Ok Jang,
+Pyridine-hydrazone-based charge-transfer probe for detecting Cu2+ and Co2+ ions in aqueous solutions,
+Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy,
+Volume 347,
+2026,
+126979,
+ISSN 1386-1425,
+https://doi.org/10.1016/j.saa.2025.126979.
+(https://www.sciencedirect.com/science/article/pii/S1386142525012867)
+Abstract: In the field of environmental monitoring, there remain considerable challenges regarding the development of selective chemosensors with high sensitivity for detecting transition metal ions in aqueous media. In this study, we prepared and investigated 1,3-bis((2-((E)-(2-(pyridin-2-yl)hydrazineylidene)methyl)-1H-pyrrol-1-yl)methyl) benzene as a pyridine-hydrazone-based probe (receptor A) for the selective detection of metal ions. Upon interacting with Cu2+ and Co2+ ions, the probe responded with significant optical changes, thereby facilitating simple ion detection. The ultraviolet-visible absorption maximum of the receptor A underwent a remarkable hypsochromic shift to 291 nm upon the addition of Cu2+ solution, while the addition of Co2+ solution led to a bathochromic shift to 426 nm. Receptor A was capable of selectively detecting Cu2+ and Co2+ in aqueous solutions without any marked interference from other metal ions, with respective limits of detection of 2.12 × 10−6 and 3.47 × 10−8 M, which are significantly lower than the WHO guidelines. The ability of receptor A to detect Cu2+ and Co2+ in real water samples was also demonstrated. These findings highlight the potential utility of pyridine-hydrazones as an effective probe for real-time monitoring of Cu2+ and Co2+ ions in environmental samples.
+Keywords: Colorimetry; Charge-transfer probe; Bathochromic shift; Hypsochromic shift; Probe
+
+Henrique Soares Dutra Oliveira, Sarah Teixeira Camargos, Francisco Cardoso, Paulo Caramelli,
+Visuospatial impairment in Parkinson's Disease: why we should keep an eye on it,
+Parkinsonism & Related Disorders,
+2025,
+108064,
+ISSN 1353-8020,
+https://doi.org/10.1016/j.parkreldis.2025.108064.
+(https://www.sciencedirect.com/science/article/pii/S1353802025008053)
+Abstract: Visuospatial dysfunction is a common yet underappreciated non-motor manifestation of Parkinson's disease (PD) that significantly impacts quality of life and predicts cognitive deterioration. While motor symptoms have long dominated the clinical landscape, accumulating evidence highlights that deficits in visuospatial processing can emerge even in cognitively intact individuals and frequently worsen as the disease progresses to mild cognitive impairment and dementia. This review synthesizes evidence from neuropsychological, neuroimaging, and clinical studies to illustrate the widespread prevalence and prognostic importance of visuospatial dysfunction in PD. We discuss the limitations of current screening tools, the diagnostic utility of specific tests, and the underlying neural mechanisms involving visuospatial dysfunction. Beyond diagnosis, we emphasize the functional consequences of visuospatial deficits, including increased fall risk, impaired navigation, and loss of autonomy. Finally, we call for the systematic integration of visuospatial assessment in clinical practice and research, as well as the development of accessible, ecologically valid, and technologically advanced tools to better address this pivotal domain.
+Keywords: Parkinson's disease; visuospatial dysfunction; Cognition; Mild cognitive impairment; Parkinson's disease dementia; Neuropsychological assessment
+
+Leila Naserpour, Saeedeh Zare Jalise, Mohadeseh Khoshandam, Faezeh Hosseinzadeh,
+Molecular mechanism and the main signaling pathways in the development and progression of multiple sclerosis,
+Experimental Cell Research,
+Volume 452, Issue 2,
+2025,
+114769,
+ISSN 0014-4827,
+https://doi.org/10.1016/j.yexcr.2025.114769.
+(https://www.sciencedirect.com/science/article/pii/S0014482725003696)
+Abstract: Multiple sclerosis (MS) is a chronic, inflammatory central nervous system (CNS) disorder that often leads to significant disability, particularly in younger individuals. Its pathogenesis is thought to involve a complex interplay between genetic predispositions and environmental factors, culminating in CNS inflammation. Despite extensive research, treatment options for MS remain limited and often only partially effective. This review examines key signaling pathways implicated in MS progression, focusing on their potential as therapeutic targets. These pathways include the Fibroblast Growth Factor (FGF)/FGF receptor signaling, MAPK, NF-kB, JAK/STAT, Notch, mTOR, TGF-β, and PI3K/Akt pathways. The FGF pathway, particularly FGF2, plays a pivotal role in myelination and remyelination, while also contributing to neuroinflammation and disease exacerbation. Dysregulated MAPK/ERK signaling in microglia is associated with neurodegeneration, and NF-kB activation in glial cells promotes inflammation and demyelination. The JAK/STAT pathway is crucial for immune response regulation, with its dysregulation being a key factor in MS pathogenesis. Notch signaling regulates oligodendrocyte precursor cell differentiation, offering potential therapeutic advantages. mTOR and TGF-β signaling are essential for oligodendrocyte survival and tissue repair. Finally, the PI3K/Akt pathway is involved in cell survival and immune modulation, with applications in tissue engineering to enhance remyelination. These pathways provide valuable insights into MS mechanisms, highlighting novel therapeutic strategies.
+Keywords: Multiple sclerosis; Signaling pathway; Therapeutic; Nerve regeneration
+
+Cheng Ning, Cailing He, Ling Yan, Changhong Liu, Aijin Ma, Lei Zheng,
+Improvement of walnut-derived peptides on inflammation and oxidative stress in BV-2 microglia and cognitive impairment in mice,
+Food Bioscience,
+Volume 73,
+2025,
+107648,
+ISSN 2212-4292,
+https://doi.org/10.1016/j.fbio.2025.107648.
+(https://www.sciencedirect.com/science/article/pii/S2212429225018255)
+Abstract: The research aimed to investigate the underlying anti-inflammatory and antioxidative mechanisms of walnut-derived peptides in BV-2 microglia with H2O2-induced injury, and to further assess their neuroprotective properties against cognitive impairments caused by lipopolysaccharide (LPS) in mice. The findings indicated that both walnut-derived peptides NPFD and LDAF significantly inhibited ROS production in H2O2-injured BV-2 microglia and attenuated oxidative stress in BV-2 microglial cells via the Nrf2/keap1 signaling pathway. In addition, LDAF showed greater improvement in inflammatory than NPFD in H2O2-injured BV-2 microglia. Meanwhile, The MWM demonstrated that LDAF had the potential to mitigate memory impairments caused by LPS through normalizing the brain's inflammatory responses and reducing oxidative stress. And LDAF treatment improved neuronal cell morphology in the hippocampal region of mouse brain tissue and increased the number of Nissl bodies in neurons of injured mice. These results showed that LDAF was able to improve spatial cognitive ability in mice by reducing inflammation and oxidative stress.
+Keywords: Inflammation; Oxidative stress; Cognitive impairment; BV-2 microglia; Walnut-derived peptides
+
+Jiayu Yuan, Xiaoyu Dong, Yan Gao, Jianfei Nao,
+Pleiotropic regulatory mechanisms and targeted therapeutic prospects of Galectin-3 in aging-related diseases,
+Neurotherapeutics,
+2025,
+e00744,
+ISSN 1878-7479,
+https://doi.org/10.1016/j.neurot.2025.e00744.
+(https://www.sciencedirect.com/science/article/pii/S1878747925002223)
+Abstract: Aging is a major risk factor for numerous chronic diseases, including Alzheimer's disease (AD), Parkinson's disease (PD), atherosclerosis (AS), type 2 diabetes mellitus (T2DM), osteoarthritis (OA) and age-related macular degeneration (AMD). Galectin-3 (Gal-3), a unique β-galactoside-binding lectin, has emerged as a critical mediator in the pathogenesis of AD and other age-related disorders by modulating key mechanisms such as inflammation, oxidative stress, and apoptosis. While emphasizing neurological disorders (AD, PD), this review also examines Gal-3's role in systemic age-related conditions (T2DM, AS, OA, AMD) that frequently co-occur with or influence neurodegeneration. This review summarizes current knowledge on the expression patterns, molecular mechanisms, and therapeutic potential of Gal-3 in aging-related diseases. Elevated Gal-3 levels have been detected in the brain tissue and cerebrospinal fluid of AD patients, where it contributes to multiple pathological processes, including microglia-driven neuroinflammation, Aβ plaque deposition, tau hyperphosphorylation, oxidative damage, and neuronal apoptosis. Furthermore, Gal-3 upregulation is observed across various age-related diseases and correlates with disease progression, underscoring its potential as a diagnostic biomarker and therapeutic target. Preclinical studies demonstrate that Gal-3-targeted interventions—including small-molecule inhibitors (e.g., TD-139), natural compounds (e.g., modified citrus pectin), and other pharmacological agents—exert neuroprotective, anti-inflammatory, antioxidant, and anti-apoptotic effects by binding to Gal-3 and modulating its activity in animal models, offering promising avenues for multi-disease treatment. However, the dual roles and complex regulatory networks of Gal-3 present challenges for clinical translation, requiring context-specific therapeutic approaches tailored to distinct disease mechanisms. Future research should focus on elucidating tissue-specific mechanisms and optimizing combination therapies to enable precise targeting of aging-related pathologies.
+Keywords: Galectin-3; Alzheimer's disease; Parkinson's disease; Atherosclerosis; Type 2 diabetes mellitus; Osteoarthritis
+
+Peng Chen, Jiexin Lei, Rong Wang, Changlin Li, Benhong Zhou, Ruhong Zhang,
+Ellagitannin component punicalin prevents cognitive impairment by inhibiting metabolic disorders, TLR4/NF-kB/NLRP3 inflammasome signaling, and mitochondrial dysfunction in high-fat diet-fed mice,
+Experimental Neurology,
+2025,
+115479,
+ISSN 0014-4886,
+https://doi.org/10.1016/j.expneurol.2025.115479.
+(https://www.sciencedirect.com/science/article/pii/S0014488625003449)
+Abstract: Obesity linked to overnutrition can result in metabolic dysregulation and cognitive impairment. This study aimed to explore the protective role of punicalin (PUN), an ellagitannin with various biological activities, against cognitive impairment in high-fat diet (HFD)-fed mice and to examine the underlying mechanisms. PUN was orally administered at 50, 100, and 150 mg/kg for 8 weeks, resulting in a significant reduction in body weight, restoration of glucose tolerance, and normalization of lipid profiles in the serum and liver of HFD-fed mice. PUN notably enhanced spatial memory and improved depression-like symptoms across various behavioral assessments, which were associated with improved synaptic function by boosting synaptic protein levels and excitatory postsynaptic currents, while decreasing oxidative damage, balancing amyloidogenesis, and the cholinergic system in HFD-fed mice. PUN reduced the activation of the TLR4/NF-kB/NLRP3 inflammasome, which decreased microglia overactivation, engulfment of PSD95 in microglia and mediated neuroinflammation in mouse models of HFD-induced obesity. In addition, PUN improved the activity of tricarboxylic acid cycle enzymes, including PDH, CS, and OGDH; lowered 8-OHdG levels; elevated ATP and NAD+ levels; and disrupted mitochondrial structure. PUN modulates molecular pathways by reducing phosphorylated p53 levels and upregulating PGC-1α, thereby improving mitochondrial function. Therefore, PUN could help counteract cognitive impairment in HFD-fed mice by inhibiting neuroinflammation via the TLR4/NFkB/NLRP3 inflammasome and reinstating mitochondrial capabilities through the p53/PGC-1α pathway. PUN could serve as a new nutritional strategy for preventing obesity-related cognitive dysfunction via its metabolic regulation and anti-inflammatory effects.
+Keywords: Punicalin; Cognitive function; High-fat diet; TLR4/NF-kB/NLRP3 pathway; Mitochondrial function
+
+Jinrui Zhang, Wenhan Geng, Haojin Sun, Jian Chen, Yumei Fan, Ke Tan,
+Identification of ferroptosis-related genes as diagnostic biomarkers and therapeutic targets in sorafenib-resistant HCC via machine learning and experimental validation,
+International Immunopharmacology,
+Volume 166,
+2025,
+115557,
+ISSN 1567-5769,
+https://doi.org/10.1016/j.intimp.2025.115557.
+(https://www.sciencedirect.com/science/article/pii/S1567576925015486)
+Abstract: Liver cancer, particularly hepatocellular carcinoma (HCC), remains a significant health burden with poor survival rates due to late diagnosis and limited treatment options. Sorafenib, a multi-kinase inhibitor, is the standard first-line therapy for advanced HCC, but long-term use often leads to drug resistance. Ferroptosis, an iron-dependent form of regulated cell death, has emerged as a crucial target in cancer therapy, showing potential to enhance treatment efficacy and overcome drug resistance. Previous studies have demonstrated that sorafenib triggers ferroptosis in HCC cells and that ferroptosis plays a significant role in the development of sorafenib resistance. However, the intricate interplay between ferroptosis and sorafenib resistance remains poorly understood, hampering the development of effective therapeutic strategies. Our study focuses on the intricate interplay between ferroptosis and sorafenib resistance in HCC. Using the GSE109211 dataset, we identified differentially expressed ferroptosis-related genes associated with sorafenib resistance. Notably, these genes stratified sorafenib-resistant HCC patients into distinct subgroups with different drug sensitivities, immune cell infiltrations, and responses to chemotherapy and immunotherapy. Through machine learning algorithms, three hub genes (ECH1, SLC25A28 and ULK1) were identified to be closely associated with sorafenib resistance. A novel ferroptosis-related signature comprising these genes emerged as a robust diagnostic model, validated by ROC curve analysis, for predicting sorafenib resistance in HCC patients. Furthermore, experimental validation confirmed the upregulation of ECH1, SLC25A28 and ULK1 expressions in sorafenib-resistant HCC cells, with sorafenib treatment altering their expression profiles. Knockdown of ULK1 in sorafenib-resistant HCC cells potently enhanced sorafenib-induced ferroptosis, thereby alleviating sorafenib resistance. Our findings not only identify pivotal ferroptosis-related genes as diagnostic biomarkers for sorafenib resistance but also provide insights into the role of ferroptosis in modulating sorafenib responsiveness. This study offers a promising strategy to overcome sorafenib resistance and improve patient outcomes in HCC treatment, highlighting the potential of ferroptosis-targeted therapies in cancer management.
+Keywords: sorafenib resistant; ferroptosis; diagnosis; machine learning algorithms
+
+Ying Li, Biao He, Xiang Li, Mu Qilin,
+Causal Relationship Between Serum Folate Levels and Folic Acid Supplementation and Neurodegenerative Diseases: A Bidirectional Mendelian Randomization Analysis,
+IBRO Neuroscience Reports,
+2025,
+,
+ISSN 2667-2421,
+https://doi.org/10.1016/j.ibneur.2025.09.009.
+(https://www.sciencedirect.com/science/article/pii/S2667242125001502)
+Abstract: ABSTRACT
+Folate (FA) has been reported to have protective effects against neurodegenerative diseases (NDDs). However, effect estimates from previous observational studies were prone to confounding and reverse causation, and the actual causal relationship between serum FA (SFA), folic acid supplementation (FAS), and NDDs remains uncertain. Determining causality is essential for understanding whether FAS could be an effective strategy for preventing or delaying NDD onset. Given the limitations of observational studies, we employed a two-sample bidirectional Mendelian randomization (MR) approach to investigate the causal relationship between FA and three common NDDs: Alzheimer’s disease (AD), Parkinson’s disease (PD), and amyotrophic lateral sclerosis (ALS). Using publicly available data from the open-access Genome-Wide Association Study (GWAS) database, we applied five MR methods, including MR-Egger, Weighted Median, Inverse Variance Weighted (IVW), Simple Mode, and Weighted Mode, with IVW serving as the primary analytical approach. The results showed that genetically predicted higher FAS were associated with a reduced risk of AD and PD, but no association was observed between FAS and ALS. Reverse MR analysis showed no causal relationship between AD, PD, or ALS and FAS. There were no causal associations, in either direction, between SFA and NDDs. To ensure the stability and reliability of MR results, we conducted heterogeneity tests, pleiotropy tests, and leave-one-out sensitivity analyses, all of which demonstrated no evidence of horizontal pleiotropy or heterogeneity. These findings suggest that FAS is protective against both AD and PD, while SFA had no causal associations with NDDs. FAS may have a beneficial effect on neural function, potentially preventing or delaying the onset of AD and PD.
+Keywords: folate; folic acid; neurodegenerative diseases; bidirectional Mendelian randomization; causal analysis; genome-wide association study
+
+Chunyu Zhou, Yulin Wang, Longfei Zuo, Yufan Miao, Wenjie Li, Xing Li, Yuan Xue, Mengxin Li,
+Vitamin D3 alleviates AD-like pathology in APP/PS1 mice by inhibiting pyroptosis and neuroinflammation via DJ-1/PARK7,
+Neuroscience Letters,
+Volume 867,
+2025,
+138385,
+ISSN 0304-3940,
+https://doi.org/10.1016/j.neulet.2025.138385.
+(https://www.sciencedirect.com/science/article/pii/S0304394025002745)
+Abstract: Alzheimer’s disease (AD) is the most common primary progressive neurodegenerative disorder, with inflammatory responses involved in its onset and progression. Vitamin D (VD) is known for its health benefits, including antioxidant effects. Recently, Deglycase protein 1 (DJ-1/PARK7) has been shown to potentially regulate in antioxidant activity and inflammation regulation. In this study, we investigated the therapeutic effects of VD3 (30 IU/g/w) in Dj-1 knockdown APPswe/PS1E9 (APP/PS1) mice. Pathological changes were assessed using the Morris water maze and Barnes maze, as well as immunofluorescence, thioflavin S staining, Nissl staining, TUNEL staining, Western blot, and RT-PCR. The results demonstrated that VD3 significantly ameliorated cognitive deficits and attenuated AD-like pathology in APP/PS1 mice. Moreover, VD3 upregulated DJ-1 expression and suppressed neuroinflammation and neuronal pyroptosis by modulating the NF-κB/NLRP3/caspase-1 and caspase-3/GSDME signaling pathways. Collectively, these findings suggest that DJ-1 mediate these protective effects, as its knockdown reversed VD3-induced improvements in neuroinflammation and neuronal pyroptosis, implicating that DJ-1 is a crucial modulator in the effects of VD3 on Alzheimer’s disease pathology.
+Keywords: Alzheimer’s disease; DJ-1; Vitamin D; Pyroptosis; AD-like Pathology
+
+Christian Sandøe Musaeus, Pedro F. Viana, Mark Cook, Jonas Duun-Henriksen, Sándor Beniczky, Preben Kidmose, Bart Vanrumste, Benjamin Filtjens, Troels Wesenberg Kjaer,
+Home-Based sensing of the nervous system with clinical neurophysiology technologies: IFCN handbook chapter,
+Clinical Neurophysiology Practice,
+2025,
+,
+ISSN 2467-981X,
+https://doi.org/10.1016/j.cnp.2025.09.003.
+(https://www.sciencedirect.com/science/article/pii/S2467981X25000538)
+Abstract: Background
+Home-based neurophysiological monitoring is improving the assessment and management of neurological conditions such as epilepsy. Technologies such as electroencephalography (EEG), electromyography (EMG), and accelerometry are increasingly integrated into wearable systems for at-home use. Due to an increasing amount of data from long-term monitoring, machine learning algorithms assist in automated data analysis. However, ensuring device accuracy, signal quality, and user compliance remains crucial for clinical useability.
+Objective
+This chapter explores advances and challenges in at-home neurophysiological monitoring, with a primary focus on EEG systems and their applications. Content: The discussion highlights the technological advances and the challenges associated with at-home monitoring. The focus will be on EEG systems, as well as a discussion of EMG in epilepsy. Next, we will provide an overview of the clinical applications for home-based monitoring of epilepsy and sleep disorders. Lastly, we will briefly discuss emerging topics within home-based monitoring in movement disorders and neurodegenerative disorders.
+Conclusion
+Future advancements are expected with new generations of wearable systems capable of providing long-term monitoring with minimal maintenance. Beyond epilepsy and sleep disorders, home-based technologies are also being investigated in other neurological diseases including movement disorders and neurodegenerative diseases showing the expanding scope of home-based technologies in neurology.
+Keywords: Home-based neurophysiology; Wearable neurological monitoring; EEG; EMG; Accelerometry; Machine learning
+
+Aneka S. Patterson, Quinn C. Robbins, Barbara Knollmann-Ritschel,
+Educational Case: Connective tissue disorders: Sjögren's syndrome,
+Academic Pathology,
+Volume 12, Issue 4,
+2025,
+100219,
+ISSN 2374-2895,
+https://doi.org/10.1016/j.acpath.2025.100219.
+(https://www.sciencedirect.com/science/article/pii/S2374289525000612)
+Keywords: Pathology competencies; Organ system pathology; Autoimmune and multisystem disorders; Connective tissue disorders; Sjögren's syndrome; Laboratory testing; Pathogenesis; Sensitivity and specificity
+
+A.G. Bindu, Ramesh S. Bhat,
+Electrochemical determination of noradrenaline using a titanium dioxide nanoparticle modified carbon paste electrode,
+Materials Letters,
+Volume 403,
+2026,
+139561,
+ISSN 0167-577X,
+https://doi.org/10.1016/j.matlet.2025.139561.
+(https://www.sciencedirect.com/science/article/pii/S0167577X25015915)
+Abstract: In the present study, titanium dioxide nanoparticles (TiO₂ NPs) are synthesized via the combustion method using titanium (III) sulfate and urea as oxidizer and fuel at 750 °C and confirmed through morphological and structural analysis. The electrode modification is performed by arginine modification with titanium oxide on the surface of the CPE in noradrenaline determination using the linear sweep voltammetric (LSV) technique. Voltammetric analysis was performed in 0.1 M PBS of pH 6.7 at a scan rate of 0.1 Vs−1. The pH studies indicated the deprotonation reveals the electrochemical oxidation by a diffusion-controlled process, with a recorded detection limit (LOD) of 0.03 μM. These results suggest that the proposed approach offers high sensitivity, repeatability, reproducibility, selectivity, and stability, making it suitable for determining NA content in clinical and pharmaceutical samples.
+Keywords: TiO₂ NPs; Noradrenaline; Arginine modification; Voltammetry
+
+Mona Shahlaei, Hamed Afkhami, Amirhossein Ahmadieh-Yazdi, Seyed Hashem Mirmazloumi, Seyedeh Saeideh Sahraei, Mohammad Akbari, Piao Yang, Hamed Manoochehri, Hamid Tanzadehpanah, Hanie Mahaki, Aravind Sundararaman, Sreedivya Mohan, Mohsen Sheykhhasan, Sharafaldin Al-Musawi, Paola Dama,
+Exosomes in Alzheimer’s disease: From pathogenesis to therapeutics—A comprehensive review of diagnostic and drug delivery applications,
+Biomedicine & Pharmacotherapy,
+Volume 192,
+2025,
+118548,
+ISSN 0753-3322,
+https://doi.org/10.1016/j.biopha.2025.118548.
+(https://www.sciencedirect.com/science/article/pii/S0753332225007425)
+Abstract: Alzheimer’s disease (AD) is still a major unmet medical challenge, with limited treatment options and a critical need for early diagnostics. Exosomes, nanoscale extracellular vesicles with a lipid bilayer, are pivotal players in intercellular communication and promising tools for AD management. Their unique ability to cross the bloodbrain barrier, low immunogenicity, and ability for cargo delivery make them ideal candidates for targeted drug delivery. This review comprehensively examines the biology of exosomes—including their structure, biogenesis, release, and uptake—and evaluates advanced methods for their isolation, purification, and characterization. We highlight their dual role in AD pathogenesis, where they can propagate pathological proteins such as amyloid-β and tau, and in therapeutic applications, where engineered exosomes deliver neuroprotective agents. Furthermore, exosomal biomarkers in biofluids show significant potential for noninvasive early diagnosis. Recent advances in loading strategies and surface engineering have been discussed, alongside challenges in scalability and safety. This synthesis bridges current knowledge with future directions, emphasizing the translational potential of exosomes in AD therapeutics and diagnostics.
+Keywords: Exosomes; Alzheimer’s disease; Bloodbrain barrier; Biomarkers; Drug delivery; Neuroinflammation; Tau; Amyloid-beta
+
+Giulietta M. Riboldi, Steven J. Frucht,
+Myoclonus, dystonia and parkinsonism due to a de novo novel variant in the NUS1 gene: Furthering the epilepsy-dyskinesia spectrum - Expert commentary,
+Parkinsonism & Related Disorders,
+2025,
+108063,
+ISSN 1353-8020,
+https://doi.org/10.1016/j.parkreldis.2025.108063.
+(https://www.sciencedirect.com/science/article/pii/S1353802025008041)
+
+Sofia Ferreira, Regina Menezes, Ioannis Trougakos, Sentiljana Gumeni, Victor Bolanos-García, Cláudia Nunes dos Santos, María Ángeles Ávila-Gálvez,
+Modulation of the Ubiquitin-Proteasome System by Circulating (Poly)phenol-Derived Metabolites: Implications for Chronic Diseases,
+The Journal of Nutritional Biochemistry,
+2025,
+110127,
+ISSN 0955-2863,
+https://doi.org/10.1016/j.jnutbio.2025.110127.
+(https://www.sciencedirect.com/science/article/pii/S095528632500289X)
+Abstract: The ubiquitin–proteasome system (UPS) is a key cellular mechanism responsible for protein turnover, with essential roles in cell cycle regulation, gene expression, and responses to oxidative and inflammatory stress. UPS dysregulation is implicated in the pathogenesis of multiple chronic diseases, including neurodegenerative, cardiovascular, and oncological disorders. This review examines the emerging role of circulating polyphenol-derived metabolites, such as valerolactones (from flavan-3-ols), benzoic acid derivatives, urolithins (from ellagitannins), and hydroxycinnamic acids (e.g., ferulic and caffeic acids), as modulators of UPS activity. We summarize experimental evidence demonstrating their ability to affect proteasome function through diverse mechanisms, including autophagy induction, modulation of ubiquitination-related enzymes, and attenuation of oxidative or inflammatory signals. While bioavailability studies have described the absorption and metabolism of dietary polyphenols, less is known about which specific metabolites reach target tissues at biologically active concentrations capable of modulating the UPS. In addition, current knowledge is primarily based on cellular models (e.g., endothelial cells, myotubes, macrophages, cancer cell lines) and in vivo studies in rodents, often using supraphysiological doses or isolated compounds. To translate these findings into therapeutic applications, further research is needed to integrate mechanistic insights from preclinical models with data from human clinical studies, taking into account physiologically relevant concentrations, chronic exposure patterns, and tissue-specific distribution. Such approaches could help unlock the potential of (poly)phenol-derived metabolites as regulators of proteostasis in chronic disease.
+Keywords: cancer; cardiovascular diseases; neurodegenerative diseases; phenolic compounds; small molecules; UPS
+
+Edward Parkinson, Eleanor Plews, Chinthaka Hewavitharane, Grace Catchpole, Himanshu Arora, Champa Chapman,
+The financial and environmental cost of anaesthetic emergency drugs: comparing ampoules with prefilled syringes in a second cycle quality improvement project,
+British Journal of Anaesthesia,
+Volume 135, Issue 4,
+2025,
+Page 1138,
+ISSN 0007-0912,
+https://doi.org/10.1016/j.bja.2025.07.029.
+(https://www.sciencedirect.com/science/article/pii/S0007091225004428)
+
+Flávia de Paiva Santos Rolim, Sylvio Ricard Gonçalves de Souza Lima, Ana Silvia Sobreira Lima Verde, Paulo Sérgio Alves Lisboa, Ingrid César Fernandes, Paula Camila A.A.P. Matos, Verônica Tavares Aragão, André Borges Ferreira Gomes, Norberto Anizio Ferreira Frota, Sarah Teixeira Camargos, Artur F. Schumacher Schuh, Fernanda Martins Maia Carvalho,
+Cognitive and psychiatric profile in a Brazilian case of SNCA duplication,
+Parkinsonism & Related Disorders,
+Volume 140,
+2025,
+108058,
+ISSN 1353-8020,
+https://doi.org/10.1016/j.parkreldis.2025.108058.
+(https://www.sciencedirect.com/science/article/pii/S1353802025007990)
+
+Giovanni B Frisoni, Emil Aho, Carol Brayne, Olga Ciccarelli, Bruno Dubois, Nick C Fox, Kristian S Frederiksen, Cem Gabay, Valentina Garibotto, Thomas Hofmarcher, Clifford R Jack, Miia Kivipelto, Ronald C Petersen, Federica Ribaldi, Christopher C Rowe, Sebastian Walsh, Henrik Zetterberg, Oskar Hansson,
+Alzheimer's disease outlook: controversies and future directions,
+The Lancet,
+Volume 406, Issue 10510,
+2025,
+Pages 1424-1442,
+ISSN 0140-6736,
+https://doi.org/10.1016/S0140-6736(25)01389-3.
+(https://www.sciencedirect.com/science/article/pii/S0140673625013893)
+Abstract: Summary
+For the first time, reductions in cerebral β-amyloid pathology load and rate of cognitive and functional decline have been achieved in Alzheimer's disease, through pharmacological intervention in randomised controlled trials. However, the results from phase 3 randomised controlled trials of anti-β amyloid monoclonal antibodies are interpreted in different ways, with some experts supporting a clinically meaningful disease-modifying effect, and others judging insufficient benefit-to-risk ratio and opposing market authorisation. In the final paper of this Series, we discuss these contrasting views, all of which wish to contribute to improvements in the quality of life of people with, or at risk of, Alzheimer's disease. We contrast the efficacy, societal costs, and generalisability of monoclonal antibodies for Alzheimer's disease to biologics for other conditions (eg, cancer, multiple sclerosis, and rheumatoid arthritis) and set this debate in the larger context of modern personalised medicine. We discuss current practice implications, future developments directed to β-amyloid and non-amyloid targets that might have more clinical efficacy and less adverse effects for those with the disease, and large-scale prevention interventions for those at risk.
+
+Chuyi Cui, Goun Je, Kevin B. Wilkins, Tilman Schulte, Helen M. Bronte-Stewart,
+Subthalamic deep brain stimulation alleviates the gait sequence effect and freezing of gait in Parkinson's disease,
+Parkinsonism & Related Disorders,
+2025,
+108062,
+ISSN 1353-8020,
+https://doi.org/10.1016/j.parkreldis.2025.108062.
+(https://www.sciencedirect.com/science/article/pii/S135380202500803X)
+Abstract: Background
+The sequence effect in gait—progressive shortening of strides—contributes to freezing of gait (FOG), a debilitating symptom of Parkinson's disease (PD). The sequence effect is refractory to dopaminergic medications and attentional strategies, with improvement observed only through external cueing. While subthalamic nucleus (STN) deep brain stimulation (DBS) is a standard treatment for PD, its efficacy for gait and FOG remains debated.
+Objective
+To characterize the sequence effect in spatiotemporal gait parameters in PD and to investigate the effects of STN-DBS.
+Methods
+Eighteen individuals with PD with bilateral STN-DBS and fourteen age-matched healthy controls performed a harnessed Stepping-In-Place task, validated to elicit FOG. PD participants were assessed OFF and ON DBS in the off-medication state. Gait kinematics were measured using shank IMU sensors. The sequence effect was quantified by fitting an exponential decay function to each spatiotemporal gait parameter prior to freezing.
+Results
+The sequence effect was evident in PD participants but not in healthy controls. It manifested as a progressive reduction in swing angular velocity and angular range over time, with variable trends in swing time. The severity of the sequence effect significantly correlated with percent time spent freezing off therapy (p < 0.001). STN-DBS significantly alleviated the sequence effect (p = 0.002) and reduced percent time freezing (p = 0.01).
+Conclusions
+The Stepping-In-Place task elicited the sequence effect in PD, revealing progressive deterioration in both spatial and velocity aspects of gait, which contributed to the severity of FOG. STN-DBS effectively reduced the sequence effect, thereby improving FOG.
+Keywords: Basal ganglia; Neuromodulation; Gait impairment; Freezing of gait; Festination
+
+Corneliu Luca, Jonathan Jagid, Yi-Han Lin, Kimmy Su, Viviana Torres, Rajat Shivacharan, Lisa Moore,
+ID# 1901363 Using Algorithm-Guided Programming to Treat Parkinson’s Disease Patients Implanted with Deep Brain Stimulation,
+Neuromodulation: Technology at the Neural Interface,
+Volume 28, Issue 7, Supplement,
+2025,
+Page S52,
+ISSN 1094-7159,
+https://doi.org/10.1016/j.neurom.2025.08.096.
+(https://www.sciencedirect.com/science/article/pii/S1094715925003721)
+
+Marco Duarte, Sílvia Santos Pedrosa, P.Raaj Khusial, Ana Raquel Madureira,
+The biological potential and health-benefits of flavonoids: A review and development opportunities,
+Chemico-Biological Interactions,
+2025,
+111755,
+ISSN 0009-2797,
+https://doi.org/10.1016/j.cbi.2025.111755.
+(https://www.sciencedirect.com/science/article/pii/S0009279725003850)
+Abstract: Flavonoids are a class of polyphenolic phytochemicals, representing an important group of secondary metabolites in plants. They can be divided into seven groups, depending on their chemical features, and, in nature, they can be obtained from various sources, primarily plants. Industrially, and due to the biological potential of flavonoids, there has been a notable effort to develop new methodologies that allow for the efficient and eco-friendly production of these compounds. The growing interest in natural products for various applications, such as the nutraceutical and cosmeceutical industries, lends considerable relevance to these compounds as potential functional ingredients. Further, flavonoids are heavily explored because they present relevant biological activities like antioxidant and anti-inflammatory, which could translate into health benefits at multiple levels of the human body, like cardiac function, metabolism-related diseases (e.g., diabetes, obesity), bone preservation, neuroprotection, among others. This review aims to explore the biological potential of flavonoids, clarifying their most relevant health benefits while providing an update on the current state of the art, simultaneously pointing future research directions.
+Keywords: Flavonoids; antioxidant; anti-inflammatory; pharmacological activities
+
+Harry Kam Hung Tsui, Georg S. Kranz, Yingjun Zheng, Janet Hui-wen Hsiao, Sherry Kit Wa Chan,
+Efficacy of non-invasive brain stimulation on theory of mind and emotion processing in neuropsychiatric disorders: A systematic review and meta-analysis,
+Neuroscience & Biobehavioral Reviews,
+Volume 178,
+2025,
+106380,
+ISSN 0149-7634,
+https://doi.org/10.1016/j.neubiorev.2025.106380.
+(https://www.sciencedirect.com/science/article/pii/S0149763425003811)
+Abstract: Social cognitive impairments, including emotion processing (EP) and theory of mind (ToM), have been considered as transdiagnostic features across neuropsychiatric disorders, substantially affecting social functioning. While no definitive treatment exists for these deficits, non-invasive brain stimulation (NIBS) has emerged as a promising option but a comprehensive quantitative review was lacking. This systematic review and meta-analysis were conducted to evaluate the effects of transcranial direct current stimulation (tDCS) and transcranial magnetic stimulation (TMS) on EP and ToM deficits across diverse neuropsychiatric disorders. Following PRISMA guidelines, eligible randomized sham-controlled trials were systematically searched. Hedges’ g was utilized to quantify effect sizes for pretest-posttest-control group designs. A total of 36 studies comprising 1486 participants were included. Meta-analyses revealed a modest yet significant effect of TMS on EP compared to sham (g = 0.295 [95 % CI, 0.065–0.524], p = 0.012), while no significant effects were found for tDCS on EP or ToM, nor of TMS on ToM. Notably, more prominent effects were observed with TMS targeting the left dorsolateral prefrontal cortex (dlPFC) and utilizing facial emotion recognition tasks. However, the high heterogeneity and limited long-term follow-up data call for careful consideration of the durability and consistency of these effects. Potential publication bias was also observed for tDCS on EP. Overall, TMS shows promise for mitigating social cognitive impairments, primarily in EP, but further rigorous investigation is needed to validate its clinical efficacy and long-term benefit. Future research should incorporate large-scale longitudinal studies with neuroimaging and real-world social functioning assessments across disorders.
+Keywords: Non-invasive brain stimulation; Social cognition; Theory of mind; Emotion processing; Neuropsychiatric disorders
+
+Stephanie Sandoval-Pistorius, Rodrigo A. Fernandez-Gajardo, Stephanie Cernera, Sarah S. Wang, Doris D. Wang, Simon Little, Philip A. Starr,
+ID# 1907185 Long-term Sensorimotor Cortex Sensing Using Implanted Subgaleal Leads During Deep Brain Stimulation for Parkinson’s Disease,
+Neuromodulation: Technology at the Neural Interface,
+Volume 28, Issue 7, Supplement,
+2025,
+Page S208,
+ISSN 1094-7159,
+https://doi.org/10.1016/j.neurom.2025.08.395.
+(https://www.sciencedirect.com/science/article/pii/S1094715925006713)
+
+Ali A. Mohamed, Emma Sargent, Brandon Lucke-Wold,
+ID# 1898521 Trends in Functional Neurosurgery Determined by Natural Language Processing and Machine Learning,
+Neuromodulation: Technology at the Neural Interface,
+Volume 28, Issue 7, Supplement,
+2025,
+Page S38,
+ISSN 1094-7159,
+https://doi.org/10.1016/j.neurom.2025.08.073.
+(https://www.sciencedirect.com/science/article/pii/S1094715925003496)
+
+Michelle Case, Caleb Zarns, Abbey Holt-Becker, Robert S. Raike, Erin M. Radcliffe, Alexander J. Baumgartner, John A. Thompson, Drew S. Kern,
+ID# 1906700 Correlating monopolar sensed local field potential power with therapeutic window to stratify contact selection,
+Neuromodulation: Technology at the Neural Interface,
+Volume 28, Issue 7, Supplement,
+2025,
+Page S154,
+ISSN 1094-7159,
+https://doi.org/10.1016/j.neurom.2025.08.291.
+(https://www.sciencedirect.com/science/article/pii/S1094715925005677)
+
+Jingxi Feng, Shaoyi Du, Heming Xu, Rundong Xue, Xiangmin Han, Dong Zhang, Jue Jiang, Yue Gao, Juan Wang,
+Topology-Aware Multi-View Hypergraph Computation-Based Cross-Modal Brain Network Fusion for Brain Disease Diagnosis,
+Information Fusion,
+2025,
+103751,
+ISSN 1566-2535,
+https://doi.org/10.1016/j.inffus.2025.103751.
+(https://www.sciencedirect.com/science/article/pii/S1566253525008139)
+Abstract: Cross-modal brain networks characterize the complex connections between different brain regions from both functional and structural perspectives. Deep fusion of functional and structural brain network information is crucial for brain disease diagnosis. However, existing methods overlook the intricate semantic and topological relationships between functional and structural brain networks, as well as their critical roles in brain network information transmission. To address these limitations, this paper proposes a topology-aware multi-view hypergraph computation-based cross-modal brain network fusion (TMHGC-CBNF) method. The TMHGC-CBNF achieves high-precision brain disease diagnosis through topology-aware multi-view brain network modeling, efficient message propagation, and multi-strategy fusion of cross-modal brain network information. Specifically, the topology-aware multi-view hypergraph computation method first constructs multi-view hypergraphs to model multi-level high-order correlations guided by topological structure and the semantic correlations under topological constraint in the functional brain network, while using graph structures to model the structural brain network. Based on this, parallel hypergraph convolutions are employed to simulate efficient information propagation patterns in the functional brain network and extract high-order feature representations for each view. Graph convolution is used to extract feature representations of the structural brain network. Next, a multi-strategy fusion method progressively and orthogonally fuses high-order functional brain network information from different views, and a topological encoding-based dual-channel cross-attention module facilitates the interaction of functional and structural brain network information in the topological space. Experiments on the three datasets demonstrate that the proposed method outperforms the current state-of-the-art methods and is capable of identifying cross-modal brain network biomarkers.
+Keywords: Cross-modal; Brain network; Fusion; Hypergraph; Topology-aware
+
+Hailong Li, Haixi Bian, Xingxing Yuan, Qing Xu,
+Inhaled pollutants and neurological health via the lung-brain axis,
+Ecotoxicology and Environmental Safety,
+Volume 304,
+2025,
+119091,
+ISSN 0147-6513,
+https://doi.org/10.1016/j.ecoenv.2025.119091.
+(https://www.sciencedirect.com/science/article/pii/S0147651325014368)
+Abstract: Background
+The lung-brain axis is a communication network that links the lungs and the brain. Inhaled pollutants like tobacco smoke, asbestos, and nanoparticles can exploit this axis to cause neurological damage. They do this by triggering systemic inflammation, oxidative stress, and disrupting the blood-brain barrier (BBB), which can lead to neurocognitive decline, neurodegeneration, and cancer.
+Objective
+This review compares how two major types of inhaled pollutants, tobacco smoke and environmental chemicals, affect neurological health via the lung-brain axis. We evaluate their shared and distinct biological mechanisms, contrast their associated health outcomes such as neuropsychiatric disorders versus cancers, and identify critical gaps in current research.
+Conclusion
+Both smoking and chemical pollutants harm the brain through the lung-brain axis but via different primary mechanisms. Smoking primarily disrupts nicotinic acetylcholine receptor (nAChR) signaling, reinforcing addiction. In contrast, environmental chemicals often rely on the physical translocation of particles to cause genotoxicity and direct inflammation. Key research limitations include a lack of long-term human data and an incomplete understanding of the bidirectional nature of this axis. Future studies should use integrated multi-omics and advanced models like organ-on-a-chip to better understand these exposure dynamics. From a policy perspective, prioritizing smoking cessation, stricter pollution controls, and occupational safety is crucial. Future interventions must also account for genetic vulnerabilities and sex-specific differences to effectively reduce the global burden of pollution-related neurological diseases.
+Keywords: Lung-brain axis; Inhaled pollutants; Neuroinflammation; Oxidative stress; Blood-brain barrier disruption; Neurocognitive decline
+
+Kaila Nishikawa, Yael David, Anna Knörlein,
+Expanding epitranscriptomics to non-enzymatic RNA modifications,
+Trends in Chemistry,
+2025,
+,
+ISSN 2589-5974,
+https://doi.org/10.1016/j.trechm.2025.08.005.
+(https://www.sciencedirect.com/science/article/pii/S2589597425001753)
+Abstract: Cells regulate responses to external stimuli and control cell fate through reversible modifications on proteins, DNA, and RNA typically introduced by enzymes. Next to these well-known enzymatically installed modifications, covalent modifications can also occur on the same biomolecules through spontaneous reaction with small molecules taken up from external sources or generated endogenously (e.g., byproducts of metabolic processes). These so-called non-enzymatic covalent modifications (NECMs) have been mainly studied on proteins and DNA, but their biological role on RNA remains mostly underexplored. This review surveys identified and predicted RNA NECMs, explores their impact on RNA structure, stability, and function, and examines their link to diseases. Finally, we discuss regulatory mechanisms of non-enzymatically modified RNAs and their potential significance in cellular dynamics.
+Keywords: RNA; modifications; non-enzymatic; epitranscriptomics
+
+K. Murugavalli, R. Ramalakshmi, G. Vishnuvarthanan, M. Pallikonda Rajasekaran,
+Prediction of Body Physiological Parameter Changes after Experiencing Infinity Walk: A Prospective Observational View,
+Smart Health,
+2025,
+100609,
+ISSN 2352-6483,
+https://doi.org/10.1016/j.smhl.2025.100609.
+(https://www.sciencedirect.com/science/article/pii/S2352648325000704)
+Abstract: To develop a clinical prediction tool for estimating the changes in the body physiological parameters during six months for the people practicing infinity walk. Comparing the parameters of normal walk and infinity walk for recording progression and forecasting conversion in the physiological parameters. All eight subjects pursue a balanced diet as per the instructions delivered by dietitian. Four participants planned to practice the infinity walk, in the open or in a room, going from south to north and vice versa. Another four participants are advised to practice regular walking. All the individuals walked for 30 minutes in both morning and evening. Eight participants, comprising 4 men and 4 women. The participants, who included healthy individuals, people with diabetes, people with hypertension and those with both diabetes and hypertension, ranged in age from 30 to 60. The primary outcome is changes in weight, blood sugar level, blood pressure, and oxygen saturation when infinity walk is employed as a stimulus. In this prospective observational study, four of the subjects in each group are practicing the infinity walk, while the remaining four are walking normally for an hour each day (morning and evening). Physiological data are collected weekly once by clinician for analysis. Statistical analysis has been performed using linear regression and Wilcoxon Rank sum test in order to predict the changes in the physiological parameters in the future, when the subjects continuing the procedure for a long duration. In order to increase prediction accuracy, the Generalized Regression Neural Network (GRNN) and the Gaussian Process Regression (GPR) model are combined to create the GPR-GRNN. The statistical analysis states that the better changes in the body physiological parameters can be identified on the subject’s performing infinity walk than the subjects practicing normal walk. Participants who perform infinite walking over regular walking show progressively better results. The findings of this study laid the groundwork for a reliable prediction of improvements in body physiological parameters over a period of time when infinite walking is practiced. Also, the results can assist in justifying the reason for the suggestion/preference given by the doctors/researchers to patients/common people to select infinity walk as an exercise.
+Keywords: Infinity Walk; Eight Shaped Walk; Siddha Walk; Body Physiological Parameters; Linear Regression; Wilcoxon Rank Sum Test
+
+Marius C. Vollberg, Brendan B. O'Connor, Patrik Vuilleumier, David Sander, Mina Cikara,
+Place-related representations in setting the stage for empathy,
+Cognition,
+Volume 266,
+2026,
+106327,
+ISSN 0010-0277,
+https://doi.org/10.1016/j.cognition.2025.106327.
+(https://www.sciencedirect.com/science/article/pii/S0010027725002689)
+Abstract: What makes people experience varying degrees of empathy? Common accounts emphasize interpersonal attributes, including victims' group membership or social proximity to observers. Here we elucidate a distinct process: imagining the scenes surrounding victims. Although imagination has been shown to moderate empathy, the relative importance of its representational components is unknown. Using fMRI (N = 48), we identified activation maps preferentially associated with imagining places and persons, respectively. When participants imagined misfortunes happening to individuals in specific places, the place and person maps jointly predicted affective empathy, and, less consistently, prosocial behavior. Crucially, place-preferential activation was at least as predictive as person-preferential activation. Results were robust to several group-, participant-, trial-level, and covariate-adjusted analyses. Moreover, place-preferential activation itself was most strongly predicted by person liking, beyond place-related ratings. Our data are consistent with social affinity potentiating place imagination, which in turn increases empathy, above and beyond person imagination. These findings challenge person-centric views of empathy by suggesting that place-related representations are central to empathy and socially contingent.
+Keywords: Imagination; Empathy; Episodic simulation; Prosocial behavior
+
+Margrethe A. Olesen, Andrés Ancía, Rodrigo A. Quintanilla,
+Is tau pathology a relevant factor in neuronal damage induced by alcohol and other drugs?,
+Biochimica et Biophysica Acta (BBA) - Molecular Basis of Disease,
+Volume 1872, Issue 1,
+2026,
+168059,
+ISSN 0925-4439,
+https://doi.org/10.1016/j.bbadis.2025.168059.
+(https://www.sciencedirect.com/science/article/pii/S0925443925004077)
+Abstract: Unrestricted alcohol consumption and other substances like methamphetamine (ecstasy), opioids, cannabis, and cocaine have generated serious health concerns in the world population. The abusive use of these substances produces neuropathological alterations that could lead to cognitive decline and neurodegeneration. Pathological damage generated by these drugs resembles neurodegenerative changes observed in neurological disorders (NDs), including Alzheimer's disease (AD), Parkinson's disease (PD), and others. One of the relevant elements distinguished in these diseases is the aggregation of intraneuronal proteins and deregulation of the neuronal cytoskeleton. In this context, the toxic modification of tau protein, a microtubule-associated protein (MAP), has raised new interest in drug and alcohol abuse research. Tau can undergo different pathological changes in which its anomalous phosphorylation and truncation state are relevant for NDs. These modifications produce a detachment from microtubule structures, affecting axonal transport and synaptic plasticity. Current studies suggest that alcohol and drug abuse may affect the mechanisms behind tau phosphorylation, inducing dysregulation of kinase/phosphatase activities and toxic tau accumulation. These alterations could be a key element that contributes to cognitive decline and neurodegeneration caused by substance abuse. Therefore, it is pivotal to understand how alcohol and other drugs contribute to neuronal damage by inducing tau pathology. This knowledge could generate new strategies and biomedical targets to reduce addictive consumption, neurodegeneration, and cognitive decline produced by substance abuse.
+Keywords: Alcohol; Tau; Neurodegeneration; Synapsis; Tau hyperphosphorylation
+
+Megan M. Hosein, Matthew J. Reid, Sarah Walser, Stuart Charney, Gregory A. Fonzo, Benjamin R. Lewis, David B. Yaden, Trisha Suppes, Zachary A. Cordner, Frederick S. Barrett,
+Considerations and cautions for the integration of psilocybin into routine clinical care: a consensus statement from the US National Network of Depression Centers' Task Group on Psychedelics and Related Compounds,
+eClinicalMedicine,
+Volume 89,
+2025,
+103517,
+ISSN 2589-5370,
+https://doi.org/10.1016/j.eclinm.2025.103517.
+(https://www.sciencedirect.com/science/article/pii/S258953702500450X)
+Abstract: Summary
+The potential for psilocybin, and other psychedelic drugs, to fulfil a much needed and potentially transformative class of psychiatric treatments has garnered significant attention. Consequently, there has been a great deal of interest and investment in accelerating its development and potential implementation in routine clinical practice. However, the expanding scope of scientific discovery, heightened media coverage, and commercial interests in the field risk outpacing the rate of developments in the necessary guidelines and infrastructure required for integration of psilocybin into clinical practice. The US National Network of Depression Centers (NNDC) Task Group on Psychedelics and Related Compounds—comprising psychiatrists, psychologists, neuroscientists, psychedelic researchers, and leaders in healthcare consulting affiliated with the NNDC—developed this consensus statement as a summary of clinical expertise and opinion on the matter, to recognise psilocybin's therapeutic potential while also emphasising the need for further research and careful consideration before the integration of psilocybin into routine clinical care. We outline the current state of the science on psilocybin, incorporating articles published through April 2025. We identify key areas for further research and frame them within the context of therapeutic and ethical implications surrounding psilocybin's use in future clinical practice. We highlight the need for further research to address gaps in understanding of therapeutic dosage, efficacy across diverse populations, and long-term safety. Finally, we propose an agenda which calls for diversification of funding, collaborative research efforts, standardised training for healthcare providers, and careful consideration of ethical dilemmas inherent in the theorised clinical use of psilocybin. Crucially, we advocate for a balanced approach that prioritises rigorous scientific standards while considering the urgency of the need for better treatment options, ensuring equitable access and safety as the field progresses. We acknowledge that the single-country focus of the NNDC may limit the generalisability of recommendations to international contexts with differing healthcare systems and regulatory landscapes.
+Keywords: Psilocybin; Psychedelics; Consensus
+
+Qasim A. Qureshi, Min Jae Kim, Pierce Davis, Jarl Haggerty, Katie A. Wingel, Pedro Borges, Michael Beauchamp, Casey Halpern, Bijan Pesaran, Benjamin Rapoport, Iahn Cajigas,
+ID# 1906798 Rock, Paper, Scissors: Understanding Neural Dynamics of the STN During a Motor Learning Task,
+Neuromodulation: Technology at the Neural Interface,
+Volume 28, Issue 7, Supplement,
+2025,
+Pages S167-S168,
+ISSN 1094-7159,
+https://doi.org/10.1016/j.neurom.2025.08.318.
+(https://www.sciencedirect.com/science/article/pii/S109471592500594X)
+
+Luis-Enrique Almaguer-Mederos, Arvind Reddy Kandi, Nesli-Ece Sen, Júlia Canet-Pons, Luca-Malena Berger, Matthew P. Stokes, Kathryn Abell, Jana Key, Suzana Gispert, Georg Auburger,
+Spinal cord phosphoproteome of SCA2 mouse model reveals alteration of ATXN2-N-term PRM-SH3-actin interactome and of autophagy,
+Molecular & Cellular Proteomics,
+2025,
+101072,
+ISSN 1535-9476,
+https://doi.org/10.1016/j.mcpro.2025.101072.
+(https://www.sciencedirect.com/science/article/pii/S1535947625001719)
+Abstract: Toxic polyglutamine (polyQ) expansions in ATXN2 trigger neurodegenerative processes, causing Spinocerebellar Ataxia type 2 (SCA2), and enhancing TDP-43-dependent pathology in Amyotrophic Lateral Sclerosis (ALS) / Fronto-Temporal Dementia (FTD). Primary disease events can be compensated transiently, delaying disease manifestation. To define potential therapy targets, here we studied how cells modify phosphoprotein signals, using preferentially affected nervous tissue from end-stage Atxn2-CAG100-KnockIn mice. The spinal cord phosphoproteome revealed massive hyperphosphorylations flanking the polyQ expansion in ATXN2 and for SQSTM1, and moderate hyperphosphorylations also for ALS proteins OPTN, UBQLN2, TNIP1 and TBK1-targeted TAX1BP1. Conversely, strong hypophosphorylations of WNK1, SPARCL1 and PSMD9 were found. Significant enrichments of SH3-containing proteins, autophagy / endocytosis factors, and actin modulators could be explained by N-terminal, polyQ-adjacent, proline-rich motifs (PRM) in ATXN2, suggesting that SCA2 pathogenesis is highly similar to Huntington’s disease where neurotoxicity is mediated by abnormal polyQ-PRM-SH3 interactions. Validation of protein and mRNA levels were done in mouse spinal cord, and embryonic fibroblasts or patient fibroblasts after bafilomycin or arsenite treatment, observing polyQ-dependent OPTN deficiency and SQSTM1 induction impairment. Overall, this phosphoproteome profile identified and quantified the main cellular efforts in adapting autophagy pathways to the aggregation propensity of the ATXN2-N-term.
+Keywords: Fe-NTA binding; IMAC; cortico-spinal motoneurons; cerebellar Purkinje neurons; tyrosine receptor endocytosis; intrinsically disordered domains; liquid-liquid phase separation; proteasome; aggrephagy; microtubule-organizing center
+
+Rebecca A. Takele, Swati Anand, Jack A. Mensch, Sanjeev Agarwal,
+ID# 1907167 Role of Physiatry After Unilateral Subthalamotomy: A Case Report,
+Neuromodulation: Technology at the Neural Interface,
+Volume 28, Issue 7, Supplement,
+2025,
+Page S205,
+ISSN 1094-7159,
+https://doi.org/10.1016/j.neurom.2025.08.388.
+(https://www.sciencedirect.com/science/article/pii/S1094715925006646)
+
+Tao Xie, Chuanhong Liao, Mahesh Padmanaban, Julie Johnson, Kyla Booker, Mie Rizig, Widad Abou Chaar, Jonathan Bundy, Heather Leeper, Ivan Guan, Peter Warnke, Brian C. Chiu,
+Healthcare access and utilization of deep brain stimulation and supplementary care in black and white patients with Parkinson's disease,
+Parkinsonism & Related Disorders,
+Volume 140,
+2025,
+108057,
+ISSN 1353-8020,
+https://doi.org/10.1016/j.parkreldis.2025.108057.
+(https://www.sciencedirect.com/science/article/pii/S1353802025007989)
+Abstract: Background
+Information comparing healthcare access and utilization between Black and White patients with Parkinson's disease (PD), particularly for deep brain stimulation (DBS) and supplementary care, remains sparse due to the lack of large Black population in a majority of healthcare facilities and limited scope of information in electronic datasets. We hypothesized that Black PD patients are less likely to have implantation for DBS due to many reasons, including ones not explored yet such as a lower likelihood of being assessed for DBS and/or acceptance for DBS when indicated, but more likely to have supplementary care.
+Methods
+We searched electronic medical records in our tertiary center between January 1, 2006 and October 1, 2021, followed by chart reviewing and extracting demographics, socioeconomic status, comorbidities, and healthcare access and utilization, including medications, DBS and supplementary care. Of 2827 patients in records, 1211 were assessed by movement neurologists here, who verified the diagnosis in 882 of them (72.8 %). We included 846 patients (95.9 %) (Black/White 255/591) with needed information for analysis.
+Results
+Compared to White patients, Black patients lacked male predominance, had lower socioeconomic status, more comorbidities, and frequent care in emergency/inpatient settings. There was no difference in overall medication use, but Black patients were less likely to have implantation and evaluation for DBS, and to accept DBS when indicated, and more likely to have supplementary care.
+Conclusions
+Black patients are less likely to have DBS implantation, evaluation, and acceptance but more likely to have supplementary care compared to White patients. These new findings could help improve healthcare.
+Keywords: DBS; Supplementary care; Healthcare utilization; Black; White; Parkinson
+
+Lawrence Coles, Domenico Ventrella, Alejandro Carnicer-Lombarte, Alberto Elmi, Joe G. Troughton, Massimo Mariello, Salim El Hadwe, Ben J. Woodington, Maria L. Bacci, George G. Malliaras, Damiano G. Barone, Christopher M. Proctor,
+ID# 1906537 Origami-inspired soft fluidic actuation for minimally invasive large-area electrocorticography,
+Neuromodulation: Technology at the Neural Interface,
+Volume 28, Issue 7, Supplement,
+2025,
+Page S142,
+ISSN 1094-7159,
+https://doi.org/10.1016/j.neurom.2025.08.268.
+(https://www.sciencedirect.com/science/article/pii/S1094715925005446)
+
+Wen Lin, Hu Miao, Jin Zhang, JiaYu Li, Xingpeng Lv, Xin Ding, Yi Liu, Yan-Jun Hu,
+Regulation of the antioxidant structure of polydopamine nanomaterials: Mechanisms, strategies, and applications in reactive oxygen species-mediated diseases,
+Next Materials,
+Volume 9,
+2025,
+101253,
+ISSN 2949-8228,
+https://doi.org/10.1016/j.nxmate.2025.101253.
+(https://www.sciencedirect.com/science/article/pii/S2949822825007713)
+Abstract: Reactive oxygen species (ROS), as ubiquitous metabolic byproducts, serve as pivotal mediators in the pathogenesis and progression of various oxidative stress-related diseases. While endogenous antioxidant systems constitute the primary defense mechanism, overwhelming accumulation of ROS exceeds homeostatic thresholds, precipitating macromolecular oxidative damage and the development of various diseases. Polydopamine (PDA) nanomaterials, inspired by nature and possessing tunable architectures, have been proven to scavenge ROS and treat oxidative stress-related diseases. This review systematically elucidates the polymerization mechanisms and physicochemical properties of PDA, and critically examining recent advancements in their therapeutic applications of ROS-related diseases, including Parkinson’s disease, Alzheimer’s disease, diabetic wound healing, ischemia-reperfusion injury cascades, and rheumatoid arthritis. Furthermore, we outline the limitations of PDA in the biomedical field and highlight future research directions, including molecular mechanisms of action, chronic toxicological profiles, and the optimization strategies for clinical translation potential. We hope that this review aims to establish a conceptual framework for rational design for the application of PDA in the treatment of oxidative stress-related diseases, serving as a reference for researchers and clinicians in this field.
+Keywords: Polydopamine; Reactive oxygen species; Oxidative stress; ROS-related diseases
+
+Damilola A. Omoboyowa, Funmilayo E. Ojo, Modupe Samuel, Stanley Leleji, Damilola V. Okeyomi, Parker E. Joshua,
+Curculigo pilosa (Schumach. & Thonn.) Engl rhizome protects against aluminum chloride - induced neurotoxicity in Drosophila melanogaster model,
+Pharmacological Research - Natural Products,
+Volume 9,
+2025,
+100382,
+ISSN 2950-1997,
+https://doi.org/10.1016/j.prenap.2025.100382.
+(https://www.sciencedirect.com/science/article/pii/S2950199725002423)
+Abstract: Neurotoxic effect of aluminum chloride (AlCl3) is mediated by pro-oxidants property, Curculigo pilosa rhizome has been reported for its anti-oxidant potential. This study evaluates the ameliorative potential of C. pilosa in AlCl3-induced neurotoxicity in Harwich strain of Drosophila melanogaster. C. pilosa rhizome was extracted with four solvents. The extracts were subjected to in vitro antioxidant assays using standard procedures. A 30-day survival assay was performed on the most potent extract (EECP) to determine the safe concentration. Flies were exposed to AlCl3 and/or EECP for 7 days. Oxidative stress markers and mRNA expression of neurological genes were carried out using standard methods. Structural bioinformatics analysis was performed on the tyrosine hydroxylase (TH) and compounds from EECP using Blastp and Schrodinger suite. The results revealed that, EECP restored protein, thiol imbalance and glutathione peroxidase activity in AlCl3-induced flies. There was non-significant (P > 0.05) down regulation in the tyrosine hydroxylase (PALE gene) and dopamine receptor genes of EECP exposed AlCl3-induced flies. Phlorizon and curculigoside showed the best binding affinity and molecular dynamics simulation reveals stability of the hits at the binding domain for 100 ns. Overall, C. pilosa ameliorated AlCl3-induced toxicity in D. melanogaster resulting from its free radical scavenging potential; therefore, the plant can be explore as therapeutic plant against AlCl3-induced neurotoxicity.
+Keywords: Neurotoxicity; Oxidative stress; MRNA expression; Bioinformatics
+
+Ruiqi Su, Jingning Luo, Xuan Liu, Jianwen Chen, Jingdi Zhang, Gongyun He, Xueshi Ye, Yuxing Dai, Jingxia Zhang,
+Design, synthesis, anti-acute ischemic stroke (AIS) effect of receptor-interacting protein kinase 1 (RIPK1) inhibitors containing quinazoline structure,
+Bioorganic Chemistry,
+Volume 165,
+2025,
+109013,
+ISSN 0045-2068,
+https://doi.org/10.1016/j.bioorg.2025.109013.
+(https://www.sciencedirect.com/science/article/pii/S0045206825008934)
+Abstract: Receptor-interacting protein kinase 1 (RIPK1) plays a pivotal role in necroptosis, a regulated form of cell death that contributes to neuronal damage and inflammation. RIPK1 inhibitors have emerged as promising therapeutic agents in the treatment of acute ischemic stroke. In this study, a series of novel RIPK1 inhibitors were designed and synthesized based on a new scaffold containing quinazoline and benzotriazole moieties. Their potent inhibitory activity, selectivity for RIPK1 over RIPK3 and anti-necroptotic activity at the cellular level were then evaluated. Notably, compound 9b emerged as an optimal candidate, offering substantial neuroprotection by inhibiting the phosphorylation of RIPK1, RIPK3, and mixed lineage kinase domain-like pseudokinase (MLKL) within the necroptosis pathway. In vivo evaluations in a rat middle cerebral artery occlusion (MCAO) model highlighted compound 9b's neuroprotective effect. Initial assessments of the compound revealed its low toxicity, stable metabolic profile, and favorable permeability across the blood-brain barrier, highlighting its promising potential as a therapeutic agent for AIS.
+Keywords: RIPK1 inhibitor; Quinazoline core; Neuroprotectants; Anti acute ischemic stroke
+
+Farhana Rinky, G.M.M. Anwarul Hasan, Khondoker Shahin Ahmed, Kiron Sikdar,
+Global prevalence and health risk assessment of organochlorine pesticide residues in raw cow's milk: A systematic review,
+International Dairy Journal,
+Volume 172,
+2026,
+106428,
+ISSN 0958-6946,
+https://doi.org/10.1016/j.idairyj.2025.106428.
+(https://www.sciencedirect.com/science/article/pii/S095869462500247X)
+Abstract: Milk is a nutrient-rich food essential for human health, yet contamination with organochlorine pesticides (OCPs) poses serious public health risks due to their toxicity and bioaccumulation potential. This systematic review analyzed 41 studies from the past decade, covering 3870 raw cow's milk samples from 66 regions across 17 countries, including 15 developing and 2 developed nations. Analytical methods such as GC-ECD and GC-MS detected 22 OCPs, with DDTs, endosulfan, HCH isomers, and drins being the most prevalent. DDT and its derivatives were found at the highest levels, particularly in Sudan (2180 ng/g), exceeding maximum residue limits (MRLs). Elevated residues of endosulfan (455 ng/kg in Sahiwal, Pakistan), HCH (926 ng/kg in Paliakalan, India), drins (in Punjab, Pakistan, and Giza, Egypt), and heptachlor (notably in Egypt and Nigeria) were also reported. Health risk assessments revealed hazard quotient (HQ) values above 1 for drins in Alexandria Province and Giza, Egypt, and for heptachlor in Giza, with cumulative hazard index (HI) indicating moderate to high non-carcinogenic risks in Punjab, Pakistan, and multiple Egyptian regions. These findings highlight spatial and seasonal variability in OCP contamination and underscore the need for stricter pesticide regulation, routine milk monitoring, and sustainable pest management practices to protect public health.
+Keywords: Milk safety; Organochlorine pesticides; Pesticide residues; DDT; Health risk assessment; Hazard quotient; Public health
+
+Liming Liu,
+The role of adverbial clauses as a feature of clausal complexity in L2 academic writing: A usage-based, discourse perspective,
+Applied Corpus Linguistics,
+Volume 5, Issue 3,
+2025,
+100154,
+ISSN 2666-7991,
+https://doi.org/10.1016/j.acorp.2025.100154.
+(https://www.sciencedirect.com/science/article/pii/S266679912500036X)
+Abstract: Research on clausal complexity in L2 writing has traditionally employed a reductionist approach by encapsulating all types of finite dependent clauses under the rubric of subordination, without distinguishing between their syntactic functions and with participle adverbial clauses excluded from clausal features. Taking a functional, usage-based approach to clausal complexity, this study sets out to investigate the frequency of finite adverbial clauses of three semantic relations and participle adverbial clauses of certain structural types in L2 academic writing, in a corpus-assisted comparison with published research articles. Results show that students use both finite and participle adverbial clauses less frequently than published writers overall. The study then tries to provide a rich textual analysis to functionally interpret the low representation of adverbial clauses in student writing. Implications for L2 writing pedagogy and L2 syntactic complexity research are discussed.
+Keywords: L2 academic writing; Clausal complexity; Adverbial clauses; Discourse functions
+
+Zeyun Yang, Lei Sun, Hao Guo, Wu Yang,
+A novel electrochemical sensing platform based on diplopore covalent organic framework for sensitively and accurately detecting dopamine,
+Microchemical Journal,
+Volume 218,
+2025,
+115416,
+ISSN 0026-265X,
+https://doi.org/10.1016/j.microc.2025.115416.
+(https://www.sciencedirect.com/science/article/pii/S0026265X2502764X)
+Abstract: As a pivotal neurotransmitter in the central nervous system, dopamine (DA) is critical for regulating vital physiological activities. Therefore, the construction of sensitive and accurate DA sensing platform is of paramount significance for diagnosing and treating psychiatric disorders linked to abnormal DA levels. Herein, we report the successful synthesis of a three-dimensional floral covalent organic framework (TPTA-COF) with a unique double-pore structure, high crystallinity and large specific surface area. Notably, this TPTA-COF is in-situ grown on polyaniline (PANI) surface to form a nanocomposite (TPTA-COF@PANI) with exceptional electrical conductivity and electrochemical activity due to enhanced synergistic interaction. As a result, a simple, sensitive and reliable electrochemical sensor TPTA-COF@PANI/GCE has been successfully constructed for DA detection with a broad dynamic range (0.05–800 μM) and low detection limit (0.0036 μM). The superior sensing capability stems from the synergistic effect between unique structure of TPTA-COF and outstanding conductivity of PANI. Experimental and theoretical calculations demonstrate the prepared COFs possess a preferential combination ability to dopamine molecules, thus ensuring improved selectivity. The sensing platform achieved satisfactory recovery rates in the analysis of DA in drug injection and serum samples. This work not only presents a general strategy for in-situ growth of COFs on conductive polymers, but also expands the application prospects of COF-based materials in electrochemical biosensing.
+Keywords: Covalent organic framework; Polyaniline; Diplopore structure; Dopamine; Electrochemical sensor
+
+Xinyu Sun, Guocong Ma, Dan Hai, Ge Bai, Qi Guo, Tianlin Wang, Xianqing Huang, Lianjun Song,
+A comprehensive story of pea peptides and pea polyphenols: Research status, existing problems, and development trends,
+Food Chemistry,
+Volume 495, Part 2,
+2025,
+146428,
+ISSN 0308-8146,
+https://doi.org/10.1016/j.foodchem.2025.146428.
+(https://www.sciencedirect.com/science/article/pii/S0308814625036805)
+Abstract: Pea peptides and pea polyphenols have gained much attention for their potential nutrition and health benefits, such as antibacterial, antioxidant, anti-inflammatory and hypoglycemic, showing great application potential in developing functional and healthy food. This paper provides a comprehensive review of the preparation technologies, bioactive activities and potential application fields, describing the research status, existing problems and development trends of pea peptides and pea polyphenols. Besides, the antioxidant, antibacterial, antidiabetic, and blood pressure lowering activities of pea peptides, as well as the current research status of delivery systems were mainly summarized and discussed. Additionally, the combination of pea peptides/polyphenols with other nutrients to develop new functional food ingredients will spark a trend in the development of plant-based nutritional health foods. This review will provide clear research ideas for further in-depth research and application of pea peptides and pea polyphenols, and point out the direction for scientific researchers committed to pea research.
+Keywords: Pea peptides; Pea polyphenols; Functional activity; Delivery system; Future directions
+
+Zhenzhen Pan, Cengceng He, Xuena Xu, Yuting Jin, Mingyi Xu, Suwan Xiong, Ling Li, Chuangli Hao,
+Exploration of novel biomarkers of obese asthma using RNA sequencing in high-fat-fed asthmatic model mice,
+Genomics,
+2025,
+111115,
+ISSN 0888-7543,
+https://doi.org/10.1016/j.ygeno.2025.111115.
+(https://www.sciencedirect.com/science/article/pii/S0888754325001314)
+Abstract: Background
+Obese asthma is a specific phenotype of childhood asthma characterized by increased severity, decreased quality of life, and reduced treatment response. Herein, we applied transcriptomics to investigate biomarkers of obese asthma.
+Methods
+Mouse models of obesity and asthma were induced through high-fat diet (HFD) feeding and ovalbumin inhalation, respectively. RNA was extracted from lung samples from HFD-fed asthma, HFD-fed control, normal-fat diet (NFD)-fed asthma, and NFD-fed control mice. Transcriptome sequencing data were analyzed for quality control (QC), and differentially expressed genes (DEGs) were identified. From this list, candidate genes were obtained through intersections, followed by the construction of protein-protein interaction (PPI) networks to identify key genes. Subsequently, immune cell infiltration was analyzed across the different subgroups. Key genes were validated using Quantitative Polymerase Chain Reaction (PCR).
+Results
+Overall, 86 candidate genes were identified from the intersection of different DEG sets. PPI networks were constructed using three algorithms, revealing nine key genes (ITGM, Slc11a1, Nos2, PirB, IL1RN, LCN2, CD33, MSR1, and CXCL2). Immune infiltration analysis revealed distinct responses in immune cells, including naïve B cells and plasma cells. Following verification by qPCR, ITGAM, Nos2, LCN2, CD33, MSR1, and CXCL2 were confirmed to be significantly higher in the HFD-fed asthma group than in the NFD-fed asthma group. Slc11a1 was significantly downregulated, while PirB and IL1RN showed no significant differences. The expression levels of ITGAM, Nos2, and LCN2 demonstrated a consistent trend in human peripheral blood samples. However, to further substantiate their roles in obesity-associated asthma, an expanded sample size is required for confirmation.
+Conclusion
+This study systematically investigated the molecular mechanisms underlying the associated obesity and metabolic disorders, identified biomarkers, and provided new directions for future therapeutic and clinical studies on obese asthma.
+Keywords: Obese asthma; Transcriptomic; Biomarkers; Mice model
+
+Alexander N. Rodichkin, Amanda M. Brown, Pavani Devabathini, Jennifer L. McGlothan, Si Chen, Ajith Pattammattel, Yong S. Chu, Tao Lin, Daniel D. Pontow, Karam Abilmouna, Ritishka Kapoor, Sarah E. Hardin, Yulia Pushkar, Roy V. Sillitoe, Tomás R. Guilarte,
+Cerebellar dysfunction in a mouse model of childhood-onset manganese-induced dystonia parkinsonism,
+Neurobiology of Disease,
+2025,
+107115,
+ISSN 0969-9961,
+https://doi.org/10.1016/j.nbd.2025.107115.
+(https://www.sciencedirect.com/science/article/pii/S0969996125003328)
+Abstract: Humans with pathogenic variants of the manganese (Mn) transporter gene SLC39A14 exhibit highly elevated brain Mn concentrations and childhood-onset dystonia-parkinsonism. Here we show that Slc39a14-knockout (KO) mice, a preclinical model of the disease with elevated Mn concentrations in the CB, express deficits in physiological tremor implicating cerebellar (CB) dysfunction. Imaging of intracellular Mn in Purkinje cells (PCs) using synchrotron-based X-ray fluorescence microscopy confirmed highly elevated Mn concentrations in the PCs of Slc39a14-KO mice. To determine biological pathways altered in the CB of Slc39a14-KO mice relative to wildtype (WT), we performed RNA sequencing and discovered significant upregulation of pathways and genes regulating immune response and cell death. To substantiate these findings, we performed quantitative autoradiography of the neuroinflammation biomarker Translocator Protein 18 kDa (TSPO) which was significantly increased in the CB of Slc39a14-KO mice relative to WT. The latter findings were confirmed via immunostaining with the microglial marker Iba-1, revealing widespread microglia activation and clustering in the CB cortex. Immunostaining for cleaved caspase-3 (cCASP3), a marker of apoptosis, showed increased number of PCs with positive immunolabeling for cCASP3 in Slc39a14-KO mice relative to WT. Degeneration of PCs was confirmed by Hematoxylin and Eosin (H&E) staining. Lastly, functional electrophysiological assessment of CB neurocircuitry revealed a marked decrease in firing rates of cerebellar nuclei (CN) neurons and increased variability of PCs simple spikes firing. Collectively, these findings show, for the first time, Mn-induced PCs degeneration and dysfunctional CB circuitry in Slc39a14-KO mice providing additional evidence for the pathological underpinnings of the dystonia-like movements, balance, and gait abnormalities in SLC39A14 mutation carriers.
+Keywords: Manganese; SLC39A14; Cerebellum; Dystonia; Manganese-induced dystonia-parkinsonism; Manganism; Purkinje cells; Neurodegeneration
+
+Shuang Huang, Liwei Huang, Mengxue Li, Mingyang Sun, Kexin Sun, Xing Wei, Bing Jiang, Yuezhen He, Fuchun Xue, Lv Gao, Manqi Lu, Jing Shang, Zhenggang Shi,
+Changpu Yujin Tang mitigates tourette syndrome by enhancing mitophagy and suppressing NLRP3 inflammasome-mediated pyroptosis,
+Immunobiology,
+Volume 230, Issue 6,
+2025,
+153118,
+ISSN 0171-2985,
+https://doi.org/10.1016/j.imbio.2025.153118.
+(https://www.sciencedirect.com/science/article/pii/S0171298525002529)
+Abstract: Background
+Changpu Yujin Tang (CPYJT) is an effective Chinese herbal compound for treating Tourette syndrome (TS). However, its precise molecular mechanisms remain to be fully elucidated.
+Methods
+105 SD rats were randomly divided into the Control (n = 15) and the TS (n = 90) groups. The TS group was induced by intraperitoneal injection of 3,3′-iminodipropionitrile. After successful modeling, the TS group was further divided into 6 subgroups (n = 15 in each group): the Model group, the Tiapride group, the CPYJT group, the Rapamycin (RAPA) group, the 3-methyladenine (3-MA) group, and the CPYJT +3-MA group, and were treated with the corresponding drugs for 4 weeks.
+Results
+Compared with the Control group, rats in the Model group showed increased stereotyped and motor behaviors, damage to striatal neuronal cells and mitochondrial ultrastructure, decreased PINK1/Parkin-mediated mitophagy, and activation of NLRP3 inflammasome. CPYJT reduced stereotyped and motor behaviors, attenuated neuronal cell damage, and repaired mitochondrial pathology in the TS rats. Furthermore, both CPYJT and RAPA enhanced PINK1/Parkin-mediated mitophagy, eliminated ROS accumulation, and inhibited NLRP3 inflammasome activation. Notably, CPYJT counteracted 3-MA's inhibitory effect on PINK1/Parkin-mediated mitophagy, thereby suppressing NLRP3 inflammasome activation and pyroptosis.
+Conclusion
+CPYJT inhibits NLRP3 inflammasome activation and reduces pyroptosis by enhancing PINK1/Parkin-mediated mitophagy and attenuating ROS accumulation, which in turn ameliorates TS.
+Keywords: Tourette syndrome; Changpu Yujin Tang; PINK1/Parkin-mediated mitophagy; NLRP3 inflammasome; Pyroptosis
+
+Molly Baumhauer, Ashley Harrie, Kennedy Miller, Alejandro Gomez, Lisa Walsh, Edward S. Harake, Emily Levin, Kelvin Chou, Kevin S. Chen,
+ID# 1905512 Outcomes after Deep Brain Stimulation Revision Surgery,
+Neuromodulation: Technology at the Neural Interface,
+Volume 28, Issue 7, Supplement,
+2025,
+Page S94,
+ISSN 1094-7159,
+https://doi.org/10.1016/j.neurom.2025.08.175.
+(https://www.sciencedirect.com/science/article/pii/S1094715925004519)
+
+Jabez D. John, Aakanksha Saharan, Kanishka Muthukumar, Tirath Patel, Adekunle E. Omole,
+ID# 1907054 Deep Brain Stimulation for Treatment-Resistant Depression,
+Neuromodulation: Technology at the Neural Interface,
+Volume 28, Issue 7, Supplement,
+2025,
+Page S193,
+ISSN 1094-7159,
+https://doi.org/10.1016/j.neurom.2025.08.365.
+(https://www.sciencedirect.com/science/article/pii/S1094715925006415)
+
+Halil Onder, Tuba Kuz Teksut, Zehra Yavuz, Nursu Erdogan, Selcuk Comoglu,
+Symptom onset lateralization and bilaterality in Parkinson's disease: Clinical implications of motor and non-motor profiles,
+Parkinsonism & Related Disorders,
+Volume 140,
+2025,
+108056,
+ISSN 1353-8020,
+https://doi.org/10.1016/j.parkreldis.2025.108056.
+(https://www.sciencedirect.com/science/article/pii/S1353802025007977)
+Abstract: Background
+Although motor symptom asymmetry is a hallmark of Parkinson's disease (PD), the clinical relevance of symptom-onset laterality—particularly with respect to handedness and bilateral onset—remains underexplored.
+Objective
+To determine how symptom-onset patterns—right vs. left, dominant vs. non-dominant, and bilateral vs. unilateral—relate to motor and non-motor clinical features in PD.
+Methods
+We retrospectively analysed 460 PD patients. Onset side and handedness were recorded from history; standardised assessments included MDS-UPDRS, HY, NMSS, and PDQ-39. Multivariate logistic regression identified independent correlates of onset side.
+Results
+Right-sided onset predicted higher ON-state motor burden (MDS-UPDRS Part 3; OR = 1.48, 95 % CI 1.05–2.09, p = 0.025). A similar association was seen for dominant-side onset (OR = 1.46, 95 % CI 1.04–2.06, p = 0.029). Bilateral onset—observed in 4 % of the cohort yet often excluded from prior studies—displayed a distinct profile: akinetic-rigid phenotype (OR = 2.13, p = 0.008), HY stage ≥3 (OR = 2.40, p = 0.025), and greater mood/cognition burden on the NMSS (OR = 2.36, p = 0.022). Conversely, bilateral onset was inversely related to OFF-state MDS-UPDRS Part 3 scores (OR = 0.31, p = 0.029).
+Conclusions
+Symptom-onset lateralization in PD carries clinically meaningful implications. Dominant-side onset signals higher residual motor impairment despite dopaminergic therapy, whereas bilateral onset marks a more advanced, non-tremor–dominant phenotype with prominent mood–cognition involvement. Systematic inclusion of bilateral cases and consideration of handedness enhance patient stratification and may inform prognostic counseling and therapeutic planning.
+Keywords: Parkinson's disease; Symptom onset side; Motor laterality; Akinetic-rigid subtype; Bilateral onset

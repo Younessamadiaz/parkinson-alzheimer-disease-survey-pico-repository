@@ -1,0 +1,1294 @@
+Nga Yan Tse, Isabella F. Orlando, Claire O’Callaghan, Natasha L. Taylor, James M. Shine, Andrew Zalesky, Sicong Tu, Rebekah M. Ahmed, Glenda M. Halliday, Olivier Piguet, John R. Hodges, Matthew C. Kiernan, Simon J.G. Lewis, Emma M. Devenney,
+Susceptibility to visual hallucinations in the amyotrophic lateral sclerosis-frontotemporal dementia spectrum: The role of dysfunctional attentional networks,
+Cortex,
+2025,
+,
+ISSN 0010-9452,
+https://doi.org/10.1016/j.cortex.2025.08.014.
+(https://www.sciencedirect.com/science/article/pii/S0010945225002503)
+Abstract: Psychotic symptoms are well established across the amyotrophic lateral sclerosis-frontotemporal dementia (ALS-FTD) spectrum and contribute to patient and carer distress and poorer prognosis. However, there are no objective tools to probe these symptoms and the underlying functional neurobiology has been unexplored to date. Leveraging clinical interview, neuropsychological testing, and a validated behavioural paradigm of visual misperception combined with connectome-wide fMRI analysis, we directly probed visual hallucinatory tendencies and the associated cognitive and functional connectivity signatures in ALS-FTD. In 82 participants across the ALS-FTD spectrum (24 ALS patients, 7 ALS-FTD, 31 behavioural-variant FTD [19 C9orf72 expansion carriers and 43 non-carriers] and 20 healthy controls), we showed that an ecologically valid behavioural task was sensitive to hallucinatory tendencies. We observed selective involvement of attentional deficits in visual misperception beyond the influence of executive function and psychomotor speed (r ranging from .344-.603; FDR-corrected at p<.05). Following quality control, data-driven whole-brain fMRI analysis in a subset of 26 patients converged to implicate the attentional systems, wherein abnormally heightened connectivity anchored in the attentional, default mode and executive control networks worsened as a function of visual misperception severity (FWE-corrected p=.042 with 10,000 permutations). Our findings underscore the critical role of attentional disruptions, characterised by altered interactions between top-down and bottom-up attentional, introspective, and salience detection processes, in ALS-FTD visual hallucinatory predisposition. Aligning with current models of hallucination generation postulated in schizophrenia, Parkinson’s disease, and dementia with Lewy bodies, our findings point towards common neural underpinnings of psychosis vulnerability shared by ALS-FTD.
+Keywords: Visual hallucination; amyotrophic lateral sclerosis; frontotemporal dementia; functional network; functional connectivity; psychosis
+
+Yahouza Boka Tounga, Hamidou Soumana Diaouga, Issifou Hama Sidi Mansour, Kadi Ide, Madi Nayama, Rachid Sani,
+Ileosigmoid knot in pregnancy, incidentally discovered during caesarean section. A rare case report,
+International Journal of Surgery Case Reports,
+Volume 136,
+2025,
+111987,
+ISSN 2210-2612,
+https://doi.org/10.1016/j.ijscr.2025.111987.
+(https://www.sciencedirect.com/science/article/pii/S2210261225011733)
+Abstract: Introduction and importance
+The occurrence of intestinal obstruction during pregnancy is an unusual condition. Ileosigmoid knot is even rarer but it is associated with a poor prognosis.
+Case presentation
+We report a case of ileosigmoid knot in a 22-year-old patient who admitted to our department with third-trimester metrorrhagia in 36-week pregnancy. Ileosigmoid knot was incidentally discovered during a caesarean section indicated for retroplacental hematoma. Intraoperatively, necrosis of the ileum and the sigmoid colon was noted. After extraction of a healthy living male newborn, we performed resection of 30 cm of involved small bowel as well as resection of the necrotic sigmoid colon. We proceeded to do primary ileal anastomosis and a Hartmann's colostomy. The patient had a closure of colostomy after 30 days from the day of discharge, according to our department's protocol. The outcome was uneventful, with return to daily activities and a good maternal and perinatal prognosis.
+Discussion
+Through the analysis of this case report, we discuss the etiopathogenic, diagnostic, therapeutic and prognosis aspects of ileosigmoid knot in pregnancy.
+Conclusion
+Ileosigmoid knot in pregnancy is a life threatening condition needing multidisciplinary management. It may be associated with other obstetric emergencies such as retroplacental hematoma, which is a diagnostic pitfall. The diagnosis is often an incidentally discovery as evidenced by this case report.
+Keywords: Ileosigmoid knot; Intestinal obstruction; Pregnancy; Hartmann's colostomy; Case report
+
+Pankaj Kumar, Ali Mousavi, Hans Frykman,
+The biological diagnosis of Alzheimer’s disease using blood-based biomarkers: a Canadian prospective,
+Clinical Biochemistry,
+2025,
+111015,
+ISSN 0009-9120,
+https://doi.org/10.1016/j.clinbiochem.2025.111015.
+(https://www.sciencedirect.com/science/article/pii/S0009912025001444)
+Abstract: Dementia is the most common type of neurodegenerative disease, with Alzheimer’s Disease (AD) constituting about two-thirds of these cases. In Canada, an estimated 674,000 individuals may have AD by 2031, nearly doubling from 2011. The total annual economic burden of dementia in Canada was about $40 billion in 2020, with an approximate average of $67,200 per person with dementia and if current trends continue, its annual burden could grow by 275 % over 30 years. AD is a double proteinopathy with its fundamental neuropathologic features defined by amyloid-beta (Aβ) plaques and neurofibrillary tangles with aggregated tau proteins. This supports the potential for mechanism-based proteomic biomarkers to be detected in biofluids. Pathophysiologic and topographical biomarkers have significantly improved the diagnosis of typical and atypical phenotypes of AD, helping clinicians recognize and differentiate AD phenotypes from other types of dementia and neurodegenerative diseases. The cerebrospinal fluid Aβ42/Aβ40 ratio measurement is a robust biomarker in detecting cerebral Aβ pathology and AD diagnosis. A number of very sensitive assays for measuring AD blood biomarkers including p-tau217, front-runner candidate for AD diagnosis, have been developed during last years. In this review we discuss the biological configuration and normal function of involved proteomics in AD including Aβ and tau protein, particularly tau phosphorylation and biochemistry of tau isoforms and their detection feasibility in plasma using novel technologies. Then, we critically review blood-based biomarkers’ analytical and clinical validations, focusing more on plasma p-tau217 and their availability and prospects in Canada.
+
+Gennaro D’Anna, Lorenzo Ugga,
+Chapter 12 - The open chapter: applications in healthcare – neuroradiology applications,
+Editor(s): Salvatore Claudio Fanni, Lorenzo Faggioni, Isabella Castiglioni, Emanuele Neri,
+Methodology in Radiomics,
+Academic Press,
+2026,
+Pages 217-228,
+ISBN 9780443292422,
+https://doi.org/10.1016/B978-0-443-29242-2.00001-X.
+(https://www.sciencedirect.com/science/article/pii/B978044329242200001X)
+Abstract: Radiomics can play an important role in neuroradiology, with its ability to extract quantitative imaging features for better diagnosis and treatment of neurological conditions. Key applications include neuro-oncology (e.g., gliomas, meningiomas, metastases), neurodegenerative diseases (e.g., Alzheimer’s, Parkinson’s), cerebrovascular disorders (e.g., stroke), and pediatric conditions. Radiomics facilitates noninvasive tumor grading, molecular characterization, and treatment response prediction, while aiding in early diagnosis and monitoring of neurodegenerative and vascular diseases. Challenges such as standardization, segmentation accuracy, and regulatory compliance limit clinical adoption. Future directions highlight integrating radiomics with artificial intelligence and multiomics data to enhance personalized medicine, requiring multicenter collaboration and improved reporting standards.
+Keywords: Neuroradiology; radiomics; brain tumors; stroke; epilepsy
+
+Ali Tekin, Melike Vurmaz, Şerife Fidan, Ahmet Dursun, Yunus Emre Şekerli, Gökhan Kürşad İncili, Ali Adnan Hayaloğlu,
+Water kefir-assisted fermentation improved quality of plant-based cheese alternative comparable with cow's milk cheese by reducing plant-origin odor and enhancing cheese-like flavours,
+Innovative Food Science & Emerging Technologies,
+2025,
+104270,
+ISSN 1466-8564,
+https://doi.org/10.1016/j.ifset.2025.104270.
+(https://www.sciencedirect.com/science/article/pii/S1466856425003546)
+Abstract: The growing human population in the world has led to a global food shortage and the environmental impact of animal food production is declared in various platforms. The challenges for animal breeding and the limited availability of dairy products have increased the search for alternatives to traditional cheese and other dairy products. In addition, the rising popularity of vegan diets has increased interest in plant-based food alternatives. However, these plant-based products have some limitations, especially having some difficulties to achieving the texture and flavours of dairy counterparts. This study aims to improve the cheese-like flavour of a plant-based cheese alternative (PCA) by incorporating water kefir into the product. The microbiota presents in the water kefir induced biochemical changes and altered the composition of volatiles in PCA. The addition of water kefir led to an increased level of organic acids in the PCA. Significant changes in key organic acids, relevant to cheese production, such as lactic and propionic acids, were observed during storage. In water kefir-free PCA, all free amino acids (FAAs) steadily decreased throughout storage, whereas in the water kefir-treated sample, many FAAs initially decreased and then increased at 60 days. Plant-origin compounds like benzaldehyde, responsible for apricot kernel odor, and green aldehydes associated with off-flavours, declined after 60 days. Meanwhile, compounds important for cheese flavour—e.g., ethanol, acetaldehyde, 3-methylbutanol, and ethyl acetate—increased. These findings suggest that water kefir can effectively improve the flavour of PCA.
+Keywords: Plant-based nutrition; Cheese analogues; FAA; Organic acid; Volatile compounds; Beyaz peynir; UF cheese
+
+Andreas Solheim, Geir Ringstad, Per Kristian Eide, Kent-Andre Mardal,
+Geometry Reduced Order Modeling (GROM) with application to modeling of glymphatic function,
+Brain Research Bulletin,
+Volume 231,
+2025,
+111558,
+ISSN 0361-9230,
+https://doi.org/10.1016/j.brainresbull.2025.111558.
+(https://www.sciencedirect.com/science/article/pii/S0361923025003703)
+Abstract: Computational modeling of the brain has become a key part of understanding how the brain clears metabolic waste, but patient-specific modeling on a significant scale is still out of reach with current methods. We introduce a novel approach for leveraging model order reduction techniques in computational models of brain geometries to alleviate computational costs involved in numerical simulations. Using image registration methods based on magnetic resonance imaging, we compute inter-brain mappings which allow previously computed solutions on other geometries to be mapped on to a new geometry. We investigate this approach on two example problems typical of modeling of glymphatic function, applied to a dataset of 101 MRI of human patients. We discuss the applicability of the method when applied to a patient with no known neurological disease, as well as a patient diagnosed with idiopathic Normal Pressure Hydrocephalus displaying significantly enlarged ventricles. In each of our two example problems, we achieve a speedup of more 750 times compared to the full order problem, while introducing a comparably small additional system assembly overhead. The reduced solutions recover the full order solution with an error of less than 10% in most cases. Statement of significance: In many fields, model order reduction is a key technique in enabling high-throughput numerical simulations, but remains largely unexploited for biomedical modeling of the brain. In this work, we introduce a novel technique for building reduced representations integrating simulations performed on other brain geometries derived from MRI. Using this technique, we may leverage a dataset of previous solutions to accelerate simulations on new geometries, making patient-specific modeling more feasible.
+Keywords: Model order reduction; Glymphatic system; Idiopathic Normal Pressure Hydrocephalus; Numerical simulation; Image registration
+
+
+Index,
+Editor(s): Mehdi Afshari,
+In The Textile Institute Book Series,
+Electrospun Nanofibers (Second Edition),
+Woodhead Publishing,
+2026,
+Pages 633-650,
+ISBN 9780443215193,
+https://doi.org/10.1016/B978-0-443-21519-3.00017-0.
+(https://www.sciencedirect.com/science/article/pii/B9780443215193000170)
+
+Le Wang, Ben-Xun Su, Massimo Chiaradia, Ya-Jing Mao, Ke-Zhang Qin, Ming-Jian Cao,
+The oxidation of arc magmas: A critical review,
+Earth-Science Reviews,
+2025,
+105287,
+ISSN 0012-8252,
+https://doi.org/10.1016/j.earscirev.2025.105287.
+(https://www.sciencedirect.com/science/article/pii/S001282522500248X)
+Abstract: Arc magmas are notably more oxidized than those from mid-ocean ridges, back arcs, and mantle plumes, yet the primary controls on this oxidation—whether source characteristics or magmatic fractionation processes—remain debated. This review synthesizes geochemical data from 56,450 volcanic rocks across 29 Cenozoic arcs and 1242 zircon analyses from 6 Mesozoic-Cenozoic arcs worldwide to clarify the roles of source and fractionation processes in shaping arc magma oxidation states, with a focus on distinctions between continental and oceanic arc settings. We assess oxygen fugacity using Fe3+/ΣFe ratios of volcanic rocks at varying MgO contents to evaluate the fractionation effects, while Ti, Ce, and initial U contents in zircons provide insights into oxygen fugacity trends in evolved magmas. High-MgO volcanic rocks (MgO > 8 wt%) reflect the redox state of arc magma sources, whereas low-MgO rocks (MgO < 8 wt%) and zircons reveal fractionation influences. Thermodynamic modeling with MELTS and Monte Carlo mass balance simulations of cumulates and residual melts further constrain the impact of crustal thickness, partial melting, and mineral fractionation on magma oxidation. Our findings indicate that primitive magmas (MgO > 8 wt%) in continental arcs exhibit slightly more oxidized (average Fe3+/ΣFe = 0.33 ± 0.01, 1σ) than those in oceanic arcs (averaging 0.30 ± 0.01). Oxidation increases with differentiation, reaching Fe3+/ΣFe values of 0.55 ± 0.01 in continental arcs and 0.49 ± 0.01 in oceanic arcs at low MgO contents (< 1 wt%). Zircon data confirm rising oxygen fugacity with decreasing temperature, with a steeper trend in continental arcs. Higher slab-derived fluxes, lower degrees of partial melting, and fractionation of minerals such as garnet and amphibole, driven by greater crustal thickness, enhance oxidation in continental arcs. This review emphasizes the critical role of magma differentiation on oxidation of arc magmas and provides a comprehensive framework for understanding arc magma oxidation, highlighting distinct processes in continental and oceanic arcs and identifying key avenues for future research.
+Keywords: Arc magma oxidation; Oxygen fugacity; Continental arc; Oceanic arc; Fe3+/ΣFe; Zircon; Magma differentiation
+
+J.F. Buyel, J. Hornbacher, T. Esatbeyoglu, J. Papenbrock, H. Heinrichs, C. Schlechtriem, G. Francis, K. Becker,
+Understanding Moringa oleifera analytics, extraction and cultivation for the production of high-quality proteins and bioactive natural products – A review,
+Industrial Crops and Products,
+Volume 236,
+2025,
+121981,
+ISSN 0926-6690,
+https://doi.org/10.1016/j.indcrop.2025.121981.
+(https://www.sciencedirect.com/science/article/pii/S0926669025015274)
+Abstract: Moringa (Moringa oleifera) has received global attention recently resulting in a plethora of popular and scientific literature focusing mainly on its secondary compounds and their possible applications in food, feed and in pharmaceutical products. For example, high concentrations of polyphenols are found in moringa leaves with well-known radical scavenging potential. Likewise, unique glucosinolates that get converted into stable isothiocyanates, with high biological activity and much sought effects, including body weight loss can be found in the biomass. The use of moringa products is, however, limited, probably due to data heterogeneity concerning moringa agronomy, the composition of its relevant parts and processing techniques. For example, the crude protein content in dry moringa leaves varies between 15 % and 39 % in literature. Also, the viability of exploitation of pharmaceutically active compounds identified in moringa is not fully understood. This review provides a critical overview about the potentials and challenges in research related to the analysis, cultivation, extraction and application of moringa biomass and compounds derived from it. Specifically, the requirements for and bottlenecks of biomass analysis are highlighted first. Next, the effect of cultivation conditions on biomass and potential product yield is discussed. Further, the impact of extraction conditions and equipment selection for product recovery is discussed. Thereafter, the diversity of these products and potential applications are reviewed, with an emphasis on key compounds such as glucosinolates. Finally, the options for cascading biomass use to obtain multiple products in a production cycle are highlighted and several perspectives for future developments are outlined.
+Keywords: Accession diversity; Antioxidants; Cultivation conditions; Glucosinolates; Metabolite extraction; Plant-derived nutrients; Small molecules
+
+Óscar M. Bautista-Aguilera, Aleksandra Manik, Daniel Diez-Iriepa, Natalia Szałaj, Paula Zaręba, Anna Więckowska, Paweł Żmudzki, Ewelina Honkisz-Orzechowska, Damijan Knez, Stanislav Gobec, Kinga Sałat, Borja Martínez-Alonso, Víctor Guarnizo-Herrero, Guillermo Torrado Durán, Carlos Torrado-Salmerón, Aina Bellver-Sanchis, Inaya Nsiona-Defise, Marta Ribalta-Vilella, Mercè Pallàs, Francisco López-Muñoz, Christian Griñán-Ferré, José Marco-Contelles, Isabel Iriepa,
+N-Methyl-N-((1-methyl-5-(3-(piperidin-1-yl)propoxy)-1H-benzo[d]imidazol-2-yl)methyl)prop-2-yn-1-amine (MBA-159), a new multitarget small molecule for the therapy of Alzheimer’s disease,
+Biomedicine & Pharmacotherapy,
+Volume 192,
+2025,
+118603,
+ISSN 0753-3322,
+https://doi.org/10.1016/j.biopha.2025.118603.
+(https://www.sciencedirect.com/science/article/pii/S0753332225007978)
+Abstract: As part of a project aimed at the pharmacological optimization of Contilisant, herein we describe molecular modelling studies that led to the identification of MBA-159 as a new polyfunctionalized, multitarget-directed ligand and a promising drug candidate for the treatment of Alzheimer’s disease. We synthesized MBA-159 and conducted comprehensive in vitro and in vivo evaluations. In in vivo studies MBA-159 demonstrated favourable pharmacokinetics, anti-amnesic properties and significantly improved non-spatial memory (contextual and recognition memory) in a mouse model of scopolamine-induced amnesia. Additionally, MBA-159 showed a tendency to increase synaptic plasticity biomarkers and reduce neuroinflammatory trends (assessed by qPCR), as well as cognitive enhancement in a senescence-accelerated prone mouse 8 model.
+Keywords: ADME; Alzheimer’s disease; Biological evaluation; Molecular modelling; Pharmacokinetic analysis; Synthesis
+
+Ruirong Peng, Yu Zhang, Zhenyu He, Yueling Pang, Huanhuan Ma, Ming Fang, Xiaoshan Ding, Yanan Wang, Zhihong Du, Fanming Kong, Lipeng Chen, Yongqi Liu, Ling Li, Jiawei Li,
+Targeted regulatory strategies for VCAM-1 in multisystem diseases,
+European Journal of Medicinal Chemistry Reports,
+2025,
+100300,
+ISSN 2772-4174,
+https://doi.org/10.1016/j.ejmcr.2025.100300.
+(https://www.sciencedirect.com/science/article/pii/S2772417425000561)
+Abstract: Systemic diseases are conditions caused by multiple factors (such as immune disorders, inflammation, tumors, etc.) that affect multiple organs, tissues, or systems throughout the body. These diseases are typically characterized by complex pathological states and diverse clinical symptoms. Vascular cell adhesion molecule-1 (VCAM-1) is a multifunctional transmembrane protein that plays a key role in various pathological processes, including inflammation, immune responses, and tumor progression, by mediating immune cell adhesion, regulating the tumor microenvironment, and facilitating signal transduction. This article aims to review the mechanistic roles of VCAM-1 in systemic diseases affecting the circulatory, respiratory, and digestive systems, as well as the association between VCAM-1 and tumor characteristics. Additionally, it discusses targeted therapeutic drugs (including traditional Chinese medicine and Western medicine) that regulate VCAM-1 for disease treatment, providing a theoretical basis for clinical research.
+Keywords: VCAM-1; VLA-4; tumor; mechanism of action; effective compounds of traditional Chinese medicine; traditional Chinese medicine compound
+
+Bahram Yavari, Shiva Gholizadeh-Ghaleh Aziz,
+Chapter 4 - Mitochondria mitophagy and autophagy,
+Editor(s): Seyyed Shamsadin Athari, Entezar Mehrabi Nasab,
+In Translational and Applied Bioenergetics,
+Mitochondrial Signaling and  Regulation,
+Academic Press,
+2026,
+Pages 95-133,
+ISBN 9780443248368,
+https://doi.org/10.1016/B978-0-443-24836-8.00001-8.
+(https://www.sciencedirect.com/science/article/pii/B9780443248368000018)
+Abstract: The highly active, double-membraned organelles known as mitochondria serve as the energy core of the cells. In addition, mitochondria play a number of other critical roles in the cell, including lipid metabolism, calcium homeostasis, redox signaling, regulation of DNA, epigenetics, and chromatin remodeling, and innate immunity. Exposure to various stresses, such as high levels of reactive oxygen species, mitochondria may be damaged. Mitochondria have developed exclusive quality control systems, including “mitophagy,” a form of selective autophagy, to maintain cellular homeostasis. The molecular and organelle processes of the mitochondrial mitophagy pathways, mitochondrial quality control-associated diseases, bacterial infections-related host mitophagy, and the mechanisms of upstream signaling in autophagy, specifically mitophagy, are the main topics of discussion in this chapter. Finally, we made an effort to outline the most current discoveries and developments in mitochondrial quality control systems and depict future perspectives.
+Keywords: Cellular process; molecular biology; cell signaling; molecular network; functional aspects of cell biology
+
+Aliakbar Ebrahimi, Zineb Benzait, Ozlem Tomsuk, Ceren Ozel, Emre Tufekcioglu, Golara Ghorban Dordinejad, Reza Didarian, Hamed Ghorbanpoor, Fatma Doğan Güzel, Huseyin Avci,
+15 - Recent advances of microfluidic organ-on-a-chip monitoring strategies,
+Editor(s): Mehdi Afshari,
+In The Textile Institute Book Series,
+Electrospun Nanofibers (Second Edition),
+Woodhead Publishing,
+2026,
+Pages 415-468,
+ISBN 9780443215193,
+https://doi.org/10.1016/B978-0-443-21519-3.00029-7.
+(https://www.sciencedirect.com/science/article/pii/B9780443215193000297)
+Abstract: In the drug discovery process and study of disease, there has been a fundamental change towards physiologically appropriate and short response time in vitro models in recent years. The constraints of standard cell culture techniques, which frequently fail to replicate the complex microenvironment and dynamic interactions of human organs, have mainly promoted to work on novel models. As a result, the development of organ-on-a-chip systems (OoCs) has transformed the landscape of in vitro experimentation. They are biomimetic in vitro systems that can be customised to investigate organ-specific physiology, pathology or pharmacology. Thanks to this ground-breaking technology, researchers may now analyse organ-level reactions to stimuli, drug interactions and disease progression with unparalleled fidelity. Furthermore, introducing integrated monitoring systems (IMS) has expanded the potential of OoC systems. IMS uses cutting-edge sensor technology and analytical tools to provide real-time, continuous monitoring of cellular behaviour, tissue shape, metabolic indicators, fluid pressure, cell migration, tissue barrier integrity, glucose, lactate, oxygen and pH, with other key characteristics in the OoC environment, computational modelling of cell behaviour and the clinical applications in drug screening and disease modelling. Continuous monitoring of quality parameters is critical for assessing conditions and generating relevant analytical data. OoC systems and IMS have developed as crucial tools for drug development, toxicological assessments, disease modelling and personalised medicine initiatives in this quickly evolving sector. Their ability to speed up research, minimise reliance on animal models and improve the predictiveness of preclinical investigations offers enormous promise for biomedical science and medicinal development in the future. This chapter will look at the principles, applications and most recent breakthroughs in OoCs and IMS, emphasising their transformational impact on numerous aspects of biomedical research and their potential to improve healthcare practices. The last part of this chapter provides insights into the diverse applications of deep learning within OoCs, including image and video data synthesis, prediction, segmentation, tracking and recognition. The convergence of artificial intelligence’s deep learning and the innovative realm of OoC technologies holds great promise for advancing disease modelling and personalised medicine.
+Keywords: Organ-on-a-chip; diseases-on-a-chip; multi-organ-chip; chip integrated monitoring systems; organ-chip simulation; deep learning in organ chip models
+
+Hanane Ferrassi, Abderrahim Ait Ouchaoui, Mohammed Hakmi, Hamza Ghammaz, Salah Eddine EL Hadad, Youssra EL-Ghandouri, Souad Kartti, Elmostafa El Fahime, Ilhame Bourais, Youssef Elouafy,
+Eudesma-4(15), 7-dien-1-β-ol, A promising natural drug candidate for Alzheimer's disease targeting the NMDA pathway: GC-MS identification, molecular docking, pharmacokinetic and molecular dynamic analysis,
+Computers in Biology and Medicine,
+Volume 198, Part A,
+2025,
+111151,
+ISSN 0010-4825,
+https://doi.org/10.1016/j.compbiomed.2025.111151.
+(https://www.sciencedirect.com/science/article/pii/S0010482525015045)
+Abstract: Background
+Alzheimer's disease (AD) remains a significant global health challenge, with no definitive cure available.
+Purpose
+This study investigates Juglans regia essential oil as a source of therapeutic molecules for AD, targeting the NMDA receptor pathway.
+Study design
+& Methods: The essential oil was extracted by hydrodistillation, and the GC-MS analyzed the chemical composition. Antioxidant activity was evaluated using DPPH assay. Molecular docking compared compound affinities to the NMDA receptor against Memantine, with pharmacokinetic analysis evaluating drug-likeness. Interaction and molecular dynamic analysis were also performed.
+Results
+GC-MS identified 34 compounds, predominantly caryophyllene oxide (20.6 %) and β-Eudesmol (10.7 %). The DPPH assay resulted in an IC50 value of 855.34 μg/mL. Eleven compounds showed superior/equivalent affinities (−7.4 kcal/mol) to Memantine. Eudesma-4(15),7-dien-1-β-ol demonstrated exceptional NMDA receptor interaction, outperforming Memantine in binding affinity, interaction quality, and stability in molecular dynamics while meeting drug-likeness criteria.
+Conclusion
+These findings suggest that Eudesma-4(15),7-dien-1-β-ol from J. regia shows promise as an AD therapeutic candidate via NMDA receptor modulation, warranting clinical investigation to assess its therapeutic efficacy and safety.
+Keywords: Alzheimer's disease; Juglans regia; NMDA receptor; Pharmacokinetic properties; Molecular dynamics; Drug candidate
+
+Brian J McMahon, Janet M Johnston, Lesleigh Kowalski, Mary Snowball, Michael G Bruce, Nathan Furukawa, Karen Miernyk, Lisa Townshend-Bulson,
+Elimination of HBV Transmission in an Endemic Area in Western Alaska,
+IJID Regions,
+2025,
+100774,
+ISSN 2772-7076,
+https://doi.org/10.1016/j.ijregi.2025.100774.
+(https://www.sciencedirect.com/science/article/pii/S2772707625002085)
+Abstract: Objectives
+In the US, hepatitis B virus (HBV) is only endemic in western Alaska where 90% of the population are Alaska Native (AN) peoples; in the 1970s the incidence of hepatocellular carcinoma (HCC) in children was the highest in the world. In the 1980s we screened 53,860 AN peoples for HBV infection, administered HBV vaccine to 43,618 HBV seronegative persons, and initiated universal newborn vaccination. In this study we examine the impact of this effort 40 years later.
+Methods
+This is a population-based outcome study. We used vaccine and electronic health records to examine rates of newborn vaccination between 2015-2019 and changes in HBV incidence rates, plus prevalence of HCC in persons under 30 years of age over a 50-year period.
+Results
+Between 2015 and 2019, approximately 90% of newborns received an HBV birth dose and over 80% by 18 months of age a second HBV vaccine dose. Annual incidence of new HBsAg-positive tests among AN peoples ranged from 1.4 to 2.6 per 100,000, down from 6.2 between 1993 and 1997. No HBsAg-positive or HCC cases have been identified in AN peoples <20 since 1993.
+Conclusion
+Mass population-based vaccination of persons seronegative with continuing universal newborn immunization halted transmission of HBV in Western Alaska.
+Keywords: Hepatitis B virus; elimination; HBV vaccination Long-term Outcome; hepatocellular carcinoma
+
+Kelly H. Lu, Hua Zhang, Gargey B. Yagnik, Mark J. Lim, Kenneth J. Rothschild, Wei Li, Andrew J. Schneider, Luigi Puglielli, Lingjun Li,
+Deciphering the Three-Dimensional Biomolecular Distribution in the Alzheimer’s Disease Brain: A Multiomic Approach Integrating Immunohistochemistry with MALDI MS Imaging,
+Analytica Chimica Acta,
+2025,
+344721,
+ISSN 0003-2670,
+https://doi.org/10.1016/j.aca.2025.344721.
+(https://www.sciencedirect.com/science/article/pii/S0003267025011158)
+Abstract: Alzheimer’s disease (AD) is characterized by complex and distinct spatial and molecular changes in the brain that contribute to its onset and progression, which includes disruptions in proteins, lipids, and neuroinflammatory pathways. In this study, we introduce a three-dimensional (3D) spatial multi-omics imaging approach that integrates lipid mass spectrometry imaging (MSI) with targeted proteomic analysis using 10-plex photo-cleavable mass tag (PC-MT) probes. Brain tissues from wild-type (WT) and AD model mice were sectioned at four coronal levels, spaced 1,500 μm apart, enabling the reconstruction of a depth-resolved molecular atlas. Lipid MSI revealed region- and depth-specific alterations in phosphatidylcholine (PC), phosphatidylethanolamine (PE), and other lipid classes between AD and WT brains. In parallel, protein MSI using PC-MT probes identified spatially distinct changes in neuroinflammatory and neurodegenerative markers across the cortex, hippocampus, and thalamus at different depths. This integrative platform uncovered co-localization patterns of lipid dysregulation and protein overexpression unique to AD pathology, highlighting vulnerable brain subregions. Our findings demonstrate that combining targeted protein and untargeted lipid imaging in 3D enables the discovery of spatially coordinated molecular signatures in neurodegeneration, offering a powerful framework for biomarker discovery and therapeutic development.
+Keywords: three-dimensional MALDI MSI; multiomic MSI; multiplex protein MSI
+
+Arvinpreet Kaur, Shubham Saha, Rajat Ujjainiya, Arjun Ray, Trayambak Basak, Shantanu Sengupta,
+Chapter 27 - Apolipoproteins and cardiovascular diseases,
+Editor(s): Sanjoy K. Bhattacharya,
+Lipid Analysis in Biology, Health, and Disease,
+Academic Press,
+2026,
+Pages 371-406,
+ISBN 9780443191169,
+https://doi.org/10.1016/B978-0-443-19116-9.00032-4.
+(https://www.sciencedirect.com/science/article/pii/B9780443191169000324)
+Abstract: Apolipoproteins are essential components of lipoproteins, playing a crucial role in the regulation of lipid transport and associated metabolic processes. They are traditionally classified into two categories: soluble forms (such as ApoAI, ApoCII, ApoCIII, ApoE) and insoluble forms (ApoB-48 and ApoB-100). Insoluble apolipoproteins remain embedded within plasma lipoprotein particles, while soluble apolipoproteins are exchangeable among lipoprotein molecules and can circulate freely in the bloodstream. The distinctive properties of apolipoproteins, including their ability to emulsify and form lipid-free soluble variants, complicate the understanding of their role in disease biology. Nevertheless, extensive research has focused on uncovering their critical involvement in the pathophysiological progression of various cardiovascular diseases (CVD). This chapter explores the structural uniqueness of different apolipoprotein variants and their participation in various metabolic pathways that contribute to cardiovascular pathophysiology. It also examines interventions aimed at modifying apolipoprotein levels within the body to improve prognostic and diagnostic insights into CVD. A review of the literature reveals several genetic associations with genes encoding apolipoproteins, which are predicted to influence the pathophysiological development of numerous cardiovascular conditions. These genetic variations are linked to the pathology of atherosclerosis, ischemic heart disease, type 2 diabetes mellitus, and other potential CVD risk factors, some of which exhibit significant correlations with changes in circulating lipoproteins. Furthermore, the chapter integrates the role of apolipoproteins in cholesterol transport across various metabolic organs and discusses how these metabolic pathways are altered in relation to cardiovascular pathophysiology. Understanding the quantitative role of lipids in disease biology is essential; therefore, we outline methodologies for quantifying apolipoproteins in different cardiovascular disease states using a variety of molecular biology techniques (such as electrophoresis) and biochemical approaches (including radioimmunoassay, enzyme-linked immunosorbent assay, and mass spectrometry). In addition, the chapter considers therapeutic strategies aimed at modulating apolipoprotein synthesis and metabolic pathways. High-density lipoprotein replacement and infusion therapy, along with peptide mimetics, have shown promise in reducing the risk associated with CVD. Thus, apolipoproteins emerge as critical determinants of cardiovascular pathophysiology, holding significant potential for addressing risk factors associated with CVD and highlighting their value in clinical interventions.
+Keywords: Apolipoprotein; Cardiovascular disease; Diabetes; Heart disease; Lipid structure
+
+Jessica J. Allen, Songlin Wang, Chad M. Rienstra, Lynmarie K. Thompson,
+Selective Detection of a Key Region in Chemotaxis Signaling Protein Complexes by Solid-State NMR,
+Biophysical Journal,
+2025,
+,
+ISSN 0006-3495,
+https://doi.org/10.1016/j.bpj.2025.09.040.
+(https://www.sciencedirect.com/science/article/pii/S0006349525006204)
+Abstract: Understanding how large protein complexes function requires tools that can resolve both structure and dynamics in their native assembly states. Here, we apply solid-state NMR (SSNMR) to selectively detect rigid regions of a receptor protein fragment in the context of the >500 kDa chemoreceptor signaling complex found in chemotactic bacteria. These complexes assemble into hexagonal arrays that network multiple active units together. The cytoplasmic fragment of the E. coli aspartate chemoreceptor exhibits dynamics on multiple timescales across different regions of the protein, and these dynamics differ between signaling states. We apply 13C-15N dipolar coupling-based SSNMR experiments to selectively probe the rigid portion (motions slower than millisecond timescale) of this protein, in the context of the full array structure. We optimized assembly methods to form native-like, homogeneous complexes capable of maintaining activity and sample integrity during extended NMR experiments with low electric-field NMR probe designs. A subset of the protein, approximately 100 residues at the membrane-distal tip of the chemoreceptor where it interacts with its associated kinase, was detected and identified as the most rigid region. Chemical shift changes for many residues in this rigid region were observed between NMR spectra of the kinase-on and kinase-off signaling states. This suggests conformational changes occur at the chemoreceptor tip during signaling, which have not been observed in previous studies of this system. These findings demonstrate a dynamics-based NMR spectral editing approach to selectively examine a key region of a large signaling protein within its macromolecular assembly.
+
+Douglas A. Drevets, Jon D. Laman, Pieter J.M. Leenen,
+Pathogens Driving Central Nervous System Immunopathology,
+Editor(s): Paul M. Kaye,
+Encyclopedia of Immunobiology (Second Edition),
+Academic Press,
+2026,
+Pages 230-242,
+ISBN 9780128244807,
+https://doi.org/10.1016/B978-0-128-24465-4.00073-9.
+(https://www.sciencedirect.com/science/article/pii/B9780128244654000739)
+Abstract: A surprisingly large number of bacteria, fungi, helminths, parasites, and viruses invade the central nervous system (CNS) as a feature of their typical pathophysiology in humans with serious consequences for brain function. This process involves multiple steps and culminates in crossing the blood-brain or blood-cerebrospinal fluid barriers from the bloodstream, or by invading along nerve routes that connect the CNS with the periphery. CNS invasion triggers local host defense mechanisms in the CNS as well as recruitment of immune cells from the periphery. Multiple factors including deficiencies in host defenses due to underlying genetic or acquired conditions e.g. HIV/AIDS, and the age of the host influence an individual’s susceptibility to CNS infection and their immune response to it. Additionally, there is a growing awareness that brain inflammation and neurocognitive function are also affected by high-grade systemic infections by pathogens that do not enter the CNS proper. Therefore, infection-related CNS immunopathology should be considered more broadly than only a response restricted to CNS-penetrating pathogens.
+Keywords: Encephalitis; Herpes simplex; HIV/AIDS; Innate immunity; Listeria monocytogenes; Meningitis; Meningoencephalitis; Microenvironment; Microglia; Neurotropic; Streptococcus pneumoniae; Trojan horse
+
+Marc Daëron,
+Fc Receptors and Fc Receptor-Like Molecules,
+Editor(s): Paul M. Kaye,
+Encyclopedia of Immunobiology (Second Edition),
+Academic Press,
+2026,
+Pages 445-461,
+ISBN 9780128244807,
+https://doi.org/10.1016/B978-0-128-24465-4.00130-7.
+(https://www.sciencedirect.com/science/article/pii/B9780128244654001307)
+Abstract: Receptors for the Fc portion of immuneoglobulins (FcRs) account for most cell-mediated biological activities of antibodies. The majority of FcRs are encoded by a set of genes, clustered in the fcr locus, on chromosome 1 in humans and on chromosomes 1 and 3 in mice. Eight (in humans) and six (in mice) novel genes were found, intermixed with FcR genes in corresponding fcr loci, which encode FcR-like molecules (FCRLs). FcRs and FCRLs are genetically, phylogenetically, structurally and functionally related. FcRs and FCRLs, however, markedly differ in their ligands, their tissue distribution and thus also in the biological functions they control. A systematic comparison of their biological properties leads to the conclusion that FCRLs are not like FcRs. Overall, they form a single family within the immunoreceptor family, whose members fulfill distinct but complementary roles in immunity by differentially controlling innate and adaptive responses.
+Keywords: Adaptive immunity; Antibodies; Cell activation; Fc receptor-like molecules; Fc receptors; Immunoglobulin Superfamily; Immunoreceptor tyrosine-based activation motifs; Immunoreceptor Tyrosine-based Inhibition Motifs; Immunoreceptors; Innate immunity; Lymphoid cells, Myeloid cells; Negative regulation; Positive regulation
+
+Ting Liu, Zhenchun Li, Xu Ji, Minglu Xu, Lei Wang, Yongbin Chi,
+Friction nanogenerators based on asymmetrically adherent conductive hydrogels for multifunctional sensing and Parkinsonian gait diagnostics,
+Chemical Engineering Journal,
+2025,
+169026,
+ISSN 1385-8947,
+https://doi.org/10.1016/j.cej.2025.169026.
+(https://www.sciencedirect.com/science/article/pii/S1385894725098687)
+Abstract: In the field of wearable health monitoring, asymmetric adhesion presents a core challenge in achieving long-term comfort and safety. Conventional symmetric adhesion materials are prone to contaminant accumulation due to their strong adhesion across the entire surface. This study constructs an asymmetric adhesion interface featuring covalent strong adhesion on the top surface (53.2 kPa) and anti-adhesion on the spontaneously settling bottom surface (2 kPa) within a poly(acrylic acid)-chitosan system, utilizing an innovative dynamic chemical gradient self-assembly strategy. Furthermore, we developed a conductive hydrogel designed as a hydrogel strain sensor, exhibiting exceptional mechanical properties (2135 %) and high electrical conductivity (1.2 S/m), enabling the monitoring of various motor activities in the human body. This hydrogel can also function as a skin surface electrode for long-term, high-fidelity ECG and EMG signal capture. Additionally, we prepared a hydrogel-friction electric nanogenerator that serves dual purposes: energy harvesting and pressure sensing. An integrated flexible smart insole system was also designed, demonstrating outstanding performance in monitoring and diagnosing Parkinson's symptoms. Among various models employing different algorithms, the convolutional neural network achieved the highest accuracy (97.4 %) in recognizing Parkinson's gait. This system offers a novel tool for monitoring and recognizing Parkinson's gait, facilitating the tracking of rehabilitation processes and personalized treatment planning, thus showcasing its potential for groundbreaking applications in wearable medical monitoring.
+Keywords: Friction nanogenerator; Asymmetric adhesion; Hydrogel electrode; Gait recognition; Wearable device
+
+Emily Houston, Sean Boyd, Vivikta Iyer, James Boyd, Deepak Gupta,
+The Need for Developing Consensus-Based Guidelines in Assessing Parkinson’s Disease Laterality,
+Parkinsonism & Related Disorders,
+2025,
+108067,
+ISSN 1353-8020,
+https://doi.org/10.1016/j.parkreldis.2025.108067.
+(https://www.sciencedirect.com/science/article/pii/S1353802025008089)
+Abstract: Abstract:
+This study investigated the correlation between Parkinson's disease laterality, as defined by the Hoehn and Yahr (HY) scale, and appendicular parkinsonism scores from the MDS-UPDRS Part III using the PPMI dataset. While most cases (89.6%) showed congruence, a 10.4% discordance suggests that factors beyond appendicular parkinsonism influence clinical HY staging, highlighting a need for standardized guidelines.
+
+Kaveena Autar, Xiufang Guo, Haley Powell, Aakash Patel, Mridu Malik, Marcella Grillo, Nesar Akanda, Narasimhan S. Narasimhan, Will Bogen, Christopher Long, Ramy M. Ammar, James Hickman,
+Developing a functional non-animal CNS stress model utilizing long-term potentiation with human iPSC-cortical neurons to evaluate therapeutics,
+Biomedicine & Pharmacotherapy,
+Volume 192,
+2025,
+118556,
+ISSN 0753-3322,
+https://doi.org/10.1016/j.biopha.2025.118556.
+(https://www.sciencedirect.com/science/article/pii/S0753332225007504)
+Abstract: Cortisol, the main stress hormone of the hypothalamic-pituitary-adrenal (HPA) axis, has been hypothesized to cause considerable detriment to cognitive function in both a time and concentration-dependent manner. However, there is a current lack of functional in vitro models available to evaluate the stress condition. Long-term potentiation (LTP) has served as a quantitative correlate for memory and learning through in vitro neuronal network responses to electrical stimuli, where a high-frequency stimulation (HFS) protocol on microelectrode arrays (MEAs) evaluates synaptic integrity related to higher-order cognition. As a novel alternative to animal studies, this study has employed a human iPSC-cortical neuron organ-on-a-chip (HoaC) system to establish a stress phenotype for synaptic dysfunction and evaluate the effects of therapeutic compounds to ameliorate stress-induced cognitive dysfunction. In our HoaC system, cortisol exposure was found to alter cortical neuron LTP, synaptic integrity, cellular morphology, and electrophysiology, confirming a cortisol-induced stress phenotype consistent with previous findings. Using this novel system, we investigated the ability of Echinacea purpurea and its active ingredient, dodeca-2E,4E,8Z,10Z-tetraenoic acid N-isobutyl amide (dodeca), to mitigate stress-induced functional decline. Following exposure to chronic stress (1 µM cortisol dosing for 7 days), both Echinacea purpurea and dodeca were found to significantly alleviate cortisol-induced cortical neuron stress in a time-dependent rescue of LTP. Together, these results characterize a novel, biologically-relevant model of neurological stress, and highlight its utility in identifying new therapeutic compounds capable of restoring stress-induced cortical neuron network deficits.
+Keywords: Cortical neuron; Long-term potentiation; Microelectrode array; Stress; Cortisol; Echinacea purpurea; Human-on-a-chip
+
+Ling Zhang, Qi-Bin Yang, Jia-Dong Shao, Can-Qi Liu, Lei Wu, Kong-Kai Zhu, Lin-Fu Liang,
+HSQC-based SMART accelerated discovery of a new picane triterpene with tyrosinase inhibitory activity from Palhinhaea cernua,
+Journal of Molecular Structure,
+2025,
+144200,
+ISSN 0022-2860,
+https://doi.org/10.1016/j.molstruc.2025.144200.
+(https://www.sciencedirect.com/science/article/pii/S0022286025028467)
+Abstract: Chemical investigation on Palhinhaea cernua by HSQC-based small molecule accurate recognition technology (SMART) resulted in the rapid discovery of four triterpenes, including a new triterpene (1) with a rare picane-type carbon framework. The chemical structure of 1 was elucidated by analysis of spectral data. Moreover, the absolute configuration of 1 was established by TDDFT-ECD and QM-NMR calculations. Compounds 1 and 2 displayed significant tyrosinase inhibitory effects (IC50 = 123.6 and 184.6 μM), which were similar to the positive control ascorbic acid (IC50 = 128.1 μM). Docking study disclosed the multiple stabilizing interactions between 1 and oxy-tyrosinase. Moreover, molecular dynamics (MD) simulations and binding free energy analyses further validated the stable accommodation of compound 1 within the protein binding pocket.
+Keywords: Palhinhaea cernua; Triterpene; Picane; SMART; Tyrosinase inhibition
+
+
+Index,
+Editor(s): Jorge L Alio MD, Andrzej Grzybowski, Anat Loewenstein,
+Aging in Ophthalmology,
+Academic Press,
+2026,
+Pages 333-337,
+ISBN 9780443139833,
+https://doi.org/10.1016/B978-0-443-13983-3.00465-X.
+(https://www.sciencedirect.com/science/article/pii/B978044313983300465X)
+
+Andrzej Grzybowski, Hongkang Wu, Xiaoling Huang, Kai Jin,
+Chapter 12 - Eye and major age-related central nervous system degenerative disorders,
+Editor(s): Jorge L Alio MD, Andrzej Grzybowski, Anat Loewenstein,
+Aging in Ophthalmology,
+Academic Press,
+2026,
+Pages 145-156,
+ISBN 9780443139833,
+https://doi.org/10.1016/B978-0-443-13983-3.00010-9.
+(https://www.sciencedirect.com/science/article/pii/B9780443139833000109)
+Abstract: Age-related central nervous system (CNS) degenerative disorders, such as Alzheimer's disease (AD), Parkinson's disease(PD), multiple sclerosis, Huntington's disease, and amyotrophic lateral sclerosis, significantly impact global health. These disorders are marked by progressive neuronal loss and functional decline, leading to substantial morbidity and mortality. AD affects around 50 million people globally, characterized by amyloid-beta plaques and tau tangles. PD, affecting approximately 10 million people, features Lewy bodies. The retina, an extension of the CNS, offers a unique window into these diseases due to its structural and functional similarities with the brain. Advanced ocular imaging techniques like optical coherence tomography allow for detailed examination of retinal changes, such as retinal nerve fiber layer thinning and ganglion cell layer loss. These changes often precede more overt neurological symptoms, enabling early diagnosis. Integrating ocular diagnostic tools into clinical practice can enhance early detection and monitoring of CNS disorders. Future research should focus on refining these imaging techniques and exploring their relationship with neurodegenerative diseases. A multidisciplinary approach involving neurologists, ophthalmologists, and researchers will be essential in leveraging ocular biomarkers for more accurate diagnoses and improved patient outcomes.
+Keywords: Alzheimer's disease; Central nervous system degenerative disorders; Optical coherence tomography; Parkinson's disease; Retina
+
+Veronica M. Pravata, Hao Jiang, Andrew T. Ferenbach, Angus Lamond, Daan M.F. van Aalten,
+Zscan4 as a candidate conveyor of early developmental defects in O-GlcNAc transferase intellectual disability,
+Molecular & Cellular Proteomics,
+2025,
+101077,
+ISSN 1535-9476,
+https://doi.org/10.1016/j.mcpro.2025.101077.
+(https://www.sciencedirect.com/science/article/pii/S1535947625001768)
+Abstract: Variants in the human β-N-acetylglucosamine (O-GlcNAc) transferase (OGT) gene give rise to an intellectual disability (ID) syndrome termed OGT congenital disorder of glycosylation (OGT-CDG). The mechanisms by which loss of OGT and/or protein O-GlcNAcylation lead to this syndrome are not understood, but symptoms associated with the syndrome suggest a developmental origin. Here, we establish and characterise two lines of mouse embryonic stem cells carrying different patient mutations and show that these mutations lead to disrupted O-GlcNAc homeostasis. Using quantitative proteomics on these cells in the pluripotent state, we identify candidate proteins/pathways that could underpin this syndrome. In addition to the increased levels of OGT and decreased levels of OGA reflecting disrupted O-GlcNAc homeostasis, we find that expression of the ID gene Zscan4 is upregulated. This is associated with increased levels of the OGT:Ten Eleven (Tet) - protein complex that regulates DNA methylation and Zscan4 expression. These data uncover a potential mechanism contributing to the developmental aspects of OGT-CDG.
+
+Yahao Ding, Yiqing Shen, Kai Yi, Yu Guang Wang,
+Chapter 3 - GNNs in drug design,
+Editor(s): Qifeng Bai, Tingyang Xu, Junzhou Huang,
+Deep Learning in Drug Design,
+Academic Press,
+2026,
+Pages 31-50,
+ISBN 9780443329081,
+https://doi.org/10.1016/B978-0-44-332908-1.00011-8.
+(https://www.sciencedirect.com/science/article/pii/B9780443329081000118)
+Abstract: Graph neural networks (GNNs), which are important methods in deep learning, have emerged as transformative tools in drug design, improving critical limitations of traditional approaches such as high costs, lengthy timelines, and low success rates. GNNs effectively model atomic interactions and geometric features, accelerating innovation across small molecule discovery, antibody engineering, and peptide therapeutics. Advanced architectures like GAT, GCN, and EGNN excel in virtual screening, de novo molecular generation, and drug–target interaction prediction, while frameworks such as RoseTTAFold All-Atom, and ProteinMPNN enhance structural modeling and sequence design based on datasets from PDB, UniProt, SAbDab, etc. This chapter introduces the outstanding models of GNNs and relevant datasets that may be of interest to related communities and researchers.
+Keywords: Graph neural network; Drug design; Antibody design; Peptide therapeutics
+
+Ting Li, Haihu Tan, Yang Liu, Chao Ge, Zhouyu Sun, Zengmin Tang, Ling Yang,
+Preparation of responsive photonic crystals and their application in the detection of food hazards,
+Food Control,
+2025,
+111753,
+ISSN 0956-7135,
+https://doi.org/10.1016/j.foodcont.2025.111753.
+(https://www.sciencedirect.com/science/article/pii/S095671352500622X)
+Abstract: A variety of contaminants have seriously jeopardized food safety and human health, including mycotoxins, heavy metal ions, pesticide residues, veterinary drug residues, and illegal additives. The development of rapid, cost-effective, and accessible detection methods is a critical approach to ensuring food safety. Specific and responsive photonic crystal (PC) sensors offer portability, low cost, rapid analysis, and on-site, real-time detection. They can identify food hazards through visible color shifts as well as changes in fluorescence or reflection intensity. This review highlights recent advances in PC sensors with both responsive and selective recognition properties. It discusses construction strategies that involve designing photonic crystals (PCs) responsive to environmental stimuli such as pH, humidity, temperature, ionic strength, or organic solvent, as well as introducing selective recognition elements through molecular imprinting, aptamers, or antibodies. The applications of PC sensors in food hazard detection are systematically summarized, covering mycotoxins, foodborne pathogens, pesticide and veterinary drug residues, heavy metal ions, and other harmful substances. Particular emphasis is placed on the underlying response mechanisms, sensitivity/detection range variations across different sensing strategies, and the latest advances in multiplex detection—via sensor arrays, integration with microfluidic platforms, and coupling with smartphones/artificial intelligence algorithms. Additionally, it summarizes the challenges encountered in PC-based food safety sensing and outlines future research priorities.
+Keywords: Food safety; Detection of food hazards; Sensors; Photonic crystals; Specific and responsive
+
+Weiqi Jiang, Wen Zhang, Chenxin Jing, Han Zhou, Zhi-Jun Zhang, Ying-Qian Liu, Rui Wang,
+Plant protoberberine alkaloids: structural diversity, biosynthesis, synthesis, biological activity, structure-activity relationships and clinical applications of berberine,
+Phytochemistry,
+2025,
+114690,
+ISSN 0031-9422,
+https://doi.org/10.1016/j.phytochem.2025.114690.
+(https://www.sciencedirect.com/science/article/pii/S0031942225003139)
+Abstract: Abstract:
+Protoberberine alkaloids are a class of organic heterocyclic compounds categorized within the isoquinoline alkaloids, exhibiting significant therapeutic potential due to their potent biological activities. With advancements natural product chemistry, synthetic organic chemistry, biochemistry, and molecular biology, novel insights into their biosynthetic pathways, chemical synthesis pathways, mechanisms of action, and clinical applications have been elucidated. A comprehensive understanding of protoberberine alkaloids is instrumental in enhancing their commercial value and utilization of medicinal plant resources. Among these alkaloids, berberine stands out as a well-studied compound with broad-spectrum bioactivities. In this review, we summarized the progress in the study of protoberberine alkaloids, focusing on the recent advances in the biosynthetic pathway, the regulatory mechanism of biosynthesis, chemical synthesis, clinical applications and structure-activity relationship analysis of berberine. It is anticipated that this review will offer valuable insights for researchers in the fields of synthesis, medicinal chemistry, and bactericidal chemistry, who are engaged in exploring the chemistry and biology of protoberberine alkaloids.
+Keywords: protoberberine alkaloids; berberine; occurrence; biosynthesis; total synthesis; biological activities; clinical application
+
+Patrícia C. Pires, Mariana Magalhães, Célia Cabral, Francisco Veiga, Priscila Gava Mazzola, Ana Cláudia Paiva-Santos,
+Development and characterization of novel intranasal in situ thermoreversible ketoprofen-loaded nanoemulgels for the treatment of glioblastoma,
+Journal of Drug Delivery Science and Technology,
+2025,
+107580,
+ISSN 1773-2247,
+https://doi.org/10.1016/j.jddst.2025.107580.
+(https://www.sciencedirect.com/science/article/pii/S1773224725009839)
+Abstract: Ketoprofen (KET) has been proven effective against glioblastoma. Nevertheless, its hydrophobic nature and susceptibility to degradation upon administration, added to the blood-brain barrier’s low permeability, make its repurposing for brain cancer treatment challenging. Having this in mind, the purpose of this work was to develop KET-loaded in situ thermoreversible nanoemulgels for intranasal nose-to-brain delivery, aiming at increased drug strength and protection, controlled drug release, and improved bioavailability. Formulations containing Capryol® 90, Tween® 80, Transcutol® HP, poloxamer 407, and water were produced through spontaneous emulsification. Formulations’ droplet size, polydispersity index (PDI), zeta potential, pH, rheology, stability, in vitro drug release, and in vitro antitumor efficacy and safety were evaluated. A high drug strength (4 mg/mL), and small (20 - 30 nm) and monodisperse (PDI 0.1 - 0.2) nanodroplets, with slightly negative to neutral zeta potential (-1.5 to -10 mV), were obtained. The nanoemulgels’ also revealed skin adequate pH (≈ 6), nasal cavity temperature’ sol-gel transitions (32 °C), elevated viscosity (13660 - 927302 cP), and high cumulative controlled in vitro drug release (≈ 78 to 93%), following Makoid-Banakar and Weibull kinetic models. Optimized nanoemulgels revealed relevant efficacy against human glioblastoma U87 cells. Therefore, intranasal thermoreversible KET-loaded nanoemulgels were successfully developed, of innovative composition, showing promising results for glioblastoma treatment. Given their high scalability potential, the developed nanoplatforms could be promising candidates for translational applications, and future in vivo assays could further confirm their potential, so that they might one day be considered as an adjuvant or primary treatment for glioblastoma.
+Keywords: Drug repurposing; glioblastoma; intranasal; ketoprofen; nanoemulgel; thermoreversible
+
+Gulustan Hamid Babayeva,
+Chapter 6 - Mitochondria crosstalk,
+Editor(s): Seyyed Shamsadin Athari, Entezar Mehrabi Nasab,
+In Translational and Applied Bioenergetics,
+Mitochondrial Signaling and  Regulation,
+Academic Press,
+2026,
+Pages 145-191,
+ISBN 9780443248368,
+https://doi.org/10.1016/B978-0-443-24836-8.00004-3.
+(https://www.sciencedirect.com/science/article/pii/B9780443248368000043)
+Abstract: Mitochondrial crosstalk plays an important role in maintaining immune balance and regulating inflammatory processes, which makes mitochondria promising targets for the development of new targets for antiinflammatory and immunostimulating therapies. Mitochondrial crosstalk is a complex network of interactions that ensures cell survival, their adaptation, and the ability to respond to stress. Violation of these interactions can lead to the development of a number of diseases, including neurodegenerative and cardiovascular disorders. Studying the mechanisms of mitochondrial crosstalk and creating methods for its modulation opens up wide opportunities for the treatment of various diseases, such as neurodegenerative disorders, gastrointestinal, rheumatological, oncological, cardiovascular, and metabolic pathologies. Understanding the molecular mechanisms involved in mitochondrial crosstalk is critical for developing new therapeutic strategies aimed at treating diseases associated with mitochondrial dysfunction.
+Keywords: Mitochondrial crosstalk, regulation of inflammatory processes, neurogenerative processes, gastrointestinal diseases, intestinal pathology; pathological process; cell signaling; genetic disorders; cellular process
+
+Nivedita Panda, Rangabhatla Saishree, B. Anjan Kumar Prusty, Aishwarya Sharma, Angel Rodriguez, Sunanda Kodikara Arachchi, Thong Nguyen Tan,
+Chapter 2 - Food and agro-industrial wastes: environmental impacts and potential avenues for value addition,
+Editor(s): Mika Sillanpää, Moharana Choudhury, Srijan Goswami,
+Food and Agro-Industrial Wastes,
+Academic Press,
+2026,
+Pages 17-31,
+ISBN 9780443316548,
+https://doi.org/10.1016/B978-0-443-31654-8.00012-6.
+(https://www.sciencedirect.com/science/article/pii/B9780443316548000126)
+Abstract: This chapter provides a comprehensive examination of the issue, beginning with an overview of the escalating volume of waste and its far-reaching impacts. Emphasizing the urgency of addressing this issue, the chapter focuses upon the environmental consequences, including greenhouse gas emissions, soil and water pollution, and biodiversity loss, attributed to food and agro-industrial waste. To write this book chapter, the methodology involves a systematic literature review from online databases like Web of Science, Scopus, and other credible sources by searching keywords such as agro-industrial waste, environmental impact, resource recovery, and sustainable food systems. Additionally, the chapter explores opportunities for utilizing and valorizing food and agro-industrial waste, ranging from resource recovery (extraction of nutrients and bioactive compounds) to industrial (biomaterials, biofuels) and agricultural applications (soil amendment, animal feed, biofertilizer). Food and agro-industry generate huge amounts of waste having various characteristics. Worldwide, the accumulation of food and agro-industrial waste is approximately two billion tons. Such waste is typically burned or dumped, endangering both the environment and human health. It is a matter of concern as it impacts flora and fauna. Efficient waste management strategies are crucial for mitigating environmental impact and promoting sustainability in the food sector. Generation of food and agro-industrial waste has reached alarming levels, posing significant environmental, economic, and social challenges at a global level. Challenges and barriers hindering effective waste management are identified, including technological limitations, economic constraints, and associated behavioral factors that conclude with recommendations for the future. Current waste management practices will be scrutinized, highlighting both traditional disposal methods like landfilling, dumping, and open burning, and emerging strategies like composting, anaerobic digestion, and bioenergy production, alongside pertinent policy and regulatory frameworks. It helps in framing eco-friendly strategies by identifying research priorities, policy interventions, and community engagement initiatives aimed at fostering a more sustainable cum resilient food system.
+Keywords: Agro-industrial waste; environmental impact; resource recovery; sustainable food system; food waste
+
+Kang-Hui Wang, Jia-Yue Liu, Li-Juan Ma, Feng-Xiang Zhang, Jian-Bo Wan,
+The rise of dehydrated ginsenosides: phytochemistry and pharmacology,
+Journal of Advanced Research,
+2025,
+,
+ISSN 2090-1232,
+https://doi.org/10.1016/j.jare.2025.09.051.
+(https://www.sciencedirect.com/science/article/pii/S2090123225007544)
+Abstract: Background
+Plants of the Panax genus, such as P. ginseng, P. notoginseng, and P. quinquefolius, have been utilized for culinary and medicinal purposes for millennia. Their pharmacological effects are largely attributed to ginsenosides—unique compounds derived from the glycosylation of dammaranediol and dammaranetriol. Rare ginsenosides are dammarane-type triterpenoids that occur naturally at low abundance (typically < 0.1 %) and often exhibit stronger bioactivity than macro ginsenosides. Dehydrated ginsenosides (DHGs, e.g., Rk1, Rg5, Rk2), characterized by a C‑20/21 or C‑20/22 double bond on the dammarane side chain, constitute a subgroup of rare ginsenosides that are scarce or absent in native Panax species but enriched in processed products. Structure–activity relationship studies indicate that replacing the C‑20 hydroxyl with a double bond enhances bioactive properties relative to precursor ginsenosides. Despite this promise, an integrative and comprehensive review of DHGs has been lacking.
+Aim of review
+This review systematically summarizes the current knowledge on DHGs, covering their chemical structure characteristics, preparation strategies, pharmacological activities with underlying mechanisms, and structure–activity relationships, providing new insights into their therapeutic potential and future applications.
+Key scientific concepts of review
+To date, a total of 92 DHGs with diverse skeletons have been identified, including Δ20-PPD type DHGs (e.g., ginsenosides Rk1, Rg5, Rk2, and Rh3), Δ20-PPT type DHGs (e.g., ginsenosides Rk3, Rh4, Rg6, and F4) and their side chain derivatives. Current preparation methods for DHGs encompass physical, chemical, and biological transformations, chemical synthesis, and batch-processing techniques. DHGs demonstrate a broad spectrum of pharmacological activities—such as anti-tumor, anti-diabetic, neuroprotective, cardiovascular protective, and antimicrobial effects—often surpassing their precursor ginsenosides. This review also explores the structure–activity relationships of DHGs to guide the development of more effective derivatives.
+Keywords: Dehydrated ginsenosides; Panax; Phytochemistry; Biological activities; Structure-activity relationship
+
+Eloise Berson, Raphael Zaghroun, Matteo Santoro, Syed Bukhari, David Seong, Chi-Hung Shu, Amalia Perna, Tomin James, Kathleen S. Montine, Geidy E. Serrano, Thomas G. Beach, C.Dirk Keene, Howard Y. Chang, M.Ryan Corces, Brenna Cholerton, Nima Aghaeepour, Thomas J. Montine,
+Epigenomic profile of GBA1 in Parkinson’s disease,
+Parkinsonism & Related Disorders,
+2025,
+108066,
+ISSN 1353-8020,
+https://doi.org/10.1016/j.parkreldis.2025.108066.
+(https://www.sciencedirect.com/science/article/pii/S1353802025008077)
+Abstract: ABSTRACT
+Introduction
+While genome-wide association studies have identified GBA1 as a key gene contributing to disease severity and cognitive decline in PD, its molecular effects remain poorly understood.
+Methods
+We used integrative bulk ATAC-seq across six brain regions from autopsied individuals with PD and varying genetic risk to characterize region- and cell type-specific molecular differences. Using Cellformer, an AI-based bulk ATAC-seq-deconvolution tool, we determined cell type-specific effects of GBA1 on PD disease progression and then validated our findings using whole transcriptome data from blood samples.
+Results
+Epigenomic differences between PD with (“GBA+”; n=15) and without (“GBA-”, n=15) GBA1 variants were localized in substantia nigra. Nineteen chromatin-accessible regions strictly separated GBA+ from GBA-, including the promoter sites of key genes such as CACNA1C, EHMT1, and SLC25A48. The effect in GBA+ spanned the main cell types in brain, and chromatin differences between GBA- and GBA+ increased with neuropathologic progression of disease. Significant differences in the epigenomic profile in GBA+ were observed in neuronal cells (AUROC=0.8, AUPRC=0.8, P-value<0.0001). Validation in blood samples distinguished between GBA+ and GBA- subtypes, achieving AUROC values of 0.99. Over 5,000 transcripts in blood cells distinguished GBA+ from GBA-, validating key genes and pathways from our epigenomic analysis of brain regions.
+Conclusion
+Our study provides novel insights into the cell type-specific epigenomic and transcriptomic landscape of GBA+ and its molecular divergence from other PD subtypes, and highlights potential therapeutic targets for this genetically defined subset of PD.
+Keywords: GBA; epigenomic; genetics; Parkinson’s disease
+
+Hüseyin Bahadır Şenol, Emine Aylin Yılmaz, Öner Özdemir,
+Chapter 5 - Mitochondria, apoptosis, and necrosis,
+Editor(s): Seyyed Shamsadin Athari, Entezar Mehrabi Nasab,
+In Translational and Applied Bioenergetics,
+Mitochondrial Signaling and  Regulation,
+Academic Press,
+2026,
+Pages 135-144,
+ISBN 9780443248368,
+https://doi.org/10.1016/B978-0-443-24836-8.00002-X.
+(https://www.sciencedirect.com/science/article/pii/B978044324836800002X)
+Abstract: Mitochondria are ubiquitous organelles that control adenosine triphosphate production, host metabolic pathways, and determine cell fate. Its initial recognized feature is being an energy source, but additional functions have been found over time. It supplies the energy requirements of all cells through oxidative phosphorylation. Additionally, it contributes to cell death apart from these roles. Cell death has been morphologically defined in three types: apoptosis, autophagic cell death, and necrosis. Apoptosis is characterized by a decrease in cell volume, reduced size of the nucleus (pyknosis), and fragmentation (karyorrhexis). Autophagic cell death takes place when the cell forms many vesicles without affecting the nucleus, ultimately leading to its digestion. Necrosis is identified by cell enlargement and the breaking of the plasma membrane, along with the absence of chromatin condensation and disruption of organelle structure.
+Keywords: Cellular physiology; pathological process; cell signaling; mitochondria; apoptosis; necrosis
+
+Grace C. Wester, Dominique M. Perilloux, Jolie A. Boullion, Caylin J. Roberts, Sahar Shekoohi, Alan David Kaye,
+Chapter 5 - Opioid-associated syndromes and comorbidities,
+Editor(s): Alan David Kaye, Scott Edwards,
+New Opioid Receptor Modulators and  Agonists,
+Academic Press,
+2026,
+Pages 41-49,
+ISBN 9780443265044,
+https://doi.org/10.1016/B978-0-443-26504-4.00002-8.
+(https://www.sciencedirect.com/science/article/pii/B9780443265044000028)
+Abstract: Recent opioid epidemics in the United States have been unlike any other drug crisis we have witnessed; as of 2021, approximately 2.5 million people in the United States have an opioid use disorder. Risk factors for complications related to opioids include having chronic conditions on top of opioid use, such as cancer, diabetes, or cardiovascular disease. These include, but are not limited to, opioid-induced hyperalgesia (OIH), withdrawal-associated injury site pain, opioid-associated amnestic syndrome, opioid-induced leukoencephalopathy, and narcotic bowel syndrome. These syndromes are often underdiagnosed due to many factors, including lack of knowledge of the syndromes, lack of accessible healthcare to the patient, and complex presentations in patients that generally have multiple comorbidities and multidrug use. The treatment is complex and often unclear due to the pathophysiology of these syndromes. Future directions for the treatment of the syndromes include novel drug targets especially in the treatment of OIH.
+Keywords: Narcotic bowel syndrome; Opioid-associated amnestic syndrome; Opioid-induced hyperalgesia; Opioid-induced leukoencephalopathy; Opioids
+
+Ana M. Brokate-Llanos, María Beltran, Andrés Garzón, Ana Garcera, María P. Miralles, Ferrán Celma-Nos, Alejandro Campoy-López, Rosa M. Soler, Manuel J. Muñoz, Antonio J. Pérez-Pulido,
+Inhibition of acid sphingomyelinase increases SMN levels and connects sphingolipid metabolism to Spinal Muscular Atrophy,
+Biomedicine & Pharmacotherapy,
+Volume 192,
+2025,
+118610,
+ISSN 0753-3322,
+https://doi.org/10.1016/j.biopha.2025.118610.
+(https://www.sciencedirect.com/science/article/pii/S0753332225008042)
+Abstract: Spinal Muscular Atrophy (SMA) is a moderately rare disease that causes progressive motor neuron degeneration and presents the highest neonatal death rate of all human genetic diseases. It is associated with the deletion or mutation of the SMN1 gene, encoding the SMN protein, mainly involved in the assembly of a ribonucleoprotein complex called Sm ring, essential for the splicing of mRNA molecules. In humans, there are usually multiple copies of another gene virtually identical in sequence, SMN2, which produces 10 % of complete SMN protein. It is known that increased expression of SMN2 improves the SMA phenotype. We have developed a multidisciplinary protocol, by which negative regulatory genes of SMN2 were discovered through an in silico approach based on analysis of gene expression profiles obtained from public transcriptomics experiments. We then knockdown these candidate genes in a Caenorhabditis elegans strain where the amount of SMN can be measured by fluorescence temporally and spatially. Thus, we have found that when a homolog of human SMPD1, a gene involved in sphingolipid metabolism, is inhibited by RNAi or specific drugs, SMN levels increase. We have also used motor neuron cultures of SMA patients, finding that the levels of SMPD1 mRNA and protein are increased in these cells. Furthermore, when they are treated with the SMPD1 inhibitor clomipramine, SMN levels also increase and a significant decrease in neurite degeneration is observed. Those results propose new therapeutic avenues for this devastating disease and represent a new method of finding modifiers and drugs for human diseases.
+Keywords: Spinal muscular atrophy; Expression profile; Drug repurposing; Sphingolipids; Caenorhabditis elegans
+
+Xicai (Alex) Yue,
+Chapter 12 - Towards sustainable sensor nodes,
+Editor(s): Xicai (Alex) Yue,
+In Emerging Methodologies and Applications in Modelling, Identification and Control,
+Internet of Things (IoT) - An Engineering Approach,
+Academic Press,
+2026,
+Pages 219-242,
+ISBN 9780443239038,
+https://doi.org/10.1016/B978-0-443-23903-8.00006-0.
+(https://www.sciencedirect.com/science/article/pii/B9780443239038000060)
+Abstract: Most IoT sensor nodes are wirelessly connected, so there is no available power line making long-term powering sensor nodes a challenge. This chapter will discuss the low power circuit design technology firstly and then discuss the potential technologies, such as wireless power transfer and energy harvesting (including photovoltaic [PV] and triboelectric nanogenerator [TENG]), to achieve self-sustainable IoT sensor nodes. Energy harvesting powered IoT nodes for smart building application are briefed as an example to show the whole development process of a self-powering IoT sensor node, including PV energy harvesting panel, power budgeting and power management (e.g., storage estimation and storage protection).
+Keywords: Current reuse amplifier; Energy storage; Low-power design; Passive communication; Passive impedance sensing; Photovoltaic (PV) energy harvesting; Power management; Sub-threshold (weak-inversion); Triboelectric nanogenerator (TENG); Wireless power transfer
+
+Huiyan Li, Jiajun Cheng, Yao Chen, Yunfan Chen, Xinyue Zhang, Kaixuan Teng, Yechen Wang, Sufang Guo, Qi An, Zeguo Feng, Shaohua You,
+Recent Progress in Physical Neuromodulation Strategies and Novel Materials Explorations,
+Materials Today Communications,
+2025,
+113947,
+ISSN 2352-4928,
+https://doi.org/10.1016/j.mtcomm.2025.113947.
+(https://www.sciencedirect.com/science/article/pii/S2352492825024596)
+Abstract: ABSTRACT
+Neuromodulation technology, which uses light, magnetism, ultrasound and electricity to modulate the activity of the nervous system, has developed rapidly and is widely used to treat movement disorders, intractable pain, epilepsy and to restore function to the nervous system after damage. This paper provides a systematic review of the neuromodulation principles of optical, magnetic, ultrasound and electrical stimulation in neuromodulation, as well as strategies for the neuromodulation technologies, with the aim of providing timely literature for the further development of materials in neuroscience. The physical conditioning techniques discussed include optogenetics, infrared light stimulation, magnetic stimulation, ultrasound stimulation and electrical stimulation techniques. It elucidates the key performance requirements for neural interface materials and focuses on recent research advances and practical applications of emerging functional materials for neuromodulation. Finally, the development of neuromodulation techniques is summarised and the outlook is given.
+Keywords: Neuromodulation; Photostimulation; Magnetic Stimulation; Ultrasonic Stimulation; Electrical Stimulation; Neuromodulation Materials
+
+Elena Hernandez-Garcia, Rosario Gomez-de-Liaño,
+Chapter 18 - Age-related changes of the ocular motor system and squint surgery,
+Editor(s): Jorge L Alio MD, Andrzej Grzybowski, Anat Loewenstein,
+Aging in Ophthalmology,
+Academic Press,
+2026,
+Pages 255-266,
+ISBN 9780443139833,
+https://doi.org/10.1016/B978-0-443-13983-3.00016-X.
+(https://www.sciencedirect.com/science/article/pii/B978044313983300016X)
+Abstract: In recent decades, there has been an increase in the average age of ocular motility disorders in adulthood. New terms and pathologies have been introduced in recent years. The sagging eye syndrome (SES) is a form of strabismus resulting from degeneration of the rectus pulley suspensions. Magnetic resonance imaging (MRI) findings in SES reveal thinning of the lateral rectus (LR)-superior rectus band ligament, which allows for inferior displacement of the LR pulley. When inferior displacements of the LR muscle pulleys are similar in both eyes, SES manifests as distance esotropia more pronounced than near; conversely, if inferior displacements differ between the two eyes, the presentation may include cyclovertical strabismus. The clinical diagnosis of SES relies on motility patterns and age-related adnexal changes, such as superior sulcus deformity, aponeurotic ptosis, and a high lid crease. Since its initial description a decade ago, SES has gained recognition as a significant cause of acquired diplopia in adults.
+Keywords: Diagnostic procedure; Eye observable entity; Nervous system; Special sensory system; Surgical procedure
+
+Ulises O Garcia-Lepe, Shane M Harding,
+The cGAS-STING Pathway,
+Editor(s): Paul M. Kaye,
+Encyclopedia of Immunobiology (Second Edition),
+Academic Press,
+2026,
+Pages 505-515,
+ISBN 9780128244807,
+https://doi.org/10.1016/B978-0-128-24465-4.00132-0.
+(https://www.sciencedirect.com/science/article/pii/B9780128244654001320)
+Abstract: The cGAS-STING pathway comprises a fundamental dsDNA pattern recognition receptor that is expressed widely in cells to act as an early sentinel of infection. Recent evidence has implicated inappropriate cGAS-STING activation in the pathogenesis of several conditions, and it has emerged as an important therapeutic target in several of these conditions. In this chapter a historical perspective of cGAS-STING pathway discovery is covered and more recent insights to broad activities of this pathway outside of its classical response to viral infection.
+Keywords: cGAMP; cGAS; Pattern recognition; STING; Type I interferon
+
+Yumi Oboshi, Mitsuru Kikuchi, Yasuomi Ouchi,
+Relationship between prefrontal oxygenation during task-set period and executive function in healthy older people: A near-infrared spectroscopy study,
+Neuroscience Letters,
+2025,
+138395,
+ISSN 0304-3940,
+https://doi.org/10.1016/j.neulet.2025.138395.
+(https://www.sciencedirect.com/science/article/pii/S0304394025002848)
+Abstract: Introduction
+In past research, we have examined the characteristics of brain activity caused by prefrontal task completion in healthy older adults in a simplified manner using a near-infrared spectroscopy device, with the aim of identifying methods of early intervention to prevent their cognitive decline. Previously, we reported that prefrontal oxygenation during pre-task preparation was greater in young adults than older adults, and that this greater activation was associated with better task performances in both groups. To extend this research, in the present study, we examined previous findings with task repetitions, as older adults take more time to become familiar new tasks.
+Methods
+We modified the working memory task with a clear task-set instruction and examined the change in the task-set and task-induced activation in 63 cognitively healthy older adults.
+Results
+Task-set activation did not increase even after three repetitions, and the task-induced activation was greater than task-set activation in most channels. The difference in degree between task-induced activation and task-set activation showed a reduction with task repetitions. Significant inverse correlations were observed between the prefrontal activation due to the task itself in the third session, i.e., after task repetitions and the reaction time of the Trail Making Test, which represents attentional function.
+Discussion
+These results indicate that continued activation by the task itself, which persists even after adults become familiar with the task, may be associated with executive function decline.
+Keywords: Cerebral oxygenation; Prefrontal cortex; Executive function; Task-set; Task repetition; Near-infrared spectroscopy
+
+Kaiyin Deng, Shaojun Hu, Shuting Feng, Changtai You, Dingding Wang, Houlei Jia, Lili Hu,
+Neuroprotective effects of Chlorella pyrenoidosa peptides,
+Journal of Functional Foods,
+Volume 134,
+2025,
+107038,
+ISSN 1756-4646,
+https://doi.org/10.1016/j.jff.2025.107038.
+(https://www.sciencedirect.com/science/article/pii/S1756464625003809)
+Abstract: Neurodegenerative diseases are chronic neurological disorders characterized by the progressive loss of neurons, severely affecting patients' cognition, memory, and motor functions. However, existing therapies struggle to reverse the disease course. This study utilized BV2 cells and Caenorhabditis elegans models to induce neuronal damage through chemical agents, exploring the neuroprotective effects of Chlorella pyrenoidosa peptides (CPP). CPP reduced ROS levels, increased the activity of GSH,SOD and CAT in cells and nematodes, as well as reduced NO, TNF-α, IL-6 content in cells. Additionally, it elevated the mitochondrial membrane potential of cells and reduced cell apoptosis, and enhanced cellular lysosomal activity. Furthermore, CPP reduced Aβ deposition and mitigated the neurotoxicity induced by enhancing memory and chemotaxis, decreasing AchE levels and sensitivity to 5-HT. CPP upregulated the expression of genes such as ced-9, sir-2.1, and daf-16 while downregulating ced-4, ced-3 expressions, suggesting that their neuroprotection might involve regulating immune-related, stress-resistant, and anti-apoptotic genes.
+Keywords: Chlorella pyrenoidosa peptides; Neuroprotection; Inflammation; Oxidative stress; Mitochondrial protection; Apoptosis regulation
+
+Daniele Gaudenzi, Carlo Alberto Cutolo, Carlo Enrico Traverso,
+Chapter 8 - Aging in glaucoma surgery,
+Editor(s): Jorge L Alio MD, Andrzej Grzybowski, Anat Loewenstein,
+Aging in Ophthalmology,
+Academic Press,
+2026,
+Pages 97-102,
+ISBN 9780443139833,
+https://doi.org/10.1016/B978-0-443-13983-3.00005-5.
+(https://www.sciencedirect.com/science/article/pii/B9780443139833000055)
+Abstract: As the global population ages, the management of glaucoma in elderly patients presents unique challenges, necessitating tailored surgical approaches to optimize outcomes and safety. Glaucoma and its treatment are significantly influenced by age-related anatomical and physiological changes, such as corneal endothelial cell loss, co-existence of cataract, impaired wound healing, and ocular surface disease. All of these factors impact surgical efficacy and recovery. This review explores the interplay between aging and glaucoma surgery, emphasizing patient selection, procedural options, and postoperative care. Surgical considerations for elderly patients must account for comorbidities, frailty, and life expectancy. While trabeculectomy remains the gold standard, tube shunt surgery is in specific cases preferred in older adults due to its lower risks of hypotony and reoperation. Minimally invasive glaucoma surgeries (MIGS) offer rapid recovery for mild-to-moderate cases, whereas cyclodestructive procedures are reserved for end-stage disease. Anesthetic and intraoperative strategies prioritize safety, often favoring local anesthesia to mitigate systemic risks. Postoperatively, elderly patients face higher complication rates, including hypotony, infection, and poor wound healing, necessitating vigilant follow-up and caregiver involvement. Notably, elderly surgical candidates exhibit higher mortality rates, linked to severe glaucoma phenotypes and comorbidities like stroke and neurodegenerative diseases. This review underscores the need for individualized treatment plans balancing efficacy, safety, and quality of life, while advocating for future research into age-specific surgical innovations and care paradigms.
+Keywords: Aging; Comorbidities; Glaucoma; Intraocular pressure; Postoperative complications; Surgical management
+
+Pei Fan, Kui Wang, Haidong Wei, Liufei Yang, Shuyue Zhang, Yiqin Cheng, Chen Li, Yuanyuan Zhang, Pengyu Jia, Yan Zhang, Yufeng Xun, Yilin Wang, Pengbo Yang, Pengbo Zhang, Ning Wang,
+Sevoflurane-induced Gut Microbiota Dysbiosis Drives Adolescent Neurobehavioral Deficits in Neonatal rats: Protective Role of Eicosapentaenoic Acid.,
+iScience,
+2025,
+113657,
+ISSN 2589-0042,
+https://doi.org/10.1016/j.isci.2025.113657.
+(https://www.sciencedirect.com/science/article/pii/S2589004225019182)
+Abstract: Summary
+To determine whether sevoflurane causes neurobehavioral abnormality by affecting the microbiota-gut-brain axis, rats were exposed to 3% sevoflurane for 2 hours every day on postnatal day (PND) 6, 7, and 8. Sevoflurane exposure in the neonatal period resulted in anxiety-like behavior, social memory damage, and cognitive impairment in adolescent rats. There were significant differences in microflora β diversity between the sevoflurane exposure group and the control group on day 7 and day 21 after exposure. Sevoflurane exposure significantly reduced bacterial species such as Corynebacterium stations, Lactobacillus murinus, etc., also decreased glyceryl palmitate, and eicosapentaenoic acid. Bioinformatics analysis indicated that specific gut microbiota and metabolites were related to behavioral changes. Notably, EPA supplementation alleviated these neurobehavioral deficits. These findings support a role for the gut microbiota and its metabolites in sevoflurane-induced neurodevelopmental injury, potentially mediated via the microbiota-gut-brain axis. Supplementation with key metabolites may provide a therapeutic strategy for mitigating such injuries.
+Keywords: Sevoflurane; Gut microbiota; Metabolites; Neurobehavioral abnormality; Microbiota-gut-brain axis
+
+Preeti Dwivedi, Srikant Sahoo, Suresh Shendage, Ashis Kumar Satpati,
+PEDOT composite matrix for determination of ascorbic acid, dopamine and uric acids,
+Next Materials,
+Volume 9,
+2025,
+101273,
+ISSN 2949-8228,
+https://doi.org/10.1016/j.nxmate.2025.101273.
+(https://www.sciencedirect.com/science/article/pii/S2949822825007919)
+Abstract: There has been growing interest in developing advanced materials for electrochemical sensors. Poly(3,4-ethylenedioxythiophene) (PEDOT) is a conductive polymer with good stability and processability. Incorporating carbon nano spheres (CNSs) and carbon nano tube (CNTs) into PEDOT significantly enhance its electrochemical properties. The PEDOT films were synthesized through electropolymerisation method. The investigation highlights the voltammetric methods and polymer-nanomaterials composite electrodes for the simultaneous electrochemical sensing of ascorbic acid (AA), dopamine (DA) and uric acid (UA). While the CNSs and CNTs are incorporated into the PEDOT matrix and the electrodes are named as GCE/PEDOT/CNSs and GCE/PEDOT/CNTs for the enhanced peak separations between the molecules and also to enhance the sensitivity. The prepared GCE/PEDOT/CNTs nanocomposite exhibited superior electrochemical activity compared to the unmodified GCE/PEDOT and also better activity compared to GCE/PEDOT/CNSs. The detection limits (S/N = 3) of 11.5 µM, 0.08 µM, 0.40 µM, are obtained for AA, DA and UA respectively. The electrostatic interaction, preconcentration and enhanced charge transfer processes are responsible in the well separated peaks in PEDOT/CNSs and PEDOT/CNTs modified electrodes comparted to the unmodified PEDOT.
+Keywords: Dopamine; Uric acid; Ascorbic acid; Biosensor; PEDOT/CNSs; PEDOT/CNTs
+
+Violina Kakoty, Khang Wen Goh, Prashant Kesharwani, Young Tag Ko,
+BNIP3L/NIX-mediated mitophagy: Future directions in Alzheimer’s disease,
+Brain Research,
+2025,
+149970,
+ISSN 0006-8993,
+https://doi.org/10.1016/j.brainres.2025.149970.
+(https://www.sciencedirect.com/science/article/pii/S0006899325005335)
+Abstract: BCL2-interacting protein 3 like (BNIP3L) /Nip3-like protein X (NIX) is a mitochondrial outer membrane protein possessing mitophagic and pro-apoptotic properties. Mitochondrial dysfunction and subsequent mitophagy impairment are some of the early triggers for Alzheimer’s Disease (AD), which is a progressive neurodegenerative condition affecting memory, thinking, and behavior. AD is associated with mitochondrial protein impairment and mitophagy failure. A recent study showed downregulation in BNIP3L expression in response to stress hormone release during Alzheimer’s, and pretreatment with a BNIP3L enhancer of a corticosterone-exposed mouse upregulated mitophagy. This research proved that BNIP3L stimulation can be an effective therapeutic strategy against Alzheimer’s. However, BNIP3L-mediated mitophagy studies focused on Alzheimer’s have been relatively scarce, and expanding knowledge on its regulatory proteins will help lay a smoother road ahead for future Alzheimer’s research. In this review, we aim to summarize all the recent findings of the downstream proteins of BNIP3L, which play an indispensable role in inducing BNIP3L-mediated mitophagy effects. The review also explicates the significance of healthy mitochondria and normally functioning mitophagy in Alzheimer’s. Finally, the review states the implications of BNIP3L in other diseases, like cardiovascular conditions and cancer, underscoring the immense potential of this wonder protein.
+Keywords: BCL2-interacting protein 3-like/Nip3-like protein X; Mitophagy; Alzheimer’s Disease; Downstream proteins
+
+Ruchika Garg, Kiran Dobhal,  Bhawna,
+Chapter 1 - Mitochondrial biogenesis,
+Editor(s): Seyyed Shamsadin Athari, Entezar Mehrabi Nasab,
+In Translational and Applied Bioenergetics,
+Mitochondrial Signaling and  Regulation,
+Academic Press,
+2026,
+Pages 1-44,
+ISBN 9780443248368,
+https://doi.org/10.1016/B978-0-443-24836-8.00005-5.
+(https://www.sciencedirect.com/science/article/pii/B9780443248368000055)
+Abstract: This chapter provides an in-depth understanding of mitochondrial structure, function, and dynamics, highlighting their crucial role in cellular metabolism, energy production, and overall health. Mitochondria, with their double membrane and dynamic morphology, are essential sites for adenosine triphosphate (ATP) synthesis and metabolic pathways like the citric acid cycle and fatty acid oxidation. The complex processes of mitochondrial biogenesis, fusion, and fission are vital for maintaining mitochondrial integrity and function in response to cellular energy demands and stressors. Mitochondrial DNA, protein import mechanisms, and signaling pathways regulate gene expression and cellular responses to environmental changes. This chapter emphasizes the implications of mitochondrial dysfunction in various diseases, including neurodegenerative disorders and metabolic syndromes, and the importance of ongoing research in understanding mitochondrial biology in health and disease. The research highlights the potential for therapeutic interventions targeting mitochondrial pathways in the treatment of various disorders. Key areas of focus include mitochondrial biogenesis and dynamics, mitochondrial DNA repair, the unfolded protein response, mitophagy, mitochondrial metabolism and bioenergetics, calcium signaling, and the application of mitochondrial antioxidants.
+Keywords: Mitochondria biogenesis, mechanism, fission, protein, metabolism, bioenergetics, health, diseases; therapeutic intervention; functional aspects of cell biology; metabolic disorder; cell signaling; metabolism; pathological process
+
+Shaohan Luo, Mingmin Pan, Gaoshuang Fu, Xiaoying Meng, Ziwei Zhao, Huijie Yu, Guangxin Yue, Tong Lei,
+Vagus nerve and brain–gut communication in neurodegenerative diseases: mechanism and therapeutic perspectives,
+Pharmacological Research,
+2025,
+107974,
+ISSN 1043-6618,
+https://doi.org/10.1016/j.phrs.2025.107974.
+(https://www.sciencedirect.com/science/article/pii/S1043661825003998)
+Abstract: Neurodegenerative diseases (NDs) are characterized by degenerative nerve damage, and available therapeutic drugs cannot prevent or slow down their progression. The pathogenesis of NDs is related to the brain–gut axis, but the regulatory mechanisms are not yet fully understood. The vagus nerve, the main neural pathway of the brain–gut axis, plays a crucial role in the occurrence and development of NDs. This study summarizes the molecular mechanisms by which the vagus nerve regulates intestinal immunity and neuroinflammatory homeostasis of NDs to improve movement disorders and mental disorders. Intestinal immune dysregulation promotes the transfer of metabolites through the vagus nerve to the brain, leading to a general imbalance between the central immune response and the peripheral immune response and enhancing the level of systemic inflammatory stress. Intestinal immune responses and metabolic imbalances cause brain immune imbalances mediated by the vagus nerve and brain–gut communication. Targeted strategies of vagus nerve and brain–gut communication, including intelligent engineered strains systems, genetic-engineering strain modification, artificial intelligence dynamic monitoring, vagus nerve stimulation, polysaccharides, and natural small molecules, can help improve the symptoms of NDs. This study emphasizes that vagus nerve and brain–gut communication can serve as novel targets for NDs.
+Keywords: Neurodegenerative diseases; Brain–gut axis; Intestinal immunity; Vagus nerve; Neuroinflammation
+
+Huicong Li, Xin Yang, Jiayi Li, Yan Zhao, Jieling Liang, Yanmei Liu, Fen Du, Hong Yu, Ruilin Zhang,
+Methionine sulfoxide reductase A deficiency impairs zebrafish heart regeneration via inhibiting Prohibitin 2-Pink1-mediated mitophagy,
+Free Radical Biology and Medicine,
+2025,
+,
+ISSN 0891-5849,
+https://doi.org/10.1016/j.freeradbiomed.2025.09.051.
+(https://www.sciencedirect.com/science/article/pii/S0891584925010081)
+Abstract: Ischemic heart disease is among the cardiovascular diseases with the highest mortality rates worldwide. Redox homeostasis is critical for a wide range of biological processes, including cardiac injury and repair. Methionine sulfoxide reductase A (MSRA) has been reported as a protective factor for cardiomyocytes both in vivo and in vitro, however, the underlying mechanisms are not fully understood. Here we demonstrated that Msra deficiency in zebrafish results in heart regeneration failure after larval ventricle ablation. Using a proximity labelling assay we identified prohibitin 2a (Phb2a), an ortholog of human PHB2, as a potential substrate of Msra. We further revealed that Pink1-mediated mitophagy is inhibited, thereby impairing heart regeneration in Msra-deficient zebrafish. Moreover, mitophagy is also impeded in Msra-KO HL-1 mouse cardiomyocytes under oxidative stress. Blocking the oxidation of PHB2 by substituting its essential methionine with valine rescues Msra-KO cardiomyocytes from oxidative stress. Taken together, our findings shed light on the role that methionine redox homeostasis plays in the regulation of mitophagy in ischemic heart disease and provide a foundation for the identification of novel therapeutic targets.
+Keywords: methionine sulfoxide reductase A; prohibitin 2; redox homeostasis; mitophagy; heart regeneration
+
+Samuel Rantataro, Irena Hlushchuk, Yi-Ning Kang, Gemma Gomez-Giro, Niklas Wester, Pieter Vanden Berghe, Jens C. Schwamborn, Mikko Airavaara, Tomi Laurila,
+Optically transparent electrodes for ultrasensitive real-time detection of dopamine in brain-on-a-chip applications,
+Sensing and Bio-Sensing Research,
+2025,
+100882,
+ISSN 2214-1804,
+https://doi.org/10.1016/j.sbsr.2025.100882.
+(https://www.sciencedirect.com/science/article/pii/S2214180425001485)
+Abstract: Brain-on-a-chip models are rapidly being adopted in disease modeling and drug discovery, however characterization of the brain model condition often requires both the use of microscopy techniques and evaluation of neuronal activity. Although electrochemical techniques can offer the required selectivity between neuronal subtypes but also sensitivity in simple buffer solutions, a complete loss of electrode functionality is often observed when the brain model has been cultured directly on the electrode material or when recordings are performed in the culture medium. We prepared optically transparent sensors capable of accurately measuring dopamine at nanomolar concentrations in real-time. Furthermore, we displayed the recording of both spon- taneous and stimulated release of dopamine from primary mouse midbrain culture for the first time, as measured inside the culture medium with transparent electrodes. Due to excellent optical transparency, we were able to perform fluorescence microscopy but also live-cell Ca2+ imaging through the electrodes. Lastly, biocompatibility of the sensors was validated by various different techniques and by using highly sensitive in vitro brain-on-a-chip cultures.
+Keywords: Brain-on-a-chip; In vitro; Biosen- sor; Dopamine; Transparent; Carbon nanotube
+
+Jonathan Giang, Louay Saem Aldaher, Henrique C. Ferreira,
+Chapter 9 - Gender differences in lipid metabolism,
+Editor(s): Sanjoy K. Bhattacharya,
+Lipid Analysis in Biology, Health, and Disease,
+Academic Press,
+2026,
+Pages 113-126,
+ISBN 9780443191169,
+https://doi.org/10.1016/B978-0-443-19116-9.00004-X.
+(https://www.sciencedirect.com/science/article/pii/B978044319116900004X)
+Abstract: Lipids are essential components in the human body and a primary source of stored energy, playing various roles in insulation, cell membrane structure, and serving as precursors to hormones. Lipid metabolism involves digestion, absorption, synthesis, and utilization of lipids. Fatty acids and glycerol from dietary fats are transported in the bloodstream for storage or energy production. Hormonal signals regulate this process, which is crucial for addressing conditions such as obesity, dyslipidemia, and cardiovascular diseases. Gender differences in body composition exist and significantly influence lipid metabolism. Men tend to have greater muscle mass, while women have a higher percentage of body fat. Fat distribution also varies, with men having more visceral adipose tissue, and a greater amount of fat droplets in the liver and skeletal muscles, while women have more subcutaneous adipose tissue. During menopause, women experience a shift in fat distribution from subcutaneous to visceral, increasing their risk of metabolic disorders. These gender-specific differences in body composition reflect evolutionary adaptations for reproductive and survival advantages. Cholesterol metabolism also differs between genders, with estrogen playing a role in cholesterol synthesis and excretion. Estrogen receptors, ERα and ERβ, play an important part in regulating lipid metabolism as estradiol, the primary estrogen, binds to these receptors, leading to changes in gene expression related to triglyceride and cholesterol metabolism. Deficiency in estrogen contributes to fatty liver disease, while estrogen replacement therapy reduces liver fat. Estrogen can also act through plasma membrane receptors, affecting signaling cascades. Moreover, timing of estrogen delivery impacts cardiovascular health in postmenopausal women. Sex chromosome composition and estrogen-androgen balance contribute to differences in adiposity and metabolic disorders among genders. Women generally have better protection against diet-induced metabolic disorders, but the impact of estrogen varies and imbalance with androgens may increase metabolic risks. Considering sex-specific factors is vital in developing targeted approaches for cardiometabolic diseases, and understanding these gender-specific differences is essential in addressing metabolic disorders and developing targeted interventions.
+Keywords: Adipose tissue; Cardiometabolic disease; Estrogen; Lipid metabolism; Sex chromosomes
+
+Yuxing Jiang, Yiyang Hou, Shuaijie Pei, Haisheng Wu, Dilmurat Gheyret, Yongqiang Xu, Hongtao Rong, Tao Zhu,
+Enhancing Spinal Cord Injury Recovery with Functional Liposomal Nanomedicine: A Neuroprotective and Anti-Inflammatory Approach,
+European Journal of Pharmaceutical Sciences,
+2025,
+107304,
+ISSN 0928-0987,
+https://doi.org/10.1016/j.ejps.2025.107304.
+(https://www.sciencedirect.com/science/article/pii/S0928098725003021)
+Abstract: Background
+Spinal cord injury (SCI) triggers severe secondary damage and persistent neurological deficits, exemplified by unacceptably high functional loss where >80% of patients experience irreversible lower limb paralysis with <20% achieving meaningful recovery, driven by pro-inflammatory M1 microglia that secrete inflammatory cytokines and reactive oxygen species (ROS). Thalidomide’s anti-inflammatory potential is hindered by low bioavailability and systemic toxicity, necessitating targeted delivery strategies to address this unmet Level 1 clinical need for restoring acceptable function in specific SCI scenarios.
+Methods
+To address these challenges, we developed RLNPP@Tha, a CD44-targeted, ROS-responsive liposomal nanomedicine, to selectively deliver thalidomide to the SCI microenvironment. RLNPP@Tha’s physicochemical properties, drug release, cellular uptake, and anti-inflammatory/neuroprotective effects were characterized in vitro. Its therapeutic efficacy, including locomotor recovery, inflammation modulation, tissue repair, and biosafety, was evaluated in a rat SCI model.
+Results
+RLNPP@Tha exhibited ROS-dependent thalidomide release (92% at 400 μM H₂O₂ in 12 hours) and selective uptake by activated BV2 microglia. In vitro, it reduced intracellular ROS by ∼70%, suppressed pro-inflammatory cytokines (IL-1β, IL-6, TNF-α) by 50–70%, and protected SH-SY5Y neurons from oxidative apoptosis (85% viability vs. 30% in controls). In vivo, RLNPP@Tha improved Basso-Beattie-Bresnahan (BBB) scores to 18–19 (vs. 5–6 for saline), reduced cytokine levels by 45–60%, preserved spinal cord morphology, enhanced neuronal survival, inhibited glial scarring, and promoted M2 microglial polarization. Biosafety assessments confirmed minimal systemic toxicity.
+Conclusion
+RLNPP@Tha’s dual CD44/ROS-responsive mechanism enables precise modulation of the SCI inflammatory microenvironment, providing sufficient improvements in secondary injury markers (Levels 2–4 of the design constraint hierarchy) to potentially address Level 1 clinical challenges, such as unacceptable functional loss in moderate contusion SCI cases. This nanomedicine offers preliminary evidence toward solving unmet needs in neuroprotection, paving the way for advanced targeted therapies.
+Keywords: Spinal Cord Injury; Microglia; CD44; ROS-responsive; Liposome; Thalidomide; Targeted Drug Delivery; Neuroinflammation; Functional Recovery; Unmet Clinical Needs
+
+Yi Gu, Jin Xu, Xiaoli Ding, Su Wan, Fuying Cai, Hai Qin,
+Erianin ameliorates morphine tolerance and glioma progression through the JAK2-STAT3 pathway,
+Translational Oncology,
+Volume 62,
+2025,
+102551,
+ISSN 1936-5233,
+https://doi.org/10.1016/j.tranon.2025.102551.
+(https://www.sciencedirect.com/science/article/pii/S1936523325002827)
+Abstract: Prolonged morphine use and glioma-induced stress have a significant impact on pain management outcomes and tumor progression. This study investigates Erianin’s potential to alleviate morphine tolerance and inhibit glioma progression through its modulation of the JAK2/STAT3 pathway. Glioma-bearing morphine-tolerant mouse models were used to evaluate Erianin’s effects on analgesia, tumor growth, and molecular pathways. Erianin administration effectively reduced morphine tolerance (50 % inhibition rate) and glioma progression (60 % inhibition rate) by inhibiting the JAK2/STAT3 signaling and suppressing BDNF expression in dorsal root ganglia (DRG). Multi-omics analysis (integrating transcriptomics and miRNA-seq data) highlighted key roles of miR-375 and miR-20a in targeting JAK2, demonstrating their critical involvement in regulating morphine tolerance and glioma-induced neuroinflammation. Further, chronic morphine use was identified as modulators of the JAK2-STAT3 pathway dysregulation. These findings uncover the potential of Erianin as a therapeutic agent. Specifically, we reveal druggable targets within inflammatory signaling cascades, providing molecular blueprints for precision interventions in pain-related oncology care.
+Keywords: Oncology; Morphine tolerance; Glioma; JAK2/STAT3; MicroRNA regulation in cancer
+
+
+Index,
+Editor(s): Seyyed Shamsadin Athari, Entezar Mehrabi Nasab,
+In Translational and Applied Bioenergetics,
+Mitochondrial Signaling and  Regulation,
+Academic Press,
+2026,
+Pages 531-550,
+ISBN 9780443248368,
+https://doi.org/10.1016/B978-0-443-24836-8.00018-3.
+(https://www.sciencedirect.com/science/article/pii/B9780443248368000183)
+
+
+Contents,
+Clinical Radiology,
+Volume 89,
+2025,
+107096,
+ISSN 0009-9260,
+https://doi.org/10.1016/S0009-9260(25)00301-0.
+(https://www.sciencedirect.com/science/article/pii/S0009926025003010)
+
+Vasilisa Zvyagina, Andrea Kuriakose, Ignacio Simó, Julia Y. Kam, Prapti Chakraborty, Katherine J. Robinson, Anastasiya Potapenko, Maxinne Watchon, Ian T. Paulsen, Hasinika K.A.H. Gamage, Angela S. Laird,
+Gut transit and gut microbiome changes occur prior to the onset of motor impairment in a mouse model of Machado-Joseph disease,
+Neurobiology of Disease,
+2025,
+107121,
+ISSN 0969-9961,
+https://doi.org/10.1016/j.nbd.2025.107121.
+(https://www.sciencedirect.com/science/article/pii/S0969996125003389)
+Abstract: We previously identified microbial shifts prior to the onset of motor and neurological symptoms within a mouse model of the fatal neurodegenerative disease Machado-Joseph disease (MJD). Here, we aimed to explore possible mechanisms contributing to these changes within the microbiome-gut-brain axis, and whether it preceded or followed central neurodegeneration. We report that pre-symptomatic male MJD mice present with significantly different microbiome communities as early as 5-weeks-old. Furthermore, we show that male MJD mice have faster total gut transit times by 9-weeks-old, prior to signs of impaired motor function by 11-weeks-old. To elucidate whether these microbial and colonic functional changes are due to the presence of pathological and morphological changes in the gut, we examined the gut of pre- and early symptomatic MJD mice for formation of ataxin-3 protein aggregates and morphological changes relative to proteinopathy in the brain. Interestingly, we observed ataxin-3 aggregates within the brains of pre-symptomatic MJD mice, with aggregates present in male MJD mice from 5-weeks-of-age, an earlier timepoint than previously reported, coinciding with changes within the microbiome. However, we observed no ataxin-3 protein aggregates and no changes in enteric neuron populations or morphology within the gut. Analysis of endocrine factors involved in gut motility and inflammatory markers within the small intestine of 13-week-old males revealed increased expression of genes encoding cholecystokinin (Cck), ghrelin (Ghrl), heme oxygenase (Ho1), interleukin-1 beta (Il1b), and decreased inducible nitric oxide synthase (Nos2). Together, we demonstrate for the first time that colonic dysfunction occurs after gut microbiome changes, but prior to the onset of motor impairments in male MJD mice. Our work suggests that whilst proteinopathy or morphological changes within the gut may not be involved in these changes, inflammation and related endocrine changes could have a role in the interplay between the gut and brain during MJD development, warranting further investigation.
+Keywords: Spinocerebellar ataxia; Neurodegeneration; Polyglutamine repeat disease; Mouse; Gut microbiome; Gut microbiota; Gut motility; Enteric nervous system
+
+Ananda Sahithi Taduru, Poonam Singhal, Geetanjali Kaushik, Hussain Chaudhery, Kaleeswari Kalimuthu,
+Chapter 20 - Nutraceuticals and functional food from food and agro-industrial wastes,
+Editor(s): Mika Sillanpää, Moharana Choudhury, Srijan Goswami,
+Food and Agro-Industrial Wastes,
+Academic Press,
+2026,
+Pages 303-310,
+ISBN 9780443316548,
+https://doi.org/10.1016/B978-0-443-31654-8.00034-5.
+(https://www.sciencedirect.com/science/article/pii/B9780443316548000345)
+Abstract: Food, industrial, and agricultural wastes are of great value in the current world because of their effectiveness as natural sources of bioactive composites, which can further induce by-products that add value to life. Restoring bioactive composites from similar scribes to create functional/healthy nourishments is an effective method to exercise trash. Various investigations in the past have shown that agricultural waste can be developed by the processing industries and are productive in bioactive composites, similar to phenolic composites, organic acids, carotenoids, flavonoids, etc. The increasing demand for substituting artificial antioxidants and antimicrobial composites with real ones has prompted a search for these bioactive composites from industrial resources, notably fruit and vegetable processing waste. The agro-industrial products from varied food manufacturing diligence release a considerable amount of fruit and vegetable waste that causes deposits in the external tips. Several secondary metabolites, vitamins, and minerals have been extracted from colorful food waste. In the future, the prismatic curtain-raisers could give a contemporary approach to increasing the production of composites for use as nutraceuticals or as basics in designing functional foods. Hence, this study discusses their practical application in developing nutraceutical products, health benefits, bioprocess development, and the benefits of incorporating food waste products.
+Keywords: Agro-industrial waste; bioactive compounds; functional foods; phenolic compounds; nutraceuticals
+
+Trevor Owens, Agnieszka Wlodarczyk,
+Microglia – Role in Immunity,
+Editor(s): Paul M. Kaye,
+Encyclopedia of Immunobiology (Second Edition),
+Academic Press,
+2026,
+Pages 219-227,
+ISBN 9780128244807,
+https://doi.org/10.1016/B978-0-12-824465-4.00145-9.
+(https://www.sciencedirect.com/science/article/pii/B9780128244654001459)
+Abstract: Microglia are the tissue macrophages of the central nervous system. They share many features with macrophages in other tissues. Distinct aspects relate to the relative immune isolation of the host tissue. Their role in the brain and spinal cord is normally one of surveillance and sampling of the neuronal milieu. They respond to perturbation of homeostasis by migration, proliferation and production of cytokines, chemokines and inflammatory mediators and they may have cytotoxic capability. Reactive microglia are phagocytic and are implicated in clearance of debris in circumstances of neuroinflammation and neurodegeneration. Microglia express MHC and costimulatory ligands and can present antigens to T cells, with varying effectiveness and effector outcomes depending on their source and activation state. Microglia are considered important for tissue regeneration and repair, such as in remyelination in multiple sclerosis and amyloid plaque clearance in Alzheimer’s Disease.
+Keywords: Antigen presenting cell; Chemokine; Costimulation; Cytokine; Homeostasis; Migration; Phagocytosis; Tissue macrophage
+
+Masoud Hassanzadeh Makoui,
+Chapter 8 - Mitochondrial diseases,
+Editor(s): Seyyed Shamsadin Athari, Entezar Mehrabi Nasab,
+In Translational and Applied Bioenergetics,
+Mitochondrial Signaling and  Regulation,
+Academic Press,
+2026,
+Pages 205-238,
+ISBN 9780443248368,
+https://doi.org/10.1016/B978-0-443-24836-8.00006-7.
+(https://www.sciencedirect.com/science/article/pii/B9780443248368000067)
+Abstract: Mitochondrial dysfunction is critical in developing diseases influenced by genetic mutations, infections, physical inactivity, and aging. Mutations in mitochondrial DNA can disrupt normal function, leading to reduced energy production and increased oxidative stress. Infections can worsen mitochondrial dysfunction by triggering inflammatory responses that further damage mitochondria. Additionally, physical inactivity contributes to metabolic dysregulation, promoting inefficiency and dysfunction in mitochondria. Aging is associated with a decline in mitochondrial function, marked by imbalanced mitochondrial dynamics and increased susceptibility to damage. Fundamental pathophysiological mechanisms underlying mitochondrial dysfunction include calcium (Ca2+) overload, which disrupts mitochondrial balance and can initiate cell death pathways. Reverse electron transport can also occur under pathological conditions, leading to increased reactive oxygen species (ROS) production and further mitochondrial impairment. Ischemic/reperfusion injuries highlight the vulnerability of mitochondria during episodes of reduced blood flow, resulting in significant cellular damage upon reperfusion. The clinical manifestations of mitochondrial disorders are varied, affecting multiple organ systems and presenting a spectrum of symptoms ranging from myopathy to neurodegenerative diseases. Understanding the interplay between these factors and the underlying mechanisms of mitochondrial dysfunction is crucial for developing targeted therapeutic strategies to mitigate the impact of mitochondrial disorders across various clinical contexts. This chapter aims to clarify these complex relationships and their implications for health and disease, providing a comprehensive overview of mitochondrial disorders and emphasizing their clinical manifestations and underlying mechanisms.
+Keywords: Cellular energy deficiency; genetic mutations; mitochondrial dysfunction; mitochondrial disease pathogenesis; oxidative stress
+
+Tie-Qiang Li, Jiaxin Liu, Caijing Zhuo,
+The Brain-Heart-Kidney Axis: a unified theory of systemic small vessel disease in CSVD,
+Medical Hypotheses,
+2025,
+111774,
+ISSN 0306-9877,
+https://doi.org/10.1016/j.mehy.2025.111774.
+(https://www.sciencedirect.com/science/article/pii/S0306987725002130)
+Abstract: Cerebral small vessel disease (CSVD) is a systemic small vessel disease syndrome driven by an interdependent brain–heart-kidney axis. Microvascular damage is mediated by endothelial nitric oxide synthase (eNOS) dysfunction, NF-κB-driven inflammation, and reactive oxygen species (ROS)-induced oxidative stress, amplified by genetic variants (NOS3, APOE, NOTCH3) and peripheral nervous system dysregulation. We predict 50–70% overlap among CSVD, coronary microvascular dysfunction, and chronic kidney disease, with gait disturbances and urinary dysfunction reflecting PNS and kidney involvement. Validation involves molecular profiling, multimodal imaging (MRI, cardiac MRI, renal ultrasound), and longitudinal studies. This model, inspired by multi-organ frameworks like Parkinson’s disease but distinct due to CSVD’s microvascular focus, guides integrated diagnostics, targeted therapies (eNOS enhancers, statins), and prevention strategies for systemic small vessel disease syndrome.
+Keywords: Brain-Heart-Kidney Axis; Cerebral Small Vessel Disease (CSVD); Systemic Small Vessel Disease (SVD); Coronary microvascular dysfunction (CMD); Chronic kidney disease (CKD); Peripheral Nervous System (PNS); Gait Disturbances; Urinary Dysfunction
+
+Rangabhatla Saishree, Nivedita Panda, Aishwarya Sharma, B. Anjan Kumar Prusty, Angel G. Polanco, Sunanda Kodikara Arachchi,
+Chapter 3 - Greenhouse gas emission reduction from food and agro-industrial wastes: global perspectives and challenges,
+Editor(s): Mika Sillanpää, Moharana Choudhury, Srijan Goswami,
+Food and Agro-Industrial Wastes,
+Academic Press,
+2026,
+Pages 33-50,
+ISBN 9780443316548,
+https://doi.org/10.1016/B978-0-443-31654-8.00019-9.
+(https://www.sciencedirect.com/science/article/pii/B9780443316548000199)
+Abstract: In the present era of modernization, waste generation is increasing, strongly influencing the ecosystem health, and impacting the environment. Since ancient times, food and agro-industrial waste management challenges have been popping up as a burning issue in many countries. Improper disposal of such waste has adverse impacts on the environment. This chapter examines the impact of food and agro-industrial waste on ecosystems, focusing on greenhouse gases (GHGs) emissions and emphasizing their safe disposal. This study is based on the collection, collation, and review of available literature, and analysis of the data extracted from the literature to assess the global food and agro-industrial waste production and GHG emissions, considering various disposal methods, for example, burning, dumping, and landfilling along with valorization. This chapter critically analyzes the production of food and agro-industrial waste globally also their potential GHG emissions, prevailing prevention mechanisms, and future perspectives on such issues. Food and agro-industrial waste exacerbate climate change with a significant GHG footprint. Methane (a potent GHG) is being produced during the production, treatment, and transportation of such wastes, and it also results in CO2 production during landfilling. According to the Environmental Protection Agency, the yearly emissions of CO2 from global agro-industrial waste, excluding emissions from landfills, amount to 170 million metric tons, equal to the annual emissions from 42 coal-fired power plants. The relationship between food and agro-industrial waste with climate change is being well acknowledged, as is the one between such waste and GHG emissions. Reduction and scientific management of food and agro-industrial waste can reduce biodiversity loss, decrease the GHG emissions, lessen water scarcity, and help in abatement of pollution. This chapter offers insightful information regarding the relationship between the production of agro-industrial waste and its effect on climate change, highlighting the need to implement scientific measures for waste reduction and valorization. Conversion of waste materials into products that are useful like biofuels, enzymes, organic acids, and bioplastics is known as valorization, and it reduces overall environmental footprint and contributes to sustainable waste management practices. The implications extend to policymakers, researchers, environmental agencies, and stakeholders interested in and/or associated with agro-industrial waste issues and their harmful impacts.
+Keywords: Agro-industrial waste; food waste; greenhouse gas emission; sustainable development; waste management
+
+Amr Almobayed, Emily Dorairaj, Sabrina Mas, Mustafa Alkhawam,
+Chapter 36 - Atherosclerosis and inflammation,
+Editor(s): Sanjoy K. Bhattacharya,
+Lipid Analysis in Biology, Health, and Disease,
+Academic Press,
+2026,
+Pages 513-525,
+ISBN 9780443191169,
+https://doi.org/10.1016/B978-0-443-19116-9.00036-1.
+(https://www.sciencedirect.com/science/article/pii/B9780443191169000361)
+Abstract: Atherosclerosis is a chronic, lipid-driven, and inflammatory disease characterized by the accumulation of low-density lipoprotein (LDL) in arterial walls, leading to plaque formation and cardiovascular events. Endothelial dysfunction, triggered by oxidative stress and LDL infiltration, initiates immune responses that drive plaque progression. Inflammation, perpetuated by oxidized LDL and immune cell activation, plays a crucial role in plaque instability. Lipoprotein(a) and other lipid-related factors further exacerbate vascular inflammation. Effective management involves both lipid-lowering therapies, such as statins and PCSK9 inhibitors, and anti-inflammatory treatments targeting mediators like IL-1β. Equally important are lifestyle modifications, including diet and exercise, which complement pharmacological approaches. Future strategies aim to integrate lipid management with anti-inflammatory therapies, offering a comprehensive path forward for personalized atherosclerosis treatment.
+Keywords: Anti-inflammatory treatments; Atherosclerosis; Individualized treatment; Inflammation; Lifestyle factors; Lipid metabolism; Lipid-lowering therapies; Lipidomics; Lipoproteins
+
+Jawad Muayad,
+Chapter 1 - Membrane expansion,
+Editor(s): Sanjoy K. Bhattacharya,
+Lipid Analysis in Biology, Health, and Disease,
+Academic Press,
+2026,
+Pages 3-10,
+ISBN 9780443191169,
+https://doi.org/10.1016/B978-0-443-19116-9.00008-7.
+(https://www.sciencedirect.com/science/article/pii/B9780443191169000087)
+Abstract: Membrane expansion is a crucial cellular process involving the increase in surface area and volume of cell membranes. This chapter delves into the significance of membrane expansion, highlighting its role in cell growth, division, and specialized functions, such as neuronal development and angiogenesis. It covers the structure and composition of cell membranes, emphasizing the Fluid Mosaic Model, and details the various lipid and protein components essential for membrane dynamics. The chapter also explores the mechanisms of membrane expansion, including lipid synthesis, vesicular and nonvesicular transport, and membrane curvature generation. In addition, it discusses the implications of membrane expansion in health and disease, addressing normal physiological processes and the potential for therapeutic interventions in conditions where membrane expansion is dysregulated. Understanding these mechanisms provides insights into cellular dynamics and potential targets for treating various diseases.
+Keywords: Cell membrane; Lipid synthesis; Membrane curvature; Membrane expansion; Neuronal development
+
+
+Index,
+Editor(s): Sanjoy K. Bhattacharya,
+Lipid Analysis in Biology, Health, and Disease,
+Academic Press,
+2026,
+Pages 611-621,
+ISBN 9780443191169,
+https://doi.org/10.1016/B978-0-443-19116-9.20001-8.
+(https://www.sciencedirect.com/science/article/pii/B9780443191169200018)
+
+David Teren, Jorge L. Alio,
+Chapter 1 - Aging as a risk factor in eye disease: Mechanisms of aging in the human body,
+Editor(s): Jorge L Alio MD, Andrzej Grzybowski, Anat Loewenstein,
+Aging in Ophthalmology,
+Academic Press,
+2026,
+Pages 1-12,
+ISBN 9780443139833,
+https://doi.org/10.1016/B978-0-443-13983-3.00002-X.
+(https://www.sciencedirect.com/science/article/pii/B978044313983300002X)
+Abstract: Aging is a fundamental biological process that influences cellular and molecular mechanisms throughout the body, including the visual system. This chapter explores the intricate interplay of genetic, epigenetic, and environmental factors shaping the aging trajectory. Key mechanisms such as DNA damage, telomere shortening, mitochondrial dysfunction, and oxidative stress drive age-related changes, while lifestyle factors modulate their effects. The eye undergoes progressive structural and functional modifications, predisposing it to conditions such as cataracts, glaucoma, and macular degeneration. Understanding the broader mechanisms of aging in the body provides crucial insights into recognizing and deciphering the processes of ocular aging, enabling early identification and potential intervention strategies.
+Keywords: Aging; DNA; Epigenetic; Mitochondrial dysfunction; Reactive oxygen species
+
+Daniel Briscoe, Oz Levinkron, Daniella Shalom, Muhammad Kridin, Joel Gutovitz, Shahar Frenkel,
+Chapter 17 - Aging surgery of ocular adnexa and conjunctiva,
+Editor(s): Jorge L Alio MD, Andrzej Grzybowski, Anat Loewenstein,
+Aging in Ophthalmology,
+Academic Press,
+2026,
+Pages 241-254,
+ISBN 9780443139833,
+https://doi.org/10.1016/B978-0-443-13983-3.00015-8.
+(https://www.sciencedirect.com/science/article/pii/B9780443139833000158)
+Abstract: Age-related changes in the orbit and ocular adnexa are a major cause of ophthalmic dysfunction. Understanding and identifying the causes of symptomatic eye problems associated with the advancing age of the adnexa allows us to give far better surgical and medical corrective management. The adnexa comprises the orbit, lacrimal gland, conjunctiva, and lacrimal drainage system, in addition to the eyelids, which have been discussed in a separate chapter. All the structures change significantly with age, and the main changes are discussed below. Obviously, the number of different diseases is colossal, so only the most common age-related problems are examined and discussed in this chapter. These include dry eye, dacryostenosis, dacryocystitis, canaliculitis, conjunctival age-related problems, including tumors, and changes in the orbit.
+Keywords: Aging; Canaliculitis; Dacryocystitis; Dacryostenosis; Dry eye; Eye surgery; Extraocular muscles; Lacrimal; Ophthalmology; Orbital structure; Pathology; Tumor
+
+Ruminder Preet Kaur, Keerthi Palagati,
+Chapter 40 - Associations of lipids with diseases in large cohort studies and randomized trials,
+Editor(s): Sanjoy K. Bhattacharya,
+Lipid Analysis in Biology, Health, and Disease,
+Academic Press,
+2026,
+Pages 565-610,
+ISBN 9780443191169,
+https://doi.org/10.1016/B978-0-443-19116-9.00040-3.
+(https://www.sciencedirect.com/science/article/pii/B9780443191169000403)
+Abstract: The complex relationship between lipids and health has been extensively studied in medicine. There are numerous studies going on about lipids in the form of randomized controlled trial and cohort studies. Randomized controlled trial and cohort studies are done in diseased population to study about the lipid composition in the diseased population. Lipids play a crucial role in forming the cell membrane and any abnormality in either quality or quantity of lipids in the human body leads to different pathologies which are discussed in this chapter. The identification of essential fatty acids marked a pivotal advancement in lipid research. Though there is available research on association of lipids in different pathologies, more extensive research should be done to avail a better understanding of the association of lipids and different treatment formulations. This chapter provides a comprehensive overview of the role of lipids in human health and disease. It delves into the intricate relationship between lipids and various physiological processes, highlighting their significance in different stages of life, from infancy to adulthood.
+Keywords: Cohort studies; Dyslipidemia; Lipid layer; Lipid storage disorders; Lipidomics; Lipids; Lipids and cardiovascular system; Lipids and dermatological conditions; Lipids and gastrointestinal disease; Lipids and ocular disease; Lipids and respiratory system; Metabolic syndrome; Randomized controlled trials
+
+Cui Yan, Mengsha Zou, Dide Wu, Yingqian Chen, Yanglei Cheng, Yufen Li, Shubin Hong, Zhiyun Yang, Hongzhang Zhu,
+Local-to-remote brain function alterations in patients with thyroid-associated ophthalmopathy: a resting-state fMRI study,
+Clinical Radiology,
+2025,
+107108,
+ISSN 0009-9260,
+https://doi.org/10.1016/j.crad.2025.107108.
+(https://www.sciencedirect.com/science/article/pii/S0009926025003137)
+Abstract: Introduction
+To explore the brain activity alterations in both local and remote brain functional interactions in patients with thyroid-associated ophthalmopathy (TAO) using the method combining regional homogeneity (ReHo) and functional connectivity (FC) analysis.
+Methods
+We recruited 44 patients with TAO and 23 age- and sex-matched healthy controls. Resting-state functional magnetic resonance imaging (rs-fMRI) data were collected. The ReHo values of the whole brain voxels were first calculated and compared them between the two groups. The brain regions with different ReHo values were defined as regions of interest (ROI). The FC analysis was secondly conducted between ROIs and the whole brain. The correlations among ReHo, FC values and clinical parameters were analyzed.
+Results
+Compared with healthy controls, patients with TAO showed increased ReHo values in the left posterior cingulate gyrus (PCG) and decreased ReHo values in the right orbital part of the inferior frontal gyrus (ORBinf) and the right middle temporal gyrus (MTG). The ROI-based FC analysis showed significantly increased FC values between the left PCG and the left precuneus and between the left PCG and the right PCG. The ReHo values in the right MTG were positively correlated with the Hamilton Anxiety Rating Scale (HARS, r=0.45, p=0.034).
+Conclusion
+Patients with TAO exhibit significant brain dysfunction in local and remote brain functional connectivity in brain regions mainly related to cognitive function, suggesting a possible neuroimaging marker of neuropsychological disorder in TAO.
+
+Wenrui Yang, Jiandong Niu, Yuhui Xiong, Xucong Wang, Jian Li, Zhuo Wang, Dengyan Song, Bing Chen,
+Gray matter microstructural abnormalities in temporal lobe epilepsy with hippocampal sclerosis and MRI negative,
+European Journal of Radiology,
+2025,
+112455,
+ISSN 0720-048X,
+https://doi.org/10.1016/j.ejrad.2025.112455.
+(https://www.sciencedirect.com/science/article/pii/S0720048X25005418)
+Abstract: Objective
+To assess the changes of cortical microstructure in patients with temporal lobe epilepsy combined with hippocampal sclerosis (TLE-HS) and MRI-negative TLE (negative-TLE) and its correlation with clinical characteristics.
+Methods
+A total of 59 TLE-HS patients, 47 negative-TLE patients, and 67 healthy controls (HC) participated in this study. Gray matter-based spatial statistics (GBSS) analysis was performed using neurite orientation dispersion and density imaging (NODDI) data to compare differences in gray matter (GM) microstructure across the groups, including neurite density index (NDI), orientation dispersion index (ODI). Microstructural indicators were determined to be statistically significant using the threshold-free cluster enhancement method, and multiple comparisons were corrected using the family-wise error (FWE) method. PFWE < 0.05 was considered statistically significant. The correlation between the indicator values of significantly different brain regions and clinical characteristics was also analyzed.
+Results
+Compared with the HC group, TLE-HS exhibited widespread reductions in NDI and ODI values within GM, and these changes were primarily affecting the bilateral frontotemporal lobes and limbic system. In contrast to the negative-TLE group, the decrease in NDI in TLE-HS patients was more localized and showed partial lateralization. This decrease was most pronounced in the bilateral frontal pole, frontal gyrus, left temporal pole, temporal gyrus, parahippocampal gyrus, insula, precuneus, cingulate gyrus, and anterior and posterior central gyrus. The NDI values in several gray matter regions in TLE patients were positively correlated with disease onset age, with moderate positive correlations predominantly observed in the middle frontal gyrus, temporal pole, and parahippocampal gyrus. Additionally, NDI values in the parahippocampal gyrus were negatively correlated with disease duration.
+Conclusion
+TLE-HS patients show extensive GM microstructural changes, primarily in the frontotemporal lobe and limbic system. Our findings support the hypothesis that TLE-HS and MRI-negative TLE represent two distinct pathological entities. This study provides strong evidence of the pattern of microstructural alterations in TLE and offers insights into the understanding of GM microstructural changes in TLE patients.
+
+Sherene Jacob, Vasudevan Karuppiah,
+Bio-realistic evaluation of an implantable antenna for safe neurostimulation medical system,
+AEU - International Journal of Electronics and Communications,
+2025,
+156054,
+ISSN 1434-8411,
+https://doi.org/10.1016/j.aeue.2025.156054.
+(https://www.sciencedirect.com/science/article/pii/S1434841125003954)
+Abstract: This work demonstrates a Roman mosaic-inspired meandered-line antenna with a Defected Ground Structure (DGS) for neurostimulator implant devices in the 2.45  GHz ISM band. The ultra-miniaturized antenna has a compact footprint of 4 × 4 × 0.635  mm3, one of the smallest reported in implantable antenna literature. The combined meandered geometry and DGS introduce a slow-wave effect, effectively extending the electrical current path and enabling resonance within this constrained volume. Fabricated on a Rogers 6010 substrate, the antenna has a significant fractional bandwidth of 34.3 % (840 MHz) with −17.1 dBi peak gain when measured. Evaluations of the packaged prototype with battery under tissue-equivalent conditions confirm excellent antenna performance. The design complies with IEEE C95.1 SAR limits. Thermal analysis indicates temperature rise within the safety margins, not more than 1 °C. The antenna maintains stable operation under temperature rise and in the presence of nearby electronic devices. A detailed link budget analysis evaluates the system performance at different bitrates. The results affirm the suitability of the proposed antenna for long-term, safe, and efficient neurostimulator-based biotelemetry
+Keywords: Neurostimulator; Implantable antenna; Implantable devices; Meandered antenna; Biotelemetry; Sensors
+
+Bouchra Benhniya, Fatima Zahra Karmil, Fatima Lakhdar, Zakaria Boujhoud, Badr-ddine El Mouns, Noreddine Rezzoum, Nathalie Bourgougnon, Samira Etahiri,
+Structural and Chemical Characterization of Polysaccharides from the Red Alga Plocamium cartilagineum (Linnaeus) P.S. Dixon 1967 with Antiviral, Anti-Angiogenic, and Anti-Inflammatory Activities.,
+Bioactive Carbohydrates and Dietary Fibre,
+2025,
+100499,
+ISSN 2212-6198,
+https://doi.org/10.1016/j.bcdf.2025.100499.
+(https://www.sciencedirect.com/science/article/pii/S2212619825000336)
+Abstract: Marine algae are abundant in marine ecosystems and represent a valuable source of bioactive compounds. This study reports the extraction and characterization of the sulfated polysaccharide fraction (PCPS) from the Moroccan red alga Plocamium cartilagineum. The antiviral, anti-angiogenic, and anti-inflammatory activities of the cell wall sulfated polysaccharide (PCPS) were evaluated. The biochemical composition of PCPS was analyzed by quantifying total sugar, protein, uronic acid, polyphenol, and sulfate group contents. The structural characteristics of the extract were investigated using Fourier transform infrared spectroscopy, ultraviolet-visible spectroscopy, X-ray diffraction, scanning electron microscopy, and high-performance liquid chromatography coupled with mass spectrometry. The extraction yield of PCPS was 11.63± 0.13%, with sugars (72.06 ± 0.18%) and sulfate groups (12.27 ± 0.06%). FTIR confirmed the presence of sulfated polysaccharides, while XRD indicated a semi-crystalline to amorphous transition. HPLC-MS identified galactose, arabinose, and glucose, classifying PCPS as a heteropolysaccharide. PCPS exhibited strong antiviral activity against HSV-1 (EC50 = 3.84 ± 2.8 μg/mL), anti-inflammatory effects by inhibiting phospholipase A2 and elastase (IC50 = 0.138 and 1.34 μg/mL, respectively), and anti-angiogenic properties, reducing vessel formation in the chorioallantoic membrane assay by 46.26%. These findings highlight the pharmaceutical potential of P. cartilagineum polysaccharides.
+Keywords: Plocamium cartilagineum; Polysaccharide; Chemical characterization; Antiviral activity; Anti-Angiogenic activity; Anti-Inflammatory activity
+
+Ali Ghalib Mutar Mahdi, Batool Mutar Mahdi,
+Chapter 7 - Mitochondrial mutations,
+Editor(s): Seyyed Shamsadin Athari, Entezar Mehrabi Nasab,
+In Translational and Applied Bioenergetics,
+Mitochondrial Signaling and  Regulation,
+Academic Press,
+2026,
+Pages 193-203,
+ISBN 9780443248368,
+https://doi.org/10.1016/B978-0-443-24836-8.00007-9.
+(https://www.sciencedirect.com/science/article/pii/B9780443248368000079)
+Abstract: Mitochondrial DNA plays a vital role in cellular energy metabolism and is integral to the function of mitochondria. It is a unique structure in the eukaryotic cell inherited maternally, and implications in health and diseases make it a critical area of study in genetics and biomedicine. Understanding mtDNA not only sheds light on cellular energy production but also provides insights into evolutionary biology and the genetics of various medical and dental diseases.
+Keywords: Mitochondrial DNA; mutations; electron transport chain; protein-coding genes; neurodegenerative disorders
+
+Katelyn Hummel, Luigi Boccuto, Sara M. Sarasua, Kendra Allison, Garrie B. Thompson,
+A Narrative Review of miR-124 as a Shared Molecular Marker Across Psychiatric Disorders,
+Brain Mechanisms,
+2025,
+202522,
+ISSN 3050-6425,
+https://doi.org/10.1016/j.bramec.2025.202522.
+(https://www.sciencedirect.com/science/article/pii/S3050642525000387)
+Abstract: Background
+Psychiatric conditions are characterized by significant symptom heterogeneity, genetic overlap, and comorbidity, which complicate diagnosis, prognosis, and treatment. Transdiagnostic biomarkers may help uncover shared biological mechanisms, offering a more precise framework for understanding psychopathology. microRNA-124 (miR-124), a key regulator of CNS pathways, may offer biologically grounded insights across diagnostic categories.
+Objective
+This review examines miR-124 expression and function across psychiatric disorders to assess its potential as a transdiagnostic biomarker.
+Methods
+A systematic literature search of PubMed and APA PsycInfo was conducted to identify clinical studies on miR-124 in psychiatric disorders and related phenotypes. Fifteen studies met the inclusion criteria and were analyzed using thematic synthesis to identify diagnostic and transdiagnostic patterns.
+Results
+miR-124 was consistently upregulated in major depressive disorder, schizophrenia, bipolar disorder, substance use disorders, and suicidality, although expression patterns vary by treatment. This miRNA has been implicated in neuroplasticity, synaptic remodeling, stress and glucocorticoid signaling, cognitive dysfunction, emotion regulation, and large-scale brain network connectivity. Evidence in ADHD and anxiety-related disorders remains preliminary. Genetic and epigenetic studies further support this molecule’s diagnostic and prognostic potential.
+Conclusion
+miR-124 shows promise as a shared molecular marker reflecting core neurobiological processes in several psychiatric illnesses. Further research using multi-omic, longitudinal designs is needed to clarify its role and potential integration into miRNA-based diagnostic frameworks.
+Keywords: miR-124; psychiatric disorders; biomarker; precision psychiatry; RDoC; transdiagnostic; major depressive disorder; schizophrenia; bipolar disorder; addiction; suicidality
+
+Rajapriya Govindaraju, Jose Paul, Jihyeon Kim, Jongsung Kim,
+Iron and nitrogen co-doped MXene quantum dots: A novel dual-mode electrochemical and fluorescence sensor for dopamine detection,
+Journal of the Taiwan Institute of Chemical Engineers,
+Volume 179,
+2026,
+106421,
+ISSN 1876-1070,
+https://doi.org/10.1016/j.jtice.2025.106421.
+(https://www.sciencedirect.com/science/article/pii/S1876107025004717)
+Abstract: Background
+MXene quantum dots (MQDs) possess excellent conductivity, abundant active sites, and unique optical properties, yet their metal/heteroatom-modified sensing applications remain underexplored. Here, we report Fe- and N-co-doped MXene quantum dots (FeOMQDs) for the detection of dopamine (DA).
+Methods
+FeOMQDs were synthesized via a one-step hydrothermal process using MXene sheets, FeCl₃, and o-phenylenediamine, and characterized by FTIR, TEM, and XPS. Their fluorescence and electrochemical properties were exploited for DA sensing.
+Significant Findings
+The fluorescence sensing mechanism is governed by DA-induced quenching of FeOMQDs photoluminescence through metal–analyte complexation. The platform exhibited a linear range of 1–10 nM with a detection limit of 0.56 nM. For electrochemical analysis, FeOMQDs were immobilized on glassy carbon electrodes (GCE) and screen-printed electrodes (SPE), followed by evaluation via cyclic voltammetry (CV) and differential pulse voltammetry (DPV). Enhanced electrocatalytic activity toward DA oxidation was observed, attributed to the synergistic interactions between Fe centers and the MXene matrix. The FeOMQDs–GCE demonstrated a linear range of 2–20 nM with detection limits of 1.8 nM (CV) and 1.09 nM (DPV), along with an extended linear range of 40–1000 nM in CV studies. The probes showed excellent reproducibility, stability, and selectivity, with reliable recovery in human serum, confirming their promise for practical bioanalytical applications.
+Keywords: Dopamine; Electrochemical; Fluorescence; Glassy carbon electrode; Screen printed electrode
+
+Katiria Soto-Diaz, Eugene Varfolomeev, Domagoj Vucic,
+Ubiquitin Signaling to NF-κB,
+Editor(s): Paul M. Kaye,
+Encyclopedia of Immunobiology (Second Edition),
+Academic Press,
+2026,
+Pages 607-624,
+ISBN 9780128244807,
+https://doi.org/10.1016/B978-0-12-824465-4.00198-8.
+(https://www.sciencedirect.com/science/article/pii/B9780128244654001988)
+Abstract: The immune system is under pressure to operate in an effective, precise and safe manner to ensure the defense against diverse pathogens while avoiding attacking the body itself and preventing autoimmunity. Nuclear factor-kappa B (NF-κB) signaling controls multiple cellular processes and plays instrumental role in many physiological and pathological processes involving cell growth and survival, immune and inflammatory responses, and developmental processes. Ubiquitination is a post-translational modification that is critical for proper functioning of the immune system and essential for the execution of NF-κB signaling. Nondegradative ubiquitination allows the assembly of NF-κB activating protein signaling complexes, while degradative ubiquitination ensure the destruction of NF-κB inhibitory components, and it also enables fine tuning of signaling to prevent excessive activation. Importantly, dysregulation of the ubiquitination and NF-κB signaling can lead to an abnormal immune response and contribute to the development of autoimmune diseases. This is frequently caused by genetic mutations that affect the expression and/or function of various regulators of NF-κB and ubiquitination. Future studies of molecular principles of ubiquitination and NF-κB signaling should provide further insights into immune system and disease processes which they regulate.
+Keywords: Canonical and noncanonical pathways; Deubiquitinases (DUBs); K63-linked ubiquitin chains; Linear ubiquitination (LUBAC); NF-κB signaling; Receptor-associated ubiquitination (TNFR, IL-1R, TLRs); Ubiquitin chain specificity; Ubiquitin dynamics in autoimmunity; Ubiquitin editing of inflammatory pathways; Ubiquitination; Ubiquitin-dependent immune signaling
+
+Yaoyu Yan, Shuchen Sun, A. Shubo, Jing Wei, Faxin Xiao, Ganfeng Tu,
+Towards sustainable management of electrolytic manganese residue: Pollution control and circular resource utilization,
+Minerals Engineering,
+Volume 235, Part 1,
+2026,
+109798,
+ISSN 0892-6875,
+https://doi.org/10.1016/j.mineng.2025.109798.
+(https://www.sciencedirect.com/science/article/pii/S0892687525006260)
+Abstract: Electrolytic manganese residue (EMR), a major byproduct of electrolytic manganese metal (EMM) production, poses significant environmental and resource management challenges. This review systematically examines the physicochemical properties, environmental impact, and current detoxification and valorization strategies for EMR. Various utilization approaches, including resource recovery, construction materials, environmental remediation, and functional materials, are evaluated in terms of their applications, advantages, and limitations. The potential for optimizing EMR processing to enhance sustainability is highlighted, with a focus on cost-effective detoxification methods and circular economy-driven utilization strategies. Advanced materials engineering plays a key role in enhancing the performance and utilization efficiency of EMR-based functional materials. In parallel, comprehensive environmental management strategies are vital to mitigate ecological risks and ensure sustainable implementation.
+Keywords: Electrolytic manganese metal (EMM); Electrolytic manganese residue (EMR); Utilization technology; Environmental pollution; Sustainable treatment
+
+Seyyed Shamsadin Athari, Entezar Mehrabi Nasab, Rahaf Akel Rajjoub, Taib Ahmed Hama Soor, Luay Rashan, Mohammad Borji, Mohammad Changez, Bahador Hajimohammadi, Yadgar Abdalla,
+Chapter 11 - Mitochondria in immune cells: their role in immunity, inflammation, and metabolism,
+Editor(s): Seyyed Shamsadin Athari, Entezar Mehrabi Nasab,
+In Translational and Applied Bioenergetics,
+Mitochondrial Signaling and  Regulation,
+Academic Press,
+2026,
+Pages 363-530,
+ISBN 9780443248368,
+https://doi.org/10.1016/B978-0-443-24836-8.00011-0.
+(https://www.sciencedirect.com/science/article/pii/B9780443248368000110)
+Abstract: Mitochondria, the powerhouses of the cell, have long been recognized for their crucial role in generating adenosine triphosphate through oxidative phosphorylation. However, over the past few decades, research has uncovered the far-reaching implications of mitochondrial function beyond energy production, particularly in immune cells. These organelles are central to processes such as immune cell activation, differentiation, signaling, and apoptosis. The link between mitochondrial function and immune responses has become a focal point in immunology, with growing recognition of how mitochondrial dysfunction contributes to the pathogenesis of various immune-related diseases
+Keywords: Mitochondria; adenosine triphosphate; metabolism; immune systems; regulatory T cells
+
+
+Index,
+Editor(s): Salvatore Claudio Fanni, Lorenzo Faggioni, Isabella Castiglioni, Emanuele Neri,
+Methodology in Radiomics,
+Academic Press,
+2026,
+Pages 229-234,
+ISBN 9780443292422,
+https://doi.org/10.1016/B978-0-443-29242-2.00017-3.
+(https://www.sciencedirect.com/science/article/pii/B9780443292422000173)
+
+Chang Liu, Fei-fan Lai, Ting Zhang, Kun-jun Mao, Hai-tong Wan, Yu He,
+Roles and therapeutic potential of PARP-1 in neurodegenerative diseases,
+Biochemical Pharmacology,
+2025,
+117373,
+ISSN 0006-2952,
+https://doi.org/10.1016/j.bcp.2025.117373.
+(https://www.sciencedirect.com/science/article/pii/S0006295225006380)
+Abstract: Poly(ADP-ribose) polymerase 1 (PARP-1) was first discovered in the 1960 s, and over the past few decades, there has been growing evidence that PARP-1 plays a key role in neurodegenerative diseases such as Parkinson’s disease, Alzheimer’s disease, Huntington’s disease, and amyotrophic lateral sclerosis. With DNA damage detection and repair as its main function, PARP-1 is activated by regulation in the early stages of neurodegenerative diseases, quickly and effectively repairs mild DNA damage, and protects nerve cells from death. However, as the disease progresses, severe DNA damage causes PARP-1 to overactivate, resulting in neuronal cell death, including apoptosis, necrosis, and parthanatos, further exacerbating the disease progression. PARP-1 is also involved in the pathological process of neurodegenerative diseases, such as pathological protein aggregation, neuroinflammation, mitochondrial dysfunction, autophagy disorder, and damage to the blood–brain barrier. According to a large number of studies, PARP-1 inhibition has shown great therapeutic potential for neurodegenerative diseases, and the development of PARP-1 inhibitors has received increasing attention. Here, we review the role of PARP-1 in the process of neurodegenerative diseases and summarize the latest research progress and application of PARP-1 inhibitors in neurodegenerative diseases.
+Keywords: PARP-1; PARP-1 inhibitors; Neurodegenerative diseases; Parkinson’s disease; Alzheimer’s disease
+
+Yousra Reda, Cai Zong, Akane Ikoma, Alzahraa Fergany, Saleh Ahmed, Walaa Slouma Hamouda Abd El Naby, Sahoko Ichihara, Gaku Ichihara,
+Role of inflammatory response in benzo[a]pyrene-induced noradrenergic axon degeneration in mouse brain,
+Toxicology Letters,
+2025,
+111737,
+ISSN 0378-4274,
+https://doi.org/10.1016/j.toxlet.2025.111737.
+(https://www.sciencedirect.com/science/article/pii/S0378427425026839)
+Abstract: Environmental pollution is a major contributor to neurotoxicity and could explain various nervous system dysfunctions. The polycyclic aromatic hydrocarbon (PAH) benzo[a]pyrene (B[a]P) is widely present in the environment, including air polluted with combustion or cigarette smoke, and considered to be involved in the development of neurodegenerative disorders. Our previous study demonstrated that B[a]P decreased noradrenergic axon density and upregulated proinflammatory cytokines in the mouse brain. The aim of this study was to explore the hypothesis that B[a]P induced neurodegeneration through signals related to inflammatory response in the brain and that sulforaphane (SFN), a naturally present antioxidant and anti-inflammatory compound, can protect against B[a]P-induced neurotoxicity. Adult male mice (C57Bl/6JJcl) were exposed to B[a]P at 0, 0.87, 2.74 or 8.67µg which is approximately equivalent to (0.037,0.117 and 0.37mg/kg) by pharyngeal aspiration once a week, with subcutaneous injection of SFN at 0 or 25mg/kg body weight daily for 4 weeks. Neurotoxicity was evaluated by morphological examination of noradrenergic axon density and the positive stained Iba-1 microglia in the hippocampal areas CA1 and CA3. Moreover, we also analyzed the expression of various genes in the same tissues. At 8.67µg, B[a]P significantly increased brain weight. Sulforaphane protected against B[a]P-induced neurotoxicity, including brain weight gain, decreased noradrenergic axon density, and microglial activation in the hippocampus. Sulforaphane also suppressed B[a]P-induced upregulation of Nf-κB and Il-6. These findings demonstrate that SFN effectively protected against B[a]P-induced neuroinflammation and axonal degeneration and suggest that B[a]P-induced neurodegeneration is mediated through brain inflammatory response.
+Keywords: benzo[a]pyrene; sulforaphane; neurotoxicity; noradrenergic axons; microglia; neuroinflammation
+
+Meng Li, Hongxin An, Jialing Zhang, Weiyu Li, Chuanfei Yu, Lan Wang,
+Advances in the Pharmaceutical Development of Antibody-Oligonucleotide Conjugates,
+European Journal of Pharmaceutical Sciences,
+2025,
+107292,
+ISSN 0928-0987,
+https://doi.org/10.1016/j.ejps.2025.107292.
+(https://www.sciencedirect.com/science/article/pii/S0928098725002908)
+Abstract: Antibody-oligonucleotide conjugates (AOCs) are a novel class of therapeutics composed of an antibody, a linker, and an oligonucleotide. AOCs combine the antigen-specific binding capability of an antibody and the gene-regulatory function of an oligonucleotide to achieve targeted and efficient therapeutic intervention across a range of diseases. Although AOCs are in the early stages of development, progress has been steady over the last few decades. The structural complexity and mechanistic diversity of AOCs contribute to manufacturing and quality control challenges, requiring strategies to ensure therapeutic efficacy and minimize off-target toxicity. The design, manufacturing, and quality control of AOCs are essential to ensuring their safety and efficacy. This review summarizes the history and current clinical development of AOCs, focusing on mechanisms of action, molecular design with various linkers, and recent advances in manufacturing processes and quality control. Additionally, the current challenges and future prospects for the development of AOC therapeutics are highlighted.
+Keywords: antibody-oligonucleotide conjugate; gene regulation; critical quality attribute; linker; manufacturing process; quality control
+
+Miloslav Klugar, Tamara Lotfi, Andrea J. Darzi, Marge Reinap, Jitka Klugarová, Lucia Kantorová, Jun Xia, Romina Brignardello-Petersen, Andrea Pokorná, Glen Hazlewood, Zachary Munn, Rebecca L. Morgan, Ingrid Toews, Ignacio Neumann, Patraporn Bhatarasakoon, Airton Tetelbom Stein, Michael McCaul, Alexander G. Mathioudakis, Kristen E. D'Anci, Grigorios I. Leontiadis, Celeste Naude, Lenny T. Vasanthan, Joanne Khabsa, Malgorzata M. Bala, Reem Mustafa, Karen DiValerio Gibbs, Robby Nieuwlaat, Nancy Santesso, Dawid Pieper, Saphia Mokrane, Israa Soghier, Wanchai Lertwatthanawilat, Wojtek Wiercioch, Shahnaz Sultan, Jana Rozmarinová, Pavla Drapačová, Yang Song, Marwa Amer, Yasser S. Amer, Shahab Sayfi, Ilse M. Verstijnen, Ein-Soon Shin, Zuleika Saz-Parkinson, Kevin Pottie, Alessandra Ruspi, Ana Marušić, K.M. Saif-Ur-Rahman, Maria X. Rojas, Elie A. Akl, Holger J. Schünemann,
+Corrigendum to GRADE guidance 39: using GRADE-ADOLOPMENT to adopt, adapt or create contextualized recommendations from source guidelines and evidence syntheses [Journal of Clinical Epidemiology 81 (2024) 111494],
+Journal of Clinical Epidemiology,
+Volume 187,
+2025,
+111969,
+ISSN 0895-4356,
+https://doi.org/10.1016/j.jclinepi.2025.111969.
+(https://www.sciencedirect.com/science/article/pii/S0895435625003026)
+
+Bo Han, Niubing Sun, Mengfei Wang, Anqi Shen, Xuezhi Yang, Qingwei Zhang,
+The role and potential therapeutic application of HDAC6 inhibitors in inflammation-related diseases: A medicinal chemistry perspective,
+Bioorganic Chemistry,
+2025,
+109052,
+ISSN 0045-2068,
+https://doi.org/10.1016/j.bioorg.2025.109052.
+(https://www.sciencedirect.com/science/article/pii/S0045206825009320)
+Abstract: Histone deacetylase 6 (HDAC6), as the most structurally and functionally unique member of the HDAC family, mediates the deacetylation process of various histone or non-histone substrates. Broad biological functions promote HDAC6 to involve a variety of physiological processes, particularly plays an important role in the pathological process of inflammation. HDAC6 activates the NF-κB signaling pathway through deacetylation, upregulating the expression of inflammation-related genes (e.g. TNF, NLRP3 and IL1B). Additionally, HDAC6 also participates in NLRP3 inflammasome activation through its ZnF-UBP domain, thereby resulting in the release of various inflammatory cytokines. Notably, several conventional HDAC6 inhibitors have exhibited promising therapeutic effects in various inflammation-related disease models. These findings underscore the potential of HDAC6 as a therapeutic target, and some explorations of novel HDAC6 inhibitors for treating inflammation have been reported recently. Herein, we summarized the critical role of HDAC6 in inflammation, highlight recent advances of HDAC6 inhibitors in inflammation treatment and propose some insights about future development from the perspective of medicinal chemistry, aiming to provide some guidance for the application of HDAC6 inhibitors in inflammation-related diseases.
+Keywords: HDAC6; HDAC6 inhibitors; Inflammation; Therapeutic application; Drug discovery
+
+Shooka Mohammadi, Damoon Ashtary-Larky, Navid Alaghemand, Ilnaz Alavi, Mahsa Erfanian-Salim, Pouyan Sanjari Pirayvatlou, Yeganeh Ettehad, Aida Borzabadi, Milad Mehrbod, Omid Asbaghi,
+Effects of alpha-lipoic acid supplementation on cardiometabolic risk factors: A systematic review and dose-response meta-analysis,
+Nutrition, Metabolism and Cardiovascular Diseases,
+2025,
+104370,
+ISSN 0939-4753,
+https://doi.org/10.1016/j.numecd.2025.104370.
+(https://www.sciencedirect.com/science/article/pii/S0939475325005241)
+Abstract: Aims
+There is no definitive consensus regarding the impacts of alpha-lipoic acid (ALA) supplementation on the risk factors of cardiometabolic syndrome (CMS). This systematic review and meta-analysis evaluated the effects of ALA supplementation on CMS risk factors.
+Data Synthesis
+A comprehensive search of several databases identified 63 eligible randomized controlled trials (RCTs) published until May 2025. The meta-analysis revealed that supplementation with ALA substantially decreased homeostatic model assessment for insulin resistance (weighted mean difference (WMD): -0.74, 95% confidence interval (CI): -1.17, -0.31; P = 0.001), waist circumference (WMD: -1.10 cm, 95% CI: -1.66, -0.54; P < 0.001), body mass index (WMD: -0.27 kg/m2, 95% CI: -0.44, -0.10; P = 0.002), fat mass (WMD: -1.42 kg, 95% CI: -2.53, -0.31; P = 0.012), body weight (WMD: -0.64 kg, 95% CI: -1.04, -0.24; P = 0.002), serum levels of fasting blood glucose (WMD: -5.28 mg/dL, 95% CI: -7.21, -3.35; P < 0.001), total cholesterol (WMD: -3.91 mg/dL, 95% CI: -7.35, -0.46; P = 0.026), hemoglobin A1C (WMD: -0.40%, 95% CI: -0.66, -0.14; P = 0.003), triglycerides (WMD: -2.90 mg/dL, 95% CI: -5.21, -0.59; P = 0.014), and fasting insulin (WMD: -1.70 mU/mL, 95% CI: -2.88, -2.53; P = 0.004) in the ALA group compared with the control group. However, no substantial effect of ALA was identified on low-density lipoprotein cholesterol, blood pressure, and high-density lipoprotein cholesterol.
+Conclusions
+ALA supplementation may improve certain cardiometabolic risk factors by ameliorating anthropometric and glycemic parameters, as well as through its potential lipid-lowering effects.
+Prospero registration
+CRD420251038360
+Keywords: Alpha-lipoic acid; Glycemic profile; Cardiometabolic syndrome; Anthropometric; lipid profile; Blood pressure
+
+Samuel J Thorburn, James McCarthy,
+More than a fever: encephalitis due to typhoid fever,
+International Journal of Infectious Diseases,
+2025,
+108092,
+ISSN 1201-9712,
+https://doi.org/10.1016/j.ijid.2025.108092.
+(https://www.sciencedirect.com/science/article/pii/S1201971225003145)
+Abstract: Worldwide, 10.9 million cases of typhoid fever occur every year with 116,000 deaths. The largest burden of disease occurs in Africa and Asia but imported cases in travellers, including those visiting friends and relatives, are common. Whilst the majority of cases are uncomplicated and respond well to antibiotics alone, severe disease may occur, particularly in incompletely or untreated cases. Mortality is particularly common where complications, including shock, intestinal perforation or neurological involvement, occur. A case of typhoid fever with severe neurological involvement resulting in coma, seizures and prolonged disability is presented. Despite prompt initiation of appropriate empiric antibiotics, neurological deterioration occurred with a prolonged requirement for mechanical ventilation, severe cerebral oedema and disability. The role for adjunctive corticosteroids and data supporting these therapies is reviewed as is the uncertainty around optimal dose and duration. The pathophysiology of neurological involvement in typhoid fever, with a focus on recent data from animal models, is presented.
+Keywords: Typhoid fever; Salmonella Typhi; Encephalitis
+
+Ishita Kamboj, Alma Habib, Darryl Chang, Aliya Rashid, Andrew Vegel, Kevin Graf, Emily Struble, Muhammad Umair Mushtaq, Zahra Mahmoudjafari, Kimberly Green, Abdullah Mohammad Khan, Christopher Sun Strouse, Joseph P McGuirk, Hamza Hashmi, Hira Shaikh, Shebli Atrash, Al-Ola Abdallah, Nausheen Ahmed,
+Real-World Efficacy Outcomes of Ciltacabtagene Autoleucel in Relapsed Refractory Multiple Myeloma: A Comparative Study with the Cartitude-1 Trial,
+Clinical Lymphoma Myeloma and Leukemia,
+2025,
+,
+ISSN 2152-2650,
+https://doi.org/10.1016/j.clml.2025.09.015.
+(https://www.sciencedirect.com/science/article/pii/S2152265025042260)
+Abstract: The CARTITUDE-1 Trial (C-1) led to the approval of ciltacabtagene autoleucel (cilta-cel), a BCMA-directed CAR-T cell therapy, for patients with relapsed or refractory multiple myeloma (RRMM) after ≥3 lines of therapy. However, the inclusion criteria may not fully represent patients in the real-world (RW). Leveraging a national multicenter cohort of patients with RRMM, we conducted a retrospective analysis comparing 73 patients who received cilta-cel in the RW to 97 patients treated in C-1 by evaluating clinical characteristics, depth of response, survival outcomes, and toxicity. Results showed that the RW baseline demographics such as age, proportion of racial minorities, gender, prior therapies, and disease characteristics, including high-risk cytogenetics, were broadly similar to the C-1 population. In the RW group, fewer patients had ECOG 0 (16% vs 40%, p < 0.001), more patients had EMD (29% vs 13%, p = 0.02), and fewer were refractory to bortezomib (47% vs 68%, p = 0.007) and anti-CD38 monoclonal antibody (88% vs 97%, p = 0.03). Forty-five percent of RW patients did not meet the inclusion criteria for C-1. The overall response rate was lower in the RW group (88% vs. 97%, p = 0.015). The survival outcomes at 24-months including the progression-free survival (58% in RW vs. 62% in C1, p = 0.98) and overall survival (72% vs. 74%, p = 0.9) were similar. The safety profile of RW patients was better with fewer treatment-related adverse events. Our study demonstrates the comparable efficacy of cilta-cel in patients with RRMM treated in a RW setting. Micro-abstract We retrospectively analyzed real-world patients with relapsed/refractory multiple myeloma patients who received ciltacabtagene autoleucel and compared the outcomes with those reported in the CARTITUDE-1 trial. Our study showed similar efficacy and survival outcomes with better tolerability to the treatment. The results support broader clinical trial inclusion criteria to better reflect real-world populations and optimize treatment strategies for multiple myeloma
+Keywords: CAR-T; Cilta-cel; Multiple Myeloma; Cellular Therapy; Outcomes
+
+Emanuel Yuquan Tan, Sobha Sivaprasad,
+Chapter 16 - Changes in retinal anatomy and physiology in normal aging and age-related macular degeneration,
+Editor(s): Jorge L Alio MD, Andrzej Grzybowski, Anat Loewenstein,
+Aging in Ophthalmology,
+Academic Press,
+2026,
+Pages 223-240,
+ISBN 9780443139833,
+https://doi.org/10.1016/B978-0-443-13983-3.00014-6.
+(https://www.sciencedirect.com/science/article/pii/B9780443139833000146)
+Abstract: The outer retina and choroid separated by the retinal pigment epithelium-Bruch's membrane complex (RPE-BM) complex are the key structures that are affected in age-related macular degeneration (AMD). These structures show age-related changes and some eyes transition to a disease state of AMD. In this chapter, we describe in detail the changes in the photoreceptors, RPE-BM, and choriocapillaris. Although changes occur in all these layers, the relative changes may explain why AMD manifests as several phenotypes. Whilst lipid accumulation and mitochondrial dysfunction are universal changes that are seen with age, there are less researches comparing the aging process of other structures such as the vascular intima with the outer retinal structures.
+Keywords: Atherosclerosis; AMD; RPE cytoskeleton; Normal aging; Parainflammation; Senescence
+
+Shahnaaz Khatoon, Raabia Naaz, Umam Khan, Fayeqa Qayyum, Shakir Ahmad, Mohammad Saquib, Mohd Kamil Hussain,
+Natural Coumarins as Anti-Diabetic Agents: Mechanisms, Therapeutic Potential, and Amelioration of Diabetic Complications,
+Phytomedicine,
+2025,
+157339,
+ISSN 0944-7113,
+https://doi.org/10.1016/j.phymed.2025.157339.
+(https://www.sciencedirect.com/science/article/pii/S0944711325009778)
+Abstract: Background
+Coumarins, a diverse class of naturally occurring secondary metabolites, have attracted significant attention for their therapeutic potential in managing metabolic disorders, particularly diabetes mellitus (DM). Their multifaceted actions, including enzyme inhibition, modulation of signaling pathways, and antioxidant effects, position them as promising candidates for antidiabetic drug discovery.
+Purpose
+This review comprehensively summarizes the antidiabetic potential of natural coumarins, focusing on their biological targets, mechanisms of action, and ability to ameliorate diabetes-related complications.
+Methods
+A systematic literature search was conducted in PubMed, Scopus, Web of Science, and Google Scholar for studies published up to June 2025. The search terms included coumarins, antidiabetic activity, α-glucosidase inhibition, PTP1B inhibition, AMPK activation, GSK-3β inhibition, and AGE inhibition. Original research articles involving in vitro, in vivo, or clinical investigations were included. Searches were refined using Boolean operators (AND/OR), and the review was conducted in accordance with PRISMA guidelines to maintain methodological rigor.
+Results
+Natural coumarins showed antidiabetic effects through several mechanisms: α-glucosidase inhibition reduced postprandial hyperglycemia; PTP1B inhibition enhanced insulin signaling; GSK-3β modulation promoted glycogen synthesis; and SGLT1/2 inhibition lowered renal glucose reabsorption. Activation of AMPK improved insulin sensitivity and glucose uptake, while PPAR activation enhanced lipid and glucose metabolism.Coumarins also reduced oxidative stress and advanced glycation end-products, helping prevent diabetic complications. Structural modifications such as hydroxylation, methoxylation, and prenylation influenced activity against their respective targets and pathways, and in vivo studies confirmed improved glycemic control, better lipid profiles, and protection against nephropathy and cardiomyopathy.
+Keywords: Coumarins; Diabetes Mellitus; Diabetic Cardiomyopathy; Diabetic Nephropathy; Diabetic Neuropathy
+
+Ioannis Vlachos, Christos Moschovos, Loukia Apostolakopoulou, Kyriaki Karasavvidou, Eva Ntanasi, Eirini Mamalaki, Dimitris Kugiumtzis, Vasilios K. Kimiskidis, Nikolaos Scarmeas, Andreas Kyrozis,
+Resting EEG partial coherence demonstrates increased γ range central functional connectivity in amnestic mild cognitive impairment,
+Brain Research,
+2025,
+149973,
+ISSN 0006-8993,
+https://doi.org/10.1016/j.brainres.2025.149973.
+(https://www.sciencedirect.com/science/article/pii/S0006899325005360)
+Abstract: Objective
+Relatively little is known about EEG high γ (gamma) range changes in Alzheimer’s disease (AD). We investigated functional connectivity, focusing on the γ range, in amnestic Mild Cognitive Impairment (MCI) using ordinary Coherence (COH) and Partial Coherence (PCOH), a metric which enhances signal to noise ratio at high frequencies.
+Methods
+MCI (N=21) and Cognitively normal (CN, N=62) ALBION study participants had resting EEG with eyes closed (EC) and eyes open (EO) in 10/20 montage (19 active electrodes). COH and PCOH in 0.5 to 100 Hz for each subject were calculated for all 171 electrode pairs.
+Results
+In both γ1 (30–50 Hz) and γ2 (50–100 Hz) ranges, PCOH was significantly higher in MCI than in CN in several electrode pairs, especially centrally, in both eye conditions. Concerning local (average of each electrode) connectivity, MCI compared to CN showed significantly higher values in PCOH centrally.
+Conclusions
+Resting EEG γ range functional connectivity at central areas, as revealed by PCOH, is significantly higher in MCI than in CN.
+Significance
+γ range local and regional EEG functional connectivity differences may help construct useful and easily available biomarkers in neurodegeneration. Metrics, such as PCOH, which factor out global connectivity components may help reveal such differences.
+Keywords: Alzheimer’s; Mild cognitive impairment; Gamma; Functional connectivity; Coherence; Partial coherence
+
+Vageesh Nanduri, Rao Nanduri, Sanjoy K. Bhattacharya,
+Chapter 14 - Studies of nuclear magnetic resonance (NMR) spectroscopy,
+Editor(s): Sanjoy K. Bhattacharya,
+Lipid Analysis in Biology, Health, and Disease,
+Academic Press,
+2026,
+Pages 189-201,
+ISBN 9780443191169,
+https://doi.org/10.1016/B978-0-443-19116-9.00002-6.
+(https://www.sciencedirect.com/science/article/pii/B9780443191169000026)
+Abstract: There are multiple streams of lipid research gaining significant attention across various fields, each addressing key biological and clinical applications. These streams include lipidomics, which involves the systematic identification and quantification of lipid species within cells; the role of bioactive lipids in health and disease; and lipid-based drug delivery systems. Lipid signaling is critical for understanding cellular communication and the mechanisms underlying diseases such as cancer and metabolic syndromes. Furthermore, abnormalities in lipid metabolism and lipid-mediated signaling are strongly linked to neurodegenerative diseases, where lipids influence axon growth, membrane integrity, and neuronal survival. The study of lipid nanoparticles (LNPs) is also a major focus within lipid-based drug delivery, nanomedicine, and formulations. NMR spectroscopy, particularly in the forms of solution NMR, solid-state NMR, and in-cell NMR, plays a critical role in elucidating the structure and dynamics of lipids, providing insights into their functional mechanisms. Recent advancements in high-field NMR technologies and experimental techniques—such as TROSY, solid-state magic-angle spinning NMR, and dynamic nuclear polarization—are positioning NMR spectroscopy at the forefront of lipid research. These NMR techniques are found important in the studies of lipid membranes, lipid–protein interactions, and LNPs in both model systems and in vivo environments, providing crucial information on lipid dynamics and structural organization. This review touches on some of the recent developments in NMR methods applied to lipid research, highlighting the unique contributions of these techniques in advancing our understanding of lipid biology.
+Keywords: Lipid signaling; Lipidomics; Lipids; Neurodegenerative diseases; NMR spectroscopy
+
+Poonam Arora, Khushi Quadri, Kamal Dua,
+Chapter 3 - Mitochondrial signaling pathways,
+Editor(s): Seyyed Shamsadin Athari, Entezar Mehrabi Nasab,
+In Translational and Applied Bioenergetics,
+Mitochondrial Signaling and  Regulation,
+Academic Press,
+2026,
+Pages 75-93,
+ISBN 9780443248368,
+https://doi.org/10.1016/B978-0-443-24836-8.00009-2.
+(https://www.sciencedirect.com/science/article/pii/B9780443248368000092)
+Abstract: Mitochondria are dynamic and versatile organelles pivotal to eukaryotic cell survival and functionality. Their most renowned role as “powerhouses of the cell” stems from their ability to generate ATP. This energy currency is essential for powering numerous cellular processes, including muscle contraction, nerve signal transmission, macromolecule synthesis, and the maintenance of cellular ion gradients. Mitochondria are more than energy generators. They are central to regulating several biochemical and signaling pathways critical for cellular homeostasis, innate immunity, and stress responses. The versatility of mitochondria arises from their evolutionary origin as endosymbiotic α-proteobacteria, endowing it with unique power for possessing their own genome, a double-membrane structure, and the ability to divide independently of the cell cycle. This autonomous organelle has the ability to adapt to metabolic changes by dynamically altering their morphology, position, and function, a property enabled by processes such as mitochondrial fusion and fission.
+Keywords: Mitochondrial DNA; redox signaling; calcium homeostasis; warburg effect
+
+Chandramohan Kiruthiga, Mamali Das, Rakesh Sahu, Sarvananda L, Amal D. Premarathna,
+Seaweed as a Functional Food: Exploring Bioactive Compounds for Neuroprotection and Gut-Brain Health in Parkinson's Disease,
+Next Research,
+2025,
+100875,
+ISSN 3050-4759,
+https://doi.org/10.1016/j.nexres.2025.100875.
+(https://www.sciencedirect.com/science/article/pii/S3050475925007420)
+Abstract: Seaweed-derived bioactive compounds have shown significant potential in addressing neurodegenerative mechanisms associated with Parkinson's disease (PD). Preclinical studies highlight the neuroprotective, anti-inflammatory, and antioxidant properties of compounds such as fucoidan, polymannuronic acid, and phlorotannins from different seaweed species. These compounds are observed to target key pathogenic pathways in PD, such as oxidative stress, mitochondrial dysfunction, and neuroinflammation. This review focuses on the potential of seaweed-derived compounds in modulating PD-related mechanisms and their prospects for therapeutic interventions. The compounds also have a beneficial effect on the gut-brain axis, which is crucial in PD pathogenesis. The article evaluated the translational hurdles from preclinical findings to clinical applications, including issues of bioavailability, standardization, and regulatory constraints. Although preclinical evidence supports the neuroprotective role of seaweed-derived compounds, clinical studies are notably lacking. The success of the seaweed-derived drug GV-971 in Alzheimer's disease suggests potential for similar applications in PD. Nutraceuticals and dietary supplements could serve as promising vehicles for delivering these compounds as preventive or adjunctive treatments. Further research into seaweed-derived food-based interventions could offer novel opportunities for neuroprotection and PD management through nutrition.
+Keywords: Seaweed-Derived Compounds; Neuroprotection; Parkinson's Disease (PD); Gut-Brain Axis; Bioavailability; Nutraceuticals
+
+Zahra Azizi, Malek Soleimani Mehranjani, Mohammad Ali Shariatzadeh, Nazila Najdi, Atena Sadat Azimi,
+Papaverine enhances sperm quality in asthenospermia by reducing oxidative stress and inflammation while regulating the expression of apoptosis-related genes during cryopreservation,
+Cryobiology,
+Volume 121,
+2025,
+105329,
+ISSN 0011-2240,
+https://doi.org/10.1016/j.cryobiol.2025.105329.
+(https://www.sciencedirect.com/science/article/pii/S001122402500135X)
+Abstract: Sperm motility is crucial for male fertility, allowing sperm to reach and fertilize the oocyte. Asthenozoospermia, marked by reduced motility, leads to infertility via oxidative stress, DNA damage, and mitochondrial dysfunction. Freeze-thawing, used in assisted reproductive technologies (ART), damages sperm. This study examined papaverine's antioxidant effects on improving asthenozoospermic sperm quality during freeze-thawing. Thirty semen samples from asthenozoospermic patients were divided into three groups: Control (fresh), Freeze (cryoprotectant, 30-min incubation), and Freeze + Papaverine (cryoprotectant + 100 μM papaverine, 30-min incubation). Sperm parameters, DNA fragmentation, TNF-α, IL-10, reactive oxygen species (ROS), malondialdehyde (MDA), total antioxidant capacity (TAC), antioxidant enzyme activities (SOD, CAT, GSH), plasma membrane integrity, mitochondrial membrane potential (MMP), and Bcl-2, Bax, and Caspase-3 expression at gene and protein levels were analyzed in all groups. In the Freeze group, sperm parameters, antioxidant enzyme levels, plasma membrane integrity, MMP, acrosomal integrity, levels of IL-10, and Bcl-2 expression significantly decreased (p < 0.05–0.001) compared to controls. In contrast, ROS, MDA, TNF-α, DNA fragmentation, and Bax and Caspase-3 expression significantly increased (p < 0.05–0.001). However, in the Freeze + Papaverine group, all these factors, except acrosomal integrity, showed significant improvement compared to the Freeze group. This study suggests that treating asthenozoospermic sperm with papaverine before freezing improves post-thaw sperm quality by enhancing motility, viability, plasma membrane integrity, and MMP, while reducing oxidative stress, inflammation, and apoptosis—potentially contributing to improved outcomes in ART.
+Keywords: Asthenozoospermia; Papaverine; Freeze-thaw; Apoptosis-related genes
+
+Dipika Gupta, Julien Royet,
+Peptidoglycan Recognition Proteins (PGRPs) and Lysozyme,
+Editor(s): Paul M. Kaye,
+Encyclopedia of Immunobiology (Second Edition),
+Academic Press,
+2026,
+Pages 485-504,
+ISBN 9780128244807,
+https://doi.org/10.1016/B978-0-128-24465-4.00100-9.
+(https://www.sciencedirect.com/science/article/pii/B9780128244654001009)
+Abstract: Peptidoglycan Recognition Proteins (PGRPs or PGLYRPs) are evolutionarily conserved innate immune molecules. Mammalian PGRPs are soluble, secreted proteins that bind muramyl-peptide fragment of bacterial peptidoglycan. Mammalian PGLYRP1, PGLYRP3, and PGLYRP4 are directly bactericidal and kill bacteria by inducing severe malfunctioning of the electron transport chain that results in oxidative and thiol stress and cessation of major anabolic pathways. Mammalian PGLYRP2 is a peptidoglycan-hydrolyzing enzyme. In vivo, mammalian PGRPs maintain a healthy gut microbiome, which protects animals from experimental colitis. Mammalian PGRPs also modulate sensitivity to airway, skin, joint, and brain inflammation. Human PGRPs are associated with sensitivity to inflammatory bowel disease, cardiovascular disease, cancer, psoriasis, and Parkinson disease. PGRPs in insects are more numerous and diverse and are the main sensors of bacterial infections. Insect PGRPs (i) induce signaling cascades (Toll and IMD), which trigger production of antimicrobial peptides; (ii) induce the enzymatic prophenoloxidase cascade, which generates other antimicrobial products; (iii) down-regulate antimicrobial responses by hydrolyzing stimulatory peptidoglycan or by antagonizing cell-activating receptors, and (iv) orchestrate the antibacterial behavioral immunity. Lysozyme is a peptidoglycan-hydrolyzing muramidase present in all animals. Lysozyme has antibacterial activity and eliminates pro-inflammatory peptidoglycan. This chapter describes PGRPs and lysozyme – their structure, function, and in vivo role in protecting from inflammation and infection.
+Keywords: Amidase; Antimicrobial; Bactericidal; Inflammation; Lysozyme; Microbiome; Peptidoglycan Recognition Protein; PGLYRP; PGRP
+
+Durga Mohan, Sri Bagavathi Perumal RB, Santhosh Hariprakash, Sree Vyasa Anbazhagan, M. Priyadharshini, S. Nandhini, J. Vinnarasi, S. Saadaoui, Chaitany Jayprakash Raorane, Satish Kumar Rajasekharan,
+Nanocarrier Advancements Revolutionizing Treatment for Neurodegenerative Diseases,
+Journal of Drug Delivery Science and Technology,
+2025,
+107584,
+ISSN 1773-2247,
+https://doi.org/10.1016/j.jddst.2025.107584.
+(https://www.sciencedirect.com/science/article/pii/S1773224725009876)
+Abstract: ABSTRACT:
+Neurodegenerative diseases are defined by a set of syndromes affecting the Central Nervous System (CNS) characterized by the deterioration, dysfunction, or demise of neurons. The three predominant neurodegenerative diseases (NDGD), namely Alzheimer's Disease (AD), Parkinson's Disease (PD), and Huntington's Disease (HD) have garnered considerable attention in literature regarding their etiology and therapeutic interventions. It is common knowledge that the brain is shielded by the Blood-Brain Barrier (BBB), a crucial boundary that upholds brain equilibrium by regulating the passage of harmful substances, pharmaceutical agents, proteins, peptides, hydrophilic and lipophilic molecules, and various other peripheral constituents safeguarding the brain from detrimental stimuli. The management of neurodegenerative diseases has been associated with various formulations of nanomaterials, such as nanoemulsions, solid lipid nanoparticles (SLN), and liposomes. An essential consideration in drug delivery is the choice of appropriate drug delivery systems such as liposomes, a cutting-edge drug carrier system that presents a promising strategy for overcoming this challenge. The distinctive phospholipid bilayer structure of liposomes, reminiscent of functional membranes, improves its compatibility through the lipoidal layer of BBB, facilitating drug penetration into the brain. This comprehensive review aims to elucidate the fundamental principles underlying neurodegenerative diseases, the BBB, and the utilization of nanomaterials in therapeutic applications.
+Keywords: Neurodegenerative diseases; Alzheimer's Disease; Parkinson's Disease; Huntington's Disease; BBB; Nanocarriers; Nanoparticles
+
+Katherine A. Kern, Adrianne M. DiBrog, Emily Demieri, Johnathan T. Przybysz, Stewart D. Clark, Elizabeth G. Mietlicki-Baase,
+Central pramlintide administration potently suppresses operant responding for sucrose and locomotor activity in male rats,
+Physiology & Behavior,
+2025,
+115114,
+ISSN 0031-9384,
+https://doi.org/10.1016/j.physbeh.2025.115114.
+(https://www.sciencedirect.com/science/article/pii/S0031938425003154)
+Abstract: Amylin is a feeding-suppressive hormone which acts centrally in the control of energy balance. Some evidence suggests it reduces motivation for food rewards. Pramlintide is a synthetic amylin analog that is used clinically in the treatment of diabetes, and it also reduces feeding and weight gain. However, the mechanisms behind these pramlintide-induced reductions in feeding are unclear. Here we tested the hypothesis that pramlintide would decrease motivation for a palatable food, sucrose pellets. Results show that peripheral (IP) pramlintide had no effect on progressive ratio responding for sucrose pellets. In contrast, intracerebroventricular (ICV) pramlintide reduced active lever pressing, reinforcers earned, and breakpoint for sucrose, even at lower doses subthreshold for effects on 24h chow intake and body weight change. However, lever pressing behavior was completely abolished for many rats, raising concern for unexpected motor effects. To test whether central pramlintide impacted locomotor activity, we conducted an open field study and found that ICV pramlintide significantly reduced distance traveled at several timepoints, suggesting suppressed locomotor activity. Overall, our results suggest that peripheral pramlintide does not affect motivation for sucrose, and that although central pramlintide does reduce outcomes assessing motivation, this may be confounded by a concurrent reduction in locomotor activity.
+Keywords: diabetes; obesity; reward; motivation; amylin; IAPP
+
+Michael Kirschfink,
+Clinical Significance of Complement Abnormalities,
+Editor(s): Paul M. Kaye,
+Encyclopedia of Immunobiology (Second Edition),
+Academic Press,
+2026,
+Pages 625-636,
+ISBN 9780128244807,
+https://doi.org/10.1016/B978-0-128-24465-4.00109-5.
+(https://www.sciencedirect.com/science/article/pii/B9780128244654001095)
+Abstract: The complement system as essential part of the innate immune system is indispensable not only for an effective protection against invading pathogens but also for maintaining homeostasis. However, as a key mediator of inflammation, excessive activation has important pathological consequences, as seen in various severe clinical disorders, ranging from nephropathies to sepsis. Protection against inappropriate complement-mediated tissue destruction is provided by multiple soluble and membrane-bound regulatory proteins. Defects in complement components increase the susceptibility to infection and autoimmune disorders, whereas defects in complement regulatory proteins may lead to serious disorders due to unrestricted activation. Modern diagnostic analysis now provides a comprehensive insight into the activation state of the system allowing to better define disease severity, evolution, and response to therapy, which nowadays features a broad panel of inhibitory antibodies and small molecules for precise complement targeting.
+Keywords: Angioedema; Autoimmune disease; Complement; Deficiency; Diagnostics; Disease; Inflammation; Nephropathy; Sepsis; Therapy
+
+Sofia Yarosh, Sofia Parellada, Sean Meehan,
+Chapter 18 - Lipid imaging: Microscopy-based techniques for lipid membrane characterization,
+Editor(s): Sanjoy K. Bhattacharya,
+Lipid Analysis in Biology, Health, and Disease,
+Academic Press,
+2026,
+Pages 243-251,
+ISBN 9780443191169,
+https://doi.org/10.1016/B978-0-443-19116-9.00001-4.
+(https://www.sciencedirect.com/science/article/pii/B9780443191169000014)
+Abstract: This literature review provides an overview of techniques for imaging lipid membranes, which are crucial for understanding cell biology and disease pathology. A diverse range of methods, from fluorescence microscopy to superresolution methods and label-free imaging, provides meaningful insights into the study of lipid dynamics. Fluorescence microscopy allows for detailed characterization of lipid diffusion and organization through conjugated lipids or dyes, illuminating fundamental cellular processes. Meanwhile, superresolution techniques push past diffraction limits, offering unprecedented resolution for studying intricate membrane structures. Additionally, label-free methods like CARS microscopy and MALDI-IMS provide noninvasive, nonmodification approaches for visualizing lipids, opening more opportunities for experimental research. By integrating all these advancements, researchers gain a more comprehensive understanding of lipid biology, with which we hope to develop therapeutic strategies to address various diseases.
+Keywords: Fluorescence microscopy; Imaging mass spectrometry; Label-free imaging; Lipid microscopy; Lipidomics; Lipids; Live-cell imaging; MALDI; Membrane order; Retinal ganglion cells; Superresolution microscopy
